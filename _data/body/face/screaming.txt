@@ -1,0 +1,2 @@
+screaming, <wcrandom[1-4,]:<wc:body/face/screaming/data>||<wc:body/face/screaming/eyes>||<wc:body/face/screaming/mouth>||<wc:body/face/screaming/symbols>>
+screaming, <wcrandom[1-2,]:<wc:body/face/screaming/emote>||<wc:body/face/screaming/symbols>>

@@ -1,0 +1,22 @@
+catapult \(touken ranbu\)
+enemy nagaeyari
+enemy naginata
+enemy ootachi
+enemy tachi
+enemy tantou
+enemy uchigatana
+enemy wakizashi
+enemy yari
+female saniwa \(touken ranbu\)
+jikan sokougun
+kebiishi \(touken ranbu\)
+konnosuke
+light cavalry \(touken ranbu\)
+light infantry \(touken ranbu\)
+little girl saniwa \(touken ranbu\)
+male saniwa \(touken ranbu\)
+non-human saniwa \(touken ranbu\)
+sa-head saniwa \(touken ranbu\)
+saniwa \(touken ranbu\)
+swordsmith \(touken ranbu\)
+tousou \(touken ranbu\)

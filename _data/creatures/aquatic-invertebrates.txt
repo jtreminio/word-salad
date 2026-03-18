@@ -1,0 +1,12 @@
+abalone
+clam
+coral
+cuttlefish
+octopus
+oyster
+sea anemone
+sea cucumber
+sea slug
+sea urchin
+squid
+starfish

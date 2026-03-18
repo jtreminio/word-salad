@@ -1,0 +1,10 @@
+backlight, lens flare, volumetric light, soft shadows, portra, specular highlights
+backlight, rim light, god rays, soft shadows, portra, glossy highlights
+backlight, rim light, soft light, scattered light, cinestill, specular highlights
+backlight, rim light, soft light, volumetric light, portra, glossy highlights
+broad lighting, volumetric light, god rays, lens bloom, soft shadows, portra
+daylight, split lighting, soft light, subtle contrast, glossy highlights, reflector
+haze, daylight, rim light, diffused light, subtle contrast, glossy highlights
+loop lighting, soft light, cinematic glow, ektachrome, glossy highlights, reflector
+side light, diffused light, god rays, subtle contrast, ektachrome, reflector
+side light, diffused light, volumetric light, lens flare, ektachrome, specular highlights

@@ -1,0 +1,20 @@
+backlight, scattered light, soft shadows, instant film look, glossy highlights
+backlight, soft light, diffused light, lens flare, subtle contrast, portra
+backlight, soft light, diffused light, sunbeams, subtle contrast, fujifilm velvia
+broad lighting, soft light, diffused light, light leaks, subtle contrast, ektachrome
+fog lighting, warm light, backlight, rim light, soft light, portra
+haze, warm light, backlight, soft light, kodachrome
+loop lighting, soft light, diffused light, light leaks, subtle contrast, ektachrome
+rim light, scattered light, soft shadows, polaroid flash look, glossy highlights
+side light, low key, hard shadows, high contrast, tri-x, barn doors
+side light, scattered light, soft shadows, kodachrome, glossy highlights
+side light, soft light, diffused light, lens flare, subtle contrast, portra
+split lighting, hard light, low key, high contrast, kodachrome, gobo
+split lighting, hard light, low key, high contrast, tri-x, barn doors
+top light, hard light, low key, chiaroscuro, deep contrast, tri-x
+underlight, hard light, low key, deep contrast, hard shadows, kodachrome
+warm light, backlight, rim light, low contrast, soft shadows, ektachrome
+warm light, broad lighting, soft shadows, kodachrome, glossy highlights
+warm light, butterfly lighting, soft light, ektachrome, softbox
+warm light, loop lighting, soft shadows, instant film look, glossy highlights
+warm light, soft light, practical light, kodachrome, diffuser

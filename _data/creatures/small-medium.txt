@@ -1,0 +1,14 @@
+angora rabbit
+boar
+echidna \(animal\)
+fox
+goat
+hedgehog
+lamb
+monkey
+pig
+piglet
+platypus
+rabbit
+red fox
+sheep

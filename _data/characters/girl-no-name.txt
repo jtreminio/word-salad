@@ -1,0 +1,39 @@
+woman, wearing <random:<wc:clothes/dress>||<wc:clothes/shirts>||<wc:clothes/clubbing>||<wc:clothes/coat-jacket-sweater>||<wc:clothes>||<wc:clothes/costumes>||<wc:clothes/home>||<wc:clothes/superhero>||<wc:clothes/swimsuit>||<wc:clothes/traditional>>.\
+<wcrandom:0.9::||0.1::Her hair is <wc:body/hair/color> <wc:body/hair>. >\
+<wcrandom:0.9::||0.1::Her skin color is <wc:body/skin/color>. >\
+<wcrandom:0.9::||0.1::Her facial expression is <wc:face/_good> with <wc:body/face/details>. >\
+<wcrandom:0.9::||0.1::Her eye color is <wc:body/eyes/color> eye color. >\
+<wcrandom:0.9::||0.1::body appendages: <wc:body/appendages>. >\
+<wcrandom:0.9::||0.1::body arms: <wc:body/arms>. >\
+<wcrandom:0.9::||0.1::body hands: <wc:body/hands>. >\
+<wcrandom:0.9::||0.1::body lipstick: <wc:body/lipstick>. >\
+<wcrandom:0.9::||0.1::body makeup: <wc:body/makeup>. >\
+<wcrandom:0.9::||0.1::body poses: <wc:body/poses>. >\
+<wcrandom:0.9::||0.1::hair accessories: <wc:body/hair/accessories>. >\
+<wcrandom:0.9::||0.1::hair actions: <wc:body/hair/actions>. >\
+<wcrandom:0.9::||0.1::clothes arm accessories: <wc:clothes/arm-accessories>. >\
+<wcrandom:0.9::||0.1::clothes chokers: <wc:clothes/chokers>. >\
+<wcrandom:0.9::||0.1::clothes collars: <wc:clothes/collars>. >\
+<wcrandom:0.9::||0.1::clothes crowns: <wc:clothes/crowns>. >\
+<wcrandom:0.9::||0.1::clothes earrings: <wc:clothes/earrings>. >\
+<wcrandom:0.9::||0.1::clothes eyewear: <wc:clothes/eyewear>. >\
+<wcrandom:0.9::||0.1::clothes hair: <wc:clothes/hair>. >\
+<wcrandom:0.9::||0.1::clothes hats: <wc:clothes/hats>. >\
+<wcrandom:0.9::||0.1::clothes hats accessories: <wc:clothes/hats-accessories>. >\
+<wcrandom:0.9::||0.1::clothes headwear: <wc:clothes/headwear>. >\
+<wcrandom:0.9::||0.1::clothes limbs: <wc:clothes/limbs>. >\
+<wcrandom:0.9::||0.1::clothes misc: <wc:clothes/misc>. >\
+<wcrandom:0.9::||0.1::clothes neckwear: <wc:clothes/neckwear>. >\
+<wcrandom:0.9::||0.1::clothes patterns: <wc:clothes/patterns>. >\
+<wcrandom:0.9::||0.1::clothes prints: <wc:clothes/prints>. >\
+<wcrandom:0.9::||0.1::clothes shoulders: <wc:clothes/shoulders>. >\
+<wcrandom:0.9::||0.1::clothes sleeves: <wc:clothes/sleeves>. >\
+<wcrandom:0.9::||0.1::piercings: <wc:body/piercings/piercings>. >\
+<wcrandom:0.9::||0.1::clothes actions collars: <wc:clothes/actions/collars>. >\
+<wcrandom:0.9::||0.1::clothes actions dress: <wc:clothes/actions/dress>. >\
+<wcrandom:0.9::||0.1::clothes actions eyewear: <wc:clothes/actions/eyewear>. >\
+<wcrandom:0.9::||0.1::clothes actions headwear: <wc:clothes/actions/headwear>. >\
+<wcrandom:0.9::||0.1::clothes actions neck: <wc:clothes/actions/neck>. >\
+<wcrandom:0.9::||0.1::clothes actions sleeves: <wc:clothes/actions/sleeves>. >\
+<wcrandom:0.9::||0.1::<wcrandom[1]:ears: <wc:body/ears/ears>||ears misc: <wc:body/ears/misc>>. >\
+<wcrandom:0.9::||0.1::<wcrandom[1]:shoulders: <wc:body/shoulders/shoulders>||shoulders on: <wc:body/shoulders/on>>.>

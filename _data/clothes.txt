@@ -1,0 +1,16 @@
+<wc:clothes/bodysuits>, <wcrandom[0-1]:<wc:clothes/body>>
+<wc:clothes/business>, <wcrandom[0-1]:<wc:clothes/body>>
+<wc:clothes/casual>, <wcrandom[0-1]:<wc:clothes/body>>
+<wc:clothes/clubbing>, <wcrandom[0-1]:<wc:clothes/body>>
+<wc:clothes/costumes>, <wcrandom[0-1]:<wc:clothes/body>>
+<wc:clothes/detailed-outfits>, <wcrandom[0-1]:<wc:clothes/body>>
+<wc:clothes/dress>, <wcrandom[0-1]:<wc:clothes/body>>
+<wc:clothes/home>, <wcrandom[0-1]:<wc:clothes/body>>
+<wc:clothes/onesie>, <wcrandom[0-2,]:unzipped||<wc:clothes/body>>
+<wc:clothes/school-uniform>, <wcrandom[0-1]:<wc:clothes/body>>
+<wc:clothes/suit>, <wcrandom[0-1]:<wc:clothes/body>>
+<wc:clothes/superhero>, <wcrandom[0-1]:<wc:clothes/body>>
+<wc:clothes/swimsuit>, <wcrandom[0-1]:<wc:clothes/body>>
+<wc:clothes/traditional>, <wcrandom[0-1]:<wc:clothes/body>>
+<wc:clothes/sexy>, <wcrandom[0-1]:<wc:clothes/body>>
+<wc:clothes/top>, <wc:clothes/leg>, <wcrandom[0-1]:<wc:clothes/body>>

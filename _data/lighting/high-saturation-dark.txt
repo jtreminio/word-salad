@@ -1,0 +1,19 @@
+atmospheric haze, backlight, rgb neon, high saturation, deep shadows
+atmospheric haze, low key, neon light, high saturation, deep shadows
+backlight, low key, hard light, volumetric light, rgb neon, ektachrome
+cool light, backlight, neon light, high saturation, deep shadows
+cool light, rim light, gelled light, high saturation, deep shadows
+cool light, rim light, neon light, high saturation, deep shadows
+cool light, rim light, rgb neon, high saturation, deep shadows
+fog lighting, backlight, low key, hard light, rgb neon, deep contrast
+fog lighting, rim light, low key, hard light, led light, deep contrast
+fog lighting, rim light, low key, neon light, deep contrast, cinestill
+low key, scattered light, gelled light, high saturation, deep shadows
+low key, scattered light, neon light, high saturation, deep shadows
+low key, scattered light, rgb neon, high saturation, deep shadows
+side light, low key, gelled light, mist backlight, deep contrast, cinestill
+side light, low key, gelled light, volumetric light, deep contrast, ektachrome
+split lighting, low key, backlit haze, neon light, hard shadows, ektachrome
+stage haze, backlight, low key, rgb neon, hard shadows, ektachrome
+stage haze, rim light, low key, fluorescent light, deep contrast, cinestill
+top light, low key, mist backlight, neon light, deep contrast, cinestill

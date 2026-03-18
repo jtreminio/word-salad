@@ -1,0 +1,20 @@
+backlight, gelled light, lens flare, soft shadows, cinestill, glossy highlights
+backlight, high key, soft light, neon light, glossy highlights
+backlight, soft light, volumetric light, neon light, cinestill, glossy highlights
+backlight, volumetric light, fluorescent light, soft shadows, cinestill, glossy highlights
+fog lighting, backlight, hard light, neon light, high contrast
+fog lighting, side light, hard light, gelled light, high contrast
+haze, rim light, side light, neon light, hard shadows, low contrast
+rim light, diffused light, lens flare, neon light, fujifilm velvia, specular highlights
+rim light, diffused light, lens flare, rgb neon, fujifilm velvia, specular highlights
+rim light, side light, soft light, rgb neon, low contrast
+rim light, soft light, light leaks, neon light, fujifilm velvia, specular highlights
+side light, neon light, deep contrast, hard shadows, gobo
+split lighting, diffused light, volumetric light, led light, fujifilm velvia, specular highlights
+split lighting, hard light, low key, gelled light, high contrast
+split lighting, low key, soft light, neon light, deep contrast
+split lighting, soft light, gelled light, light leaks, fujifilm velvia, specular highlights
+stage haze, side light, neon light, soft shadows, cinestill, glossy highlights
+stage haze, side light, soft light, rgb neon, cinestill, glossy highlights
+top light, neon light, soft shadows, subtle contrast, reflector
+underlight, hard light, low key, volumetric light, rgb neon

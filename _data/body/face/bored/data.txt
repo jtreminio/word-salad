@@ -1,0 +1,7 @@
+annoyed
+disappointed
+disinterested
+expressionless
+sigh
+sleepy
+tired

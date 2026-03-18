@@ -1,0 +1,949 @@
+cloudy blue base, light blue grey gradient and cloudy blue accent
+dark pastel green base, asparagus green gradient and medium jade green accent
+dust brown base, muted rosewood gradient and light olive green accent
+neon yellow-green base, sunflower yellow gradient and electric green accent
+bright spring green base, bright lime green gradient and neon jade green accent
+plum purple base, twilight purple gradient and dark mauve purple accent
+deep green base, dark green gradient and medium green accent
+pale cyan base, icy aqua gradient and pale blue accent
+medium jade green base, dull green gradient and faded teal accent
+warm purple base, purple gradient and light burgundy accent
+yellowish tan base, peach orange gradient and light pea green accent
+cement gray base, cement gray gradient and cement gray accent
+dark grass green base, dirty olive gradient and vivid green accent
+muted blue-green base, light forest green gradient and steel blue accent
+grey teal base, slate green gradient and greyish blue accent
+bright orange-yellow base, tomato red gradient and pale chartreuse accent
+muted peach base, dusty pink gradient and sand beige accent
+spruce green base, deep green gradient and dark turquoise accent
+intense cobalt base, deep sky blue gradient and vivid purple accent
+neon green base, lime yellow gradient and bright light green accent
+windows blue base, aqua teal gradient and vivid royal blue accent
+vivid royal blue base, water blue gradient and blue purple accent
+indigo blue base, windows blue gradient and vibrant purple accent
+dark green base, dark tan gradient and leafy green accent
+bright sea green base, neon green gradient and neon blue accent
+dark green blue base, pine green gradient and dark slate blue accent
+deep turquoise base, jungle green gradient and marine blue accent
+green teal base, green gradient and turquoise blue accent
+vivid magenta base, bright magenta gradient and bright red accent
+muted khaki base, mushroom beige gradient and muted khaki accent
+deep aqua base, jungle green gradient and twilight blue accent
+lavender pink base, pale purple gradient and dull pink accent
+light moss green base, olive beige gradient and soft green accent
+light seafoam green base, pastel mint green gradient and pale turquoise accent
+olive yellow base, rust orange gradient and dark lime green accent
+deep pink base, lavender pink gradient and soft rose pink accent
+deep lilac base, iris purple gradient and orchid purple accent
+desert tan base, dark peach gradient and light olive accent
+muted lavender base, heather purple gradient and muted lavender accent
+lavender grey base, lavender grey gradient and lavender grey accent
+vibrant purple base, vibrant indigo purple gradient and muddy violet accent
+hot pink base, bright lavender gradient and medium pink accent
+light pastel green base, light khaki gradient and light seafoam accent
+dull medium green base, sage green gradient and medium jade green accent
+bright yellow-green base, off yellow gradient and electric lime accent
+light grey green base, beige gradient and mint hospital green accent
+orange pink base, coral pink gradient and maize yellow accent
+pastel mint green base, light khaki gradient and light mint green accent
+very light brown base, muted peach gradient and pale olive beige accent
+pale ivory base, light peach gradient and very light green accent
+eggplant purple base, midnight purple gradient and dark plum accent
+powder pink base, light lavender gradient and soft pink accent
+reddish grey base, reddish grey gradient and taupe brown accent
+olive mustard base, rust orange gradient and dark lime accent
+liliac base, lavender blue gradient and bright lavender pink accent
+stormy blue base, faded teal gradient and faded royal blue accent
+muddy olive green base, rust brown gradient and dark grass green accent
+custard yellow base, peach orange gradient and pale lime accent
+darkish pink base, magenta rose gradient and soft coral red accent
+deep brown base, dark plum gradient and chocolate brown accent
+pale olive beige base, fawn brown gradient and light moss green accent
+manilla cream base, peach orange gradient and light pea green accent
+muted steel blue base, greeny blue gradient and iris purple accent
+battleship grey base, battleship grey gradient and battleship grey accent
+dark olive green base, brown gradient and dark grass green accent
+muted plum base, muted plum gradient and plum brown accent
+kelley green base, vivid green gradient and dark teal accent
+pale chartreuse base, dull orange gradient and neon green accent
+sunny yellow base, pumpkin orange gradient and neon lime accent
+azul base, bright sky blue gradient and light royal blue accent
+darkgreen base, forest green gradient and evergreen green accent
+lime yellow base, burnt orange-brown gradient and vivid leaf green accent
+lichen green base, light olive green gradient and faded green accent
+pastel lime base, parchment beige gradient and light mint accent
+pale gold base, pale orange gradient and pear green accent
+sun yellow base, orange gradient and lemon lime accent
+light olive green base, sandstone beige gradient and faded green accent
+blue-violet base, azul gradient and magenta violet accent
+butterscotch orange base, coral pink gradient and off yellow accent
+taupe brown base, dusty rose gradient and olive beige accent
+dark cream base, pale salmon gradient and light khaki accent
+indian red base, wine red gradient and dirty ochre brown accent
+light lavender base, light violet gradient and very light purple accent
+neon lime base, yellowgreen gradient and bright light green accent
+yellow olive base, burnt orange-brown gradient and vivid leaf green accent
+bright yellow green base, sunflower yellow gradient and fluorescent green accent
+charcoal grey base, charcoal grey gradient and charcoal grey accent
+squash yellow base, vermillion red gradient and lime chartreuse accent
+cinnamon brown base, darkish red gradient and muddy chartreuse green accent
+light pea green base, yellowish tan gradient and pastel spring green accent
+electric green base, neon lime gradient and wintergreen accent
+raw sienna base, brick red gradient and murky chartreuse accent
+soft lavender base, periwinkle blue gradient and light lavender accent
+cocoa brown base, plum brown gradient and drab olive accent
+light royal blue base, clear blue gradient and electric purple accent
+peach orange base, ripe red-pink gradient and off yellow accent
+rust brown base, crimson gradient and muddy brown accent
+sand brown base, dark salmon gradient and light olive accent
+dull moss green base, drab olive gradient and fern green accent
+vibrant mint green base, vibrant green gradient and aqua blue accent
+burnt sienna base, scarlet red gradient and dull mustard yellow accent
+olive drab base, mocha brown gradient and dark sage accent
+dusk blue base, deep aqua gradient and royal blue accent
+fern green base, asparagus green gradient and algae green accent
+old rose pink base, dull pink gradient and mushroom beige accent
+pastel light green base, light khaki gradient and light sea green accent
+coral peach base, bubblegum pink gradient and wheat yellow accent
+rosy pink base, bright lavender pink gradient and salmon pink accent
+light aqua green base, pastel spring green gradient and tiffany blue accent
+vivid lime green base, light grass green gradient and light green blue accent
+electric lime base, bright lime green gradient and sea green accent
+light seafoam base, pastel green gradient and light cyan accent
+tiffany blue base, seafoam green gradient and soft sky blue accent
+pale spring green base, light khaki gradient and light mint green accent
+burnt orange base, scarlet red gradient and dull golden yellow accent
+vivid sky blue base, teal green gradient and sapphire blue accent
+sapphire blue base, vivid sky blue gradient and indigo blue accent
+muted teal base, grey green gradient and muted blue-grey accent
+golden orange base, orange red gradient and lime yellow accent
+parchment beige base, light peach gradient and very light green accent
+straw yellow base, peach orange gradient and pale lime accent
+very dark brown base, very dark brown gradient and very dark brown accent
+terracota orange base, deep rose pink gradient and camel brown accent
+dull denim blue base, ocean green gradient and cobalt blue accent
+clear blue base, electric cyan gradient and light royal blue accent
+creme yellow base, light peach gradient and very light green accent
+foam green base, pastel light green gradient and light aqua accent
+sage green base, sage green gradient and muted sage accent
+light gold base, pastel orange gradient and pear green accent
+soft teal base, soft green gradient and soft teal accent
+topaz teal base, shamrock green gradient and vivid sky blue accent
+violet pink base, bright lavender gradient and bright cotton candy pink accent
+wintergreen base, electric green gradient and electric cyan accent
+yellow tan base, apricot orange gradient and pear green accent
+dark fuchsia base, vivid magenta purple gradient and carmine red accent
+indigo blue base, sapphire blue gradient and purple accent
+light yellowish green base, pale yellow gradient and pastel spring green accent
+pale magenta base, orchid purple gradient and rose pink accent
+rich purple base, royal purple gradient and wine red accent
+sunflower yellow base, bright orange gradient and neon yellow-green accent
+teal green base, kelly green gradient and water blue accent
+medium brown base, brick red gradient and dark green accent
+racing green base, forest green gradient and evergreen green accent
+vivid purple base, intense cobalt gradient and bright magenta accent
+dark royal blue base, marine blue gradient and indigo blue accent
+hazel brown base, red brown gradient and sap green accent
+muted pink base, orchid purple gradient and dusty rose accent
+yellowish olive base, golden brown gradient and lawn green accent
+canary yellow base, apricot orange gradient and pale lime green accent
+cool grey base, cool grey gradient and cool grey accent
+dark taupe brown base, plum brown gradient and drab olive accent
+darkish purple base, royal purple gradient and velvet purple accent
+vivid green base, vibrant grass green gradient and emerald green accent
+coral pink base, bright cotton candy pink gradient and apricot orange accent
+dark sage base, drab green gradient and slate green accent
+dark slate blue base, dark green blue gradient and dark blue grey accent
+medium blue base, greeny blue gradient and deep indigo blue accent
+mushroom beige base, old rose pink gradient and beige tan accent
+rich blue base, azure blue gradient and electric indigo accent
+muted plum base, muted plum gradient and plum brown accent
+teal aqua base, medium green gradient and turquoise blue accent
+olive lime base, ochre brown gradient and medium leaf green accent
+light khaki base, beige gradient and pale spring green accent
+periwinkle blue base, dark sky blue gradient and vibrant lavender accent
+dark hot pink base, fuchsia gradient and red accent
+deep sea blue base, teal blue gradient and royal blue accent
+carmine red base, red violet gradient and russet brown accent
+dark yellow green base, dark mustard brown gradient and dark grass green accent
+pale peach base, pale salmon gradient and parchment beige accent
+plum purple base, dark indigo gradient and dark plum accent
+golden rod base, red orange gradient and chartreuse accent
+neon red base, bright pink gradient and vivid tangerine accent
+dusty rose base, orchid purple gradient and dusty rose accent
+very pale blue base, icy aqua gradient and pale blue accent
+vivid tangerine base, neon red gradient and goldenrod accent
+soft coral red base, vibrant fuchsia pink gradient and pale orange accent
+sand yellow base, pastel orange gradient and pear green accent
+terra brown base, muted crimson gradient and dark green accent
+dark blue grey base, dark blue grey gradient and dark blue grey accent
+muted grassy green base, dark khaki gradient and light forest green accent
+light green blue base, vivid lime green gradient and bright cyan accent
+coral pink base, hot pink gradient and melon orange accent
+dodger blue base, bright cyan gradient and vivid indigo blue accent
+yellow olive green base, dark gold gradient and vivid leaf green accent
+icy aqua base, icy aqua gradient and very pale blue accent
+steel blue base, muted blue-green gradient and twilight purple accent
+pale salmon base, bubblegum pink gradient and dark cream accent
+sap green base, hazel brown gradient and tree green accent
+algae green base, muted jade gradient and greeny blue accent
+slate grey-blue base, bluegrey gradient and slate grey-blue accent
+sage grey base, sage green gradient and muted teal accent
+fluorescent green base, neon lime gradient and minty green accent
+pastel cyan base, pale aqua gradient and pale sky blue accent
+light mint base, very light green gradient and pale aqua accent
+raw umber base, darkish red gradient and muddy chartreuse green accent
+vivid blue base, azure blue gradient and electric violet accent
+deep lavender base, iris purple gradient and bright mauve accent
+faded teal base, slate green gradient and greyish blue accent
+pale teal base, lighter green gradient and pale turquoise blue accent
+dark olive drab base, brown gradient and dark olive green accent
+bubblegum pink base, bright lavender pink gradient and coral peach accent
+red wine base, red violet gradient and brick red accent
+dirty olive base, dirty ochre brown gradient and dark grass green accent
+tan brown base, dusty red gradient and dark green accent
+dark blue base, marine blue gradient and dark indigo accent
+rosa pink base, bubblegum pink gradient and coral peach accent
+vivid crimson base, vivid fuchsia gradient and brick orange accent
+pale mauve base, pale lavender gradient and light pink accent
+claret red base, rich purple gradient and reddy brown accent
+dandelion yellow base, bright orange gradient and neon yellow-green accent
+orange red base, hot pink gradient and golden orange accent
+muddy olive green base, dirty ochre brown gradient and dark grass green accent
+ruby red base, vivid purple gradient and rust red accent
+very dark blue-grey base, very dark blue-grey gradient and very dark blue-grey accent
+greenish turquoise base, vivid neon green gradient and bright sky blue accent
+pastel red base, medium pink gradient and camel brown accent
+faded golden yellow base, warm amber gradient and apple green accent
+bright cyan base, sea green gradient and dodger blue accent
+dark coral base, darkish pink gradient and camel brown accent
+algae green base, green gradient and topaz teal accent
+darkish red base, violet red gradient and cinnamon brown accent
+reddy brown base, merlot red gradient and brown accent
+blush pink base, bubblegum pink gradient and peach orange accent
+army green base, dark earthy brown gradient and dark olive green accent
+lawn green base, dirty chartreuse green gradient and green accent
+beige tan base, mushroom beige gradient and pale olive accent
+vibrant blue base, bright sky blue gradient and electric indigo accent
+dark sand beige base, muted brown gradient and khaki accent
+indigo violet base, vivid royal blue gradient and vivid purple accent
+saffron yellow base, red orange gradient and neon yellow accent
+twilight purple base, steel blue gradient and muted purple accent
+warm brown base, deep red gradient and dull olive accent
+bluegrey base, bluegrey gradient and slate grey-blue accent
+bright cotton candy pink base, violet pink gradient and salmon pink accent
+pale aqua blue base, pale aqua gradient and pale sky blue accent
+neon teal base, bright light green gradient and electric cyan accent
+petrol blue base, spruce green gradient and marine blue accent
+royal blue base, peacock blue gradient and indigo blue accent
+butter yellow base, peach orange gradient and light pea green accent
+dusty orange base, vivid pink-red gradient and off yellow accent
+off yellow base, faded orange gradient and bright lime green accent
+pale olive green base, pale olive beige gradient and soft green accent
+soft orange base, ripe red-pink gradient and maize yellow accent
+leaf green base, dark green gradient and medium green accent
+light blue grey base, light blue grey gradient and light blue grey accent
+deep crimson base, dark plum gradient and chocolate brown accent
+pastel violet base, periwinkle blue gradient and vivid rose violet accent
+burnt red base, rouge red gradient and deep goldenrod accent
+lavender blue base, carolina blue gradient and liliac accent
+light grass green base, soft lemon yellow gradient and bright mint green accent
+light mint green base, pastel mint green gradient and pale turquoise accent
+sunflower yellow base, orange red gradient and yellowgreen accent
+velvet purple base, royal purple gradient and wine red accent
+brick orange base, scarlet red gradient and dull mustard yellow accent
+vivid pink-red base, vibrant fuchsia pink gradient and dusty orange accent
+pure blue base, cerulean blue gradient and blue violet accent
+twilight blue base, deep aqua gradient and deep blue accent
+violet red base, vivid magenta purple gradient and darkish red accent
+ochre brown base, rust orange gradient and dark lime accent
+carnation pink base, bubblegum pink gradient and peach orange accent
+dull mustard yellow base, burnt orange gradient and dark lime green accent
+dark seafoam green base, medium green gradient and greeny blue accent
+deep rose pink base, vivid fuchsia gradient and terracota orange accent
+dusty red base, light plum gradient and adobe brown accent
+steel blue-grey base, grey teal gradient and slate blue-grey accent
+lemon lime base, sun yellow gradient and neon lime accent
+magenta violet base, blue-violet gradient and darkish pink accent
+golden ochre base, rust orange gradient and dark lime green accent
+deep maroon base, grape purple gradient and plum brown accent
+wisteria purple base, deep lilac gradient and orchid purple accent
+banana yellow base, light orange gradient and bright lime green accent
+crimson red base, magenta gradient and burnt red accent
+water blue base, turquoise gradient and true blue accent
+taupe brown base, taupe brown gradient and taupe brown accent
+vibrant purple base, violet blue gradient and neon fuchsia accent
+pastel mint green base, pastel light green gradient and light aqua accent
+dirty chartreuse green base, caramel brown gradient and vibrant grass green accent
+pale aqua base, pale aqua gradient and pale sky blue accent
+sandy yellow base, apricot orange gradient and pale lime accent
+emerald green base, leafy green gradient and aqua teal accent
+pale cream base, pale pink gradient and ecru beige accent
+muted blue-grey base, muted teal gradient and steel grey accent
+neon magenta base, bright violet gradient and hot pink accent
+dusty steel blue base, dusty steel blue gradient and muted blue-grey accent
+vibrant lavender base, cornflower blue gradient and vivid rose violet accent
+murky olive green base, hazel brown gradient and grass green accent
+dusty rose base, dusky pink gradient and taupe brown accent
+dark aquamarine base, jungle green gradient and prussian blue accent
+muddy ochre base, russet brown gradient and dull olive green accent
+light mustard yellow base, salmon pink gradient and pear green accent
+pale sky blue base, pale aqua gradient and powder blue accent
+turtle green base, light olive green gradient and dark pastel green accent
+bright olive base, golden brown gradient and vivid leaf green accent
+dark grey blue base, dark green blue gradient and dark blue grey accent
+dark olive-brown base, brown gradient and army green accent
+bright chartreuse green base, goldenrod gradient and vivid green accent
+light periwinkle blue base, pale sky blue gradient and light lavender accent
+seaweed green base, medium green gradient and aqua teal accent
+sunshine yellow base, mango orange gradient and bright lime accent
+muddy violet base, plum purple gradient and light burgundy accent
+medium pink base, hot pink gradient and melon orange accent
+muddy olive brown base, brown red gradient and dark yellow green accent
+very light pink base, very light pink gradient and very light pink accent
+viridian green base, darkish green gradient and dark cyan accent
+acidic yellow-green base, burnt orange-brown gradient and vivid leaf green accent
+faded yellow base, peach orange gradient and light pea green accent
+very pale green base, light beige gradient and light mint accent
+vibrant green base, green apple gradient and vibrant mint green accent
+bright lime base, bright yellow gradient and fluorescent green accent
+spearmint green base, electric green gradient and bright aqua accent
+light aquamarine base, bright mint green gradient and pale turquoise blue accent
+light sage base, light khaki gradient and light mint green accent
+yellowgreen base, sunflower yellow gradient and neon lime accent
+mustard olive green base, rust orange gradient and dull olive green accent
+dark seafoam green base, green gradient and topaz teal accent
+deep teal base, spruce green gradient and marine blue accent
+heather purple base, heather purple gradient and muted lavender accent
+rust orange base, scarlet red gradient and olive yellow accent
+dirty blue base, muted aqua gradient and denim blue accent
+fern green base, olive drab gradient and light forest green accent
+bright lilac base, vibrant lavender gradient and hot pink accent
+neon jade green base, neon green gradient and aqua marine blue accent
+peacock blue base, dark teal gradient and royal blue accent
+avocado green base, ochre brown gradient and grass green accent
+faded orange base, ripe red-pink gradient and faded golden yellow accent
+deep violet base, plum purple gradient and plum purple accent
+vivid neon green base, neon lime gradient and wintergreen accent
+lime yellow base, golden orange gradient and bright lime green accent
+mango orange base, vivid red-orange gradient and lemon yellow accent
+shamrock green base, green gradient and turquoise accent
+bright pink base, violet pink gradient and salmon pink accent
+plum brown base, muted plum gradient and plum brown accent
+dull chartreuse green base, rusty orange gradient and dark lime green accent
+pale cyan base, pale turquoise gradient and powder blue accent
+key lime base, pastel yellow gradient and bright mint green accent
+ripe red-orange base, hot pink gradient and yellow orange accent
+bright mint green base, pale lime gradient and light aquamarine accent
+merlot red base, darkish purple gradient and deep crimson red accent
+midnight blue base, navy blue gradient and dark indigo accent
+magenta rose base, pastel violet gradient and darkish pink accent
+apple green base, dull lime gradient and emerald green accent
+dark mustard green base, warm brown gradient and vibrant grass green accent
+green apple base, chartreuse lime gradient and vivid neon green accent
+heliotrope purple base, vibrant lavender gradient and magenta rose accent
+lemon chartreuse green base, maize yellow gradient and electric lime accent
+near black base, near black gradient and near black accent
+steel sky blue base, greeny blue gradient and indigo blue accent
+leafy green base, avocado green gradient and emerald green accent
+deep goldenrod base, rust red gradient and murky chartreuse accent
+dusk blue base, steel blue gradient and dusk blue accent
+dull brown base, cocoa brown gradient and drab olive accent
+vivid leaf green base, murky chartreuse gradient and green accent
+vivid green base, neon lime gradient and vibrant mint green accent
+bright light green base, neon green gradient and neon teal accent
+fluorescent green base, lime green gradient and minty green accent
+bright lime green base, off yellow gradient and electric lime accent
+vibrant teal green base, vibrant green gradient and turquoise blue accent
+dark olive green base, dark olive brown gradient and forest green accent
+ultramarine blue base, blue gradient and violet accent
+iris purple base, steel sky blue gradient and amethyst purple accent
+pastel orange base, ripe red-pink gradient and banana yellow accent
+yellowish orange base, vermillion red gradient and neon yellow accent
+periwinkle blue base, carolina blue gradient and pale purple accent
+aqua teal base, emerald green gradient and steel blue accent
+dark plum base, dark violet gradient and dark maroon accent
+pear green base, light mustard yellow gradient and lighter green accent
+coral orange base, coral pink gradient and maize yellow accent
+midnight purple base, midnight blue gradient and dark plum accent
+pastel violet base, cornflower blue gradient and light magenta accent
+dark mint base, leafy green gradient and greeny blue accent
+olive beige base, fawn brown gradient and light moss green accent
+light burgundy base, muddy violet gradient and earth brown accent
+turquoise blue base, green teal gradient and blue accent
+dusty rose pink base, pale magenta gradient and muted peach accent
+sandy beige base, soft rose pink gradient and light yellow green accent
+electric pink base, bright magenta gradient and bright red accent
+muted purple base, muted purple gradient and dusky purple accent
+mid green base, asparagus green gradient and soft jade green accent
+muted grey base, muted grey gradient and cement gray accent
+neon yellow base, yellow orange gradient and bright lime green accent
+pale yellow base, peach orange gradient and light pea green accent
+carnation pink base, bright lavender pink gradient and coral peach accent
+tomato red base, neon rose gradient and mango orange accent
+muted aqua base, soft jade green gradient and muted blue accent
+dark mustard brown base, rust brown gradient and dark yellow green accent
+bright aqua green base, bright green gradient and neon blue accent
+buff yellow base, pale salmon gradient and light khaki accent
+fawn brown base, dusty rose gradient and pale olive beige accent
+muted blue base, muted aqua gradient and deep indigo blue accent
+pale rose base, pale pink gradient and light peach accent
+dark mint green base, green gradient and topaz teal accent
+amethyst purple base, iris purple gradient and bright mauve accent
+teal blue-green base, emerald green gradient and peacock blue accent
+chestnut brown base, claret red gradient and muddy brown accent
+dull lime base, dark gold gradient and medium leaf green accent
+chartreuse green base, dark gold gradient and medium leaf green accent
+rusty orange base, scarlet red gradient and mustard yellow accent
+stone gray base, mushroom beige gradient and sage green accent
+rose red base, vivid magenta purple gradient and rust red accent
+pale aqua base, light mint gradient and pale sky blue accent
+deep orange base, cherry red gradient and dark yellow accent
+earth brown base, light maroon gradient and dark tan accent
+olive moss green base, hazel brown gradient and tree green accent
+vibrant grass green base, dark mustard green gradient and vivid green accent
+pale lime green base, canary yellow gradient and lighter green accent
+light grey blue base, light grey blue gradient and light grey blue accent
+pale grey base, pale grey gradient and pale grey accent
+asparagus green base, khaki gradient and dark pastel green accent
+deep indigo blue base, faded royal blue gradient and plum purple accent
+deep magenta red base, vivid magenta purple gradient and deep red accent
+pale lime base, straw yellow gradient and bright mint green accent
+jade aqua base, medium green gradient and aqua teal accent
+caramel brown base, rust red gradient and dirty chartreuse green accent
+deep magenta base, vivid magenta purple gradient and carmine red accent
+light peach base, soft pink gradient and parchment beige accent
+chocolate brown base, red brown gradient and hazel brown accent
+ocher yellow base, brick orange gradient and dark lime accent
+muted jade base, dark khaki gradient and algae green accent
+bright lavender pink base, light purple gradient and carnation pink accent
+soft sky blue base, tiffany blue gradient and lavender blue accent
+faded royal blue base, dirty blue gradient and twilight purple accent
+golden yellow base, vivid tangerine gradient and bright chartreuse green accent
+light beige base, light peach gradient and very light green accent
+butter yellow base, apricot orange gradient and pale lime accent
+dusky purple base, muted purple gradient and dark mauve purple accent
+french blue base, muted aqua gradient and deep indigo blue accent
+faded golden yellow base, rusty orange gradient and dark lime green accent
+lime chartreuse base, amber orange gradient and neon lime accent
+fiery red-orange base, hot pink gradient and yellow orange accent
+shamrock green base, green gradient and turquoise accent
+burnt amber base, darkish red gradient and olive chartreuse green accent
+tree green base, sap green gradient and darkish green accent
+deep violet base, dark indigo gradient and dark plum accent
+gunmetal gray base, gunmetal gray gradient and gunmetal gray accent
+electric indigo base, rich blue gradient and electric violet accent
+cherry red base, magenta gradient and brick orange accent
+sandy brown beige base, muted rosewood gradient and light olive accent
+warm grey base, warm grey gradient and warm grey accent
+dark indigo base, navy blue gradient and plum purple accent
+midnight blue base, navy blue gradient and midnight purple accent
+bluey green base, medium green gradient and aqua teal accent
+grey pink base, light mauve gradient and mushroom beige accent
+soft purple base, deep lavender gradient and dark lilac accent
+deep crimson red base, merlot red gradient and brown accent
+brown red base, red wine gradient and muddy brown accent
+medium grey base, medium grey gradient and medium grey accent
+berry red base, vivid magenta purple gradient and burnt red accent
+muddy brown base, brown red gradient and dark yellow green accent
+vivid fuchsia base, vibrant purple gradient and dark pink accent
+light salmon pink base, bubblegum pink gradient and wheat yellow accent
+murky chartreuse base, caramel brown gradient and vivid leaf green accent
+easter purple base, cornflower blue gradient and light magenta accent
+light yellow green base, straw yellow gradient and pastel spring green accent
+dark navy blue base, navy blue gradient and midnight blue accent
+drab olive base, cocoa brown gradient and military green accent
+light rose base, light pink gradient and light peach accent
+rouge red base, vivid magenta purple gradient and burnt red accent
+purplish red base, vivid magenta purple gradient and darkish red accent
+bright chartreuse green base, yellow ochre gradient and vivid green accent
+dirty mustard base, deep reddish brown gradient and dark yellow green accent
+irish green base, vivid green gradient and dark teal accent
+vivid magenta pink base, violet gradient and vivid magenta accent
+dark navy base, navy blue gradient and midnight purple accent
+greeny blue base, emerald green gradient and steel sky blue accent
+light plum base, muted purple gradient and light maroon accent
+dusty rose grey base, dusty rose grey gradient and dusty rose grey accent
+burnt orange-brown base, scarlet red gradient and yellow olive accent
+rust red base, cranberry gradient and bronze accent
+pale lilac base, light periwinkle blue gradient and pale mauve accent
+vivid red-orange base, neon rose gradient and mango orange accent
+primary blue base, deep sky blue gradient and vivid purple accent
+grassy lime green base, olive chartreuse green gradient and vivid green accent
+plum brown base, muted plum gradient and plum brown accent
+olive drab base, medium brown gradient and dark grass green accent
+wheat yellow base, coral peach gradient and light yellow green accent
+near black violet base, midnight blue gradient and dark plum accent
+bottle green base, forest green gradient and evergreen green accent
+ripe red-pink base, vibrant fuchsia pink gradient and peach orange accent
+deep sky blue base, neon blue gradient and intense cobalt accent
+intense signal red base, vivid magenta gradient and pumpkin orange accent
+yellow ochre base, brick orange gradient and bright chartreuse green accent
+pumpkin orange base, bright red gradient and bright yellow accent
+pale olive base, very light brown gradient and light moss green accent
+light lilac base, light lavender gradient and pale mauve accent
+bright mint lime base, light grass green gradient and light green blue accent
+carolina blue base, robin egg blue gradient and periwinkle blue accent
+mulberry purple base, vivid magenta purple gradient and crimson accent
+neon fuchsia base, electric violet gradient and cherry red accent
+deep reddish brown base, carmine red gradient and ochre brown accent
+bright lime green base, neon yellow gradient and neon green accent
+celadon green base, very light green gradient and pale turquoise accent
+muted rosewood base, dusky rose gradient and dark beige accent
+muddy ochre brown base, brick red gradient and muddy olive green accent
+bright sky blue base, greenish turquoise gradient and electric blue accent
+celery green base, buff yellow gradient and mint green accent
+earthy brown base, plum brown gradient and khaki green accent
+strawberry base, vibrant fuchsia pink gradient and dusty orange accent
+dark lime base, yellow brown gradient and green accent
+copper brown base, rouge red gradient and dull yellow-green accent
+medium brown base, rust brown gradient and olive drab accent
+muted green base, muted moss green gradient and algae green accent
+pale turquoise blue base, light aquamarine gradient and sky blue accent
+bright aqua base, minty green gradient and azure blue accent
+bright lavender base, cornflower blue gradient and hot pink accent
+ivory white base, pale cream gradient and very light green accent
+very light purple base, pale lilac gradient and light pink accent
+light navy base, deep aqua gradient and royal blue accent
+hot pink base, neon magenta gradient and fiery red-orange accent
+olive brown base, chestnut brown gradient and army green accent
+muddy brown base, chestnut brown gradient and olive green accent
+olive chartreuse green base, brown orange gradient and vivid leaf green accent
+ocean green base, medium green gradient and muted aqua accent
+very dark blue base, navy blue gradient and midnight purple accent
+dusty green base, sage green gradient and muted teal accent
+light navy blue base, muted aqua gradient and cobalt blue accent
+minty green base, neon green gradient and bright aqua accent
+adobe brown base, dark rose gradient and camel brown accent
+vivid purple base, indigo violet gradient and magenta accent
+jade green base, green gradient and aqua teal accent
+electric cyan base, wintergreen gradient and clear blue accent
+pastel lime base, canary yellow gradient and bright mint green accent
+dark khaki base, muted brown gradient and muted moss green accent
+golden orange base, fiery red-orange gradient and neon yellow accent
+ochre yellow base, brick orange gradient and bright chartreuse green accent
+maize yellow base, soft orange gradient and pear green accent
+faded pink base, lavender pink gradient and faded pink accent
+dark forest green base, forest green gradient and evergreen green accent
+sandstone beige base, dusty rose gradient and olive beige accent
+dark earthy brown base, reddy brown gradient and army green accent
+light sea green base, pastel light green gradient and light aqua accent
+robin egg blue base, light aqua gradient and carolina blue accent
+aqua marine blue base, bright light green gradient and dark sky blue accent
+dark sea green base, emerald green gradient and deep aqua accent
+soft pink base, powder pink gradient and light peach accent
+burnt sienna base, darkish red gradient and olive chartreuse green accent
+cherry red base, neon fuchsia gradient and bright orange accent
+golden mustard base, deep orange gradient and bright chartreuse green accent
+taupe brown base, taupe brown gradient and taupe brown accent
+camel brown base, dark salmon gradient and light olive green accent
+dusty mauve grey base, dusty mauve grey gradient and dusty mauve grey accent
+marine blue base, dark turquoise gradient and dark blue accent
+soft rose pink base, light mauve gradient and beige tan accent
+pale turquoise base, light mint green gradient and light cyan accent
+pastel yellow base, apricot orange gradient and pale lime accent
+vibrant indigo purple base, windows blue gradient and vibrant purple accent
+canary yellow base, light orange gradient and bright lime green accent
+muted crimson base, darkish pink gradient and dull orange accent
+sepia base, rusty red gradient and murky olive green accent
+coffee brown base, light maroon gradient and dark green accent
+bright magenta base, vivid purple gradient and vivid magenta accent
+mocha brown base, light maroon gradient and dark khaki accent
+ecru beige base, pale cream gradient and very light green accent
+muted purple base, dark lavender gradient and dark mauve purple accent
+cranberry base, vivid magenta purple gradient and brick red accent
+darkish green base, camo green gradient and deep teal accent
+brown orange base, darkish red gradient and olive chartreuse green accent
+dusky rose base, bright mauve gradient and pale brown accent
+melon orange base, coral pink gradient and maize yellow accent
+dull chartreuse green base, ochre brown gradient and lawn green accent
+silver base, silver gradient and silver accent
+electric violet-blue base, vivid blue gradient and magenta violet accent
+vivid indigo blue base, bright sky blue gradient and pastel violet accent
+mint hospital green base, light grey green gradient and light teal accent
+dirty ochre brown base, chestnut brown gradient and olive green accent
+mid blue base, aqua teal gradient and sapphire blue accent
+amber orange base, red orange gradient and neon yellow accent
+pastel spring green base, light yellow green gradient and light blue green accent
+soft blue base, soft sky blue gradient and vibrant lavender accent
+cerulean blue base, aqua blue gradient and intense cobalt accent
+golden brown base, rust red gradient and yellowish olive accent
+bright turquoise base, minty green gradient and azure blue accent
+neon rose base, vibrant fuchsia pink gradient and reddish orange accent
+wine magenta base, darkish purple gradient and indian red accent
+warm taupe base, plum brown gradient and taupe brown accent
+vermillion red base, hot pink gradient and squash yellow accent
+russet brown base, carmine red gradient and muddy ochre accent
+steel grey base, steel grey gradient and battleship grey accent
+bright lavender base, vivid indigo blue gradient and light magenta accent
+bright violet base, light royal blue gradient and neon magenta accent
+prussian blue base, dark aquamarine gradient and dark royal blue accent
+slate green base, sage grey gradient and grey teal accent
+dusty rose base, dull pink gradient and taupe brown accent
+deep teal base, pine green gradient and marine blue accent
+pine green base, pine green gradient and dark green blue accent
+lime yellow base, bright orange-yellow gradient and neon green accent
+dark gold base, burnt sienna gradient and olive lime accent
+steel blue base, aqua teal gradient and sapphire blue accent
+deep blue base, teal blue gradient and deep blue accent
+muted crimson base, dark pink gradient and terra brown accent
+hot cherry pink base, vibrant fuchsia pink gradient and dusty orange accent
+bronze base, rust red gradient and murky chartreuse accent
+pale teal base, lichen green gradient and pale teal accent
+military green base, earthy brown gradient and fern green accent
+vibrant fuchsia pink base, violet pink gradient and light red accent
+bubblegum pink base, bright lavender pink gradient and blush pink accent
+olive chartreuse green base, caramel brown gradient and lawn green accent
+golden ochre base, rust orange gradient and dull olive green accent
+muddy brown base, chestnut brown gradient and olive green accent
+medium purple base, vibrant indigo purple gradient and light plum accent
+very dark green base, very dark green gradient and dark forest green accent
+dirt brown base, cocoa brown gradient and drab olive accent
+dusky pink base, orchid purple gradient and muted peach accent
+red violet base, vivid magenta purple gradient and carmine red accent
+lemon yellow base, mango orange gradient and bright lime accent
+pistachio green base, manilla cream gradient and pastel spring green accent
+faded golden yellow base, faded orange gradient and pale lime green accent
+dark lime green base, ochre yellow gradient and green accent
+denim blue base, dirty blue gradient and deep indigo blue accent
+teal blue base, jade aqua gradient and deep blue accent
+bright sky blue base, bright cyan gradient and vivid indigo blue accent
+vibrant indigo base, azul gradient and electric purple accent
+light indigo base, cornflower blue gradient and amethyst purple accent
+muddy olive green base, dirty ochre brown gradient and dark grass green accent
+dark olive drab base, dark earthy brown gradient and army green accent
+dark maroon base, dark plum gradient and chocolate brown accent
+electric violet base, electric indigo gradient and neon fuchsia accent
+dark forest green base, very dark green gradient and dark forest green accent
+faded blue base, dusty steel blue gradient and iris purple accent
+drab green base, dark khaki gradient and light forest green accent
+light lime green base, canary yellow gradient and lighter green accent
+dull lime green base, ochre yellow gradient and vivid leaf green accent
+soft lemon yellow base, apricot orange gradient and light lime green accent
+light blue green base, pastel spring green gradient and robin egg blue accent
+bordeaux red base, rich purple gradient and indian red accent
+light mauve base, light mauve gradient and mushroom beige accent
+ocean blue base, dark sea green gradient and deep blue accent
+marigold yellow base, vivid tangerine gradient and chartreuse accent
+muddy green base, earthy brown gradient and camo green accent
+dull orange base, dusty rose red gradient and pale chartreuse accent
+steel grey base, muted teal gradient and steel grey accent
+electric purple base, light royal blue gradient and vivid magenta pink accent
+fluorescent green base, bright lime gradient and minty green accent
+ochre brown base, deep reddish brown gradient and dark yellow green accent
+soft rose pink base, bubblegum pink gradient and sandy beige accent
+soft green base, lichen green gradient and pale teal accent
+bright orange base, cherry red gradient and sunflower yellow accent
+lemon yellow base, pale orange gradient and pale lime green accent
+purple grey base, grey purple gradient and purple grey accent
+neon lime base, bright yellow gradient and fluorescent green accent
+pale lavender base, light lavender gradient and pale mauve accent
+violet blue base, true blue gradient and vibrant purple accent
+light forest green base, drab green gradient and muted blue-green accent
+burnt red base, cranberry gradient and ochre brown accent
+khaki green base, earthy brown gradient and fern green accent
+cerise pink base, fuchsia gradient and ripe red-orange accent
+dusty violet base, dark lavender gradient and dusty violet accent
+apricot orange base, salmon pink gradient and pastel yellow accent
+dark olive green base, dark olive brown gradient and forest green accent
+taupe brown base, dark taupe brown gradient and taupe brown accent
+sage grey base, taupe brown gradient and sage grey accent
+true blue base, cerulean gradient and violet blue accent
+pale violet base, pastel blue gradient and light lavender accent
+periwinkle blue base, light blue gradient and liliac accent
+light sky blue base, pale aqua gradient and pale sky blue accent
+indigo blue base, windows blue gradient and vibrant purple accent
+dark olive brown base, chocolate brown gradient and dark olive green accent
+teal blue base, jungle green gradient and prussian blue accent
+bright teal base, bright light green gradient and azure blue accent
+ochre yellow base, dark orange gradient and dark lime green accent
+dull olive base, warm brown gradient and vibrant grass green accent
+forest green base, dark olive green gradient and evergreen green accent
+vivid magenta purple base, indigo blue gradient and deep magenta red accent
+ultramarine base, sapphire blue gradient and purple accent
+muted lavender base, muted purple gradient and dark mauve purple accent
+dirty chartreuse green base, orange brown gradient and vivid leaf green accent
+bluish grey base, muted teal gradient and steel grey accent
+dark periwinkle base, faded blue gradient and amethyst purple accent
+dark lilac base, dark lavender gradient and mauve pink accent
+dusty rose red base, dark pink gradient and dull orange accent
+light maroon base, light plum gradient and earth brown accent
+dusty purple base, dusty mauve grey gradient and dusky purple accent
+terra cotta base, deep rose pink gradient and camel brown accent
+avocado green base, dark tan gradient and leafy green accent
+marine blue base, dark aqua gradient and dark royal blue accent
+teal green base, green gradient and muted aqua accent
+slate grey base, slate grey gradient and slate grey accent
+lighter green base, light lime green gradient and light green blue accent
+electric green base, neon lime gradient and minty green accent
+dusty blue base, faded teal gradient and iris purple accent
+golden yellow base, reddish orange gradient and yellowgreen accent
+bright yellow base, pumpkin orange gradient and bright lime accent
+light lavender base, light periwinkle blue gradient and very light purple accent
+umber brown base, darkish red gradient and olive chartreuse green accent
+muddy ochre base, chestnut brown gradient and olive green accent
+dark peach base, soft coral pink gradient and desert tan accent
+jungle green base, vivid green gradient and deep aqua accent
+eggshell white base, pale cream gradient and eggshell white accent
+denim blue base, muted aqua gradient and deep indigo blue accent
+yellow brown base, burnt red gradient and dark lime accent
+dull purple base, muted purple gradient and dark mauve purple accent
+chocolate brown base, dark maroon gradient and deep olive accent
+wine red base, rich purple gradient and chestnut brown accent
+neon blue base, bright sea green gradient and electric blue accent
+olive drab base, earthy brown gradient and darkish green accent
+light tan brown base, light peach gradient and light khaki accent
+ice blue base, icy aqua gradient and ice blue accent
+cadet blue base, muted blue-green gradient and twilight purple accent
+dark mauve purple base, plum purple gradient and cocoa brown accent
+very light blue base, icy aqua gradient and pale blue accent
+grey purple base, grey purple gradient and purple grey accent
+pastel pink base, light lavender gradient and pale rose accent
+very light green base, cream yellow gradient and light mint accent
+dark sky blue base, bright cyan gradient and periwinkle blue accent
+evergreen green base, darkgreen gradient and dark teal accent
+dull pink base, lavender pink gradient and muted peach accent
+aubergine purple base, midnight purple gradient and dark maroon accent
+mahogany brown base, dark plum gradient and chocolate brown accent
+reddish orange base, neon rose gradient and golden orange accent
+deep green base, forest green gradient and spruce green accent
+murky chartreuse base, raw sienna gradient and vibrant grass green accent
+purple pink base, pastel violet gradient and darkish pink accent
+dusty pink base, faded pink gradient and muted peach accent
+faded green base, lichen green gradient and muted teal accent
+camo green base, muddy olive green gradient and pine green accent
+bright lavender pink base, amethyst purple gradient and darkish pink accent
+vivid rose violet base, vibrant lavender gradient and darkish pink accent
+rusty red base, berry red gradient and hazel brown accent
+dark rose base, muddy violet gradient and clay brown accent
+earthy brown base, rust brown gradient and murky olive green accent
+muted brown base, light maroon gradient and dark khaki accent
+emerald green base, dark grass green gradient and dark sea green accent
+pale brown base, dusky rose gradient and light olive green accent
+dull blue base, muted aqua gradient and deep indigo blue accent
+burnt umber base, carmine red gradient and golden ochre accent
+medium green base, medium leaf green gradient and dark seafoam green accent
+clay brown base, dark rose gradient and camel brown accent
+light aqua base, pastel mint green gradient and robin egg blue accent
+light olive green base, sandy brown beige gradient and turtle green accent
+warm amber base, crimson red gradient and dull chartreuse green accent
+dark aqua base, spruce green gradient and marine blue accent
+bright mauve base, amethyst purple gradient and rose pink accent
+dark salmon base, darkish pink gradient and camel brown accent
+sage green base, muted khaki gradient and sage green accent
+jade green base, green gradient and teal blue-green accent
+dull olive green base, raw sienna gradient and vibrant grass green accent
+dark beige base, muted rosewood gradient and khaki accent
+emerald green base, vivid green gradient and teal blue-green accent
+soft coral red base, darkish pink gradient and camel brown accent
+light magenta base, bright lavender gradient and bright cotton candy pink accent
+sky blue base, robin egg blue gradient and lavender blue accent
+light cyan base, pale turquoise gradient and powder blue accent
+yellow orange base, fiery red-orange gradient and lime yellow accent
+reddish purple base, vivid magenta purple gradient and crimson accent
+reddish pink base, vibrant fuchsia pink gradient and dusty orange accent
+orchid purple base, wisteria purple gradient and muted pink accent
+dull golden yellow base, rusty orange gradient and dark lime green accent
+orange red base, neon rose gradient and golden orange accent
+deep red base, deep magenta red gradient and warm brown accent
+orange brown base, darkish red gradient and acidic yellow-green accent
+cobalt blue base, peacock blue gradient and indigo blue accent
+neon pink base, electric violet gradient and bright red accent
+rose pink base, bubblegum pink gradient and peach orange accent
+greyish purple base, grey purple gradient and purple grey accent
+raspberry red base, vivid magenta purple gradient and darkish red accent
+aqua green base, vibrant green gradient and aqua blue accent
+salmon pink base, pink gradient and peach orange accent
+tangerine orange base, intense signal red gradient and bright yellow accent
+murky olive green base, brown gradient and dark grass green accent
+red brown base, red wine gradient and hazel brown accent
+muddy olive green base, brown gradient and army green accent
+pumpkin orange base, red gradient and faded golden yellow accent
+pine green base, forest green gradient and deep teal accent
+charcoal base, charcoal gradient and charcoal accent
+baby pink base, light lavender gradient and pale rose accent
+cornflower blue base, sky blue gradient and bright lavender accent
+blue violet base, rich blue gradient and electric violet accent
+chocolate brown base, dark maroon gradient and deep olive accent
+muted sage base, sage green gradient and muted teal accent
+scarlet red base, magenta gradient and burnt orange accent
+lime chartreuse base, golden yellow gradient and bright lime green accent
+deep olive base, chocolate brown gradient and forest green accent
+sienna brown base, rouge red gradient and dull yellow-green accent
+pastel purple base, periwinkle blue gradient and light lavender accent
+terracotta red base, deep rose pink gradient and camel brown accent
+aqua blue base, bright aqua green gradient and cerulean blue accent
+sage green base, light olive green gradient and faded green accent
+dark crimson base, deep magenta red gradient and warm brown accent
+soft rose pink base, vibrant purple gradient and red accent
+medium leaf green base, dull lime gradient and medium green accent
+muted moss green base, dark khaki gradient and muted green accent
+pastel blue base, robin's egg blue gradient and pastel purple accent
+jade aqua base, kelly green gradient and teal blue accent
+teal green base, kelly green gradient and vivid sky blue accent
+dark tan base, dusty red gradient and dark green accent
+deep aqua base, jungle green gradient and light navy accent
+pale orange base, soft coral red gradient and lemon yellow accent
+dull yellow-green base, raw umber gradient and lawn green accent
+forest green base, deep olive gradient and dark forest green accent
+dark lavender base, dark lavender gradient and dusty violet accent
+dark violet base, midnight blue gradient and dark plum accent
+purple blue base, azul gradient and magenta violet accent
+dark cyan base, jungle green gradient and deep blue accent
+olive drab base, earthy brown gradient and camo green accent
+soft coral pink base, pale magenta gradient and dark peach accent
+cobalt blue base, dark cyan gradient and royal blue accent
+electric violet base, electric indigo gradient and neon magenta accent
+light turquoise base, pastel mint green gradient and robin egg blue accent
+apple green base, pale chartreuse gradient and green accent
+dull green base, khaki gradient and medium jade green accent
+wine red base, darkish purple gradient and dark red accent
+powder blue base, light cyan gradient and light periwinkle blue accent
+off white base, off white gradient and off white accent
+electric blue base, bright sky blue gradient and electric indigo accent
+dark turquoise base, spruce green gradient and marine blue accent
+blue purple base, vivid royal blue gradient and vivid purple accent
+azure blue base, bright teal gradient and rich blue accent
+bright red base, hot pink gradient and orange accent
+hot rose red base, bright pink gradient and orange red accent
+cornflower blue base, dark sky blue gradient and light indigo accent
+light olive base, sandy brown beige gradient and faded green accent
+grape purple base, grape purple gradient and deep maroon accent
+greyish blue base, faded teal gradient and faded royal blue accent
+electric violet base, azul gradient and electric violet accent
+chartreuse lime base, golden mustard gradient and green apple accent
+lime yellow base, yellow orange gradient and bright lime green accent
+medium blue base, aqua teal gradient and indigo blue accent
+dusty rose base, muted pink gradient and pale brown accent
+light violet base, pastel blue gradient and light lavender accent
+midnight blue base, navy blue gradient and midnight purple accent
+vivid indigo violet base, periwinkle blue gradient and vibrant lavender magenta accent
+red orange base, hot pink gradient and amber orange accent
+dark magenta base, vivid magenta purple gradient and dark crimson accent
+soft jade green base, mid green gradient and muted aqua accent
+ocean blue base, dark teal gradient and royal blue accent
+coral pink base, vibrant fuchsia pink gradient and butterscotch orange accent
+cream yellow base, light peach gradient and very light green accent
+rust brown base, wine red gradient and dark mustard brown accent
+burnt sienna base, scarlet red gradient and dark gold accent
+brick red base, berry red gradient and hazel brown accent
+sage green base, light olive green gradient and dusty green accent
+grey green base, sage green gradient and sage grey accent
+white base, white gradient and white accent
+robin's egg blue base, pale turquoise gradient and pastel blue accent
+moss green base, drab olive gradient and darkish green accent
+steel blue base, faded teal gradient and faded royal blue accent
+eggplant purple base, midnight purple gradient and dark plum accent
+light yellow base, peach orange gradient and pale lime accent
+leaf green base, muddy chartreuse green gradient and vivid green accent
+light grey base, light grey gradient and light grey accent
+muddy chartreuse green base, cinnamon brown gradient and lawn green accent
+vibrant lavender magenta base, vibrant lavender gradient and darkish pink accent
+sea blue base, jade aqua gradient and royal blue accent
+pale purple base, periwinkle blue gradient and lavender pink accent
+slate blue base, faded teal gradient and faded royal blue accent
+slate blue-grey base, grey teal gradient and steel blue accent
+hunter green base, deep olive gradient and pine green accent
+fuchsia base, violet gradient and cerise pink accent
+crimson base, dark magenta gradient and rust brown accent
+pale yellow base, peach orange gradient and light pea green accent
+ochre yellow base, burnt red gradient and yellowish olive accent
+mustard yellow base, rusty orange gradient and dark lime green accent
+light red base, vibrant fuchsia pink gradient and pastel orange accent
+cerulean base, aquamarine gradient and true blue accent
+pale pink base, pale mauve gradient and pale pink accent
+deep blue base, marine blue gradient and indigo blue accent
+rust orange base, carmine red gradient and golden ochre accent
+light teal base, mint hospital green gradient and light blue accent
+slate gray base, slate gray gradient and dusk blue accent
+goldenrod base, vivid tangerine gradient and bright chartreuse green accent
+dark yellow base, deep orange gradient and bright chartreuse green accent
+dark grey base, dark grey gradient and dark grey accent
+army green base, dark earthy brown gradient and dark olive green accent
+grey blue base, muted teal gradient and slate blue accent
+seafoam base, pastel spring green gradient and tiffany blue accent
+puce brown base, light maroon gradient and khaki accent
+spring green base, straw yellow gradient and bright mint green accent
+dark orange base, scarlet red gradient and ochre yellow accent
+sand beige base, muted peach gradient and pale olive beige accent
+pastel green base, light khaki gradient and light seafoam accent
+mint green base, pastel mint green gradient and pale turquoise accent
+light orange base, light red gradient and banana yellow accent
+bright pink base, electric violet gradient and neon red accent
+chartreuse base, golden rod gradient and neon lime accent
+deep purple base, midnight purple gradient and dark plum accent
+dark brown base, dark maroon gradient and deep olive accent
+taupe brown base, dusty rose gradient and beige tan accent
+olive lime base, deep goldenrod gradient and lawn green accent
+dirty chartreuse green base, caramel brown gradient and lawn green accent
+kelly green base, vibrant grass green gradient and teal green accent
+seafoam green base, pastel spring green gradient and tiffany blue accent
+deep teal base, jungle green gradient and light navy accent
+khaki base, dark sand beige gradient and sage green accent
+burgundy base, rich purple gradient and reddy brown accent
+dark teal base, evergreen green gradient and marine blue accent
+brick red base, red wine gradient and muddy ochre brown accent
+royal purple base, deep blue gradient and rich purple accent
+plum purple base, plum purple gradient and burgundy accent
+mint green base, pastel light green gradient and light aqua accent
+gold base, deep orange gradient and bright chartreuse green accent
+soft sky blue base, light cyan gradient and periwinkle blue accent
+chartreuse yellow base, sun yellow gradient and neon green accent
+bright purple base, electric indigo gradient and bright pink accent
+dark red base, wine red gradient and rust brown accent
+pale blue base, pale aqua blue gradient and pale blue accent
+grass green base, murky chartreuse gradient and emerald green accent
+navy blue base, evergreen green gradient and midnight blue accent
+aquamarine base, shamrock green gradient and cerulean accent
+burnt orange base, scarlet red gradient and dull mustard yellow accent
+neon green base, bright lime gradient and minty green accent
+bright blue base, neon blue gradient and intense cobalt accent
+rose pink base, bright mauve gradient and dark peach accent
+light pink base, pale mauve gradient and pale pink accent
+mustard base, dark orange gradient and dark lime green accent
+indigo blue base, deep blue gradient and darkish purple accent
+bright lime base, sunshine yellow gradient and neon lime accent
+sea green base, electric lime gradient and bright cyan accent
+periwinkle blue base, carolina blue gradient and liliac accent
+dark pink base, vivid fuchsia gradient and terra cotta accent
+olive green base, dirty ochre brown gradient and dark grass green accent
+peach orange base, blush pink gradient and straw yellow accent
+pale green base, parchment beige gradient and light mint accent
+light brown base, dusty red gradient and khaki accent
+hot pink base, bright magenta gradient and bright red accent
+black base, black gradient and black accent
+lilac purple base, periwinkle blue gradient and light lavender accent
+navy blue base, dark teal gradient and midnight blue accent
+royal blue base, peacock blue gradient and violet blue accent
+beige base, pale salmon gradient and beige accent
+salmon pink base, bright cotton candy pink gradient and apricot orange accent
+dark olive base, medium brown gradient and dark grass green accent
+maroon base, rich purple gradient and reddy brown accent
+bright green base, bright lime gradient and bright aqua green accent
+dark purple base, midnight purple gradient and dark plum accent
+mauve pink base, dark lilac gradient and pale brown accent
+forest green base, forest green gradient and evergreen green accent
+vivid aqua blue base, vibrant mint green gradient and azure blue accent
+electric cyan base, minty green gradient and deep sky blue accent
+light sandy brown base, dusty rose gradient and olive beige accent
+dark blue base, marine blue gradient and dark indigo accent
+lavender purple base, periwinkle blue gradient and light violet accent
+turquoise base, shamrock green gradient and water blue accent
+dark green base, forest green gradient and dark forest green accent
+violet base, ultramarine blue gradient and fuchsia accent
+light purple base, periwinkle blue gradient and bright lavender pink accent
+lime green base, bright yellow gradient and fluorescent green accent
+grey base, grey gradient and grey accent
+sky blue base, pale turquoise blue gradient and cornflower blue accent
+yellow base, tangerine orange gradient and neon lime accent
+magenta base, vibrant purple gradient and scarlet red accent
+light green base, light yellow green gradient and light aqua green accent
+orange base, bright red gradient and dandelion yellow accent
+dark teal base, kelley green gradient and peacock blue accent
+light blue base, robin's egg blue gradient and periwinkle blue accent
+red base, dark hot pink gradient and pumpkin orange accent
+brown base, reddy brown gradient and dark olive drab accent
+pink base, bright lavender pink gradient and salmon pink accent
+blue base, turquoise blue gradient and ultramarine blue accent
+green base, vivid leaf green gradient and jade aqua accent
+purple base, indigo blue gradient and warm purple accent

@@ -1,0 +1,2 @@
+disappointed, <wcrandom[1-4,]:<wc:body/face/disappointed/data>||<wc:body/face/disappointed/eyes>||<wc:body/face/disappointed/mouth>||<wc:body/face/disappointed/symbols>>
+disappointed, <wcrandom[1-2,]:<wc:body/face/disappointed/emote>||<wc:body/face/disappointed/symbols>>

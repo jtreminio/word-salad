@@ -1,0 +1,4 @@
+angry
+annoyed
+frustrated
+sad

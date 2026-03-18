@@ -1,0 +1,27 @@
+apron
+bakery
+bar \(place\)
+butler
+cafe
+cafeteria
+chef hat
+chef
+conveyor belt sushi
+diner
+fast food
+food stand
+groceries
+ice cream stand
+izakaya
+kitchen
+maid
+market
+menu
+naked apron
+restaurant
+supermarket
+tavern
+waiter
+waitress
+yakiniku
+yatai

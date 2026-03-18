@@ -1,0 +1,2 @@
+flustered, <wcrandom[1-4,]:<wc:body/face/flustered/data>||<wc:body/face/flustered/eyes>||<wc:body/face/flustered/mouth>||<wc:body/face/flustered/symbols>>
+flustered, <wcrandom[1-2,]:<wc:body/face/flustered/emote>||<wc:body/face/flustered/symbols>>

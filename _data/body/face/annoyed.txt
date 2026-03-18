@@ -1,0 +1,2 @@
+annoyed, <wcrandom[1-4,]:<wc:body/face/annoyed/data>||<wc:body/face/annoyed/eyes>||<wc:body/face/annoyed/mouth>||<wc:body/face/annoyed/symbols>>
+annoyed, <wcrandom[1-2,]:<wc:body/face/annoyed/emote>||<wc:body/face/annoyed/symbols>>

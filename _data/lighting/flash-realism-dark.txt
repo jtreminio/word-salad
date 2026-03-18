@@ -1,0 +1,10 @@
+backlight, low key, direct flash, rear curtain flash, deep contrast, tri-x
+broad lighting, low key, direct flash, rear curtain flash, high contrast, cinestill
+low key, direct flash, deep contrast, overexposed highlights, underexposed shadows, tri-x
+low key, direct flash, practical light, overexposed highlights, instant film look
+natural light, low key, direct flash, motion blur, dragged shutter, tri-x
+rim light, low key, direct flash, motion blur, hard shadows, cinestill
+side light, low key, direct flash, dragged shutter, underexposed shadows, cinestill
+split lighting, low key, direct flash, deep contrast, overexposed highlights, tri-x
+top light, low key, hard light, direct flash, underexposed shadows, tri-x
+underlight, low key, direct flash, motion blur, hard shadows, cinestill

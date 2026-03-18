@@ -1,0 +1,4 @@
+<wc:body/hair/very-short>
+<wc:body/hair/short>
+<wc:body/hair/long>
+<wc:body/hair/tall>

@@ -1,0 +1,4 @@
+<wc:characters/girl-named>, <wc:activities/beach>,\
+<random:<wc:body/face/aroused>||<wc:body/face/drunk>||<wc:body/face/happy>||<wc:body/face/lonely>||<wc:body/face/sexy>||<wc:body/face/sleepy>>,\
+<wcrandom[0-1]:<wc:body/piercings/piercings>>, <wc:body/arms>,\
+<random:sunny||bright||white sand||waves||windy||seagulls>

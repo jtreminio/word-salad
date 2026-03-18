@@ -1,0 +1,6 @@
+<wc:clothes/dress>, <wcrandom[0-1]:<wc:clothes/leg-accessories>>
+<wc:clothes/legwear>, <wcrandom[0-1]:<wc:clothes/leg-accessories>>
+<wc:clothes/panties>, <wcrandom[0-1]:<wc:clothes/leg-accessories>>
+<wc:clothes/pants>, <wcrandom[0-1]:<wc:clothes/leg-accessories>>
+<wc:clothes/shorts>, <wcrandom[0-1]:<wc:clothes/leg-accessories>>
+<wc:clothes/skirt>, <wcrandom[0-1]:<wc:clothes/leg-accessories>>

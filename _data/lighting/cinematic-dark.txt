@@ -1,0 +1,20 @@
+backlight, hard light, caustics, volumetric light, deep shadows
+backlight, hard light, deep contrast, cinematic chiaroscuro, tri-x
+backlight, hard light, deep contrast, cinematic noir, tri-x, gobo
+backlight, low key, hard light, deep contrast, tri-x, barn doors
+backlight, low key, hard shadows, contact shadow, tri-x, gobo
+fog lighting, rim light, low key, hard light, volumetric light, cinematic chiaroscuro
+fog lighting, rim light, low key, volumetric light, deep shadows
+fog lighting, rim light, low key, volumetric light, hard shadows, cinematic chiaroscuro
+low key, scattered light, backlit haze, volumetric light, hard shadows
+rim light, deep contrast, hard shadows, cinematic noir, gobo
+rim light, hard light, deep contrast, cinematic chiaroscuro, barn doors
+short lighting, low key, volumetric light, hard shadows, chiaroscuro, barn doors
+side light, low key, hard light, scattered light, deep contrast, cinematic noir
+side light, low key, hard shadows, deep contrast, cinematic noir, gobo
+side light, low key, scattered light, mist backlight, specular highlights
+split lighting, hard light, low key, backlit haze, chiaroscuro, gobo
+split lighting, low key, gelled light, directional shadows, noir
+split lighting, low key, hard light, chiaroscuro, deep contrast, tri-x, gobo
+top light, low key, hard shadows, deep contrast, ektachrome, strip softbox
+underlight, low key, hard light, volumetric light, chiaroscuro, core shadow

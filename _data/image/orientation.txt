@@ -1,0 +1,3 @@
+rotated
+sideways
+upside-down

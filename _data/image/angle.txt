@@ -1,0 +1,7 @@
+dutch angle
+fisheye
+from above
+from behind
+from below
+from the side
+vanishing point

@@ -1,0 +1,30 @@
+backlight, hard light, low key, atmospheric backscatter, deep contrast, noir, gobo
+backlight, hard light, low key, mist backlight, volumetric light, high contrast, silhouette
+backlight, low key, hard light, volumetric light, deep contrast, cast shadows, tri-x
+fog lighting, backlight, hard light, low key, deep contrast, silhouette
+fog lighting, backlight, low key, god rays, hard shadows, high contrast, silhouette
+fog lighting, backlight, rim light, low key, deep contrast, contact shadow
+fog lighting, rim light, low key, deep contrast, hard shadows, noir, barn doors
+fog lighting, rim light, low key, deep contrast, hard shadows, noir, gobo
+fog lighting, split lighting, hard light, low key, deep contrast, silhouette
+fog lighting, top light, low key, backlit haze, hard shadows, high contrast, noir
+haze, backlight, rim light, low key, hard shadows, high contrast, silhouette
+rim light, low key, backlit haze, hard shadows, chiaroscuro, barn doors
+rim light, low key, backlit haze, volumetric light, hard shadows, cinematic noir
+short lighting, low key, hard shadows, chiaroscuro, contact shadow, gobo
+side light, hard light, low key, atmospheric backscatter, backlit haze, high contrast, noir
+side light, hard light, low key, atmospheric backscatter, deep contrast, silhouette, gobo
+side light, hard light, low key, cast shadows, high contrast, silhouette
+side light, low key, caustics, hard shadows, high contrast, silhouette
+side light, low key, hard light, chiaroscuro, cast shadows, tri-x, barn doors
+split lighting, hard light, low key, backlit haze, high contrast, noir, gobo
+split lighting, low key, hard light, chiaroscuro, deep contrast, tri-x, gobo
+stage haze, backlight, hard light, low key, caustics, deep contrast, noir
+stage haze, backlight, rim light, hard light, low key, deep contrast, silhouette
+stage haze, side light, hard light, low key, caustics, high contrast, noir
+stage haze, side light, split lighting, low key, deep contrast, tri-x, gobo
+stage haze, split lighting, hard light, low key, caustics, high contrast, noir
+top light, hard light, low key, backlit haze, deep contrast, silhouette
+top light, low key, hard light, volumetric light, chiaroscuro, core shadow
+underlight, hard light, low key, mist backlight, deep contrast, noir, barn doors
+underlight, low key, hard shadows, chiaroscuro, tri-x, strip softbox

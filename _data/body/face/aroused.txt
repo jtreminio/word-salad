@@ -1,0 +1,2 @@
+aroused, <wcrandom[1-4,]:<wc:body/face/aroused/data>||<wc:body/face/aroused/eyes>||<wc:body/face/aroused/mouth>||<wc:body/face/aroused/symbols>>
+aroused, <wcrandom[1-2,]:<wc:body/face/aroused/emote>||<wc:body/face/aroused/symbols>>

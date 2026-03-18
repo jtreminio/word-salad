@@ -1,0 +1,2 @@
+happy, <wcrandom[1-4,]:<wc:body/face/happy/data>||<wc:body/face/happy/eyes>||<wc:body/face/happy/mouth>||<wc:body/face/happy/symbols>>
+happy, <wcrandom[1-2,]:<wc:body/face/happy/emote>||<wc:body/face/happy/symbols>>

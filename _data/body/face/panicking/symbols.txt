@@ -1,0 +1,5 @@
+sweatdrop
+#spoken sweatdrop
+shout lines
+notice lines
+spoken squiggle

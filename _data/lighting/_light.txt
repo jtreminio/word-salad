@@ -1,0 +1,12 @@
+<wc:lighting/black-white>
+<wc:lighting/cinematic>
+<wc:lighting/closeup>
+<wc:lighting/flash-realism>
+<wc:lighting/glamour>
+<wc:lighting/glow>
+<wc:lighting/golden-hour>
+<wc:lighting/high-saturation>
+<wc:lighting/indoor>
+<wc:lighting/neon>
+<wc:lighting/outdoor>
+<wc:lighting/vintage>

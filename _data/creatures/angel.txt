@@ -1,0 +1,4 @@
+angel
+archangel
+cherub
+seraph

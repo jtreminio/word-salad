@@ -1,0 +1,12 @@
+monochrome, $file:[_data/colors/monochromatic-acidic-olive] base, <wc:colors/monochromatic-acidic-olive> gradient, and <wc:colors/monochromatic-acidic-olive> accent
+monochrome, $file:[_data/colors/monochromatic-earthy-warm] base, <wc:colors/monochromatic-earthy-warm> gradient, and <wc:colors/monochromatic-earthy-warm> accent
+monochrome, $file:[_data/colors/monochromatic-indigo-violet-blues] base, <wc:colors/monochromatic-indigo-violet-blues> gradient, and <wc:colors/monochromatic-indigo-violet-blues> accent
+monochrome, $file:[_data/colors/monochromatic-lavender-plum-violet] base, <wc:colors/monochromatic-lavender-plum-violet> gradient, and <wc:colors/monochromatic-lavender-plum-violet> accent
+monochrome, $file:[_data/colors/monochromatic-magenta-plum-fuchsia] base, <wc:colors/monochromatic-magenta-plum-fuchsia> gradient, and <wc:colors/monochromatic-magenta-plum-fuchsia> accent
+monochrome, $file:[_data/colors/monochromatic-mint-jade-seafoam] base, <wc:colors/monochromatic-mint-jade-seafoam> gradient, and <wc:colors/monochromatic-mint-jade-seafoam> accent
+monochrome, $file:[_data/colors/monochromatic-rose-crimson-wine] base, <wc:colors/monochromatic-rose-crimson-wine> gradient, and <wc:colors/monochromatic-rose-crimson-wine> accent
+monochrome, $file:[_data/colors/monochromatic-slate-steel-sky] base, <wc:colors/monochromatic-slate-steel-sky> gradient, and <wc:colors/monochromatic-slate-steel-sky> accent
+monochrome, $file:[_data/colors/monochromatic-sunlit-ochre] base, <wc:colors/monochromatic-sunlit-ochre> gradient, and <wc:colors/monochromatic-sunlit-ochre> accent
+monochrome, $file:[_data/colors/monochromatic-teal-aqua-turquoise] base, <wc:colors/monochromatic-teal-aqua-turquoise> gradient, and <wc:colors/monochromatic-teal-aqua-turquoise> accent
+monochrome, $file:[_data/colors/monochromatic-true-blue-spectrum] base, <wc:colors/monochromatic-true-blue-spectrum> gradient, and <wc:colors/monochromatic-true-blue-spectrum> accent
+monochrome, $file:[_data/colors/monochromatic-verdant-fresh] base, <wc:colors/monochromatic-verdant-fresh> gradient, and <wc:colors/monochromatic-verdant-fresh> accent

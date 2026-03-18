@@ -1,0 +1,20 @@
+fog lighting, golden hour light, warm light, backlight, scattered light, god rays
+golden hour light, haze, warm light, backlight, scattered light, volumetric light
+golden hour light, haze, warm light, backlight, volumetric light, deep contrast
+golden hour light, warm light, diffused light, atmospheric backscatter, halation
+golden hour light, warm light, diffused light, atmospheric backscatter, soft shadows
+golden hour light, warm light, diffused light, soft light, atmospheric backscatter, halation
+golden hour light, warm light, rim light, soft shadows, specular highlights
+golden hour light, warm light, side light, glossy highlights, subsurface scattering
+golden hour light, warm light, side light, scattered light, soft shadows, glossy highlights
+golden hour light, warm light, side light, soft shadows, specular highlights
+warm light, backlight, diffused light, lens flare, ektachrome, glossy highlights
+warm light, backlight, god rays, soft shadows, portra, glossy highlights
+warm light, backlight, soft light, sunbeams, portra, glossy highlights
+warm light, backlight, volumetric light, soft shadows, subtle contrast, ektachrome
+warm light, rim light, diffused light, volumetric light, ektachrome, specular highlights
+warm light, rim light, lens flare, soft shadows, ektachrome, specular highlights
+warm light, rim light, soft shadows, subtle contrast, portra, specular highlights
+warm light, side light, diffused light, light leaks, portra, glossy highlights
+warm light, side light, diffused light, volumetric light, ektachrome, glossy highlights
+warm light, side light, soft light, sunbeams, subtle contrast, portra

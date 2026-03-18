@@ -1,0 +1,13 @@
+<wc:lighting/black-white-dark>
+<wc:lighting/blue-hour>
+<wc:lighting/cinematic-dark>
+<wc:lighting/closeup-dark>
+<wc:lighting/flash-realism-dark>
+<wc:lighting/glamour-dark>
+<wc:lighting/glow-dark>
+<wc:lighting/high-saturation-dark>
+<wc:lighting/indoor-dark>
+<wc:lighting/neon-dark>
+<wc:lighting/noir>
+<wc:lighting/outdoor-dark>
+<wc:lighting/vintage-dark>

@@ -1,0 +1,6 @@
+<random:||<wc:body/hair/color>>, \
+<random:||<wc:body/hair/front-of-head>>, \
+<random:||<wc:body/hair/long-styles>>, \
+<random:||<wc:body/hair/accessories>>, \
+<random:||<wc:body/hair/misc>>, \
+<random:||<wc:body/hair/over-body>>

@@ -1,0 +1,2 @@
+despair, <wcrandom[1-4,]:<wc:body/face/despair/data>||<wc:body/face/despair/eyes>||<wc:body/face/despair/mouth>||<wc:body/face/despair/symbols>>
+despair, <wcrandom[1-2,]:<wc:body/face/despair/emote>||<wc:body/face/despair/symbols>>

@@ -1,0 +1,72 @@
+aqua blue
+azure blue
+battleship grey
+bluegrey
+bluish grey
+bright cyan
+bright sky blue
+cadet blue
+cerulean
+charcoal grey
+cool grey
+dark aqua
+dark blue grey
+dark cyan
+dark grey
+dark grey blue
+dark slate blue
+dark teal
+deep aqua
+deep sea blue
+deep teal
+deep turquoise
+dirty blue
+dull blue
+dull denim blue
+dusty blue
+dusty steel blue
+electric cyan
+grey blue
+greyish blue
+gunmetal gray
+light blue
+light grey blue
+light navy
+light sky blue
+marine blue
+medium blue
+muted blue
+muted blue-grey
+muted steel blue
+near black
+neon blue
+ocean blue
+pale blue
+pale cyan
+pale sky blue
+pale turquoise blue
+peacock blue
+petrol blue
+prussian blue
+robin egg blue
+robin's egg blue
+sea blue
+sky blue
+slate blue
+slate blue-grey
+slate gray
+slate grey
+slate grey-blue
+soft sky blue
+steel blue
+steel blue-grey
+steel grey
+steel sky blue
+stormy blue
+teal blue
+turquoise blue
+twilight blue
+very light blue
+vivid sky blue
+water blue
+

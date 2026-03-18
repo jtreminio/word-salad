@@ -1,0 +1,5 @@
+annoyed
+disgust
+expressionless
+scowl
+serious

@@ -1,0 +1,10 @@
+backlight, low key, hard light, volumetric light, deep shadows, black and white, monochrome, tri-x
+broad lighting, low key, hard shadows, chiaroscuro, deep contrast, black and white, monochrome, gobo
+fog lighting, backlight, rim light, low key, volumetric light, black and white, monochrome, tri-x
+low key, hard light, chiaroscuro, core shadow, black and white, monochrome, tri-x, gobo
+rim light, low key, hard shadows, deep contrast, black and white, monochrome, cinematic noir, gobo
+short lighting, low key, hard light, deep contrast, black and white, monochrome, cinematic noir, tri-x
+side light, low key, hard shadows, directional shadows, deep contrast, black and white, monochrome, barn doors
+split lighting, low key, hard light, chiaroscuro, deep contrast, black and white, monochrome, tri-x
+top light, low key, hard light, deep contrast, directional shadows, black and white, monochrome, strip softbox
+underlight, low key, hard shadows, deep contrast, contact shadow, black and white, monochrome, cinematic chiaroscuro

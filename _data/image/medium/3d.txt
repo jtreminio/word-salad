@@ -1,0 +1,12 @@
+Stylized (3D), a stylized 3D render with exaggerated proportions, hand-painted textures and dramatic lighting
+Disney (3D), a Disney style 3D render with soft rounded forms, expressive proportions and warm, storybook lighting
+DreamWorks (3D), a DreamWorks style 3D render with bold stylization, expressive features and dynamic cinematic lighting
+Pixar (3D), a Pixar style 3D render with appealing shapes, highly polished surfaces and cinematic studio lighting
+Illumination (3D), an Illumination style 3D render with simplified geometry, vibrant colors and playful lighting
+Laika Stop-Motion Style, a Laika style stop-motion 3D render with handcrafted textures, subtle imperfections and tactile lighting
+Sony Animation (3D), a Sony Animation style 3D render with stylized proportions, bold color accents and graphic lighting design
+Octane Render, a high-fidelity Octane render with realistic material response, spectral highlights and crisp global illumination
+Unreal Render, a real-time Unreal Engine render aesthetic with dynamic lighting, volumetric fog and cinematic post-processing
+Low-poly, a low-poly 3D render of tree, with faceted geometry, simplified shading and crisp silhouette readability
+High-poly Sculpt, a high-poly sculpt render with dense surface detail, micro-normal detail and sculptural material definition
+Voxel Art, a voxel-art render with cubic building blocks, grid-locked geometry and retro digital texture

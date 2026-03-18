@@ -1,0 +1,19 @@
+background text
+#backwards text
+body writing
+calendar \(medium\)
+clothes writing
+#detexted
+#foreground text
+#gradient text
+#mirrored text
+name tag
+#pixel text
+#rainbow text
+#silent comic
+sound effects
+#text focus
+text in eyes
+#text-only page
+#textless version
+wall of text

@@ -1,0 +1,2 @@
+<wc:lighting/_dark>
+<wc:lighting/_light>

@@ -1,0 +1,98 @@
+accordion
+acoustic guitar
+bagpipes
+balalaika \(instrument\)
+banjo
+bass flute
+bass trombone
+bass guitar
+bassoon
+bell
+biwa lute
+bongo drums
+bow \(music\)
+bugle
+castanets
+cello
+clarinet
+clavia nord
+concertina
+conga drums
+cowbell
+crumhorn
+cymbals
+double bass
+drum
+drumsticks
+electric double bass
+electric guitar
+electric organ
+electric wind instrument
+erhu
+esp btl
+euphonium
+fender jazz bass
+fender precision bass
+fender rhodes
+fife \(instrument\)
+flugelhorn
+flute
+french horn
+gayageum \(instrument\)
+grand piano
+guitar
+guqin
+guzheng
+handbell
+harmonica
+harp
+harpsichord
+jaw harp
+jingle bell
+kantele
+kazoo
+keyboard
+keytar
+kokyuu
+koto \(instrument\)
+lute \(instrument\)
+lyre
+mandolin
+maracas
+marimba
+melodica
+morin khuur
+oboe
+ocarina
+organ \(instrument\)
+piano
+piano keys
+pipa \(instrument\)
+pipe organ
+pyeongyeong
+recorder
+rickenbacker 4001
+ruan
+saxophone
+shamisen
+sistrum
+sitar
+sousaphone
+synthesizer
+taiko drum
+tambourine
+theremin
+timpani
+tonkori
+triangle \(instrument\)
+trombone
+trumpet
+tsuzumi
+tuba
+ukulele
+upright piano
+viola \(instrument\)
+violin
+wolgeum
+xylophone
+yueqin

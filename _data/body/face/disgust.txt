@@ -1,0 +1,2 @@
+disgust, <wcrandom[1-4,]:<wc:body/face/disgust/data>||<wc:body/face/disgust/eyes>||<wc:body/face/disgust/mouth>||<wc:body/face/disgust/symbols>>
+disgust, <wcrandom[1-2,]:<wc:body/face/disgust/emote>||<wc:body/face/disgust/symbols>>

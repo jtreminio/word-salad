@@ -1,0 +1,14 @@
+<random:||braided bangs>, <random:front braid, side braid, single braid, twisted hair, hair rings, hair flaps, pointy hair, one side up, two side up, half updo>
+<random:||fluffy hair>, <random:messy hair, curly hair, short ponytail, short twintails, twisted hair, hair flaps, hair rings, one side up, two side up, half updo>
+<random:||front braid>, <random:braided bangs, side braid, single braid, twisted hair, hair rings, hair flaps, messy hair, one side up, two side up, half updo>
+<random:||hair flaps>, <random:hair rings, pointy hair, spiked hair, twisted hair, messy hair, braided bangs, one side up, two side up, half updo>
+<random:||hair rings>, <random:hair flaps, pointy hair, single hair ring, braided bangs, twisted hair, one side up, two side up, half updo>
+<random:||messy hair>, <random:fluffy hair, spiked hair, pointy hair, short ponytail, short twintails, twisted hair, hair flaps, hair rings, one side up, two side up, half updo>
+<random:||pointy hair>, <random:hair flaps, hair rings, spiked hair, twisted hair, messy hair, one side up, two side up, half updo>
+<random:||short ponytail>, <random:front ponytail, side ponytail, messy hair, fluffy hair, hair flaps, hair rings, one side up, two side up, half updo>
+<random:||short twintails>, <random:uneven twintails, drill hair, fluffy hair, messy hair, hair flaps, hair rings, bow-shaped hair, one side up, two side up, half updo>
+<random:||side braid>, <random:front braid, braided bangs, single braid, twisted hair, hair rings, hair flaps, fluffy hair, short ponytail, one side up, two side up, half updo>
+<random:||single braid>, <random:braided bangs, front braid, side braid, twisted hair, messy hair, hair rings, hair flaps, one side up, two side up, half updo>
+<random:||single hair ring>, <random:hair rings, hair flaps, pointy hair, messy hair, spiked hair, one side up, two side up, half updo>
+<random:||spiked hair>, <random:pointy hair, messy hair, hair flaps, hair rings, fluffy hair, one side up, two side up, half updo>
+<random:||twisted hair>, <random:braided bangs, front braid, side braid, single braid, hair rings, hair flaps, pointy hair, messy hair, one side up, two side up, half updo>

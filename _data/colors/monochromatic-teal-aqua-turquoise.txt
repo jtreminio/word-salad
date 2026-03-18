@@ -1,0 +1,63 @@
+aqua green
+aqua marine blue
+aqua teal
+aquamarine
+bluey green
+bright aqua
+bright aqua green
+bright sea green
+bright teal
+bright turquoise
+charcoal
+dark aquamarine
+dark green blue
+dark mint green
+dark sea green
+dark seafoam green
+dark teal
+dark turquoise
+deep aqua
+deep teal
+evergreen green
+faded teal
+green teal
+greenish turquoise
+greeny blue
+grey teal
+ice blue
+icy aqua
+jade aqua
+jade green
+jungle green
+light aqua
+light aquamarine
+light cyan
+light teal
+light turquoise
+muted aqua
+muted blue-green
+muted teal
+neon teal
+ocean green
+pale aqua
+pale aqua blue
+pale cyan
+pale teal
+pale turquoise
+pastel cyan
+silver
+soft teal
+spruce green
+teal aqua
+teal blue
+teal blue-green
+teal green
+tiffany blue
+topaz teal
+turquoise
+very pale blue
+vibrant teal green
+viridian green
+vivid aqua blue
+
+

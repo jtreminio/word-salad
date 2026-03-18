@@ -1,0 +1,10 @@
+cool light, rim light, lens flare, soft shadows, subtle contrast, ektachrome
+daylight, backlight, soft light, lens flare, portra, glossy highlights
+daylight, broad lighting, soft light, light leaks, subtle contrast, ektachrome
+daylight, rim light, diffused light, god rays, subtle contrast, ektachrome
+daylight, side light, diffused light, backlit haze, portra, glossy highlights
+natural light, backlight, diffused light, sunbeams, portra, glossy highlights
+natural light, backlight, soft light, light leaks, portra, glossy highlights
+natural light, rim light, diffused light, god rays, subtle contrast, ektachrome
+warm light, side light, scattered light, soft shadows, portra, glossy highlights
+warm light, top light, scattered light, soft shadows, subtle contrast, ektachrome

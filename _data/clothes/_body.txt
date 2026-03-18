@@ -1,0 +1,5 @@
+<random:||<wc:-bundles/clothes-head>>,\
+<random:||<wc:-bundles/clothes-face>>,\
+<random:||<wc:-bundles/clothes-neck>>,\
+<random:||<wc:-bundles/clothes-waist>>,\
+<random:||<wc:-bundles/clothes-foot>>,\

@@ -1,0 +1,7 @@
+cel shading
+color drain
+high contrast
+limited palette
+multiple monochrome
+partially colored
+spot color

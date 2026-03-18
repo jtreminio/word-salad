@@ -1,0 +1,5 @@
+<wc:clothes/crowns>, <wcrandom[0-1]:<wc:clothes/hats-accessories>>
+<wc:clothes/hair>, <wcrandom[0-1]:<wc:clothes/hats-accessories>>
+<wc:clothes/hats>, <wcrandom[0-1]:<wc:clothes/hats-accessories>>
+<wc:clothes/headwear>, <wcrandom[0-1]:<wc:clothes/hats-accessories>>
+<wc:clothes/helmets>

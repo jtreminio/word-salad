@@ -1,0 +1,19 @@
+backlight, diffused light, volumetric light, lens bloom, portra, glossy highlights
+backlight, soft light, volumetric light, lens bloom, portra, glossy highlights
+backlight, volumetric light, light leaks, soft shadows, portra, glossy highlights
+cool light, backlight, diffused light, high key, volumetric light
+cool light, fog lighting, top light, diffused light, low contrast
+cool light, haze, rim light, diffused light, subtle contrast
+cool light, side light, diffused light, mist backlight, low contrast
+fog lighting, warm light, backlight, soft light, glossy highlights
+fog lighting, warm light, underlight, high key, soft light
+haze, rim light, diffused light, god rays, soft shadows, ektachrome
+haze, rim light, diffused light, lens flare, subtle contrast, glossy highlights
+haze, rim light, diffused light, mist backlight, subtle contrast, glossy highlights
+haze, warm light, split lighting, soft light, subtle contrast
+side light, soft light, god rays, lens flare, ektachrome, glossy highlights
+side light, soft light, mist backlight, lens bloom, subtle contrast, glossy highlights
+side light, soft light, mist backlight, light leaks, ektachrome, glossy highlights
+warm light, rim light, soft light, god rays, glossy highlights
+warm light, side light, high key, soft light, volumetric light
+warm light, underlight, soft light, mist backlight, glossy highlights

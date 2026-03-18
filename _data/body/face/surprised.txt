@@ -1,0 +1,2 @@
+surprised, <wcrandom[1-4,]:<wc:body/face/surprised/data>||<wc:body/face/surprised/eyes>||<wc:body/face/surprised/mouth>||<wc:body/face/surprised/symbols>>
+surprised, <wcrandom[1-2,]:<wc:body/face/surprised/emote>||<wc:body/face/surprised/symbols>>

@@ -1,0 +1,10 @@
+backlight, low key, hard shadows, deep contrast, glossy highlights, gobo
+broad lighting, low key, hard light, deep contrast, specular highlights, beauty dish
+low key, hard light, deep contrast, cinematic noir, glossy highlights, beauty dish
+rim light, low key, deep contrast, portra, specular highlights, beauty dish
+rim light, low key, hard shadows, ektachrome, specular highlights, reflector
+short lighting, low key, hard light, cinematic chiaroscuro, glossy highlights, strip softbox
+side light, low key, hard light, glossy highlights, beauty dish, barn doors
+side light, low key, hard shadows, ektachrome, glossy highlights, reflector
+split lighting, low key, hard shadows, deep contrast, specular highlights, gobo
+underlight, low key, hard light, cinematic noir, specular highlights, barn doors

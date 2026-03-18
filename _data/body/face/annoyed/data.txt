@@ -1,0 +1,13 @@
+angry
+bored
+disapproval
+disdain
+disinterested
+expressionless
+frown
+frustrated
+scowl
+serious
+sigh
+upset
+wince

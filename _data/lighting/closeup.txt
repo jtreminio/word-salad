@@ -1,0 +1,10 @@
+broad lighting, bounce light, soft light, high key portrait, glossy highlights, softbox
+broad lighting, soft shadows, subtle contrast, glossy highlights, bounce card, softbox
+butterfly lighting, soft light, high key portrait, ektachrome, glossy highlights, reflector
+butterfly lighting, soft shadows, subtle contrast, portra, glossy highlights, umbrella light
+clamshell lighting, soft light, high key portrait, glossy highlights, beauty dish, reflector
+loop lighting, diffused light, soft light, ektachrome, glossy highlights, reflector
+loop lighting, soft shadows, subtle contrast, portra, glossy highlights, umbrella light
+rembrandt lighting, soft light, subtle contrast, portra, glossy highlights, reflector
+short lighting, diffused light, high key, soft shadows, glossy highlights, beauty dish
+warm light, clamshell lighting, diffused light, soft shadows, glossy highlights, reflector

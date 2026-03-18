@@ -1,0 +1,5 @@
+artbook
+color halftone
+magazine scan
+poster \(medium\)
+scanlines

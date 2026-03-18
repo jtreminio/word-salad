@@ -1,0 +1,20 @@
+backlight, direct flash, dragged shutter, high contrast, cinestill
+backlight, hard light, direct flash, gelled light, high contrast
+backlight, rim light, hard light, direct flash, low contrast, barn doors
+butterfly lighting, hard light, high key, direct flash, beauty dish
+cool light, fill light, soft light, slow sync flash, diffuser
+direct flash, dragged shutter, motion blur, instant film look, cinestill
+direct flash, high contrast, overexposed highlights, underexposed shadows, tri-x
+direct flash, motion blur, rear curtain flash, high contrast, overexposed highlights
+direct flash, practical light, high contrast, overexposed highlights, polaroid flash look
+direct flash, practical light, high contrast, underexposed shadows, polaroid flash look
+direct flash, slow sync flash, high contrast, overexposed highlights, polaroid flash look
+front light, direct flash, underexposed shadows, instant film look, tri-x
+high key portrait, soft light, slow sync flash, practical light, glossy highlights
+key light, hard light, direct flash, high contrast, softbox
+side light, direct flash, high contrast, overexposed highlights, polaroid flash look
+side light, direct flash, motion blur, underexposed shadows, instant film look
+split lighting, hard light, direct flash, deep contrast, gobo
+top light, soft light, rear curtain flash, subtle contrast, umbrella light
+underlight, stroboscopic flash, hard shadows, low contrast, snoot
+warm light, side light, soft light, rear curtain flash, reflector

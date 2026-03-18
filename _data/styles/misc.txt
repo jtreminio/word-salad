@@ -1,0 +1,224 @@
+retro, vintage, faded colors, nostalgic tones, film grain, aged look
+gothic, dark, moody, ornate, medieval-inspired architecture and atmosphere
+neon, glowing, high-contrast, fluorescent tones, bright highlights against dark backgrounds
+noir, black-and-white, heavy shadows, dramatic contrast, cinematic tension
+vaporwave, pastel neons, 80s and 90s aesthetics, glitch, nostalgic surrealism
+cyberpunk, futuristic, neon-lit cities, rain-soaked streets, tech-noir vibes
+steampunk, victorian era fused with gears, brass, steam machinery, retro-futurism
+futuristic, sci-fi, sleek, advanced technology, metallic, sterile, space-inspired visuals
+minimalist, clean, simple forms, lots of negative space, reduced colors
+surrealism, dreamlike, bizarre juxtapositions, impossible landscapes and objects
+pop art, bold colors, comic-style outlines, mass culture imagery, playful tones
+anime, manga, stylized characters, expressive eyes, cel shading, vivid colors
+pixel art, 8-bit, blocky, low-resolution, retro video game aesthetic
+cartoon, comic book, exaggerated features, bold outlines, flat color shading
+fantasy, magical, mythical settings, enchanted forests, legendary creatures
+dark fantasy, gothic, grim, horror-infused fantasy with sinister undertones
+baroque, dramatic, ornate, luxurious details, heavy contrast and rich textures
+rococo, pastel, elegant, decorative, light-hearted with intricate flourishes
+art deco, geometric patterns, metallic accents, sleek, glamorous 1920s style
+bauhaus, modernist, functional, geometric, bold shapes, clean lines
+brutalist, raw concrete, blocky, industrial, heavy and imposing architecture
+expressionist, distorted forms, emotional exaggeration, vivid brushstrokes
+impressionist, soft brushwork, pastel tones, fleeting light and atmosphere
+cubist, fragmented, geometric forms, multiple perspectives in one frame
+photorealistic, extremely detailed, natural lighting, indistinguishable from a photo
+watercolor, soft washes, flowing pigments, paper texture visible
+oil painting, thick brushstrokes, textured canvas, deep layered colors
+chiaroscuro, dramatic light and dark contrast, spotlight effects, moody atmosphere
+glitch art, digital distortion, fragmented pixels, data corruption aesthetics
+psychedelic, vibrant, swirling colors, hallucinatory patterns, surreal intensity
+impressionist style
+post-impressionist style
+expressionist style
+abstract expressionist style
+surrealist style
+cubist style
+art nouveau style
+art deco style
+baroque style
+rococo style
+renaissance style
+neoclassical style
+romantic style
+pre-raphaelite style
+pointillist style
+fauvism style
+constructivist style
+suprematist style
+bauhaus style
+minimalist style
+maximalist style
+pop art style
+op art style
+psychedelic art style
+outsider art style
+naive art style
+oil painting style
+acrylic painting style
+watercolor style
+gouache style
+tempera painting style
+fresco style
+encaustic style
+pastel drawing style
+soft pastel style
+oil pastel style
+colored pencil style
+graphite pencil style
+charcoal drawing style
+pen and ink style
+crosshatching style
+stippling style
+etching style
+woodcut style
+linocut style
+lithograph style
+screen print style
+risograph style
+marker illustration style
+copic marker style
+airbrush style
+spray paint style
+stencil art style
+digital painting style
+vector art style
+flat design style
+flat colors
+gradient mesh style
+low poly style
+high poly style
+voxel art style
+pixel art style
+8-bit style
+16-bit style
+32-bit style
+glitch art style
+databending style
+generative art style
+fractal art style
+neon style
+holographic style
+iridescent style
+chrome style
+glass morphism style
+neumorphism style
+skeuomorphic style
+cartoon style, toon style
+flat cartoon, lineless style
+rubber hose animation style
+UPA style, mid-century modern illustration
+ligne claire style
+cel-shaded style, toon shading
+3d cartoon, cel-shading
+semi-realistic style
+stylized realism
+caricature style
+chibi style
+super deformed style
+storybook illustration style
+children's book illustration style
+editorial illustration style
+fashion illustration style
+technical illustration style
+scientific illustration style
+botanical illustration style
+architectural rendering style
+anime style
+manga style
+manhwa style
+manhua style
+western comic style
+franco-belgian comic style
+underground comix style
+vintage comic style
+silver age comic style
+golden age comic style
+ukiyo-e style
+sumi-e style
+nihonga style
+traditional chinese painting style
+gongbi style
+shanshui style
+miniature painting style
+aboriginal dot painting style
+aztec art style
+mayan art style
+egyptian art style
+byzantine art style
+islamic geometric style
+celtic art style
+gothic style
+pastel gothic style
+dark gothic style
+romantic gothic style
+goth style
+punk style
+cyberpunk style
+steampunk style
+dieselpunk style
+atompunk style
+solarpunk style
+biopunk style
+vaporwave style
+synthwave style
+outrun style
+retrowave style
+dark synthwave style
+cottagecore style
+dark academia style
+light academia style
+fairycore style
+angelcore style
+grunge style
+emo style
+scene style
+kawaii style
+yami kawaii style
+guro kawaii style
+decora style
+harajuku style
+retro style
+vintage style
+1920s style
+1930s style
+1940s style
+1950s style
+1960s style
+1970s style
+1980s style
+1990s style
+y2k style
+art nouveau poster style
+vintage poster style
+pulp art style
+pinup art style
+vintage advertisement style
+retro futurism style
+mid-century modern style
+memphis design style
+bauhaus poster style
+rough texture style
+smooth finish style
+grainy style
+noise texture style
+paper texture style
+canvas texture style
+halftone style
+ben day dots style
+distressed style
+weathered style
+patina style
+metallic finish style
+matte finish style
+glossy finish style
+soft focus style
+sharp detail style
+painterly style
+sketchy style
+loose brushwork style
+tight rendering style
+impasto style
+glazing technique style
+scumbling style
+sgraffito style

@@ -1,0 +1,2 @@
+sleepy, <wcrandom[1-4,]:<wc:body/face/sleepy/data>||<wc:body/face/sleepy/eyes>||<wc:body/face/sleepy/mouth>||<wc:body/face/sleepy/symbols>>
+sleepy, <wcrandom[1-2,]:<wc:body/face/sleepy/emote>||<wc:body/face/sleepy/symbols>>

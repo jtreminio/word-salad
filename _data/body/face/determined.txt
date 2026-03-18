@@ -1,0 +1,2 @@
+determined, <wcrandom[1-4,]:<wc:body/face/determined/data>||<wc:body/face/determined/eyes>||<wc:body/face/determined/mouth>||<wc:body/face/determined/symbols>>
+determined, <wcrandom[1-2,]:<wc:body/face/determined/emote>||<wc:body/face/determined/symbols>>

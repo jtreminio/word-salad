@@ -1,0 +1,509 @@
+aaracockra
+aasimar
+aberration
+aboleth
+aetherling
+alien
+animated armor
+animus
+anshega
+anthro
+anubisath
+arachnid
+arachnoid
+archon
+asari
+ashenborn
+astartes
+astral spirit
+asura
+atronach
+atropos
+aurumvorax
+automaton
+avatar
+avian
+avianfolk
+ayleid
+azer
+azuki
+balrog
+banshee
+barghest
+basilisk
+bat folk
+bear folk
+beastman
+behemoth
+behir
+beholder
+bioroid
+bird folk
+bison folk
+bladeling
+blight spawn
+blood dragon
+blood elf
+boggart
+bogman
+bone golem
+bonelord
+borg
+brood horror
+broodmother
+brownie
+bugbear
+bulette
+bunicorn
+cactus dryad
+cambion
+catfolk
+celestial
+centaur
+cephalopod
+cerberus
+cerebrate
+ceresian
+changeling
+chaos spawn
+chimera
+chiss
+chitinous
+chupacabra
+chuul
+cloaker
+clockwork
+cloud giant
+cockatrice
+codex
+construct
+cosmic
+couatl
+crag troll
+cryptid
+crystal fae
+crystalline being
+cyclops
+daelkyr
+daemon
+dark dwarf
+dark elf
+darkin
+deep gnome
+deep one
+demigod
+demiurge
+demon
+dero
+derro
+deva
+devil
+devourer
+dhampir
+diatom
+digger
+dire beast
+dire wolf
+djinn
+doppelganger
+doppelgänger
+doppleganger
+draenei
+dragon
+dragon-blooded
+dragonborn
+dragonkin
+drake
+drakeling
+drakh
+dreadnought
+dreamer
+drell
+drider
+drow
+dryad
+duergar
+dullahan
+dune stalker
+durian
+dusk elf
+dwarf
+dweller
+dynast
+earth elemental
+echani
+effrit
+efreeti
+eidolon
+eladrin
+elcor
+elder god
+elder thing
+eldritch horror
+elemental
+elf
+elowen
+energy being
+ent
+entity
+erinyes
+etherborn
+ethereal
+ethereal specter
+etherite
+ethin
+ettin
+ewok
+exarch
+exile
+exodite
+exoskeleton
+exosuit
+fae
+fae sprite
+faerie
+fairy
+fallen angel
+fang
+far-kin
+faun
+fel orc
+felguard
+ferran
+fey folk
+fiend
+fiendsoul
+firbolg
+fire giant
+fireborn
+flayed one
+flayer
+flesh golem
+fleshbeast
+florian
+flotsam
+flux being
+foamborn
+fomorian
+forerunner
+forest spirit
+formian
+forsaken
+forsworn
+four-armed humanoid
+fox folk
+foxkin
+frost giant
+frost wraith
+frostborn
+frostling
+fungaloid
+furbolg
+furian
+fusian
+galactic sentry
+gargoyle
+gelatinous cube
+genasi
+genie
+geth
+giant spider
+gibbering mouther
+gith
+githyanki
+gnoll
+gnome
+goblin
+golem
+goliath
+gorgon
+gray alien
+gremlin
+griffin
+griffon
+grig
+grigori
+grimlock
+grue
+gryphon
+hag
+half-dragon
+half-elf
+half-orc
+halfling
+hanar
+harpy
+hellhound
+helmed horror
+high elf
+hippocampus
+hippogriff
+hive-mind drone
+hobbit
+hobgoblin
+homunculus
+human
+humanoid
+hybrid
+hydra
+ice elemental
+ifrit
+illithid
+imp
+incorporeal
+incubus
+inkling
+insectoid
+inugami
+iron dwarf
+iron golem
+ironborn
+jackalwere
+jinn
+kabalite
+kaiju
+kappa
+kelpie
+kender
+kenku
+khajiit
+ki-rin
+kig-yar
+kitsune
+klingon
+kobold
+korok
+kraken
+krogan
+kuo-toa
+lamia
+leprechaun
+leshan
+leviathan
+lich
+light being
+linden
+lizardfolk
+locathah
+loki former
+lunar elf
+lycanthrope
+mageborn
+magma beast
+magma elemental
+magmin
+manticore
+mantis
+marid
+mechanoid
+medusa
+meenlock
+meido
+merfolk
+merrow
+metamorph
+mimic
+minbari
+mind flayer
+minotaur
+mirrane
+mist wraith
+modron
+mogu
+mohrg
+molepeople
+mon'ke
+moon elf
+morlock
+mothman
+mud elemental
+mudokon
+murloc
+mutalisk
+myconid
+na'vi
+naga
+nagaji
+nagaling
+nagas
+nagini
+naiad
+narn
+necromorph
+necron
+neogi
+neothelid
+nephilim
+neraph
+nereid
+nether drake
+night elf
+night hag
+night stalker
+nightmare
+nixie
+noble
+noodler
+nord
+nymph
+ogre
+ogre magi
+ohmu
+oni
+ooze
+orc
+orog
+osun
+owlbear
+pak'ma'ra
+pandaren
+panthera
+pech
+pegasus
+pegataur
+phantom
+phoenix
+piltoverian
+pixie
+polymorphed
+predator
+primarch
+primaris
+promethean
+prophet
+protoss
+psychic
+psyker
+pygmy
+qapla
+qilin
+quarian
+quasit
+quillneon
+qunari
+rakshasa
+ratfolk
+reaper
+replicant
+reptilian
+revenant
+roc
+romulan
+roper
+rust monster
+sahuagin
+salamander
+salarian
+sandworm
+satyr
+saurian
+scion
+scorpionfolk
+sea elf
+sea serpent
+seeker
+sentient plant
+seraph
+shadar-kai
+shade
+shadow
+shadow creature
+shadow demon
+shadow fiend
+shadowling
+shambling mound
+shinigami
+shivan
+shrieker
+siren
+skaven
+skrell
+sky serpent
+slaad
+slime
+solarian
+soul eater
+specter
+spectral knight
+sphinx
+sprite
+star child
+stirge
+stone golem
+storm giant
+succubus
+sun elf
+svirfneblin
+sylph
+sylvan elf
+tabaxi
+tachyon elf
+tarrasque
+tauren
+tengu
+tentacle beast
+terran
+thri-kreen
+thunderbird
+tiefling
+tigger
+titan
+treant
+triton
+troglodyte
+troll
+turian
+twi'lek
+tyranid
+umber hulk
+undead
+unicorn
+vampire
+vampiress
+vampiric mist
+vanara
+vaporighu
+viera
+void elf
+void walker
+volus
+vorcha
+vorlon
+vulcan
+vulpine
+warden
+warforged
+water nymph
+water spirit
+wendigo
+werebear
+wereboar
+werecat
+wererat
+werewolf
+wight
+wild elf
+wildebeest
+will-o'-wisp
+wilt
+wind dragon
+wind elemental
+wolf
+wolfrider
+wookiee
+worgen
+worm
+wraith
+wyrm
+wyvern
+xenomorph
+xorn
+yeth hound
+yeti
+yordle
+yuan-ti
+yugoloth
+yuki-onna
+zephyrkin
+zerg
+zombie

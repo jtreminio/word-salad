@@ -1,0 +1,2 @@
+sulking, <wcrandom[1-4,]:<wc:body/face/sulking/data>||<wc:body/face/sulking/eyes>||<wc:body/face/sulking/mouth>||<wc:body/face/sulking/symbols>>
+sulking, <wcrandom[1-2,]:<wc:body/face/sulking/emote>||<wc:body/face/sulking/symbols>>

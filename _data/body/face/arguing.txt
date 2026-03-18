@@ -1,0 +1,2 @@
+arguing, <wcrandom[1-4,]:<wc:body/face/arguing/data>||<wc:body/face/arguing/eyes>||<wc:body/face/arguing/mouth>||<wc:body/face/arguing/symbols>>
+arguing, <wcrandom[1-2,]:<wc:body/face/arguing/emote>||<wc:body/face/arguing/symbols>>

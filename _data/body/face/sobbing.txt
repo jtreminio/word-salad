@@ -1,0 +1,2 @@
+sobbing, <wcrandom[1-4,]:<wc:body/face/sobbing/data>||<wc:body/face/sobbing/eyes>||<wc:body/face/sobbing/mouth>||<wc:body/face/sobbing/symbols>>
+sobbing, <wcrandom[1-2,]:<wc:body/face/sobbing/emote>||<wc:body/face/sobbing/symbols>>

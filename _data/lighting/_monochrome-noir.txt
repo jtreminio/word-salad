@@ -1,0 +1,7 @@
+$file:[_data/lighting/black-white]
+$file:[_data/lighting/black-white-dark]
+$file:[_data/lighting/cinematic-dark]
+$file:[_data/lighting/glow]
+$file:[_data/lighting/glow-dark]
+$file:[_data/lighting/noir]
+$file:[_data/lighting/outdoor-dark]

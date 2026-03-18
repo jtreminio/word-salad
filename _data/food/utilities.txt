@@ -1,0 +1,89 @@
+baking sheet
+bamboo steamer
+basket
+bendy straw
+bento
+bottle
+bowl
+brick oven
+butter knife
+cake pan
+cake stand
+cauldron
+chinese spoon
+chopstick rest
+chopsticks
+cleaver
+cocktail flower
+cocktail umbrella
+coffee grinder
+cookie cutter
+crazy straw
+cutting board
+dishes
+drinking straw
+egg carton
+food wrapper
+fork
+frying pan
+gravy boat
+griddle
+grill
+heart straw
+holding plate
+honey dipper
+honeypot
+hot plate
+ice cream scoop
+kabayaki
+kettle
+kitchen scale
+knife
+ladle
+lunchbox
+makisu
+measuring cup
+mess kit
+microwave
+milking machine
+mini flag
+mixer \(cooking\)
+napkin
+oven
+oven mitts
+oyster pail
+pastry bag
+peel \(tool\)
+picnic basket
+plate
+plate stack
+pot
+recipe \(object\)
+refrigerator
+rice cooker
+rolling pin
+saucer
+serving dome
+serving spatula
+shamoji
+shichirin
+shopping basket
+shopping cart
+sink
+sizzler plate
+soda fountain
+spatula
+spoon
+spork
+squeeze bottle
+stove
+sugar bowl
+takeout container
+teapot heater
+tiered tray
+toaster
+tongs
+tray
+utensil rack
+whisk
+wok

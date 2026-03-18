@@ -1,0 +1,2 @@
+worried, <wcrandom[1-3,]:<wc:body/face/worried/data>||<wc:body/face/worried/eyes>||<wc:body/face/worried/mouth>||<wc:body/face/worried/symbols>>
+worried, <wcrandom[1-2,]:<wc:body/face/worried/emote>||<wc:body/face/worried/symbols>>

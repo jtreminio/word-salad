@@ -1,0 +1,89 @@
+adobe brown
+apricot orange
+black
+brick orange
+brick red
+bright orange
+brown red
+burnt orange
+burnt red
+burnt sienna
+burnt umber
+chestnut brown
+chocolate brown
+cinnamon brown
+clay brown
+cocoa brown
+copper brown
+coral orange
+coral peach
+coral pink
+dark coral
+dark orange
+dark peach
+dark red
+dark salmon
+deep brown
+deep crimson
+deep orange
+deep red
+deep reddish brown
+dull orange
+dusty orange
+dusty rose
+dusty rose grey
+dusty rose red
+earth brown
+faded orange
+fiery red-orange
+indian red
+light salmon pink
+mahogany brown
+melon orange
+mocha brown
+mushroom beige
+muted brown
+muted crimson
+muted peach
+muted rosewood
+orange
+orange pink
+orange red
+pale orange
+pale salmon
+pastel orange
+pastel red
+peach orange
+pumpkin orange
+red
+red brown
+red orange
+reddish grey
+reddish orange
+reddy brown
+ripe red-orange
+russet brown
+rust brown
+rust orange
+rust red
+rusty orange
+rusty red
+salmon pink
+sepia
+sienna brown
+soft coral red
+soft orange
+soft rose pink
+terra brown
+terra cotta
+terracota orange
+terracotta red
+tomato red
+vermillion red
+very dark brown
+very light pink
+vivid red-orange
+vivid tangerine
+warm grey
+white
+

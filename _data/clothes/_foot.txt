@@ -1,0 +1,5 @@
+<wc:clothes/boots>
+<wc:clothes/high-heels>
+<wc:clothes/sandals>
+<wc:clothes/shoes>
+<wc:clothes/slippers>

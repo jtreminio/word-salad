@@ -1,0 +1,20 @@
+cool light, backlight, low key, hard light, volumetric light, tri-x
+cool light, backlight, practical light, deep shadows, subtle contrast
+cool light, backlight, window light, deep shadows, subtle contrast
+cool light, rim light, ambient light, deep shadows, subtle contrast
+cool light, rim light, low key, backlit haze, deep contrast, cinestill
+cool light, rim light, practical light, deep shadows, subtle contrast
+cool light, rim light, table lamp, deep shadows, subtle contrast
+cool light, stage haze, rim light, low key, deep contrast, cinestill
+cool light, underlight, low key, volumetric light, deep contrast, cinestill
+low key, ambient light, scattered light, deep shadows, subtle contrast
+low key, scattered light, candlelight, deep shadows, subtle contrast
+low key, scattered light, practical light, deep shadows, subtle contrast
+low key, scattered light, table lamp, deep shadows, subtle contrast
+low key, scattered light, window light, deep shadows, subtle contrast
+natural light, fog lighting, backlight, low key, hard light, tri-x
+natural light, fog lighting, rim light, low key, deep contrast, cinestill
+natural light, split lighting, low key, backlit haze, hard shadows, tri-x
+natural light, stage haze, backlight, low key, hard light, tri-x
+warm light, side light, low key, mist backlight, deep contrast, cinestill
+warm light, side light, low key, mist backlight, hard shadows, tri-x

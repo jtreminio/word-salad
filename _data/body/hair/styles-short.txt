@@ -1,0 +1,29 @@
+<random:||bow-shaped hair>, <random:braided bangs, fluffy hair, curly hair, short twintails, uneven twintails, front ponytail, one side up, two side up, half updo, hair flaps, hair rings, flower-shaped hair, star-shaped hair>
+<random:||braided bangs>, <random:front braid, side braid, single braid, twisted hair, hair rings, hair flaps, short ponytail, one side up, two side up, half updo, bow-shaped hair, curly hair>
+<random:||cone hair bun>, <random:single hair bun, double bun, heart hair bun, topknot, twisted hair, flower-shaped hair, hair rings, hair flaps, one side up, two side up, half updo, fluffy hair, straight hair>
+<random:||curly hair>, <random:fluffy hair, messy hair, ringlets, drill hair, front ponytail, short ponytail, short twintails, one side up, two side up, half updo, hair flaps, hair rings, bow-shaped hair>
+<random:||double bun>, <random:single hair bun, triple bun, heart hair bun, cone hair bun, topknot, short twintails, uneven twintails, one side up, two side up, half updo, flower-shaped hair, hair rings, hair flaps>
+<random:||drill hair>, <random:twin drills, tri drills, ringlets, curly hair, fluffy hair, short twintails, uneven twintails, one side up, two side up, half updo, hair rings, hair flaps, bow-shaped hair>
+<random:||flower-shaped hair>, <random:bow-shaped hair, star-shaped hair, heart hair bun, hair rings, hair flaps, fluffy hair, curly hair, short twintails, one side up, two side up, half updo, cone hair bun>
+<random:||fluffy hair>, <random:curly hair, wavy hair, messy hair, drill hair, short twintails, short ponytail, front ponytail, one side up, two side up, half updo, hair flaps, hair rings, bow-shaped hair>
+<random:||front braid>, <random:braided bangs, side braid, single braid, twisted hair, hair rings, hair flaps, one side up, two side up, half updo, short ponytail, curly hair, fluffy hair>
+<random:||front ponytail>, <random:short ponytail, high ponytail, side ponytail, folded ponytail, fluffy hair, curly hair, one side up, two side up, half updo, hair flaps, hair rings, short twintails>
+<random:||hair flaps>, <random:hair rings, twisted hair, fluffy hair, messy hair, pointy hair, short ponytail, short twintails, front braid, one side up, two side up, half updo, flower-shaped hair, bow-shaped hair>
+<random:||hair rings>, <random:hair flaps, twisted hair, pointy hair, fluffy hair, messy hair, braided bangs, short twintails, front braid, one side up, two side up, half updo, flower-shaped hair>
+<random:||heart hair bun>, <random:double bun, cone hair bun, single hair bun, topknot, fluffy hair, curly hair, short twintails, flower-shaped hair, hair rings, hair flaps, one side up, two side up, half updo>
+<random:||messy hair>, <random:fluffy hair, curly hair, short ponytail, short twintails, drill hair, front ponytail, one side up, two side up, half updo, hair flaps, hair rings, pointy hair>
+<random:||pointy hair>, <random:hair flaps, hair rings, spiked hair, twisted hair, messy hair, short twintails, one side up, two side up, half updo, flower-shaped hair, star-shaped hair>
+<random:||short ponytail>, <random:front ponytail, side ponytail, folded ponytail, messy hair, fluffy hair, curly hair, one side up, two side up, half updo, hair flaps, hair rings, braided bangs>
+<random:||short twintails>, <random:twintails, uneven twintails, drill hair, fluffy hair, curly hair, front ponytail, bow-shaped hair, one side up, two side up, half updo, hair flaps, hair rings>
+<random:||side braid>, <random:front braid, single braid, braided bangs, twisted hair, hair rings, hair flaps, one side up, two side up, half updo, curly hair, fluffy hair, short ponytail>
+<random:||side ponytail>, <random:front ponytail, short ponytail, high ponytail, fluffy hair, curly hair, one side up, two side up, half updo, hair flaps, hair rings, messy hair>
+<random:||single braid>, <random:side braid, front braid, braided bangs, twisted hair, fluffy hair, short ponytail, hair flaps, hair rings, one side up, two side up, half updo>
+<random:||single hair bun>, <random:double bun, heart hair bun, cone hair bun, topknot, flower-shaped hair, fluffy hair, straight hair, curly hair, one side up, two side up, half updo, hair rings, hair flaps>
+<random:||single hair ring>, <random:hair rings, hair flaps, twisted hair, pointy hair, messy hair, short twintails, one side up, two side up, half updo, flower-shaped hair>
+<random:||spiked hair>, <random:pointy hair, messy hair, fluffy hair, short ponytail, short twintails, straight hair, one side up, two side up, half updo, hair flaps, hair rings>
+<random:||star-shaped hair>, <random:flower-shaped hair, bow-shaped hair, heart hair bun, four leaf clover hairstyle, fluffy hair, curly hair, short twintails, one side up, two side up, half updo, hair flaps, hair rings>
+<random:||straight hair>, <random:wavy hair, fluffy hair, curly hair, split ponytail, short ponytail, one side up, two side up, half updo, hair flaps, hair rings, braided bangs>
+<random:||topknot>, <random:single hair bun, double bun, cone hair bun, braided bun, heart hair bun, flower-shaped hair, fluffy hair, curly hair, one side up, two side up, half updo, hair flaps, hair rings>
+<random:||twin drills>, <random:drill hair, tri drills, ringlets, fluffy hair, curly hair, short twintails, uneven twintails, one side up, two side up, half updo, hair flaps, hair rings>
+<random:||twisted hair>, <random:braided bangs, front braid, side braid, single braid, fluffy hair, curly hair, short ponytail, one side up, two side up, half updo, hair flaps, hair rings>
+<random:||uneven twintails>, <random:twintails, short twintails, drill hair, twin drills, fluffy hair, curly hair, front ponytail, one side up, two side up, half updo, hair flaps, hair rings>

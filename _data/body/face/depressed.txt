@@ -1,0 +1,2 @@
+depressed, <wcrandom[1-4,]:<wc:body/face/depressed/data>||<wc:body/face/depressed/eyes>||<wc:body/face/depressed/mouth>||<wc:body/face/depressed/symbols>>
+depressed, <wcrandom[1-2,]:<wc:body/face/depressed/emote>||<wc:body/face/depressed/symbols>>

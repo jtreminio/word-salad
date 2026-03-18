@@ -1,0 +1,23 @@
+Pencil Sketch, a pencil sketch of a woman, with precise graphite lines, delicate hatching and light construction marks
+Charcoal Sketch, a charcoal sketch of a woman, with rich velvety blacks, smudged gradients and bold gestural marks
+Colored Pencil Sketch, a colored-pencil sketch of a woman, with layered color strokes, controlled cross-hatching and fine detail
+Conte Crayon Sketch, a conté crayon drawing of a woman, with dense tactile strokes and warm earth-toned texture
+Watercolor Painting, an expressive watercolor painting of a woman, with translucent layered washes, wet-on-wet blooms and textured paper grain
+Oil Painting, an oil painting of a woman, with visible brush impasto, layered glazing and rich, luminous color depth
+Acrylic Painting, an acrylic painting of a woman, with bold flat strokes, medium-bodied texture and fast-drying layered build-up
+Ink Wash Painting, a sumi-e ink wash painting of a woman, with economical brush strokes, ink bleed and tonal gradation on absorbent paper
+Brush & Ink Illustration, a brush-and-ink illustration of a woman, with dynamic calligraphic strokes and high-contrast blacks
+Pastel Painting, a soft pastel painting piece of a woman, with powdery texture, delicate color blending and visible paper tooth
+Fresco Painting, a fresco-style painting of a woman, with mineral matte finish, fresco pigments and subtle plaster texture
+Etching, an etching-style artwork of a woman, with fine cross-hatched linework, plate tone and printed-on-paper texture
+Engraving, an engraving artwork of a woman, with precise incised lines, dense hatching and a classical print finish
+Lithograph, a lithographic artwork of a woman, with grainy tonal transitions, flat ink areas and subtle misregistration
+Mosaic, a mosaic artwork of a woman, with tessellated pieces, grout texture and contrasting color tiles
+Tapestry, a tapestry-woven artwork of a woman, with visible warp-and-weft texture and layered yarn color blending
+Folk art, a folk-art aesthetic artwork of a woman, with naive patterns, hand-painted textures and rustic material presence
+Tribal art, a tribal-art aesthetic of a woman, emphasizing traditional motifs, organic pigments and handcrafted texture
+Gouache, a gouache painting of a woman, with opaque matte layers, crisp edges and flat color planes
+Tempera, a tempera-style artwork of a woman, with fine layering, matte pigment clarity and delicate brushwork
+Encaustic Wax, an encaustic wax painting of a woman, with waxy surface texture, layered translucency and tactile heat-sculpted marks
+Woodcut, a woodcut artwork of a woman, with bold carved lines, high contrast and tactile ink edges
+Linocut, a linocut artwork of a woman, with simplified shapes, crisp relief edges and flat ink fields

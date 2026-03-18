@@ -1,0 +1,28 @@
+amblypygi
+ant
+arachnid
+bee
+beetle
+butterfly
+camel spider
+caterpillar
+cave cricket
+centipede
+cicada
+cockroach
+cricket
+dragonfly
+fireflies
+firefly
+fly
+grasshopper
+ladybug
+larva
+maggot
+millipede
+mosquito
+moth
+pillbug
+scorpion
+spider
+wasp

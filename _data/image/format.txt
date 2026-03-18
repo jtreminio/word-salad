@@ -1,0 +1,24 @@
+#3d
+#anime screencap
+artbook
+calendar \(medium\)
+card \(medium\)
+#fake screenshot
+#game cg
+gyotaku \(medium\)
+kirigami
+lineart
+#logo
+no lineart
+#oekaki
+#official art
+outline
+papercraft
+#phonecard
+photo \(medium\)
+pixel art
+postcard
+poster \(medium\)
+#shitajiki
+#tegaki
+triptych \(art\)

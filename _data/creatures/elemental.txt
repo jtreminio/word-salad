@@ -1,0 +1,5 @@
+elemental \(creature\)
+gnome
+salamander
+sylph
+undine

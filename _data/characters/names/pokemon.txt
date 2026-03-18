@@ -1,0 +1,1243 @@
+abomasnow
+abra
+absol
+accelgor
+aegislash
+aerodactyl
+aggron
+aipom
+alakazam
+alcremie
+alolan diglett
+alolan dugtrio
+alolan exeggutor
+alolan geodude
+alolan golem
+alolan graveler
+alolan grimer
+alolan marowak
+alolan meowth
+alolan muk
+alolan ninetales
+alolan persian
+alolan raichu
+alolan raticate
+alolan rattata
+alolan sandshrew
+alolan sandslash
+alolan vulpix
+alomomola
+altaria
+amaura
+ambipom
+amoonguss
+ampharos
+annihilape
+anorith
+appletun
+applin
+araquanid
+arbok
+arboliva
+arcanine
+arceus
+archen
+archeops
+arctibax
+arctovish
+arctozolt
+ariados
+armaldo
+armarouge
+aromatisse
+aron
+arrokuda
+articuno
+ash-greninja
+audino
+aurorus
+avalugg
+axew
+azelf
+azumarill
+azurill
+bagon
+baltoy
+banette
+barbaracle
+barboach
+barraskewda
+basculegion
+basculin
+basculin \(blue\)
+basculin \(red\)
+basculin \(white\)
+bastiodon
+baxcalibur
+bayleef
+beartic
+beautifly
+beedrill
+beheeyem
+beldum
+bellibolt
+bellossom
+bellsprout
+bergmite
+bewear
+bibarel
+bidoof
+binacle
+bisharp
+blacephalon
+black kyurem
+blastoise
+blaziken
+blipbug
+blissey
+blitzle
+boldore
+boltund
+bombirdier
+bonsly
+bouffalant
+bounsweet
+braixen
+brambleghast
+bramblin
+braviary
+breloom
+brionne
+bronzong
+bronzor
+brute bonnet
+bruxish
+budew
+buizel
+bulbasaur
+bulbasaurtwo
+buneary
+bunnelby
+burmy
+burmy \(plant\)
+burmy \(sandy\)
+burmy \(trash\)
+butterfree
+buzzwole
+cacnea
+cacturne
+calyrex
+calyrex \(ice rider\)
+calyrex \(shadow rider\)
+camerupt
+capsakid
+carbink
+carkol
+carnivine
+carracosta
+carvanha
+cascoon
+castform
+castform \(normal\)
+castform \(rainy\)
+castform \(snowy\)
+castform \(sunny\)
+caterpie
+celebi
+celesteela
+centiskorch
+ceruledge
+cetitan
+cetoddle
+chandelure
+chansey
+charcadet
+charizard
+charjabug
+charmander
+charmandertwo
+charmeleon
+chatot
+cherrim
+cherrim \(overcast\)
+cherrim \(sunshine\)
+cherubi
+chesnaught
+chespin
+chewtle
+chi-yu \(pokemon\)
+chien-pao
+chikorita
+chimchar
+chimecho
+chinchou
+chingling
+cinccino
+cinderace
+clamperl
+clauncher
+clawitzer
+claydol
+clefable
+clefairy
+cleffa
+clobbopus
+clodsire
+cloyster
+coalossal
+cobalion
+cofagrigus
+combee
+combusken
+comfey
+conkeldurr
+copperajah
+corphish
+corsola
+corviknight
+corvisquire
+cosmoem
+cosmog
+cosplay pikachu
+cottonee
+crabominable
+crabrawler
+cradily
+cramorant
+cranidos
+crawdaunt
+cresselia
+croagunk
+crobat
+crocalor
+croconaw
+crustle
+cryogonal
+cubchoo
+cubone
+cufant
+cursola
+cutiefly
+cyclizar
+cyndaquil
+dachsbun
+darkrai
+darmanitan
+darmanitan \(standard\)
+darmanitan \(zen\)
+dartrix
+darumaka
+decidueye
+dedenne
+deerling
+deerling \(autumn\)
+deerling \(spring\)
+deerling \(summer\)
+deerling \(winter\)
+deino \(pokemon\)
+delcatty
+delibird
+delphox
+deoxys
+deoxys \(attack\)
+deoxys \(defense\)
+deoxys \(normal\)
+deoxys \(speed\)
+detective pikachu \(character\)
+dewgong
+dewott
+dewpider
+dhelmise
+dialga
+diancie
+diggersby
+diglett
+ditto
+dodrio
+doduo
+dolliv
+dondozo
+donphan
+dottler
+doublade
+dracovish
+dracozolt
+dragalge
+dragapult
+dragonair
+dragonite
+drakloak
+drampa
+drapion
+dratini
+drednaw
+dreepy
+drifblim
+drifloon
+drilbur
+drizzile
+drowzee
+druddigon
+dubwool
+ducklett
+dudunsparce
+dugtrio
+dunsparce
+duosion
+duraludon
+durant
+dusclops
+dusknoir
+duskull
+dustox
+dwebble
+eelektrik
+eelektross
+eevee
+eiscue
+eiscue \(ice\)
+eiscue \(noice\)
+ekans
+eldegoss
+electabuzz
+electivire
+electrike
+electrode \(pokemon\)
+elekid
+elgyem
+emboar
+emolga
+empoleon
+enamorus
+entei
+escavalier
+espathra
+espeon
+espurr
+eternatus
+eternatus \(eternamax\)
+eternatus \(normal\)
+excadrill
+exeggcute
+exeggutor
+exploud
+falinks
+farfetch'd
+farigiraf
+fearow
+feebas
+fennekin
+feraligatr
+ferroseed
+ferrothorn
+fidough
+finizen
+finneon
+flaaffy
+flabebe
+flabebe \(blue\)
+flabebe \(orange\)
+flabebe \(red\)
+flabebe \(white\)
+flabebe \(yellow\)
+flamigo
+flapple
+flareon
+fletchinder
+fletchling
+flittle
+floatzel
+floette
+floette \(blue\)
+floette \(eternal\)
+floette \(orange\)
+floette \(red\)
+floette \(white\)
+floette \(yellow\)
+floragato
+florges
+florges \(blue\)
+florges \(orange\)
+florges \(red\)
+florges \(white\)
+florges \(yellow\)
+flutter mane
+flygon
+fomantis
+foongus
+forretress
+fraxure
+frigibax
+frillish
+frillish \(female\)
+frillish \(male\)
+froakie
+frogadier
+froslass
+frosmoth
+fuecoco
+furfrou \(dandy\)
+furfrou \(debutante\)
+furfrou \(diamond\)
+furfrou \(heart\)
+furfrou \(kabuki\)
+furfrou \(la reine\)
+furfrou \(matron\)
+furfrou \(natural\)
+furfrou \(pharaoh\)
+furfrou \(star\)
+furret
+gabite
+galarian articuno
+galarian corsola
+galarian darmanitan
+galarian darmanitan \(standard\)
+galarian darmanitan \(zen\)
+galarian darumaka
+galarian farfetch'd
+galarian linoone
+galarian meowth
+galarian moltres
+galarian mr. mime
+galarian ponyta
+galarian rapidash
+galarian slowbro
+galarian slowking
+galarian slowpoke
+galarian stunfisk
+galarian weezing
+galarian yamask
+galarian zapdos
+galarian zigzagoon
+gallade
+galvantula
+garbodor
+garchomp
+gardevoir
+garganacl
+gastly
+gastrodon
+gastrodon \(east\)
+gastrodon \(west\)
+genesect
+gengar
+geodude
+gholdengo
+gible
+gigalith
+gimmighoul
+girafarig
+giratina
+giratina \(altered\)
+giratina \(origin\)
+glaceon
+glalie
+glameow
+glastrier
+gligar
+glimmet
+glimmora
+gliscor
+gloom \(pokemon\)
+gogoat
+golbat
+goldeen
+golduck
+golem \(pokemon\)
+golett
+golisopod
+golurk
+goodra
+goomy
+gorebyss
+gossifleur
+gothita
+gothitelle
+gothorita
+gourgeist
+grafaiai
+granbull
+grapploct
+graveler
+great tusk
+greavard
+greedent
+greninja
+grimer
+grimmsnarl
+grookey
+grotle
+groudon
+grovyle
+growlithe
+grubbin
+grumpig
+gulpin
+gumshoos
+gurdurr
+guzzlord
+gyarados
+hakamo-o
+happiny
+hariyama
+hatenna
+hatterene
+hattrem
+haunter
+hawlucha
+haxorus
+heatmor
+heatran
+heliolisk
+helioptile
+heracross
+herdier
+hippopotas
+hippopotas \(female\)
+hippopotas \(male\)
+hippowdon
+hippowdon \(female\)
+hippowdon \(male\)
+hisuian arcanine
+hisuian avalugg
+hisuian braviary
+hisuian decidueye
+hisuian electrode
+hisuian goodra
+hisuian growlithe
+hisuian lilligant
+hisuian qwilfish
+hisuian samurott
+hisuian sliggoo
+hisuian sneasel
+hisuian typhlosion
+hisuian voltorb
+hisuian zoroark
+hisuian zorua
+hitmonchan
+hitmonlee
+hitmontop
+ho-oh
+honchkrow
+honedge
+hoopa
+hoopa \(confined\)
+hoopa \(unbound\)
+hoothoot
+hoppip
+horsea
+houndoom
+houndour
+houndstone
+huntail
+hydreigon
+hypno
+igglybuff
+illumise
+impidimp
+incineroar
+indeedee
+indeedee \(female\)
+indeedee \(male\)
+infernape
+inkay
+inteleon
+iron bundle
+iron hands \(pokemon\)
+iron jugulis
+iron moth
+iron thorns
+iron treads
+iron valiant
+ivysaur
+jangmo-o
+jellicent
+jellicent \(female\)
+jellicent \(male\)
+jigglypuff
+jirachi
+jolteon
+joltik
+jumpluff
+jynx
+kabuto \(pokemon\)
+kabutops
+kadabra
+kakuna
+kangaskhan
+karrablast
+kartana
+kecleon
+keldeo
+keldeo \(ordinary\)
+keldeo \(resolute\)
+kilowattrel
+kingambit
+kingdra
+kingler
+kirlia
+klang
+klawf
+kleavor
+klefki
+klink
+klinklang
+koffing
+komala
+kommo-o
+koraidon
+krabby
+kricketot
+kricketune
+krokorok
+krookodile
+kubfu
+kyogre
+kyurem
+lairon
+lampent
+landorus
+landorus \(incarnate\)
+landorus \(therian\)
+lanturn
+lapras
+larvesta
+larvitar
+latias
+latios
+leafeon
+leavanny
+lechonk
+ledian
+ledyba
+lickilicky
+lickitung
+liepard
+lileep
+lilligant
+lillipup
+linoone
+litleo
+litten
+litwick
+lokix
+lombre
+lopunny
+lotad
+loudred
+lucario
+ludicolo
+lugia
+lumineon
+lunala
+lunatone
+lurantis
+luvdisc
+luxio
+luxray
+lycanroc
+lycanroc \(dusk\)
+lycanroc \(midday\)
+lycanroc \(midnight\)
+mabosstiff
+machamp
+machoke
+machop
+magby
+magcargo
+magearna
+magearna \(normal\)
+magearna \(original\)
+magikarp
+magmar
+magmortar
+magnemite
+magneton
+magnezone
+makuhita
+malamar
+mamoswine
+manaphy
+mandibuzz
+manectric
+mankey
+mantine
+mantyke
+maractus
+mareanie
+mareep
+marill
+marowak
+marshadow
+marshadow \(gloom\)
+marshadow \(zenith\)
+marshtomp
+maschiff
+masquerain
+maushold
+mawile
+medicham
+meditite
+meganium
+melmetal
+meloetta
+meloetta \(aria\)
+meloetta \(other\)
+meloetta \(pirouette\)
+meltan
+meowscarada
+meowstic
+meowstic \(female\)
+meowstic \(male\)
+meowth
+mesprit
+metagross
+metang
+metapod
+mew \(pokemon\)
+mewtwo
+mienfoo
+mienshao
+mightyena
+milcery
+milotic
+miltank
+mime jr.
+mimikyu
+minccino
+minior
+minior \(core\)
+minior \(meteor\)
+minun
+miraidon
+misdreavus
+mismagius
+moltres
+monferno
+morelull
+morgrem
+morpeko
+morpeko \(full\)
+morpeko \(hangry\)
+mothim
+mr. mime
+mr. rime
+mudbray
+mudkip
+mudsdale
+muk
+munchlax
+munna
+murkrow
+musharna
+nacli
+naclstack
+naganadel
+natu
+necrozma
+necrozma \(dawn wings\)
+necrozma \(dusk mane\)
+necrozma \(normal\)
+necrozma \(ultra\)
+nickit
+nidoking
+nidoqueen
+nidoran
+nidoran \(female\)
+nidoran \(male\)
+nidorina
+nidorino
+nihilego
+nincada
+ninetales
+ninjask
+noctowl
+noibat
+noivern
+nosepass
+numel
+nuzleaf
+nymble
+obstagoon
+octillery
+oddish
+oinkologne
+omanyte
+omastar
+onix
+oranguru
+orbeetle
+oricorio
+oricorio \(baile\)
+oricorio \(pa'u\)
+oricorio \(pom-pom\)
+oricorio \(sensu\)
+orthworm
+oshawott
+overqwil
+pachirisu
+palafin
+paldean tauros
+paldean wooper
+palkia
+palossand
+palpitoad
+pancham
+pangoro
+panpour
+pansage
+pansear
+paras
+parasect
+passimian
+patrat
+pawmi
+pawmo
+pawmot
+pawniard
+pelipper
+perrserker
+persian
+petilil
+phanpy
+phantump
+pheromosa
+phione
+pichu
+pidgeot
+pidgeotto
+pidgey
+pidove
+pignite
+pikachu
+pikipek
+piloswine
+pincurchin
+pineco
+pinsir
+piplup
+plusle
+poipole
+politoed
+poliwag
+poliwhirl
+poliwrath
+polteageist
+ponyta
+poochyena
+popplio
+porygon
+porygon-z
+porygon2
+primal dialga
+primal groudon
+primal kyogre
+primarina
+primeape
+prinplup
+probopass
+psyduck
+pumpkaboo
+pupitar
+purple kecleon
+purrloin
+purugly
+pyroar
+pyroar \(female\)
+pyroar \(male\)
+pyukumuku
+quagsire
+quaquaval
+quaxly
+quaxwell
+quilava
+quilladin
+qwilfish
+raboot
+rabsca
+raichu
+raikou
+ralts
+rampardos
+rapidash
+raticate
+rattata
+rayquaza
+regice
+regidrago
+regieleki
+regigigas
+regirock
+registeel
+relicanth
+rellor
+remoraid
+reshiram
+reuniclus
+revavroom
+rhydon
+rhyhorn
+rhyperior
+ribombee
+rillaboom
+riolu
+roaring moon
+rockruff
+roggenrola
+rolycoly
+rookidee
+roselia \(pokemon\)
+roserade
+rotom
+rotom \(fan\)
+rotom \(frost\)
+rotom \(heat\)
+rotom \(mow\)
+rotom \(normal\)
+rotom \(other\)
+rotom \(wash\)
+rotom bike
+rotom dex
+rotom drone
+rotom phone
+rotomi
+rowlet
+rufflet
+runerigus
+sableye
+salamence
+salandit
+salazzle
+samurott
+sandaconda
+sandile
+sandshrew
+sandslash
+sandy shocks
+sandygast
+sawk
+sawsbuck
+sawsbuck \(autumn\)
+sawsbuck \(spring\)
+sawsbuck \(summer\)
+sawsbuck \(winter\)
+scatterbug
+sceptile
+scizor
+scolipede
+scorbunny
+scovillain
+scrafty
+scraggy
+scream tail
+scyther
+seadra
+seaking
+sealeo
+seedot
+seel
+seismitoad
+sentret
+serperior
+servine
+seviper
+sewaddle
+shadow lugia
+shadow mewtwo
+sharpedo
+shaymin
+shaymin \(land\)
+shaymin \(sky\)
+shedinja
+shelgon
+shellder
+shellos
+shellos \(east\)
+shellos \(west\)
+shelmet
+shieldon
+shiftry
+shiinotic
+shinx
+shroodle
+shroomish
+shuckle
+shuppet
+sigilyph
+silcoon
+silicobra
+silvally
+simipour
+simisage
+simisear
+sinistea
+sirfetch'd
+sizzlipede
+skarmory
+skeledirge
+skiddo
+skiploom
+skitty
+skorupi
+skrelp
+skuntank
+skwovet
+slaking
+slakoth
+sliggoo
+slither wing
+slowbro
+slowking
+slowpoke
+slugma
+slurpuff
+smeargle
+smoliv
+smoochum
+sneasel
+sneasler
+snivy
+snom
+snorlax
+snorunt
+snover
+snubbull
+sobble
+solgaleo
+solosis
+solrock
+spearow
+spectrier
+spewpa
+spheal
+spidops
+spinarak
+spinda
+spiritomb
+spoink
+sprigatito
+spritzee
+squawkabilly
+squirtle
+squirtletwo
+stakataka
+stantler
+staraptor
+staravia
+starly
+starmie
+staryu
+steelix
+steenee
+stonjourner
+stoutland
+stufful
+stunfisk
+stunky
+sudowoodo
+suicune
+sunflora
+sunkern
+surskit
+swablu
+swadloon
+swalot
+swampert
+swanna
+swellow
+swinub
+swirlix
+swoobat
+sylveon
+tadbulb
+taillow
+talonflame
+tandemaus
+tangela
+tangrowth
+tapu bulu
+tapu fini
+tapu koko
+tapu lele
+tarountula
+tatsugiri
+tauros
+teddiursa
+tentacool
+tentacruel
+tepig
+terrakion
+thievul
+throh
+thundurus
+thundurus \(incarnate\)
+thundurus \(therian\)
+thwackey
+timburr
+ting-lu \(pokemon\)
+tinkatink
+tinkaton
+tinkatuff
+tirtouga
+toedscool
+toedscruel
+togedemaru
+togekiss
+togepi
+togetic
+torchic
+torkoal
+tornadus
+tornadus \(incarnate\)
+tornadus \(therian\)
+torracat
+torterra
+totodile
+toucannon
+toxapex
+toxel
+toxicroak
+toxtricity
+toxtricity \(amped\)
+toxtricity \(low key\)
+tranquill
+trapinch
+treecko
+trevenant
+tropius
+trubbish
+trumbeak
+tsareena
+turtonator
+turtwig
+tympole
+tynamo
+type: null
+typhlosion
+tyranitar
+tyrantrum
+tyrogue
+tyrunt
+umbreon
+unfezant
+unfezant \(female\)
+unfezant \(male\)
+ursaluna
+ursaring
+urshifu
+urshifu \(rapid\)
+urshifu \(single\)
+uxie
+vanillish
+vanillite
+vanilluxe
+vaporeon
+varoom
+veluza
+venipede
+venomoth
+venonat
+venusaur
+vespiquen
+vibrava
+victini
+victreebel
+vigoroth
+vikavolt
+vileplume
+virizion
+vivillon
+vivillon \(archipelago\)
+vivillon \(continental\)
+vivillon \(elegant\)
+vivillon \(fancy\)
+vivillon \(garden\)
+vivillon \(high plains\)
+vivillon \(icy snow\)
+vivillon \(jungle\)
+vivillon \(marine\)
+vivillon \(meadow\)
+vivillon \(modern\)
+vivillon \(monsoon\)
+vivillon \(ocean\)
+vivillon \(poke ball\)
+vivillon \(polar\)
+vivillon \(river\)
+vivillon \(sandstorm\)
+vivillon \(savanna\)
+vivillon \(sun\)
+vivillon \(tundra\)
+volbeat
+volcanion
+volcarona
+voltorb
+vullaby
+vulpix
+wailmer
+wailord
+walrein
+wartortle
+watchog
+wattrel
+weavile
+weedle
+weepinbell
+weezing
+whimsicott
+whirlipede
+whiscash
+whismur
+white kyurem
+wigglytuff
+wiglett
+wimpod
+wingull
+wishiwashi
+wishiwashi \(school\)
+wishiwashi \(solo\)
+wo-chien
+wobbuffet
+woobat
+wooloo
+wooper
+wormadam
+wormadam \(plant\)
+wormadam \(sandy\)
+wormadam \(trash\)
+wugtrio
+wurmple
+wynaut
+wyrdeer
+xatu
+xerneas
+xurkitree
+yamask
+yamper
+yanma
+yanmega
+yungoos
+yveltal
+zacian
+zacian \(crowned\)
+zacian \(hero\)
+zamazenta
+zamazenta \(crowned\)
+zamazenta \(hero\)
+zangoose
+zapdos
+zarude
+zarude \(dada\)
+zebstrika
+zekrom
+zeraora
+zigzagoon
+zoroark
+zorua
+zubat
+zweilous
+zygarde
+zygarde \(10%25\)
+zygarde \(50%25\)
+zygarde \(complete\)
+zygarde cell
+zygarde core

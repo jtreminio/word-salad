@@ -1,0 +1,5 @@
+border
+fading border
+outside border
+rounded corners
+viewfinder

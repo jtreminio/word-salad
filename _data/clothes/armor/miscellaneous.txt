@@ -1,0 +1,5 @@
+barding
+broken armor
+leather armor
+naked armor
+ornate armor

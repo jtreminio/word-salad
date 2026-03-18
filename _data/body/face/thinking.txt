@@ -1,0 +1,2 @@
+thinking, <wcrandom[1-4,]:<wc:body/face/thinking/data>||<wc:body/face/thinking/eyes>||<wc:body/face/thinking/mouth>||<wc:body/face/thinking/symbols>>
+thinking, <wcrandom[1-2,]:<wc:body/face/thinking/emote>||<wc:body/face/thinking/symbols>>

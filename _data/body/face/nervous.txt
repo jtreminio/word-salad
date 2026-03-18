@@ -1,0 +1,2 @@
+nervous, <wcrandom[1-4,]:<wc:body/face/nervous/data>||<wc:body/face/nervous/eyes>||<wc:body/face/nervous/mouth>||<wc:body/face/nervous/symbols>>
+nervous, <wcrandom[1-2,]:<wc:body/face/nervous/emote>||<wc:body/face/nervous/symbols>>

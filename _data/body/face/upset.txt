@@ -1,0 +1,2 @@
+upset, <wcrandom[1-4,]:<wc:body/face/upset/data>||<wc:body/face/upset/eyes>||<wc:body/face/upset/mouth>||<wc:body/face/upset/symbols>>
+upset, <wcrandom[1-2,]:<wc:body/face/upset/emote>||<wc:body/face/upset/symbols>>

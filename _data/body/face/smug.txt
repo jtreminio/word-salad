@@ -1,0 +1,2 @@
+smug, <wcrandom[1-4,]:<wc:body/face/smug/data>||<wc:body/face/smug/eyes>||<wc:body/face/smug/mouth>||<wc:body/face/smug/symbols>>
+smug, <wcrandom[1-2,]:<wc:body/face/smug/emote>||<wc:body/face/smug/symbols>>

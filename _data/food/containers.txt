@@ -1,0 +1,34 @@
+beer mug
+bottle
+can
+canned tea
+coffee
+coffee cup
+coffee mug
+coffee pot
+coffee press
+condiment packet
+cup
+drinking glass
+gaiwan
+gourd
+jar
+jug \(bottle\)
+juice box
+ketchup bottle
+mamezara
+mayonnaise bottle
+mug
+mustard bottle
+pepper shaker
+sakazuki
+salt shaker
+saucer
+soda bottle
+soy sauce bottle
+tea
+tea set
+teacup
+teapot
+thermos
+yunomi

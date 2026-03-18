@@ -1,0 +1,30 @@
+backlight, scattered light, rim glow, tungsten light, cinestill, strip softbox
+backlight, scattered light, rim glow, tungsten light, strip softbox
+bounce light, diffused light, low contrast, soft shadows, chinese lantern
+cool light, natural light, backlight, diffused light, subtle contrast, bounce card
+cool light, natural light, backlight, soft shadows, subtle contrast, bounce card
+cool light, natural light, bounce light, fill light, diffused light, subtle contrast
+cool light, natural light, bounce light, top light, soft light, subtle contrast
+cool light, top light, fluorescent light, low contrast, diffuser
+cool light, top light, fluorescent light, low contrast, ektachrome, diffuser
+loop lighting, diffused light, incandescent light, subtle contrast, ektachrome, chinese lantern
+loop lighting, soft light, incandescent light, subtle contrast, warm tones
+low key, practical light, tungsten light, hard shadows, deep contrast
+natural light, daylight, side light, soft light, subtle contrast, reflector
+natural light, warm light, fill light, soft shadows, reflector
+natural light, warm light, key light, soft light, low contrast, diffuser
+natural light, warm light, key light, soft light, low contrast, reflector
+natural light, warm light, side light, diffused light, low contrast, reflector
+natural light, warm light, side light, soft light, low contrast, diffuser
+natural light, warm light, side light, soft light, reflector
+natural light, warm light, side light, soft shadows, portra, reflector
+natural light, warm light, side light, soft shadows, reflector
+rim light, high key, led light, cinestill, glossy highlights, softbox
+rim light, led light, high contrast, glossy highlights, softbox
+soft light, practical light, tungsten light, subtle contrast, cinestill, reflector
+stage haze, hard light, deep contrast, spotlight, gobo
+warm light, backlight, soft light, subtle contrast, bounce card
+warm light, backlight, soft light, subtle contrast, portra, bounce card
+warm light, bounce light, soft shadows, low contrast, portra, umbrella light
+warm light, fill light, window light, soft shadows, portra, reflector
+warm light, fill light, window light, soft shadows, reflector

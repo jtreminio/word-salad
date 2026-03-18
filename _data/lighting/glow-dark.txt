@@ -1,0 +1,20 @@
+backlight, low key, mist backlight, deep contrast, cinestill, glossy highlights
+cool light, low key, scattered light, volumetric light, halation
+cool light, low key, scattered light, volumetric light, light leaks
+cool light, low key, soft light, scattered light, volumetric light
+fog lighting, atmospheric haze, backlight, rim light, ethereal glow
+fog lighting, backlight, low key, mist backlight, deep contrast, specular highlights
+fog lighting, backlight, low key, rim glow, deep contrast, cinestill
+fog lighting, backlight, rim light, ethereal glow, atmospheric backscatter
+fog lighting, backlight, rim light, ethereal glow, deep shadows
+fog lighting, backlight, rim light, ethereal glow, soft shadows
+fog lighting, backlight, rim light, ethereal glow, subtle contrast
+fog lighting, cool light, low key, scattered light, volumetric light
+fog lighting, rim light, low key, rim glow, volumetric light, deep contrast, tri-x
+fog lighting, side light, low key, rim glow, volumetric light, deep contrast
+fog lighting, top light, low key, scattered light, rim glow, deep contrast
+low key, soft light, scattered light, volumetric light, lens flare
+rim light, low key, backlit haze, volumetric light, deep contrast, glossy highlights
+rim light, low key, volumetric light, deep contrast, tri-x, glossy highlights
+side light, low key, mist backlight, volumetric light, deep contrast, specular highlights
+underlight, low key, mist backlight, deep contrast, tri-x, specular highlights

@@ -1,0 +1,2 @@
+<wc:styles/weird/v1-character-type> in a <wc:styles/weird/v1-garment> with <wc:styles/weird/v1-material>, with <wc:styles/weird/v1-conceptual> reflected within. <wc:styles/weird/v1-location>, <wc:styles/weird/v1-visual-signature>. The background is <wc:styles/weird/v1-background>, <wc:styles/weird/v1-adjective>, <wc:styles/weird/v1-adjective>.
+<wc:styles/weird/v2-medium>, <wc:styles/weird/v2-material>, <wc:styles/weird/v2-palette>, <wc:styles/weird/v2-surface>, <wc:styles/weird/v2-philosophy>

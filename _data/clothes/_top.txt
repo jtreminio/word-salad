@@ -1,0 +1,5 @@
+<wc:clothes/bra>, <wcrandom[0-1]:<wc:clothes/arm-accessories>>
+<wc:clothes/coat-jacket-sweater>, <wcrandom[0-1]:<wc:clothes/arm-accessories>>
+<wc:clothes/corset>, <wcrandom[0-1]:<wc:clothes/arm-accessories>>
+<wc:clothes/shirts>, <wcrandom[0-2]:<wc:clothes/sleeves>||<wc:clothes/arm-accessories>>
+<wc:clothes/shoulders>, <wcrandom[0-1]:<wc:clothes/arm-accessories>>

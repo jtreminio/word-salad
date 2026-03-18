@@ -1,0 +1,399 @@
+dress
+gown
+robe
+cloak
+cape
+mantle
+shawl
+wrap
+stole
+train
+veil
+shroud
+kimono
+sari
+caftan
+tunic
+toga
+chiton
+dalmatic
+surplice
+vestment
+habit
+cassock
+sheath dress
+ballgown
+armor
+breastplate
+corset
+bodice
+doublet
+jerkin
+vest
+waistcoat
+jacket
+coat
+tailcoat
+frock coat
+overcoat
+greatcoat
+pelisse
+spencer
+bolero
+blazer
+uniform
+regalia
+battle dress
+ceremonial robes
+enchanted vestments
+ritual garb
+mystic shroud
+arcane cloak
+spell-weave mantle
+spirit wrap
+soul veil
+astral gown
+ethereal dress
+phantom cloak
+elemental robes
+seasonal garment
+temporal vestment
+celestial raiment
+void mantle
+dream-woven dress
+nightmare shroud
+fate-spun robes
+wings
+wing cloak
+feathered mantle
+butterfly wings
+dragonfly wings
+moth wings
+bat wings
+dragon wings
+angel wings
+phoenix wings
+gossamer wings
+crystalline wings
+spectral wings
+mechanical wings
+ribbon wings
+crown
+tiara
+circlet
+diadem
+coronet
+headdress
+halo
+wreath
+garland
+chaplet
+headband
+helmet
+mask
+hood
+cowl
+coif
+wimple
+hennin
+fascinator
+horns
+antlers
+crown of thorns
+flower crown
+star diadem
+sash
+belt
+girdle
+scarf
+collar
+necklace
+choker
+pendant
+amulet
+brooch
+clasp
+fibula
+armlet
+bracelet
+bangles
+gauntlets
+gloves
+rings
+anklet
+chain
+talisman
+medallion
+torque
+gorget
+epaulettes
+pauldrons
+spaulders
+vambraces
+greaves
+tasset
+staff
+wand
+scepter
+orb
+crystal ball
+lantern
+torch
+candle
+lamp
+brazier
+incense burner
+chalice
+goblet
+grail
+cauldron
+bowl
+urn
+vase
+mirror
+book
+tome
+grimoire
+scroll
+tablet
+fan
+parasol
+umbrella
+bouquet
+flower
+branch
+sword
+blade
+dagger
+spear
+bow
+spell focus
+channeling rod
+divination tool
+scrying mirror
+rune stones
+tarot deck
+prayer beads
+spirit bell
+ritual dagger
+ceremonial sword
+enchanted compass
+astrolabe
+hourglass
+sundial
+dreamcatcher
+spirit catcher
+soul gem
+phylactery
+reliquary
+sanctum orb
+aura
+corona
+nimbus
+emanation
+radiance
+manifestation
+projection
+extension
+appendage
+constellation map
+Mesmerizing dress
+Flowing silk gown
+Ethereal veil cape
+Whispering winds scarf
+Luminous lace shawl
+Petal-embroidered robe
+Mist-woven tunic
+Aurora-lit kimono
+Feather-light sari
+Crystal-threaded mantua
+Breeze-swept chiton
+Glow-in-the-dark toga
+Leaf-stitched poncho
+Starlit gossamer skirt
+Dewdrop-sequined blouse
+Cloud-fluff bolero
+Rainbow-silk sarong
+Frost-lace corset
+Vine-entwined caftan
+Shadow-silk doublet
+Blooming floral kaftan
+Tidal wave-inspired wrap
+Ember-glowing vest
+Moss-draped surcoat
+Sunbeam-threaded chemise
+Moonbeam-hemmed frock
+Thorn-pricked pinafore
+Pearl-stringed habiliment
+Firefly-lit tabard
+Ice-shard bodice
+Feather-plumed habit
+Golden-threaded pallium
+Whispering willow cloak
+Enchanted linen shift
+Celestial silk apron
+Dream-weave peignoir
+Harmony-chord wrap
+Eclipse-shadow gown
+Nebula-fiber mantle
+Serenity-flow robe
+Crystal-plated armor
+Scale-mail hauberk
+Thorn-bramble cuirass
+Ice-forged breastplate
+Feather-quilled lorica
+Stone-carved gambeson
+Flame-etched greaves
+Vine-woven brigandine
+Shadow-cloaked pauldrons
+Bone-spiked harness
+Leaf-laminated splint mail
+Star-iron chain shirt
+Mist-veiled coif
+Boulder-forged helmet
+Winged metal vambraces
+Coral-encrusted shield
+Ember-reinforced corslet
+Frost-rimed bascinet
+Root-bound spaulders
+Gale-force buckler
+Petal-armored jerkin
+Lava-flow plate
+Dew-armored cuisse
+Thunder-forged gorget
+Moss-plated tassets
+Sun-etched morion
+Moon-silvered aventail
+Thorn-gauge hauberk
+Pearl-plated sallet
+Fire-quenched brigandine
+Cloud-armored surcoat
+Shadow-forged tabard
+Crystal-vein gauntlets
+Feather-shielded helm
+Stone-quilted doublet
+Bloom-armor mantle
+Tidal-scale armor
+Ember-quilled cloak
+Ice-lattice lorica
+Vine-spiked greaves
+Glowing crystal necklace
+Feather-plumed headdress
+Thorn-crown diadem
+Star-embedded brooch
+Mist-woven anklets
+Ember-lit earrings
+Leaf-engraved ring
+Shadow-silk gloves
+Petal-sequined belt
+Ice-shard tiara
+Vine-twisted armband
+Aurora-gemmed choker
+Dewdrop pearl studs
+Flame-etched cuff
+Moss-draped sash
+Sunbeam filigree necklace
+Moonlit crystal beads
+Cloud-fluff wristbands
+Rainbow-threaded circlet
+Frost-lace collar
+Boulder-carved pendant
+Gale-force hairpins
+Coral-embossed bracelet
+Whispering willow fan
+Enchanted feather boa
+Celestial gem clasp
+Dream-weave locket
+Harmony-chime anklet
+Eclipse-shadow veil
+Nebula-sparkle earrings
+Serenity-flow scarf
+Bone-etched amulet
+Feather-quill hairpin
+Stone-rune ring
+Lava-gem brooch
+Tidal-wave bracelet
+Ember-glow cufflinks
+Thunder-charm necklace
+Petal-stitched gloves
+Root-bound headband
+Crystal shard staff
+Vine-woven wand
+Ember-glowing orb
+Mist-shrouded tome
+Feather-light bow
+Stone-carved shield
+Flame-etched sword
+Leaf-bound grimoire
+Shadow-cloaked dagger
+Petal-storm lantern
+Ice-forged scepter
+Aurora-lit harp
+Dewdrop vial
+Boulder-throwing hammer
+Gale-force quiver
+Coral-etched trident
+Sunbeam-infused chalice
+Moon-silvered key
+Cloud-fluff satchel
+Rainbow-threaded lyre
+Frost-lace scroll
+Thorn-pricked amulet
+Pearl-stringed hourglass
+Firefly-lit compass
+Root-entwined flute
+Whispering willow staff
+Enchanted silk pouch
+Celestial star map
+Dream-weave mirror
+Harmony-melody bell
+Eclipse-shadow cloakpin
+Nebula-dust vial
+Serenity-calm basin
+Bone-spiked mace
+Winged metal spear
+Scale-mail pouch
+Tidal-wave conch
+Ember-quenched torch
+Thunder-forged axe
+Moss-draped net
+Gnome-tinkered goggles
+Leprechaun gold coin purse
+Banshee-wail horn
+Troll-bridge key
+Centaur-hoof boots
+Minotaur-laby labyrinth thread
+Gorgon-stone gaze mirror
+Harpy-wind feather fan
+Satyr-pipe reed instrument
+Cyclops-forge anvil hammer
+Yeti-snow fur cloak
+Vampire-night bat wing cape
+Werewolf-moon fang dagger
+Ghost-ethereal lantern
+Zombie-decay bone rattle
+Frankenstein-bolt electrifier
+Mummy-curse linen wrap
+Bigfoot-fur pelt mantle
+Loch Ness-scale fin amulet
+Chupacabra-claw gauntlet
+Fairy tale-glass slipper
+Knight-shining armor polish
+Wizard-spell rune stone
+Witch-potion cauldron
+Pirate-sea treasure map
+Steampunk-gear monocle
+Cyberpunk-hack neural implant
+Samurai-honor katana sheath
+Ninja-shadow kunai pouch
+Gladiator-arena net and trident
+Pharaoh-tomb ankh scepter
+Viking-raid horned helmet
+Cowboy-desert lasso
+Superhero-cape utility belt
+Alien-star probe scanner
+Robot-gear toolkit
+Angel-wing halo ring
+Demon-horn pitchfork
+Gargoyle-stone wing glider
+Dragon-fire scale shield

@@ -1,0 +1,55 @@
+all-terrain vehicle
+ambulance
+armored personnel carrier
+armored recovery vehicle
+armored vehicle
+baneblade
+bicycle
+bus
+car
+concrete mixer truck
+drill tank
+dump truck
+edelweiss \(senjou no valkyria\)
+fire truck
+flatbed truck
+garbage truck
+half-track
+kaneda shoutarou's bike
+landmaster
+leman russ \(tank\)
+lightcycle
+maser tank
+monster truck
+motor vehicle
+motorcycle
+pickup truck
+police car
+scorpion \(halo\)
+self-propelled artillery
+semi truck
+shamrock \(senjou no valkyria\)
+steamroller
+tank
+tank destroyer
+tank truck
+taxi
+technical
+train
+truck
+turretless tank
+van
+warthog \(halo\)
+wraith \(halo\)
+ah-1 cobra
+ah-64 apache
+ch-46 sea knight
+ch-47 chinook
+aircraft carrier
+battleship
+cruiser
+destroyer
+rms queen elizabeth
+rms queen mary
+rms titanic
+submarine

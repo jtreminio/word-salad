@@ -1,0 +1,69 @@
+apple green
+asparagus green
+bright lime green
+bright mint lime
+bright spring green
+bright yellow-green
+celadon green
+celery green
+dark grass green
+dark green
+dark sage
+deep green
+dull green
+dusty green
+electric green
+faded green
+fern green
+fluorescent green
+forest green
+grass green
+green apple
+grey
+grey green
+hunter green
+key lime
+lawn green
+leafy green
+lichen green
+light grass green
+light green
+light grey
+light grey green
+light pastel green
+light sage
+light yellowish green
+lighter green
+medium grey
+medium leaf green
+mid green
+muted grassy green
+muted green
+muted jade
+muted moss green
+muted sage
+neon green
+neon lime
+pale green
+pale lime green
+pale spring green
+pastel green
+pastel light green
+pastel lime
+pastel mint green
+pastel spring green
+pistachio green
+racing green
+sage green
+sage grey
+spring green
+tree green
+turtle green
+very dark green
+very light green
+very pale green
+vibrant grass green
+vibrant green
+vivid green
+vivid leaf green
+

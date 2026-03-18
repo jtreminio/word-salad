@@ -1,0 +1,2 @@
+serious, <wcrandom[1-4,]:<wc:body/face/serious/data>||<wc:body/face/serious/eyes>||<wc:body/face/serious/mouth>||<wc:body/face/serious/symbols>>
+serious, <wcrandom[1-2,]:<wc:body/face/serious/emote>||<wc:body/face/serious/symbols>>

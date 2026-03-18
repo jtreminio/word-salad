@@ -1,0 +1,3 @@
+<wc:clothes/belt>
+<wc:clothes/corset>
+<wc:clothes/torso>

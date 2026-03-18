@@ -1,0 +1,9 @@
+death \(entity\)
+frankenstein's monster
+ghoul
+jiangshi
+lich
+mummy
+undead
+vampire
+zombie

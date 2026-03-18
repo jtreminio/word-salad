@@ -1,0 +1,40 @@
+blue purple
+blue violet
+blue-violet
+bright lavender
+dark indigo
+dark periwinkle
+deep blue
+deep indigo blue
+electric indigo
+electric violet
+electric violet-blue
+indigo blue
+indigo violet
+intense cobalt
+iris purple
+lavender blue
+light indigo
+light lavender
+light royal blue
+light violet
+lilac purple
+liliac
+midnight blue
+pale grey
+pale lilac
+pale violet
+pastel purple
+periwinkle blue
+primary blue
+purple blue
+royal blue
+ultramarine
+ultramarine blue
+vibrant indigo
+vibrant indigo purple
+vibrant lavender
+violet blue
+vivid indigo blue
+vivid indigo violet
+

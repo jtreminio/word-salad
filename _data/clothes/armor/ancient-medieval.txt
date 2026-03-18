@@ -1,0 +1,14 @@
+breastplate
+buckler
+chainmail
+cuirass
+faulds
+gauntlets
+greaves
+helm
+kettle helm
+morion
+scale armor
+vambraces
+visor \(armor\)
+winged helmet

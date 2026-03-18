@@ -1,0 +1,9 @@
+sunbathing, relaxing,\
+<wcrandom[0-1]:lightly||very> tanned, tan lines, <wcrandom[0-1]:shiny skin>,\
+<wcrandom[0-1]:skindentation>,\
+<random:colorful||multicolored||<wc:colors>> <wcrandom[0-1]:strapless> <wc:clothes/swimsuit>,\
+<random:beach||backyard lawn||balcony||beachside hammock||boat deck||cruise ship deck||desert dune||dock||garden patio||hammock||hot springs||lake||mountain lake shore||on a boat||park meadow||pier||private villa courtyard||resort cabana||rocky coastal cliff ledge||rooftop terrace||ski resort sun deck||swimming pool>,\
+<random:lying on <random:back||stomach||side>||sitting on beach chair>,\
+<wcrandom[0-3,]:colorful towel||sunscreen bottle||plate of eaten food>,\
+<wcrandom[0-1]:<wcrandom[0-1]:iced drink||book||magazine> on <random:ground||table||towel||body||hand>>,\
+<random:toe||foot||leg||thigh||butt||ass||groin||stomach||back||shoulder||breast||face> focus,

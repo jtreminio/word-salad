@@ -1,0 +1,299 @@
+30-30 repeater
+adaptive combat rifle
+aegis sword \(xenoblade\)
+aestus estus
+ak-47
+alastor \(sword\)
+alternator
+ame-no-nuhoko
+ammunition box
+ammunition
+antique firearm
+arc star
+argetlahm
+armory
+arondight \(fate\)
+arquebus
+arrow \(projectile\)
+assault rifle
+axe
+b3 wingman elite
+b3 wingman
+b455
+ball and chain \(weapon\)
+bardiche \(weapon\)
+baseball bat
+baton \(weapon\)
+battle rifle
+beam rifle
+beam saber
+beast spear
+belderiver
+beowulf
+berry sword
+biwon blade
+black keys \(type-moon\)
+black keys \(type-moon\)
+blade
+blazefire saber
+blood sword
+blue rose \(gun\)
+blunderbuss
+bolter
+bow \(weapon\)
+br55
+brass knuckles
+bullet hole
+bullet
+buster sword
+butterfly knife \(apex legends\)
+c.a.r. smg
+caladbolg \(fate\)
+caliburn \(fate\)
+cannonball
+cartridge
+cerberus \(weapon\)
+chainsaw
+chakram
+charge rifle
+clima-tact
+clip
+club \(weapon\)
+cocking gun
+cold steel \(apex legends\)
+concealed weapon
+concealed weapon
+cqc
+crescent rose
+crocea mors \(rwby\)
+crossbow
+crowbar
+crystal sword
+cure fleuret
+cutlass
+dagger
+dao
+dead man's curve
+death hammer \(apex legends\)
+deep aqua mirror
+derringer
+devil bringer
+dividing driver
+dominator \(gun\)
+double-blade
+dragonslayer \(sword\)
+drill
+dual wielding
+durandal \(tales\)
+ea \(fate/stay night\)
+ebony & ivory
+ember celica \(rwby\)
+energy sword
+ensis exorcizans
+eotech
+eternal tiare
+eva-8
+excalibolg
+excalibur \(fate/stay night\)
+excalibur galatine \(fate\)
+expandable baton
+fantastic belltier
+firelock
+first ken
+flail
+flared muzzle
+fliegerhammer
+flower tact
+force edge \(dmc\)
+fuel rod cannon
+g7 scout
+gae bolg \(fate\)
+gae buidhe \(fate\)
+gae dearg \(fate\)
+galaxia \(sword\)
+gambol shroud
+garnet rod
+gatling gun
+glaive \(polearm\)
+glowing weapon
+goldion hammer
+graf eisen
+graviton beam emitter
+gravity hammer
+great knife
+greatsword
+gunblade
+halberd
+hammer
+havoc energy rifle
+hemlok
+holding weapon
+holster
+huge weapon
+hydra 70
+improvised weapon
+invisible air \(fate\)
+jamadhar
+jian \(weapon\)
+jitte
+kanabou
+kanshou & bakuya \(fate\)
+katana
+knife
+kraber
+kukri
+kunai
+l-star
+laevatein \(touhou\)
+lance of longinus \(evangelion\)
+laser sight
+laser
+lead pipe
+levantine
+lever action
+lightsaber
+locked slide
+long sword
+love guitar rod
+luck and pluck
+m-3 predator
+m-6 carnifex
+m-8 avenger
+m-92 mantis
+m-98 widow
+m16
+m19
+m1901 mastiff
+m1904 mastiff
+m392 marksman
+m41a pulse rifle
+m56 smartgun
+m600 spitfire
+m6d
+m7
+m739 saw
+m90
+ma5
+mace
+machine gun
+macuahuitl
+magazine \(weapon\)
+magical musket
+master sword
+mexican standoff
+milo and akouo
+miracle belltier
+missile
+mjolnir \(marvel\)
+molotov cocktail
+monado
+monohoshizao
+moriya's iron rings
+multishot rocket launcher
+musket
+muzzle flash
+myrtenaster
+nagimaki
+naginata
+nail bat
+needler
+nevan \(weapon\)
+nunchaku
+outseal
+oxygen destroyer
+p2020 \(pistol\)
+panzerfaust
+partisan
+passion harp
+peacekeeper \(shotgun\)
+peach rod
+pile bunker
+pine flute
+plasma grenade \(halo\)
+plasma rifle
+polearm
+ported barrel
+prowler smg
+psychogun
+quiver
+r-101c carbine
+r-201 soar
+r-301 carbine
+ragnell
+rainblower
+raising heart
+rampage lmg
+rapier
+raven's bite
+ray gun
+ready to draw
+rebellion \(sword\)
+red queen \(sword\)
+rifle
+roboteching
+rocket launcher
+rpg
+rulebreaker
+sa-3 mozambique
+saber \(weapon\)
+sai \(weapon\)
+sasumata
+sawed-off shotgun
+scimitar
+scissor blade \(kill la kill\)
+scope
+scythe
+sentinel esr
+seven-branched sword
+seventh holy scripture
+shell casing
+shinai
+shiny tambourine \(heartcatch precure!\)
+shooting range
+short sword
+shotel
+shotgun
+shuriken
+sica shishikushiro
+silence glaive
+sledgehammer
+slingshot
+smoking gun
+sniper rifle
+soul edge \(weapon\)
+soulcalibur \(weapon\)
+space sword
+sparda \(sword\)
+spear the gungnir
+spear
+spiked ball and chain
+spiked knuckles
+srs99
+star rod
+switch axe
+sword of hisou
+sword of kusanagi
+sword of resonance
+sword
+three section staff
+throwing knife
+tonfa
+trigger discipline
+triple take
+triple wielding
+true apocrypha
+type-1 energy sword
+tyrfing \(mythology\)
+vk-47 flatline
+vk-78 commando
+volt smg
+war club \(apex legends\)
+war hammer
+whip sword
+windfire wheel
+wooden sword
+wraith's kunai
+x-55 devotion
+yagrush & ayamur
+yamato \(sword\)
+yumi \(bow\)
