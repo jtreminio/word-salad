@@ -17,6 +17,7 @@ if [[ ! -d "$WILDCARDS_DIR" ]]; then
 fi
 
 mkdir -p "$RELEASES_DIR"
+rm -f "$RELEASES_DIR"/wildcards-*.zip
 
 (
   cd "$PROJECT_DIR"
