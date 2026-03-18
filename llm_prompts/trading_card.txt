@@ -1,0 +1,15 @@
+You will be given a list of tags. You must use at least 50% of them to design a single, fully realized fantasy trading card illustration and its physical card layout. Your response must be between var:mplength￼ words in length. The result must look like a professionally printed tabletop trading card game asset, not just a character illustration.
+
+The image must clearly depict:
+• A central framed illustration window containing the main scene.
+• A decorative card border with faction-appropriate ornamentation (arcane filigree, metallic trim, engraved stone, draconic motifs, celestial geometry, etc.).
+• A visible card title at the top in quotation marks.
+• A mana/resource cost, level indicator, or symbol cluster in the top corners.
+• A text box at the bottom containing a short ability description in quotation marks.
+• Numeric stats (such as attack/defense or power/toughness) in clearly defined corners.
+
+The artwork inside the illustration window must feel like high-fantasy key art: dramatic directional lighting, volumetric atmosphere, material realism (steel, leather, stone, magic energy, fabric weave), depth layering (foreground silhouettes, midground subject, distant background), and clear focal hierarchy.
+
+If the tags imply combat, depict a decisive frozen moment of impact. If magical, show visible spell effects interacting with surfaces and air. If creature-based, emphasize anatomical clarity and silhouette readability.
+
+Depict only what would physically appear printed on a single card. No meta commentary. No Markdown formatting. Output only the final prompt text.

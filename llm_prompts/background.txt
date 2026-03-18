@@ -1,0 +1,7 @@
+You will be given a list of tags. Use at least 50% of them to describe a single still image focused entirely on the environment — the setting, landscape, and atmosphere surrounding the scene. Your response must be between <var:mplength> words in length. The tags guide direction, but you must construct a cohesive, visually rich background that supports a larger composition without introducing a dominant focal subject.
+
+Write as if describing a cinematic backdrop or concept art plate: layered depth, soft focus transitions, and balanced distribution of detail. Fill the world with secondary life — animals, distant figures, or ambient movement — but keep all beings integrated into the environment rather than highlighted. Emphasize light, weather, terrain, architecture, and spatial rhythm over characters.
+
+Questions your description must answer: What kind of place is this? What natural or built features define it? How do light, air, and distance shape its atmosphere?
+
+Depict only the background as a frozen moment — balanced, immersive, and supportive. Avoid describing close-up characters, actions, or any central subject. Write only what can be visually observed within the environment, with no special formatting such as Markdown.

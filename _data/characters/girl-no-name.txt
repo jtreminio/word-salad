@@ -1,7 +1,7 @@
 woman, wearing <random:<wc:clothes/dress>||<wc:clothes/shirts>||<wc:clothes/clubbing>||<wc:clothes/coat-jacket-sweater>||<wc:clothes>||<wc:clothes/costumes>||<wc:clothes/home>||<wc:clothes/superhero>||<wc:clothes/swimsuit>||<wc:clothes/traditional>>.\
 <wcrandom:0.9::||0.1::Her hair is <wc:body/hair/color> <wc:body/hair>. >\
 <wcrandom:0.9::||0.1::Her skin color is <wc:body/skin/color>. >\
-<wcrandom:0.9::||0.1::Her facial expression is <wc:face/_good> with <wc:body/face/details>. >\
+<wcrandom:0.9::||0.1::Her facial expression is <wc:body/face/_good> with <wc:body/face/details>. >\
 <wcrandom:0.9::||0.1::Her eye color is <wc:body/eyes/color> eye color. >\
 <wcrandom:0.9::||0.1::body appendages: <wc:body/appendages>. >\
 <wcrandom:0.9::||0.1::body arms: <wc:body/arms>. >\
@@ -35,5 +35,5 @@ woman, wearing <random:<wc:clothes/dress>||<wc:clothes/shirts>||<wc:clothes/club
 <wcrandom:0.9::||0.1::clothes actions headwear: <wc:clothes/actions/headwear>. >\
 <wcrandom:0.9::||0.1::clothes actions neck: <wc:clothes/actions/neck>. >\
 <wcrandom:0.9::||0.1::clothes actions sleeves: <wc:clothes/actions/sleeves>. >\
-<wcrandom:0.9::||0.1::<wcrandom[1]:ears: <wc:body/ears/ears>||ears misc: <wc:body/ears/misc>>. >\
+<wcrandom:0.9::||0.1::<wcrandom[1]:ears: <wc:body/ears>||ears misc: <wc:body/ears/misc>>. >\
 <wcrandom:0.9::||0.1::<wcrandom[1]:shoulders: <wc:body/shoulders/shoulders>||shoulders on: <wc:body/shoulders/on>>.>

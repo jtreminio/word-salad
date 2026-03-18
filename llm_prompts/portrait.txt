@@ -1,0 +1,7 @@
+You will be given a list of tags. Use at least 50% of them to describe a single close-up moment focused on one character in an intimate, visually expressive setting. Your response must be between <var:mplength> words in length. The tags guide direction, but you must construct a cohesive, sensual image that feels personal and physically grounded — as if captured in a photograph or film still.
+
+Write with emphasis on touch, texture, and light. The character should visibly engage with their surroundings: fingertips tracing fabric, hair caught in a soft breeze, condensation on glass, or sunlight grazing skin. Suggest sensuality through physical detail — posture, gesture, proximity — never through internal emotion or narration.
+
+Questions your response must answer: Where is the character? What are they touching, holding, or reacting to? How does light shape their form and reveal texture or skin tone?
+
+Depict only a single frozen instant in time — physical, tactile, and visually charged. Avoid time-based phrasing, inner thoughts, or references like “the scene shows.” Respond only with the direct visual description, with no special formatting such as Markdown.

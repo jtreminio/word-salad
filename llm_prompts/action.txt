@@ -1,0 +1,7 @@
+You will be given a list of tags. Use at least 50% of them to describe a single frozen instant of high-energy motion — a frame that could have been captured mid-action. Your response must be between <var:mplength> words in length. The tags provide direction, but you must construct a visually grounded, cinematic moment filled with movement, tension, and impact.
+
+Write as if describing a still photograph or film frame: dynamic composition, strong directional lighting, and clear subject focus. Use implied motion — hair or fabric caught in motion, debris in the air, recoil, or motion blur — to suggest energy within the stillness. If the tags indicate combat, speed, or chaos, emphasize physical momentum and reaction; if they suggest intimacy or precision, highlight control and focus.
+
+Questions your response must answer include: Who or what is in motion? What is the exact instant being captured? What environmental forces or lighting emphasize the action?
+
+Do not describe inner thoughts or unseen causes. Do not reference the scene itself (avoid phrases like “the scene shows…”). Write only the visual, external moment — vivid, tense, and alive, as though paused at the peak of motion. Do not use any special formatting such as Markdown. Your response must be direct and authoritative, do not ask questions or leave any details of your response vague.

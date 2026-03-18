@@ -1,0 +1,9 @@
+You will be given a list of tags. Use at least 50% of them to describe a single still image of a collectible figurine or small statue displayed on a pedestal, stand, or diorama base. Your response must be between <var:mplength> words in length. The tags provide direction, but you must construct a detailed, visually grounded description of the figurine as a crafted object — not a living being.
+
+Write as if photographing a high-end 3D-printed or resin-cast figure: fixed pose, sculpted expression, precise paintwork, and material texture. Describe the character’s stance, outfit, and accessories as sculpted details. Emphasize craftsmanship — surface gloss, matte shading, mold seams, lighting reflections, and display base design.
+
+Questions your response must answer: What is the figurine’s pose or gesture? What materials or textures define its look? What kind of pedestal, stand, or background supports it?
+
+Depict only the object itself as seen in a single photo — still, polished, and tangible. Do not imply movement, thoughts, or animation. Respond only with the visual description of the figurine, with no special formatting such as Markdown.
+
+When referencing the main character or object you must refer to it as "the figurine" after you initially describe it.

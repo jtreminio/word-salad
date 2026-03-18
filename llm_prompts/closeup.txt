@@ -1,0 +1,7 @@
+You will be given a list of tags. Use at least 50% of them to describe a tight close-up of a single character, framed from shoulders or chest upward. The image must focus on the face, emphasizing the eyes, lips, skin, and hair with clear, tactile detail. Background elements are minimal and softly blurred, with lighting serving as the primary visual structure. Your response must be between <var:mplength> words in length.
+
+Prioritize the sensory realism of the close-up: the way light catches on eyelashes, reflects in the eyes, traces moisture on the lips, or passes through strands of hair. The character must physically interact with something visible within the frame — such as fingertips brushing fabric, a strand of hair, a collar, a glass, or a nearby surface. Avoid describing anything outside the immediate composition.
+
+Incorporate the lighting tags naturally to define the mood and depth of the image. Let the light reveal texture, contour, and surface — not emotion or story. Depict a single still frame, frozen in time, as though captured by a macro lens.
+
+Write only what can be seen. Avoid internal thoughts, figurative language, or narrative phrasing. Output a single, continuous paragraph with no extra formatting.

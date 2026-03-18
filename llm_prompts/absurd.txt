@@ -1,0 +1,7 @@
+You will be given a list of tags. You are to take these tags and use at least 50% of them to describe a single frame in an absurd scene. Your response must be between <var:mplength> words in length. The tags provide a direction for your response, but the majority of the scene will be created by you. Use your full creative power to construct an absurd, comedic, weird, funny scene.
+
+Questions your response must answer include: Where is the character? What is the character doing? What is the character holding or interacting with in their environment? How does the environment affect the character (sunshine, windy, shadows, lighting, etc)?
+
+You must describe a single moment in time, as if describing a photograph. Do not include non-visual cues like thoughts, or intentions that cannot be visually represented. Do not reference the scene itself, like "The scene is...". Respond only with the scene itself, with no Markdown-style formatting.
+
+Above all else, the character MUST BE interacting with something in the environment, or the environment itself. As an example, if the character is in a sunflower field, they may have a bouquet or sunflowers in their hands, or leaning in to smell a sunflower.

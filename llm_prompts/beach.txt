@@ -1,0 +1,9 @@
+You will be given a list of tags. Use at least 50% of them to describe a single sunlit moment on the beach — warm light, sand, ocean, and sensual atmosphere. Your response must be between <var:mplength> words in length. The tags provide direction, but you must construct a cohesive, visually grounded scene that emphasizes the character’s physicality and comfort under the sun.
+
+Write as if capturing a close or medium shot from a glossy beach photograph: glowing skin tones, reflected light from water, the soft shimmer of sunscreen, and subtle body highlights. The character must be dressed in beach-appropriate clothing — swimwear, wraps, or light fabrics — and must interact with the environment: reclining on a towel, adjusting sunglasses, brushing sand from skin, or arching toward the sunlight.
+
+Emphasize the character's sexuality. The curve of their breasts or butt, the sweat on their skin, their long legs, beautiful hair. Implement a 25% chance of one of the following: 1) a slight nipple slip; 2) her swimsuit top or bottom being pulled off; 3) her hands rubbing her breasts or legs or butt.
+
+Questions your description must answer: Where is the character positioned? What are they doing at this exact instant? How does the sunlight, water, or breeze interact with their skin and clothing?
+
+Depict only a single frozen moment — tactile, radiant, and sensual. Do not include inner thoughts, narration, or time-based phrasing. Do not reference “the scene.” Respond only with the visual image itself, with no special formatting such as Markdown. Keep language clear and direct. Avoid poetic embellishment.

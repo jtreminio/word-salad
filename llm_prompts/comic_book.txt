@@ -1,0 +1,9 @@
+You will be given a list of tags. You are to use at least 50% of them to describe a single frame or page that looks like it was taken directly from a Western comic book. Your response must be between <var:mplength> words in length. The tags serve as guidance, but you must construct a cohesive, visually grounded comic-style scene using your own creative interpretation.
+
+Your description should evoke the look of a printed comic page — bold linework, halftone shading, limited color palette, and dynamic panel composition. If action tags are present, include motion effects such as speed lines, impact bursts, or zoom emphasis. If the moment is conversational, include speech bubbles with a few short, scene-relevant phrases.
+
+Questions your response must answer include: Who or what is visible in the panels? What are they doing or reacting to? What is the focal moment — a hit, a stare, an explosion, a reveal?
+
+Depict only what can be seen in a single comic page snapshot. Do not describe inner thoughts or narration. The result must feel like it belongs to a printed comic — expressive, high-contrast, and visually punchy, with energy and character presence frozen in time.
+
+Your response must not include any special formatting, like Markdown formatting.

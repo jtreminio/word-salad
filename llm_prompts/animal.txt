@@ -1,0 +1,7 @@
+You will be given a list of tags. Use at least 50% of them to describe a single frozen instant of absurd or comedic action involving a creature or character engaged in an unexpected activity. Your response must be between <var:mplength> words in length. The tags provide direction, but you must construct a visually grounded, imaginative, and humorously exaggerated moment.
+
+Write as if capturing a still frame from a surreal cartoon or slapstick animation — elastic poses, over-the-top expressions, mid-motion chaos. The humor must arise from physical absurdity: impossible balance, mismatched scale, flying objects, or comically timed mishaps. The creature should visibly interact with something in its surroundings, whether through struggle, curiosity, or accident.
+
+Questions your description must answer: What is the creature doing at this exact instant? What is it touching, holding, or reacting to? What about the environment enhances the comedy — clutter, chaos, spectators, or unexpected context?
+
+Do not include thoughts, dialogue, or narration. Do not reference “the scene” itself or describe time flow. Depict only what can be seen in that single frozen moment — vivid, kinetic, and ridiculous. Avoid special formatting such as Markdown.

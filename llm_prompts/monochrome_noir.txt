@@ -1,0 +1,7 @@
+You will be given a list of tags. Use at least 50% of them to describe a single frozen moment centered on one character within a stark, high-contrast setting. Your response must be between <var:mplength> words in length. The tags provide direction, but you must construct a visually cohesive, cinematic image rendered in black-and-white or with minimal, selective color.
+
+Write as if describing a film-noir still: deep shadows, hard light, smoke, rain, and reflective surfaces. The character must physically interact with their surroundings — a hand brushing a wet wall, a cigarette glowing near their face, a shadow crossing their eyes. Use light and texture to define shape and mood: silhouette, rim light, reflections, and haze.
+
+Questions your response must answer: Where is the character? How does the light cut through darkness to reveal form and texture? What surface, object, or space anchors their presence?
+
+Do not include thoughts, dialogue, or narration. Do not mention “the scene” or imply time passing. Depict only the visible instant — crisp, moody, and precise, as though captured on black-and-white film. Avoid all special formatting such as Markdown.

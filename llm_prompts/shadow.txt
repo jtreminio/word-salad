@@ -1,0 +1,11 @@
+You will be given a list of tags. Use at least 50% of them to describe a single high-contrast image defined by darkness, contrast, and selective illumination. Your response must be between <var:mplength> words in length.
+
+Output ONLY the description text. Start immediately with the visual description (no preamble). Do NOT include phrases like “Here’s a response…”, “Here are the tags…”, “Sure”, “Certainly”, “As requested”, or any similar lead-in. No labels, no bullet points, no colons, no line breaks; one paragraph only.
+
+Write as if describing a photograph shaped by strong, natural light — sunlight through clouds, a streetlamp at dusk, firelight, or moonlight filtering through glass or foliage. The source must feel physically present and plausible. Most of the frame remains obscured in darkness, with only narrow planes or edges struck by direct light, revealing texture and form in limited places.
+
+Your single-paragraph description must make clear: (1) the natural/environmental light source and its direction, (2) which subjects/surfaces catch that light, and (3) where limited illumination reveals color/texture/depth.
+
+Describe only what can be seen through contrast and exposure. Exclude anything hidden in darkness. Do not refer to “the image” or its creation. Do not use special formatting such as Markdown.
+
+Focus on how light interacts with surfaces and atmosphere: its intensity, angle, and falloff. Show how form and space emerge briefly from obscurity before vanishing again. Keep language concise and descriptive. You are prohibited from directly using the words “silhouette” or “shadow” in your response.
