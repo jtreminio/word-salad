@@ -13,4 +13,4 @@
 <wc:clothes/swimsuit>, <wcrandom[0-1]:<wc:clothes/_body>>
 <wc:clothes/traditional>, <wcrandom[0-1]:<wc:clothes/_body>>
 <wc:clothes/_sexy>, <wcrandom[0-1]:<wc:clothes/_body>>
-<wc:clothes/top>, <wc:clothes/leg>, <wcrandom[0-1]:<wc:clothes/_body>>
+<wc:clothes/_top>, <wc:clothes/_leg>, <wcrandom[0-1]:<wc:clothes/_body>>
