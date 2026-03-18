@@ -17,7 +17,11 @@ if [[ ! -d "$WILDCARDS_DIR" ]]; then
 fi
 
 mkdir -p "$RELEASES_DIR"
-rm -f "$RELEASES_DIR"/wildcards-*.zip
+for old_zip in "$RELEASES_DIR"/wildcards-*.zip; do
+  [[ -e "$old_zip" ]] || continue
+  [[ "$(basename "$old_zip")" == "Datadump.zip" ]] && continue
+  rm -f "$old_zip"
+done
 
 (
   cd "$PROJECT_DIR"
