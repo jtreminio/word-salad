@@ -1,29 +1,21 @@
 athletic
 Athletic, an athletic physique with balanced muscle tone and functional definition
-Broad-shouldered, a broad-shouldered silhouette with wide upper torso and strong clavicle line
 curvy
 Curvy, a curvy figure with soft contours and pronounced hips and bust
 fat
-fat rolls
 giant
 Hourglass, an hourglass figure with balanced bust and hips and a narrow waist
 Inverted triangle, an inverted-triangle shape with broader shoulders tapering to narrower hips
 Lithe, a lithe figure with flexible, graceful proportions and lean muscle
-love handles
-muffin top
 muscular
 Muscular, a muscular physique with pronounced muscle mass and strong definition
 Natural, a natural figure with moderate proportions and natural weight distribution
 Pear-shaped, a pear-shaped body with narrower shoulders and wider hips
-Petite, a petite figure with compact proportions and delicate frame
 plump
 Plus-size, a plus-size body with fuller proportions and soft contours
 Rectangle, a rectangular body shape with similar shoulder, waist and hip widths
-Short, a short stature with slender proportion with short height
 skinny
 Slender, a slender physique with elongated lines and subtle definition
 slim
 Slim, a slim figure with narrow silhouette and light musculature
-Tall, a tall stature with long limbs and elevated overall height
 Toned, a toned figure with visible muscle definition and low body-fat appearance
-wide hips
