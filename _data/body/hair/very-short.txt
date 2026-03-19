@@ -1,3 +1,6 @@
 buzz cut
 crew cut
 very short hair
+Bald, a bald head with smooth scalp texture and natural skin sheen
+Buzzcut, a uniform buzzcut with short clipped length and textured scalp
+Shaved, a closely shaved style with visible stubble and clean scalp lines
