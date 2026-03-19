@@ -1,0 +1,3 @@
+doll joints
+robot joints
+tail
