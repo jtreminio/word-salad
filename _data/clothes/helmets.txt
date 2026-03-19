@@ -11,6 +11,9 @@ fishbowl helmet
 hardhat
 headlamp
 helm
+Helmet Bike, streamlined bike helmet with vented shell and secure strap
+Helmet Medieval, medieval-style helmet with riveted shell and pronounced brow
+Helmet Motorcycle, full-face motorcycle helmet with visor and reinforced shell
 horned helmet
 kabuto \(helmet\)
 kettle helm

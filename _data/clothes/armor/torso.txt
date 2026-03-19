@@ -1,6 +1,7 @@
 breastplate
 bulletproof vest
 chainmail
+dou
 cuirass
 linothorax
 muneate

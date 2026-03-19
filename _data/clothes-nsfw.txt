@@ -17,3 +17,5 @@
 <wc:clothes/traditional>, <wcrandom[0-1]:<wc:clothes/_body>>
 <wc:clothes/uniform>, <wcrandom[0-1]:<wc:clothes/_body>>
 <wc:clothes/_top>, <wc:clothes/_leg>, <wcrandom[0-1]:<wc:clothes/_body>>
+<wc:clothes/swimsuit>
+<wc:clothes/_sexy>, <wcrandom[0-1]:<wc:clothes/_body>>

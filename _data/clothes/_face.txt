@@ -1,2 +1,3 @@
 <wc:clothes/earrings>
 <wc:clothes/eyewear>
+<wc:clothes/face-accessories>

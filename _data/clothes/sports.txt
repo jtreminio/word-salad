@@ -1,0 +1,6 @@
+<wc:clothes/sports/aerial>
+<wc:clothes/sports/climbing-jumping>
+<wc:clothes/sports/trail-racing>
+<wc:clothes/sports/volcano-boarding>
+<wc:clothes/sports/wingsuit-flying>
+<wc:clothes/sports/winter>

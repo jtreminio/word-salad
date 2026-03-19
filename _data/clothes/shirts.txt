@@ -28,6 +28,7 @@ cropped denim bustier
 cropped hoodie with cut-outs
 cut-out shoulder top
 cut-out turtleneck top
+turtleneck
 cutout collar knit top
 deep scoop neck top
 deep v chain strap blouse
@@ -35,7 +36,6 @@ deep v lace long sleeve top
 deep v-neck bodysuit
 double strap satin cami
 dress shirt
-dress
 faux leather tank top
 feather-trim cami
 fishnet overlay top
@@ -75,12 +75,9 @@ open-back knit top
 padded shoulder muscle top
 plunge neck bodysuit
 plunging lace-trim camisole
-poncho
 printed chiffon crop top
 racerback metallic crop
-raglan sleeves
 ruched mesh long sleeve top
-sash
 satin bralette with straps
 satin crop top
 satin draped shoulder top
@@ -96,15 +93,12 @@ sheer panel cami top
 sheer puff sleeve top
 shimmer shoulderless top
 shirt
-shoulder sash
-shrug \(clothing\)
 side cut-out stretch top
 sleeveless shirt
 spaghetti strap satin cami
 spandex halter crop
 sparkle knit off-shoulder top
 sparkle tube top
-stole
 strapless bandeau top
 strapless ruched velvet top
 strapless velvet crop top
@@ -112,11 +106,7 @@ strappy criss-cross back top
 strappy crop top
 stringer
 striped shirt
-surcoat
-sweater vest
 t-shirt
-tabard
-tailcoat
 tank top
 tie-back lace cami
 tie-dye mesh halter
@@ -129,7 +119,5 @@ underboob cutout top
 underbust
 v-wire bustier
 velvet square-neck top
-vest
 vinyl strap top
-waistcoat
 wrap front sequin top

@@ -1,3 +1,5 @@
+#panties on head
+#pumpkin hat
 ajirogasa
 animal hat
 aviator cap
@@ -30,7 +32,6 @@ chef hat
 cloche hat
 coif
 cowboy hat
-crown
 dalachi \(headdress\)
 deerstalker
 dixie cup hat
@@ -61,7 +62,6 @@ hat with ears
 head scarf
 headband
 headdress
-helmet
 hijab
 honggaitou
 jester cap
@@ -72,7 +72,6 @@ kippah
 m43 field cap
 maid headdress
 mao cap
-mian guan
 military hat
 mini hat
 mini santa hat
@@ -87,7 +86,6 @@ nightcap
 nurse cap
 object on head
 okosozukin
-#panties on head
 papakha
 party hat
 patrol cap
@@ -96,11 +94,9 @@ pelt
 penguin hat
 pillow hat
 pirate hat
-pith helmet
 police hat
 porkpie hat
 print headwear
-#pumpkin hat
 qing guanmao
 rabbit hat
 rice hat
@@ -121,7 +117,7 @@ sun hat
 sweatband
 tam o' shanter
 tate eboshi
-tiara
+tiny top hat with veil
 tokin hat
 top hat
 toque blanche
@@ -130,7 +126,6 @@ traffic cone on head
 tricorne
 tsunokakushi
 ushanka
-veil
 visor cap
 witch hat
 wizard hat

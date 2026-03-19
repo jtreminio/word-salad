@@ -1,7 +1,5 @@
 exoskeleton
 gundam
-helicopter ears
-helicopter hair
 jetpack
 mecha
 mechanical broom

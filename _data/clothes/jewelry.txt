@@ -1,21 +1,17 @@
-Necklace Pendant, delicate pendant necklace on a fine chain with single polished gemstone
-Necklace Choker, close-fitting choker with minimal clasp and smooth surface
-Necklace Layered, multiple layered chains at varied lengths with subtle tiny charms
-Earrings Stud, small minimalist stud earring with flush-set polished stone
-Earrings Hoop, medium hoop earrings with seamless circular silhouette and polished finish
-Earrings Drop, elegant drop earrings with slender connector and dangling ornament
-Ring Band, simple metal band ring with smooth rounded profile
-Ring Signet, flat-top signet ring with engraved oval face and solid shank
-Ring Cocktail, bold cocktail ring with oversized decorative top and faceted center
-Bracelet Bangle, rigid circular bangle with clean edge and polished surface
-Bracelet Cuff, open cuff bracelet with sculptural form and brushed metal texture
-Bracelet Charm, chain bracelet studded with small dangling charms and links
-Anklet, thin chain anklet with tiny accent charms and subtle movement
-Nose ring, delicate nose ring with smooth bezel and low-profile shine
-Septum ring, small decorative septum ring with refined detailing and slim band
-Ear cuff, non-pierced ear cuff hugging the helix with textured metalwork
+Analog watch, classic analog wristwatch with hour markers and sweeping hands
 Brooch, decorative brooch with pin-back and ornamental enamel or filigree
-Tiara Crown, miniature tiara with fine filigree and small crystal accents
-Hairpin Comb, decorative hairpin or comb with ornamental inlay and slender teeth
+Ceramic watch, ceramic-cased watch with smooth monolithic surface and subtle sheen
+Chronograph, multi-dial chronograph watch with pushers and precise subdials
+Digital watch, compact digital watch with segmented display and functional readout
+Diver watch, robust diver watch with rotating bezel and prominent luminous markers
+Dress watch, slim dress watch with minimalist face and refined proportions
+Field watch, utility field watch with clear numerals and rugged case
+Futuristic HUD watch, concept HUD-style watch with projected numbers and holographic elements
+Leather strap, watch fitted with stitched leather strap and polished buckle
 Locket, small hinged locket with smooth exterior and hidden inner compartment
+Metal bracelet, watch on articulated metal bracelet with brushed and polished links
 Pocket watch (jewelry), engraved pocket watch with visible case detailing and short chain
+Pocket watch (timepiece), classic pocket watch with ornate case and attached fob chain
+Skeleton watch, skeletonized watch revealing mechanical gears and movement detail
+Smartwatch, sleek smartwatch with rectangular display and subtle UI glow
+Vintage watch, timepiece with aged dial details and period-correct styling

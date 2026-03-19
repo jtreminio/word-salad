@@ -1,4 +1,4 @@
-woman, wearing <random:<wc:clothes/dress>||<wc:clothes/shirts>||<wc:clothes/clubbing>||<wc:clothes/coat-jacket-sweater>||<wc:clothes/corset>||<wc:clothes>||<wc:clothes/costumes>||<wc:clothes/home>||<wc:clothes/lingerie>||<wc:clothes/sexy-time>||<wc:clothes/superhero>||<wc:clothes/swimsuit>||<wc:clothes/traditional>||<wc:clothes/bra>>.\
+woman, wearing <wc:clothes-nsfw>.\
 <wcrandom:0.9::||0.1::Her hair is <wc:body/hair/color> <wc:body/hair>. >\
 <wcrandom:0.9::||0.1::Her skin color is <wc:body/skin/color>. >\
 <wcrandom:0.9::||0.1::Her facial expression is <wc:body/face/_good> with <wc:body/face/details>. >\

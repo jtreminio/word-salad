@@ -10,14 +10,20 @@ letterman jacket
 long coat
 overcoat
 peacoat
+poncho
 pullover
 raincoat
 ribbed sweater
 safari jacket
+shrug \(clothing\)
 suit jacket
 sukajan
+surcoat
 sweater
-sweater dress
+sweater vest
+tabard
+tailcoat
 trench coat
-turtleneck
+vest
+waistcoat
 winter coat

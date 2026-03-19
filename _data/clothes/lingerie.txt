@@ -7,14 +7,14 @@ bra
 bralette and thong set
 bridal lingerie
 bust window lingerie
-bustier and garter combo
 bustier
+bustier and garter combo
 cage bra and panty set
 camisole
 chemise
 chiffon babydoll and thong
-corset bra and panty
 corset
+corset bra and panty
 criss-cross back lingerie
 crotchless mesh panty
 cupless lingerie
@@ -28,8 +28,8 @@ fishnet teddy
 fishnets
 floral embroidered lingerie
 fringe lingerie
-garter belt set
 garter belt
+garter belt set
 garter straps
 halter babydoll
 halter lace slip
@@ -39,6 +39,7 @@ harness lingerie
 high neck mesh lingerie
 high-leg lace set
 illusion mesh teddy
+lace
 lace and pearl set
 lace bustier
 lace choker set
@@ -52,7 +53,6 @@ lace romper
 lace shelf bra set
 lace slip dress
 lace teddy
-lace
 lace-paneled satin set
 lace-trim cami set
 lace-up front teddy
@@ -60,8 +60,8 @@ lace-up lingerie dress
 latex bodysuit
 latex lingerie
 leather lingerie
-lingerie gown
 lingerie
+lingerie gown
 long-sleeve lace bodysuit
 longline lace bra with mesh panty
 low-back lace bodysuit
@@ -73,6 +73,7 @@ mesh wrap set
 micro thong and mesh top
 microkini lingerie
 multi-strap bustier
+negligee
 nightgown
 off-shoulder lingerie
 open back slip dress
@@ -109,9 +110,9 @@ strappy bodysuit
 strappy garter teddy
 strappy lingerie
 string bikini lingerie
+teddy \(lingerie\)
 teddy with attached stockings
 teddy with garter clips
-teddy \(lingerie\)
 thighhighs
 thong
 triangle bra and string panty

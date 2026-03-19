@@ -1,8 +1,8 @@
 alternate legwear
 american flag legwear
 animal ear legwear
-ankle socks with bows
 ankle socks
+ankle socks with bows
 ankle-high sheer socks
 aran legwear
 argyle legwear
@@ -56,8 +56,8 @@ fluffy legwear
 frilled legwear
 front-seamed legwear
 fur-trimmed legwear
-garter belt stockings
 garter belt
+garter belt stockings
 garter strap tights
 garter straps
 garter-mimic tights
@@ -75,6 +75,7 @@ knit legwear
 lace ankle cuffs
 lace band hold-ups
 lace band over-the-knees
+lace footlets
 lace garter belt with stockings
 lace insert pantyhose
 lace legwear

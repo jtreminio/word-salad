@@ -53,7 +53,6 @@ halter neck jacquard mini
 halter neck sequin mini
 halter satin mini dress
 harness strap club dress
-high-low skirt
 high-neck lace bodycon
 high-slit satin gown
 highleg dress
@@ -81,8 +80,6 @@ mermaid dress
 mesh overlay dress
 mesh-paneled skater dress
 micro pleated halter dress
-negligee
-nightgown
 off-shoulder brocade dress
 off-shoulder dress
 off-shoulder glitter dress
@@ -97,8 +94,8 @@ pencil dress
 pinafore dress
 pleated dress
 plunge neck party dress
-plunging neckline mermaid dress
 plunging neckline
+plunging neckline mermaid dress
 printed mesh ruched dress
 printed satin slip dress
 rhinestone mesh dress
@@ -129,8 +126,6 @@ side tie velvet dress
 side-slit jersey maxi dress
 silk a-line mini dress
 silk slip dress
-skirt basket
-skirt
 sleeveless dress
 spaghetti strap club dress
 sparkle mesh bodycon
