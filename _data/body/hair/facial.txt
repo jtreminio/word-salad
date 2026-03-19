@@ -1,19 +1,19 @@
 beard
 bearded girl
-Clean shaved, a clean-shaven face with fully smooth skin and no visible facial hair
-Designer beard, a designer beard with sculpted lines, intentional shaping and polished finish
+clean-shaven face with fully smooth skin and no visible facial hair
+designer beard with sculpted lines, intentional shaping and polished finish
 facial hair
 fake mustache
-Full beard, a full beard with thick coverage and natural tapering
+full beard with thick coverage and natural tapering
 goatee
-Goatee, a goatee concentrated on the chin with minimal cheek coverage
-Heavy stubble, heavy stubble with denser short facial hair creating a rough shadow
-Long beard, a long beard with extended length, visible strand detail and natural flow
+goatee concentrated on the chin with minimal cheek coverage
+heavy stubble with denser short facial hair creating a rough shadow
+light stubble across the jaw and chin with short, fine hairs and textured shadow
+long beard with extended length, visible strand detail and natural flow
 mustache
-Mustache (handlebar, pencil, chevron), a styled mustache [handlebar, pencil or chevron] with defined shape and clear edges
-Mutton chops, mutton chops with heavy sideburns extending toward the jaw and minimal chin coverage
-Short beard, a short beard with tidy, clipped length and clean edges
+mutton chops with heavy sideburns extending toward the jaw and minimal chin coverage
+neatly trimmed beard with sharp neckline and sculpted cheek lines
+short beard with tidy, clipped length and clean edges
 stubble
-Stubble, light stubble across the jaw and chin with short, fine hairs and textured shadow
-Trimmed beard, a neatly trimmed beard with sharp neckline and sculpted cheek lines
-Van Dyke, a Van Dyke style with a pointed goatee paired with a separated mustache
+styled mustache <random:handlebar||pencil||chevron> with defined shape and clear edges
+Van Dyke style with a pointed goatee paired with a separated mustache

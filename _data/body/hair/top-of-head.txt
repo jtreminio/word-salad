@@ -1,23 +1,120 @@
 ahoge
 antenna hair
+ballerina bun
+barrel roll updo
+bow at crown
+braided bun
+braided crown
+braided topknot
+bubble bun
+bubble ponytail
+bumped ponytail
+bun hairstyle with neatly wrapped hair and smooth finish
+casual updo
+centered ponytail
+chignon
+chunky bun
+classic chignon
+clip at crown
+coiled bun
+comb at crown
+compact bun
+cone hair bun
+crescent bun
+crown braid
+crown braid updo
+crown hairpin
+curly ahoge
+curly bun
+curly ponytail
+decorative pin at crown
+donut hair bun
+double ahoge
+double bun
+drooping ahoge
+dutch bun
+dutch crown braid
+elegant updo
+figure-eight bun
+flipped bun
+flower crown
+fluffy bun
+french braid updo
+french twist
+gibson tuck
+hair bun
+hair fork updo
+hair pinned at crown
 hair pulled back
 hair slicked back
+half-up half-down
+half-up ponytail
+halo braid
 heart ahoge
 heart antenna hair
-huge ahoge
-oseledets
-braided bun
-Bun, a bun hairstyle with neatly wrapped hair and smooth finish
-cone hair bun
-crown braid
-donut hair bun
-double bun
-hair bun
 heart hair bun
+high bun
 high ponytail
-Pompadour, a pompadour with voluminous swept-back top and sculpted silhouette
+huge ahoge
+jeweled updo
+kanzashi updo
+knotted bun
+knotted ponytail
+lazy bun
+long ahoge
+looped ponytail
+loose bun
+loosely pinned updo
+low bun
+messy bun
+messy ponytail
+milkmaid braids
+mini bun
+multiple ahoges
+neat bun
+oseledets
+oversized bun
+pinned bun
+pinned waves
+pompadour with voluminous swept-back top and sculpted silhouette
+pony with wrap
+puffy ponytail
+ribbon-tied bun
+rolled bun
+rolled updo
+rope twist updo
+scrunchie bun
+sculptural updo
+short ahoge
 single hair bun
-Slicked back, a slicked-back style with glossy finish and combed-back strands
+sleek bun
+sleek ponytail
+slicked-back style with glossy finish and combed-back strands
+smooth ponytail
+sock bun
+soft updo
+spiral ahoge
+spiral bun
+stacked bun
+star ahoge
+straight ponytail
+swept-up style
+textured bun
+thin ahoge
+tiara updo
+tiny ahoge
+top braid
 topknot
-Topknot, a topknot with hair pulled up and secured at the crown for a tidy look
+topknot with hair pulled up and secured at the crown for a tidy look
 triple bun
+twisted bun
+twisted chignon
+twisted knot
+twisted topknot
+victory roll updo
+voluminous ponytail
+wavy ahoge
+wavy ponytail
+wide ahoge
+wrapped bun
+wrapped ponytail

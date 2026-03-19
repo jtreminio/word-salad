@@ -1,4 +1,4 @@
-$file:[_data/body/hair/_very-short], <wcrandom[0-3,]:<wc:body/hair/color>||<wc:body/hair/misc>||<wc:body/hair/over-body>>
-$file:[_data/body/hair/_short], <wcrandom[0-5,]:<wc:body/hair/color>||<wc:body/hair/front-of-head>||<wc:body/hair/accessories>||<wc:body/hair/misc>||<wc:body/hair/over-body>>
-$file:[_data/body/hair/_long], <wcrandom[0-5,]:<wc:body/hair/color>||<wc:body/hair/front-of-head>||<wc:body/hair/accessories>||<wc:body/hair/misc>||<wc:body/hair/over-body>>
-$file:[_data/body/hair/_tall], <wcrandom[0-5,]:<wc:body/hair/color>||<wc:body/hair/front-of-head>||<wc:body/hair/accessories>||<wc:body/hair/misc>||<wc:body/hair/over-body>>
+$file:[_data/body/hair/very-short] hair style, <wcrandom:4::<wc:body/hair/color> hair color|6::>, <wcrandom:1::<wc:body/hair/misc>|9::>
+$file:[_data/body/hair/short] hair style, <wcrandom:4::<wc:body/hair/color> hair color|6::>, <wcrandom:1::<wc:body/hair/top-of-head>|9::>, <wcrandom:1::<wc:body/hair/front-of-head>|9::>, <wcrandom:1::<wc:body/hair/accessories>|9::>, <wcrandom:1::<wc:body/hair/misc>|9::>
+$file:[_data/body/hair/long] hair style, <wcrandom:4::<wc:body/hair/color> hair color|6::>, <wcrandom:1::<wc:body/hair/top-of-head>|9::>, <wcrandom:1::<wc:body/hair/front-of-head>|9::>, <wcrandom:1::<wc:body/hair/accessories>|9::>, <wcrandom:1::<wc:body/hair/misc>|9::>
+$file:[_data/body/hair/tall] hair style, <wcrandom:4::<wc:body/hair/color> hair color|6::>, <wcrandom:1::<wc:body/hair/top-of-head>|9::>, <wcrandom:1::<wc:body/hair/front-of-head>|9::>, <wcrandom:1::<wc:body/hair/accessories>|9::>, <wcrandom:1::<wc:body/hair/misc>|9::>
