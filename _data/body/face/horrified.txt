@@ -1,2 +1,1 @@
-horrified, <wcrandom[1-4,]:<wc:body/face/horrified/data>||<wc:body/face/horrified/eyes>||<wc:body/face/horrified/mouth>||<wc:body/face/horrified/symbols>>
-horrified, <wcrandom[1-2,]:<wc:body/face/horrified/emote>||<wc:body/face/horrified/symbols>>
+horrified, <wcrandom[1-3,]:<wc:body/face/horrified/data>||<wc:body/face/horrified/eyes>||<wc:body/face/horrified/mouth>>

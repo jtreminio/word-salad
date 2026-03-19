@@ -1,2 +1,1 @@
-crazy, <wcrandom[1-4,]:<wc:body/face/crazy/data>||<wc:body/face/crazy/eyes>||<wc:body/face/crazy/mouth>||<wc:body/face/crazy/symbols>>
-crazy, <wcrandom[1-2,]:<wc:body/face/crazy/emote>||<wc:body/face/crazy/symbols>>
+crazy, <wcrandom[1-3,]:<wc:body/face/crazy/data>||<wc:body/face/crazy/eyes>||<wc:body/face/crazy/mouth>>

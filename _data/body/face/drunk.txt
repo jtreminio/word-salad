@@ -1,2 +1,1 @@
-drunk, <wcrandom[1-4,]:<wc:body/face/drunk/data>||<wc:body/face/drunk/eyes>||<wc:body/face/drunk/mouth>||<wc:body/face/drunk/symbols>>
-drunk, <wcrandom[1-2,]:<wc:body/face/drunk/emote>||<wc:body/face/drunk/symbols>>
+drunk, <wcrandom[1-3,]:<wc:body/face/drunk/data>||<wc:body/face/drunk/eyes>||<wc:body/face/drunk/mouth>>

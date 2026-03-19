@@ -1,2 +1,1 @@
-being watched, <wcrandom[1-4,]:<wc:body/face/being-watched/data>||<wc:body/face/being-watched/eyes>||<wc:body/face/being-watched/mouth>||<wc:body/face/being-watched/symbols>>
-being watched, <wcrandom[1-2,]:<wc:body/face/being-watched/emote>||<wc:body/face/being-watched/symbols>>
+being watched, <wcrandom[1-3,]:<wc:body/face/being-watched/data>||<wc:body/face/being-watched/eyes>||<wc:body/face/being-watched/mouth>>

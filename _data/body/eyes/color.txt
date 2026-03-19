@@ -1,9 +1,9 @@
 amber
 aqua
 black
+blue
 blue-gray
 blue-green
-blue
 brown
 chestnut
 dark blue
@@ -14,17 +14,19 @@ emerald green
 forest green
 golden hazel
 gray
-green-gray
 green
+green-gray
 grey
+hazel
 hazel-gray
 hazel-green
-hazel
+heterochromia
 honey
 ice blue
 light blue
 light brown
 light gray
+mismatched irises
 multicolored
 olive green
 orange
@@ -38,4 +40,3 @@ turquoise
 two-tone
 violet
 yellow
-mismatched irises

@@ -1,2 +1,1 @@
-confused, <wcrandom[1-4,]:<wc:body/face/confused/data>||<wc:body/face/confused/eyes>||<wc:body/face/confused/mouth>||<wc:body/face/confused/symbols>>
-confused, <wcrandom[1-2,]:<wc:body/face/confused/emote>||<wc:body/face/confused/symbols>>
+confused, <wcrandom[1-3,]:<wc:body/face/confused/data>||<wc:body/face/confused/eyes>||<wc:body/face/confused/mouth>>

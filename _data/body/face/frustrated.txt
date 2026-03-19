@@ -1,2 +1,1 @@
-frustrated, <wcrandom[1-4,]:<wc:body/face/frustrated/data>||<wc:body/face/frustrated/eyes>||<wc:body/face/frustrated/mouth>||<wc:body/face/frustrated/symbols>>
-frustrated, <wcrandom[1-2,]:<wc:body/face/frustrated/emote>||<wc:body/face/frustrated/symbols>>
+frustrated, <wcrandom[1-3,]:<wc:body/face/frustrated/data>||<wc:body/face/frustrated/eyes>||<wc:body/face/frustrated/mouth>>

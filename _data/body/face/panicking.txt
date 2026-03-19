@@ -1,2 +1,1 @@
-panicking, <wcrandom[1-4,]:<wc:body/face/panicking/data>||<wc:body/face/panicking/eyes>||<wc:body/face/panicking/mouth>||<wc:body/face/panicking/symbols>>
-panicking, <wcrandom[1-2,]:<wc:body/face/panicking/emote>||<wc:body/face/panicking/symbols>>
+panicking, <wcrandom[1-3,]:<wc:body/face/panicking/data>||<wc:body/face/panicking/eyes>||<wc:body/face/panicking/mouth>>

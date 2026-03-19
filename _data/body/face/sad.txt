@@ -1,2 +1,1 @@
-sad, <wcrandom[1-4,]:<wc:body/face/sad/data>||<wc:body/face/sad/eyes>||<wc:body/face/sad/mouth>||<wc:body/face/sad/symbols>>
-sad, <wcrandom[1-2,]:<wc:body/face/sad/emote>||<wc:body/face/sad/symbols>>
+sad, <wcrandom[1-3,]:<wc:body/face/sad/data>||<wc:body/face/sad/eyes>||<wc:body/face/sad/mouth>>

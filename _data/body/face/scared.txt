@@ -1,2 +1,1 @@
-scared, <wcrandom[1-4,]:<wc:body/face/scared/data>||<wc:body/face/scared/eyes>||<wc:body/face/scared/mouth>||<wc:body/face/scared/symbols>>
-scared, <wcrandom[1-2,]:<wc:body/face/scared/emote>||<wc:body/face/scared/symbols>>
+scared, <wcrandom[1-3,]:<wc:body/face/scared/data>||<wc:body/face/scared/eyes>||<wc:body/face/scared/mouth>>

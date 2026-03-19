@@ -1,2 +1,1 @@
-bored, <wcrandom[1-4,]:<wc:body/face/bored/data>||<wc:body/face/bored/eyes>||<wc:body/face/bored/mouth>||<wc:body/face/bored/symbols>>
-bored, <wcrandom[1-2,]:<wc:body/face/bored/emote>||<wc:body/face/bored/symbols>>
+bored, <wcrandom[1-3,]:<wc:body/face/bored/data>||<wc:body/face/bored/eyes>||<wc:body/face/bored/mouth>>

@@ -1,2 +1,1 @@
-exhausted, <wcrandom[1-4,]:<wc:body/face/exhausted/data>||<wc:body/face/exhausted/eyes>||<wc:body/face/exhausted/mouth>||<wc:body/face/exhausted/symbols>>
-exhausted, <wcrandom[1-2,]:<wc:body/face/exhausted/emote>||<wc:body/face/exhausted/symbols>>
+exhausted, <wcrandom[1-3,]:<wc:body/face/exhausted/data>||<wc:body/face/exhausted/eyes>||<wc:body/face/exhausted/mouth>>

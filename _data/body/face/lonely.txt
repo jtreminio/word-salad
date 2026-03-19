@@ -1,2 +1,1 @@
-lonely, <wcrandom[1-4,]:<wc:body/face/lonely/data>||<wc:body/face/lonely/eyes>||<wc:body/face/lonely/mouth>||<wc:body/face/lonely/symbols>>
-lonely, <wcrandom[1-2,]:<wc:body/face/lonely/emote>||<wc:body/face/lonely/symbols>>
+lonely, <wcrandom[1-3,]:<wc:body/face/lonely/data>||<wc:body/face/lonely/eyes>||<wc:body/face/lonely/mouth>>

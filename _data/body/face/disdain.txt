@@ -1,2 +1,1 @@
-disdain, <wcrandom[1-4,]:<wc:body/face/disdain/data>||<wc:body/face/disdain/eyes>||<wc:body/face/disdain/mouth>||<wc:body/face/disdain/symbols>>
-disdain, <wcrandom[1-2,]:<wc:body/face/disdain/emote>||<wc:body/face/disdain/symbols>>
+disdain, <wcrandom[1-3,]:<wc:body/face/disdain/data>||<wc:body/face/disdain/eyes>||<wc:body/face/disdain/mouth>>

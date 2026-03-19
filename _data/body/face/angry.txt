@@ -1,2 +1,1 @@
 angry, <wcrandom[1-3,]:<wc:body/face/angry/data>||<wc:body/face/angry/eyes>||<wc:body/face/angry/mouth>>
-angry, <wcrandom[1-2,]:<wc:body/face/angry/emote>||<wc:body/face/angry/symbols>>
