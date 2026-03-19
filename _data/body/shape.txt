@@ -1,21 +1,21 @@
 athletic
-Athletic, an athletic physique with balanced muscle tone and functional definition
+athletic physique with balanced muscle tone and functional definition
 curvy
-Curvy, a curvy figure with soft contours and pronounced hips and bust
+curvy figure with soft contours and pronounced hips and bust
 fat
 giant
-Hourglass, an hourglass figure with balanced bust and hips and a narrow waist
-Inverted triangle, an inverted-triangle shape with broader shoulders tapering to narrower hips
-Lithe, a lithe figure with flexible, graceful proportions and lean muscle
+hourglass figure with balanced bust and hips and a narrow waist
+inverted-triangle shape with broader shoulders tapering to narrower hips
+lithe figure with flexible, graceful proportions and lean muscle
 muscular
-Muscular, a muscular physique with pronounced muscle mass and strong definition
-Natural, a natural figure with moderate proportions and natural weight distribution
-Pear-shaped, a pear-shaped body with narrower shoulders and wider hips
+muscular physique with pronounced muscle mass and strong definition
+natural figure with moderate proportions and natural weight distribution
+pear-shaped body with narrower shoulders and wider hips
 plump
-Plus-size, a plus-size body with fuller proportions and soft contours
-Rectangle, a rectangular body shape with similar shoulder, waist and hip widths
+plus-size body with fuller proportions and soft contours
+rectangular body shape with similar shoulder, waist and hip widths
 skinny
-Slender, a slender physique with elongated lines and subtle definition
+slender physique with elongated lines and subtle definition
 slim
-Slim, a slim figure with narrow silhouette and light musculature
-Toned, a toned figure with visible muscle definition and low body-fat appearance
+slim figure with narrow silhouette and light musculature
+toned figure with visible muscle definition and low body-fat appearance

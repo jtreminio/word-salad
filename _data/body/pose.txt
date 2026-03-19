@@ -1,7 +1,6 @@
 action shots
 adjusting eyewear
 air quotes
-akanbe
 all fours
 animal pose
 arched back pose
@@ -24,32 +23,18 @@ back pressed to a wall and legs parted pose
 back straight
 back-to-back
 balancing
-battoujutsu stance
-bear position
 beckoning
 bent at waist
 bent over a surface pose and looking back
 bent over with hands on thighs pose
 bent over
-body bridge
 bowlegged pose
 bras d'honneur
-breast suppress
 butterfly sitting
-carried breast rest
-carry me
-carrying over shoulder
-carrying under arm
-carrying
-che vuoi? \(italian gesture\)
 cheek-to-cheek
 chest stand handstand
 chest stand
 chin lifted
-circle formation
-claw pose
-clenched hand
-clenched hands
 contrapposto pose
 contrapposto
 cowering
@@ -59,10 +44,8 @@ crossed fingers
 crossed legs
 crouching
 crucifixion
-cunnilingus gesture
 cupping hands
 curled fingers
-dojikko pose
 double finger gun
 double v
 elbows resting on knees
@@ -71,29 +54,17 @@ facepalm
 faceplant
 feet planted wide
 feet together
-fellatio gesture
-fetal position
 fidgeting
-fig sign
 fighting stance
 figure four sitting
 finger counting
 finger frame
 finger gun
 finger heart
-finishing moves
-fireman's carry
 fist bump
 fist in hand
 forehead-to-forehead
-fox shadow puppet
-full scorpion
-gendou pose
 goodbye
-group hug
-gyaru v
-hand between legs
-hand glasses
 hand in bra
 hand in pocket
 hand on headwear
@@ -115,12 +86,11 @@ hand on own neck
 hand on own shoulder
 hand on own stomach
 hand on own thigh
-handjob gesture
 hands above head while lying down pose
 hands clasped
 hands flat on floor and buttocks lifted pose
 hands folded in lap
-hands in pockets}
+hands in pockets
 hands on ass
 hands on hips
 hands on own feet
@@ -151,19 +121,10 @@ horns pose
 hug from behind
 hug
 hugging own legs
-hyakuretsukyaku
-i am the king!
-i have the power
-idle animation
 index finger raised
 indian style
-inugami-ke no ichizoku pose
 inward v
-jojo pose
 jumping
-kamina pose
-kikouken
-kitsune no mado
 kneeling and leaning forward pose
 kneeling on one knee pose
 kneeling pose
@@ -201,12 +162,7 @@ lying
 middle finger
 middle w
 money gesture
-mundane made awesome
 neck tilted back
-noogie
-object hug
-ohikaenasutte
-ojou-sama pose
 ok sign
 on all fours pose
 on back
@@ -223,8 +179,6 @@ open hand
 own hands clasped
 palm-fist greeting
 palm-fist tap
-paw pose
-penetration gesture
 piggyback
 pinky out
 pinky swear
@@ -233,15 +187,10 @@ pointing at self
 pointing at viewer
 pointing down
 pointing forward
-pointing spider-man \(meme\)
 pointing up
 pointing
-power fist
-princess carry
 propped up on elbows pose
-prostration
 quadfold
-rabbit pose
 raised fist
 reaching
 reclined and leg crossed over bent knee pose
@@ -249,16 +198,10 @@ reclined on side with one leg extended pose
 reclining
 resting chest on knees and arms loose pose
 running
-ruppelbend
 saboten pose
 salute
 saturday night fever
-save me...
 scorpion pose
-seiza
-shadow puppet
-shaka sign
-shocker \(gesture\)
 shoulder carry
 shoulder raised
 shoulders hunched
@@ -270,20 +213,14 @@ sitting in indian style pose
 sitting in lotus position pose
 sitting on lap pose
 sitting on lap
-sitting on person pose
-sitting on person
-sitting on shoulder
 sitting pose
 sitting sideways and one leg extended pose
 sitting with crossed legs pose
 sitting with knees up and arms wrapped pose
 sitting with knees up
 sitting
-slit throat \(gesture\)
 slouching
 spine curled
-spinning bird kick
-spread fingers
 squatting
 standing and balancing pose
 standing lean against wall and one leg lifted pose
@@ -299,25 +236,15 @@ standing with legs apart pose
 standing with legs apart
 standing with legs crossed pose
 standing
-steepled fingers
-stop (gesture)
 straddling a chair backward pose
 straddling
-straight-arm salute
 stretching
 stroking own chin
-stupidly clever
 superhero landing
-symmetrical hand pose
-tail hug
-thigh straddling
 thumbs down
 thumbs up
-to the death
 top-down bottom-up
 torso twisted
-triplefold
-tsuki ni kawatte oshioki yo
 twirling hair
 twisted torso
 two-finger salute
@@ -327,20 +254,11 @@ v over mouth
 v
 victory pose
 villain pose
-vulcan salute
 w
-waist hug
-walk cycle
 walking
 wallwalking
-wariza
 waving
-wing hug
 x arms
 x fingers
 yoga
-yokozuwari
 zombie pose
-\m//
-\n//
-\||//

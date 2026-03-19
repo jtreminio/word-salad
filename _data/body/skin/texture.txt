@@ -1,17 +1,17 @@
-Acne-prone, acne-prone skin with occasional blemishes and realistic texture
-Dewy, dewy skin with luminous sheen and soft specular highlights
-Dry, dry skin with subtle flake texture and low surface reflectivity
-Freckled, freckled skin with scattered sun-kissed spots and natural tone variation
+acne-prone skin with occasional blemishes and realistic texture
+dewy skin with luminous sheen and soft specular highlights
+dry skin with subtle flake texture and low surface reflectivity
+freckled skin with scattered sun-kissed spots and natural tone variation
 freckles
 light peach fuzz
-Matte, matte skin with low shine and even diffuse reflection
+matte skin with low shine and even diffuse reflection
 mild skin sun spots
 moles
-Oily, oily skin with light-reflective areas and natural sheen
-Smooth, smooth skin with even texture and minimal visible pores
-Stretch marks, skin showing stretch marks with realistic surface indentation and subtle color difference
-Sun-tanned, sun-tanned skin with warm bronze tones and subtle contrast
-Sunburnt, sunburnt skin with flushed red undertones and reactive surface warmth
-Textured pores, skin with visible textured pores and micro-detail
-Wrinkled / aged, wrinkled, aged skin with fine lines, deeper creases and textured surface detail
+oily skin with light-reflective areas and natural sheen
+skin showing stretch marks with realistic surface indentation and subtle color difference
+skin with visible textured pores and micro-detail
+smooth skin with even texture and minimal visible pores
+sun-tanned skin with warm bronze tones and subtle contrast
+sunburnt skin with flushed red undertones and reactive surface warmth
+wrinkled, aged skin with fine lines, deeper creases and textured surface detail
 wrinkles

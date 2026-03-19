@@ -2,9 +2,9 @@ doll-like height
 pixie-sized height
 pocket-sized height
 short height
-Short, a short stature with slender proportion with short height
+short stature with slender proportion with short height
 tall
-Tall, a tall stature with long limbs and elevated overall height
+tall stature with long limbs and elevated overall height
 tiny height
 very short height
 very tall
