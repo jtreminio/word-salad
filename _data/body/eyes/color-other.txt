@@ -1,5 +1,5 @@
-<wcrandom:2::dark|2::deep|2::light|4::> orange
-<wcrandom:2::dark|2::deep|2::light|4::> pink
-<wcrandom:2::dark|2::deep|2::light|4::> rainbow
-<wcrandom:2::dark|2::deep|2::light|4::> red
-<wcrandom:2::dark|2::deep|2::light|4::> yellow
+<wcrandom:3::<wc:body/eyes/modifier>|7::> orange
+<wcrandom:3::<wc:body/eyes/modifier>|7::> pink
+<wcrandom:3::<wc:body/eyes/modifier>|7::> rainbow
+<wcrandom:3::<wc:body/eyes/modifier>|7::> red
+<wcrandom:3::<wc:body/eyes/modifier>|7::> yellow

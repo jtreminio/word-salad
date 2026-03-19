@@ -1,30 +1,80 @@
-<wcrandom:2::dark|2::deep|2::light|4::> amber
-<wcrandom:2::dark|2::deep|2::light|4::> aqua
-<wcrandom:2::dark|2::deep|2::light|4::> black
-<wcrandom:2::dark|2::deep|2::light|4::> blue
-<wcrandom:2::dark|2::deep|2::light|4::> blue-gray
-<wcrandom:2::dark|2::deep|2::light|4::> blue-green
-<wcrandom:2::dark|2::deep|2::light|4::> brown
-<wcrandom:2::dark|2::deep|2::light|4::> chestnut
-<wcrandom:2::dark|2::deep|2::light|4::> emerald green
-<wcrandom:2::dark|2::deep|2::light|4::> forest green
-<wcrandom:2::dark|2::deep|2::light|4::> golden hazel
-<wcrandom:2::dark|2::deep|2::light|4::> gray
-<wcrandom:2::dark|2::deep|2::light|4::> green
-<wcrandom:2::dark|2::deep|2::light|4::> green-gray
-<wcrandom:2::dark|2::deep|2::light|4::> grey
-<wcrandom:2::dark|2::deep|2::light|4::> hazel
-<wcrandom:2::dark|2::deep|2::light|4::> hazel-gray
-<wcrandom:2::dark|2::deep|2::light|4::> hazel-green
-<wcrandom:2::dark|2::deep|2::light|4::> heterochromia
-<wcrandom:2::dark|2::deep|2::light|4::> honey
-<wcrandom:2::dark|2::deep|2::light|4::> ice blue
-<wcrandom:2::dark|2::deep|2::light|4::> mismatched irises
-<wcrandom:2::dark|2::deep|2::light|4::> multicolored
-<wcrandom:2::dark|2::deep|2::light|4::> olive green
-<wcrandom:2::dark|2::deep|2::light|4::> purple
-<wcrandom:2::dark|2::deep|2::light|4::> silver gray
-<wcrandom:2::dark|2::deep|2::light|4::> steel blue
-<wcrandom:2::dark|2::deep|2::light|4::> turquoise
-<wcrandom:2::dark|2::deep|2::light|4::> two-tone
-<wcrandom:2::dark|2::deep|2::light|4::> violet
+<wcrandom:3::<wc:body/eyes/modifier>|7::> amber
+<wcrandom:3::<wc:body/eyes/modifier>|7::> aqua
+<wcrandom:3::<wc:body/eyes/modifier>|7::> ash
+<wcrandom:3::<wc:body/eyes/modifier>|7::> birch
+<wcrandom:3::<wc:body/eyes/modifier>|7::> black
+<wcrandom:3::<wc:body/eyes/modifier>|7::> blue
+<wcrandom:3::<wc:body/eyes/modifier>|7::> blue-gray
+<wcrandom:3::<wc:body/eyes/modifier>|7::> blue-green
+<wcrandom:3::<wc:body/eyes/modifier>|7::> bronze
+<wcrandom:3::<wc:body/eyes/modifier>|7::> brown
+<wcrandom:3::<wc:body/eyes/modifier>|7::> caramel
+<wcrandom:3::<wc:body/eyes/modifier>|7::> champagne
+<wcrandom:3::<wc:body/eyes/modifier>|7::> charcoal
+<wcrandom:3::<wc:body/eyes/modifier>|7::> chestnut
+<wcrandom:3::<wc:body/eyes/modifier>|7::> citrine
+<wcrandom:3::<wc:body/eyes/modifier>|7::> cognac
+<wcrandom:3::<wc:body/eyes/modifier>|7::> copper
+<wcrandom:3::<wc:body/eyes/modifier>|7::> coral
+<wcrandom:3::<wc:body/eyes/modifier>|7::> denim
+<wcrandom:3::<wc:body/eyes/modifier>|7::> emerald green
+<wcrandom:3::<wc:body/eyes/modifier>|7::> flint
+<wcrandom:3::<wc:body/eyes/modifier>|7::> fog
+<wcrandom:3::<wc:body/eyes/modifier>|7::> forest green
+<wcrandom:3::<wc:body/eyes/modifier>|7::> frosted
+<wcrandom:3::<wc:body/eyes/modifier>|7::> glacier
+<wcrandom:3::<wc:body/eyes/modifier>|7::> golden hazel
+<wcrandom:3::<wc:body/eyes/modifier>|7::> gray
+<wcrandom:3::<wc:body/eyes/modifier>|7::> green
+<wcrandom:3::<wc:body/eyes/modifier>|7::> green-gray
+<wcrandom:3::<wc:body/eyes/modifier>|7::> grey
+<wcrandom:3::<wc:body/eyes/modifier>|7::> gunmetal
+<wcrandom:3::<wc:body/eyes/modifier>|7::> hazel
+<wcrandom:3::<wc:body/eyes/modifier>|7::> hazel-gray
+<wcrandom:3::<wc:body/eyes/modifier>|7::> hazel-green
+<wcrandom:3::<wc:body/eyes/modifier>|7::> heterochromia
+<wcrandom:3::<wc:body/eyes/modifier>|7::> honey
+<wcrandom:3::<wc:body/eyes/modifier>|7::> ice blue
+<wcrandom:3::<wc:body/eyes/modifier>|7::> indigo
+<wcrandom:3::<wc:body/eyes/modifier>|7::> jade
+<wcrandom:3::<wc:body/eyes/modifier>|7::> jasper
+<wcrandom:3::<wc:body/eyes/modifier>|7::> lapis
+<wcrandom:3::<wc:body/eyes/modifier>|7::> lavender
+<wcrandom:3::<wc:body/eyes/modifier>|7::> malachite
+<wcrandom:3::<wc:body/eyes/modifier>|7::> mercury
+<wcrandom:3::<wc:body/eyes/modifier>|7::> midnight
+<wcrandom:3::<wc:body/eyes/modifier>|7::> mismatched irises
+<wcrandom:3::<wc:body/eyes/modifier>|7::> moonstone
+<wcrandom:3::<wc:body/eyes/modifier>|7::> mossy
+<wcrandom:3::<wc:body/eyes/modifier>|7::> multicolored
+<wcrandom:3::<wc:body/eyes/modifier>|7::> obsidian
+<wcrandom:3::<wc:body/eyes/modifier>|7::> ochre
+<wcrandom:3::<wc:body/eyes/modifier>|7::> olive green
+<wcrandom:3::<wc:body/eyes/modifier>|7::> onyx
+<wcrandom:3::<wc:body/eyes/modifier>|7::> opal
+<wcrandom:3::<wc:body/eyes/modifier>|7::> peridot
+<wcrandom:3::<wc:body/eyes/modifier>|7::> pewter
+<wcrandom:3::<wc:body/eyes/modifier>|7::> purple
+<wcrandom:3::<wc:body/eyes/modifier>|7::> quartz
+<wcrandom:3::<wc:body/eyes/modifier>|7::> rose
+<wcrandom:3::<wc:body/eyes/modifier>|7::> russet
+<wcrandom:3::<wc:body/eyes/modifier>|7::> sable
+<wcrandom:3::<wc:body/eyes/modifier>|7::> sage
+<wcrandom:3::<wc:body/eyes/modifier>|7::> sand
+<wcrandom:3::<wc:body/eyes/modifier>|7::> silver gray
+<wcrandom:3::<wc:body/eyes/modifier>|7::> slate
+<wcrandom:3::<wc:body/eyes/modifier>|7::> smoke
+<wcrandom:3::<wc:body/eyes/modifier>|7::> smoked topaz
+<wcrandom:3::<wc:body/eyes/modifier>|7::> smoky quartz
+<wcrandom:3::<wc:body/eyes/modifier>|7::> snow
+<wcrandom:3::<wc:body/eyes/modifier>|7::> steel blue
+<wcrandom:3::<wc:body/eyes/modifier>|7::> stormcloud
+<wcrandom:3::<wc:body/eyes/modifier>|7::> sunstone
+<wcrandom:3::<wc:body/eyes/modifier>|7::> tawny
+<wcrandom:3::<wc:body/eyes/modifier>|7::> teal
+<wcrandom:3::<wc:body/eyes/modifier>|7::> thistle
+<wcrandom:3::<wc:body/eyes/modifier>|7::> turquoise
+<wcrandom:3::<wc:body/eyes/modifier>|7::> two-tone
+<wcrandom:3::<wc:body/eyes/modifier>|7::> umber
+<wcrandom:3::<wc:body/eyes/modifier>|7::> violet
+<wcrandom:3::<wc:body/eyes/modifier>|7::> wisteria
