@@ -1,14 +1,43 @@
-angular facial structure with pronounced planes, <wcrandom:3::<wc:body/face/details>|7::>
-chin dimples, <wcrandom:3::<wc:body/face/details>|7::>
-cleft chin, <wcrandom:3::<wc:body/face/details>|7::>
-cleft chin with a subtle central indentation, <wcrandom:3::<wc:body/face/details>|7::>
-heart-shaped face with a narrower chin and wider forehead, <wcrandom:3::<wc:body/face/details>|7::>
-high cheekbones, <wcrandom:3::<wc:body/face/details>|7::>
-high cheekbones that catch highlights and create defined facial planes, <wcrandom:3::<wc:body/face/details>|7::>
-long facial structure with elongated vertical proportions, <wcrandom:3::<wc:body/face/details>|7::>
-oval-shaped face with balanced proportions and gently tapered jawline, <wcrandom:3::<wc:body/face/details>|7::>
-prominent jawline with strong definition and crisp edges, <wcrandom:3::<wc:body/face/details>|7::>
-round face with soft contours and fuller cheeks, <wcrandom:3::<wc:body/face/details>|7::>
-sharp chin, <wcrandom:3::<wc:body/face/details>|7::>
-square-shaped face with a broad forehead and strong angular jawline, <wcrandom:3::<wc:body/face/details>|7::>
-strong jawline, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> angular facial structure with pronounced planes, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> apple cheeks that lift prominently when smiling, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> barely-there chin with a soft, receding line, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> button nose and softly rounded overall structure, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> chin dimples, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> cleft chin, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> cleft chin with a subtle central indentation, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> defined but rounded jawline with smooth transitions, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> delicate jaw with fine bone structure, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> doll-like proportions with a small chin and wide midface, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> faintly hollow cheeks with natural contouring, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> full cheeks with a naturally flushed appearance, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> gentle cheekbone ridge with a soft highlight plane, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> gentle jaw taper ending in a soft rounded point, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> gently heart-shaped with a soft widow's peak, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> heart-shaped face with a narrower chin and wider forehead, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> high cheekbones, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> high cheekbones that catch highlights and create defined facial planes, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> lightly angular with softened edges, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> lightly sculpted midface with subtle natural shadows, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> lightly squared chin with subtle symmetry, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> long facial structure with elongated vertical proportions, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> narrow oval with delicate bone structure, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> naturally plump cheeks with a youthful lift, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> oval-shaped face with balanced proportions and gently tapered jawline, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> petite chin with a faint central crease, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> petite features clustered in the lower half of the face, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> prominent but soft cheekbones with rounded edges, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> prominent jawline with strong definition and crisp edges, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> refined diamond shape with tapered forehead and chin, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> round face with soft contours and fuller cheeks, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> sharp chin, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> slightly prominent chin with clean edges, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> slightly wide cheeks giving a friendly open appearance, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> slightly wide forehead tapering to a gentle point, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> soft inverted triangle with a graceful narrow jaw, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> softly curved jaw with no harsh angles, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> softly squared with gentle rounding at the corners, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> square-shaped face with a broad forehead and strong angular jawline, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> strong jawline, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> understated jawline that blends into the neck gracefully, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> wide-set cheekbones with a tapered, delicate chin, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> youthful round with a small pointed chin, <wcrandom:3::<wc:body/face/details>|7::>
