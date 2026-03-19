@@ -1,0 +1,5 @@
+<wcrandom:2::dark|2::deep|2::light|4::> orange
+<wcrandom:2::dark|2::deep|2::light|4::> pink
+<wcrandom:2::dark|2::deep|2::light|4::> rainbow
+<wcrandom:2::dark|2::deep|2::light|4::> red
+<wcrandom:2::dark|2::deep|2::light|4::> yellow

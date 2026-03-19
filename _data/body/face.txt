@@ -1,40 +1,14 @@
-$file:[_data/body/face/angry]
-$file:[_data/body/face/annoyed]
-$file:[_data/body/face/arguing]
-$file:[_data/body/face/aroused]
-$file:[_data/body/face/being-watched]
-$file:[_data/body/face/bored]
-$file:[_data/body/face/confused]
-$file:[_data/body/face/crazy]
-$file:[_data/body/face/depressed]
-$file:[_data/body/face/despair]
-$file:[_data/body/face/determined]
-$file:[_data/body/face/disappointed]
-$file:[_data/body/face/disdain]
-$file:[_data/body/face/disgust]
-$file:[_data/body/face/drunk]
-$file:[_data/body/face/embarrassed]
-$file:[_data/body/face/envy]
-$file:[_data/body/face/evil]
-$file:[_data/body/face/exhausted]
-$file:[_data/body/face/flustered]
-$file:[_data/body/face/frustrated]
-$file:[_data/body/face/happy]
-$file:[_data/body/face/horrified]
-$file:[_data/body/face/lonely]
-$file:[_data/body/face/nervous]
-$file:[_data/body/face/panicking]
-$file:[_data/body/face/pensive]
-$file:[_data/body/face/sad]
-$file:[_data/body/face/scared]
-$file:[_data/body/face/screaming]
-$file:[_data/body/face/serious]
-$file:[_data/body/face/sleepy]
-$file:[_data/body/face/sexy]
-$file:[_data/body/face/smug]
-$file:[_data/body/face/sobbing]
-$file:[_data/body/face/sulking]
-$file:[_data/body/face/surprised]
-$file:[_data/body/face/thinking]
-$file:[_data/body/face/upset]
-$file:[_data/body/face/worried]
+angular facial structure with pronounced planes, <wcrandom:3::<wc:body/face/details>|7::>
+chin dimples, <wcrandom:3::<wc:body/face/details>|7::>
+cleft chin, <wcrandom:3::<wc:body/face/details>|7::>
+cleft chin with a subtle central indentation, <wcrandom:3::<wc:body/face/details>|7::>
+heart-shaped face with a narrower chin and wider forehead, <wcrandom:3::<wc:body/face/details>|7::>
+high cheekbones, <wcrandom:3::<wc:body/face/details>|7::>
+high cheekbones that catch highlights and create defined facial planes, <wcrandom:3::<wc:body/face/details>|7::>
+long facial structure with elongated vertical proportions, <wcrandom:3::<wc:body/face/details>|7::>
+oval-shaped face with balanced proportions and gently tapered jawline, <wcrandom:3::<wc:body/face/details>|7::>
+prominent jawline with strong definition and crisp edges, <wcrandom:3::<wc:body/face/details>|7::>
+round face with soft contours and fuller cheeks, <wcrandom:3::<wc:body/face/details>|7::>
+sharp chin, <wcrandom:3::<wc:body/face/details>|7::>
+square-shaped face with a broad forehead and strong angular jawline, <wcrandom:3::<wc:body/face/details>|7::>
+strong jawline, <wcrandom:3::<wc:body/face/details>|7::>

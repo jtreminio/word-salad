@@ -1,1 +1,1 @@
-<wcrandom[1-2,]:<wc:body/eyes/color> colored eyes||<wc:body/eyes/shape>>, <wcrandom:1::<wc:body/eyes/direction>|1::<wc:body/eyes/around>>
+<wcrandom[1-2,]:<wc:body/eyes/color> colored eyes||<wc:body/eyes/shape>>, <wcrandom:1::<wc:body/eyes/direction>|1::<wc:body/eyes/around>|8::>

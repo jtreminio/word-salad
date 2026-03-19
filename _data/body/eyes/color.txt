@@ -1,42 +1,30 @@
-amber
-aqua
-black
-blue
-blue-gray
-blue-green
-brown
-chestnut
-dark blue
-dark brown
-dark gray
-deep violet
-emerald green
-forest green
-golden hazel
-gray
-green
-green-gray
-grey
-hazel
-hazel-gray
-hazel-green
-heterochromia
-honey
-ice blue
-light blue
-light brown
-light gray
-mismatched irises
-multicolored
-olive green
-orange
-pink
-purple
-rainbow
-red
-silver gray
-steel blue
-turquoise
-two-tone
-violet
-yellow
+<wcrandom:2::dark|2::deep|2::light|4::> amber
+<wcrandom:2::dark|2::deep|2::light|4::> aqua
+<wcrandom:2::dark|2::deep|2::light|4::> black
+<wcrandom:2::dark|2::deep|2::light|4::> blue
+<wcrandom:2::dark|2::deep|2::light|4::> blue-gray
+<wcrandom:2::dark|2::deep|2::light|4::> blue-green
+<wcrandom:2::dark|2::deep|2::light|4::> brown
+<wcrandom:2::dark|2::deep|2::light|4::> chestnut
+<wcrandom:2::dark|2::deep|2::light|4::> emerald green
+<wcrandom:2::dark|2::deep|2::light|4::> forest green
+<wcrandom:2::dark|2::deep|2::light|4::> golden hazel
+<wcrandom:2::dark|2::deep|2::light|4::> gray
+<wcrandom:2::dark|2::deep|2::light|4::> green
+<wcrandom:2::dark|2::deep|2::light|4::> green-gray
+<wcrandom:2::dark|2::deep|2::light|4::> grey
+<wcrandom:2::dark|2::deep|2::light|4::> hazel
+<wcrandom:2::dark|2::deep|2::light|4::> hazel-gray
+<wcrandom:2::dark|2::deep|2::light|4::> hazel-green
+<wcrandom:2::dark|2::deep|2::light|4::> heterochromia
+<wcrandom:2::dark|2::deep|2::light|4::> honey
+<wcrandom:2::dark|2::deep|2::light|4::> ice blue
+<wcrandom:2::dark|2::deep|2::light|4::> mismatched irises
+<wcrandom:2::dark|2::deep|2::light|4::> multicolored
+<wcrandom:2::dark|2::deep|2::light|4::> olive green
+<wcrandom:2::dark|2::deep|2::light|4::> purple
+<wcrandom:2::dark|2::deep|2::light|4::> silver gray
+<wcrandom:2::dark|2::deep|2::light|4::> steel blue
+<wcrandom:2::dark|2::deep|2::light|4::> turquoise
+<wcrandom:2::dark|2::deep|2::light|4::> two-tone
+<wcrandom:2::dark|2::deep|2::light|4::> violet
