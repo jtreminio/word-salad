@@ -22,8 +22,8 @@ capelet
 cassock
 cat outfit
 cavewoman outfit
-cheerleader outfit
 cheerleader
+cheerleader outfit
 circus performer outfit
 clown outfit
 cop and robber outfit
@@ -77,8 +77,8 @@ leather cat outfit
 lifeguard outfit
 little red riding hood outfit
 loincloth
-maid outfit
 maid
+maid outfit
 masquerade outfit
 matador outfit
 mermaid outfit
@@ -108,7 +108,6 @@ rock star outfit
 roller derby outfit
 sailor
 santa costume
-#schoolgirl outfit
 sequin superhero outfit
 shosei
 shoulder cape

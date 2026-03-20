@@ -1,6 +1,6 @@
-<wc:clothes/sports/aerial>
-<wc:clothes/sports/climbing-jumping>
-<wc:clothes/sports/trail-racing>
-<wc:clothes/sports/volcano-boarding>
-<wc:clothes/sports/wingsuit-flying>
-<wc:clothes/sports/winter>
+$file:[_data/clothes/sports/aerial]
+$file:[_data/clothes/sports/climbing-jumping]
+$file:[_data/clothes/sports/trail-racing]
+$file:[_data/clothes/sports/volcano-boarding]
+$file:[_data/clothes/sports/wingsuit-flying]
+$file:[_data/clothes/sports/winter]

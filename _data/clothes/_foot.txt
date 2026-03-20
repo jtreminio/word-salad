@@ -1,5 +1,5 @@
-<wc:clothes/boots>
-<wc:clothes/high-heels>
-<wc:clothes/sandals>
-<wc:clothes/shoes>
-<wc:clothes/slippers>
+$file:[_data/clothes/boots]
+$file:[_data/clothes/high-heels]
+$file:[_data/clothes/sandals]
+$file:[_data/clothes/shoes]
+$file:[_data/clothes/slippers]

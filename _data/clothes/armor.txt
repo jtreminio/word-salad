@@ -1,10 +1,10 @@
-<wc:clothes/armor/sets>
-<wc:clothes/armor/named-armor>
-<wc:clothes/armor/personalities>, <wcrandom[0-2]:<wc:clothes/armor/head>||<wc:clothes/armor/shield>||<wc:clothes/armor/miscellaneous>>
-<wc:clothes/armor/torso>, <wcrandom[1-5]:<wc:clothes/armor/head>||<wc:clothes/armor/neck>||<wc:clothes/armor/shoulders>||<wc:clothes/armor/arms>||<wc:clothes/armor/groin>||<wc:clothes/armor/legs>||<wc:clothes/armor/shield>>
-<wc:clothes/armor/ancient-medieval>, <wcrandom[0-4]:<wc:clothes/armor/head>||<wc:clothes/armor/neck>||<wc:clothes/armor/torso>||<wc:clothes/armor/arms>||<wc:clothes/armor/legs>||<wc:clothes/armor/shield>>
-<wc:clothes/armor/japanese>, <wcrandom[0-5]:<wc:clothes/armor/head>||<wc:clothes/armor/neck>||<wc:clothes/armor/shoulders>||<wc:clothes/armor/arms>||<wc:clothes/armor/groin>||<wc:clothes/armor/legs>>
-<wc:clothes/armor/modern>, <wcrandom[0-4]:<wc:clothes/armor/head>||<wc:clothes/armor/torso>||<wc:clothes/armor/arms>||<wc:clothes/armor/legs>||<wc:clothes/armor/shield>>
-<wc:clothes/armor/futuristic>, <wcrandom[0-4]:<wc:clothes/armor/head>||<wc:clothes/armor/torso>||<wc:clothes/armor/arms>||<wc:clothes/armor/legs>||<wc:clothes/armor/shield>||<wc:clothes/armor/mecha>>
-<wc:clothes/armor/mecha>, <wcrandom[0-3]:<wc:clothes/armor/futuristic>||<wc:clothes/armor/head>||<wc:clothes/armor/torso>||<wc:clothes/armor/arms>||<wc:clothes/armor/legs>>
-<wc:clothes/armor/miscellaneous>, <wcrandom[0-4]:<wc:clothes/armor/head>||<wc:clothes/armor/torso>||<wc:clothes/armor/shoulders>||<wc:clothes/armor/arms>||<wc:clothes/armor/legs>>
+$file:[_data/clothes/armor/sets]
+$file:[_data/clothes/armor/named-armor]
+$file:[_data/clothes/armor/personalities], <wcrandom[0-2]:<wc:clothes/armor/head>||<wc:clothes/armor/shield>||<wc:clothes/armor/miscellaneous>>
+$file:[_data/clothes/armor/torso], <wcrandom[1-5]:<wc:clothes/armor/head>||<wc:clothes/armor/neck>||<wc:clothes/armor/shoulders>||<wc:clothes/armor/arms>||<wc:clothes/armor/groin>||<wc:clothes/armor/legs>||<wc:clothes/armor/shield>>
+$file:[_data/clothes/armor/ancient-medieval], <wcrandom[0-4]:<wc:clothes/armor/head>||<wc:clothes/armor/neck>||<wc:clothes/armor/torso>||<wc:clothes/armor/arms>||<wc:clothes/armor/legs>||<wc:clothes/armor/shield>>
+$file:[_data/clothes/armor/japanese], <wcrandom[0-5]:<wc:clothes/armor/head>||<wc:clothes/armor/neck>||<wc:clothes/armor/shoulders>||<wc:clothes/armor/arms>||<wc:clothes/armor/groin>||<wc:clothes/armor/legs>>
+$file:[_data/clothes/armor/modern], <wcrandom[0-4]:<wc:clothes/armor/head>||<wc:clothes/armor/torso>||<wc:clothes/armor/arms>||<wc:clothes/armor/legs>||<wc:clothes/armor/shield>>
+$file:[_data/clothes/armor/futuristic], <wcrandom[0-4]:<wc:clothes/armor/head>||<wc:clothes/armor/torso>||<wc:clothes/armor/arms>||<wc:clothes/armor/legs>||<wc:clothes/armor/shield>||<wc:clothes/armor/mecha>>
+$file:[_data/clothes/armor/mecha], <wcrandom[0-3]:<wc:clothes/armor/futuristic>||<wc:clothes/armor/head>||<wc:clothes/armor/torso>||<wc:clothes/armor/arms>||<wc:clothes/armor/legs>>
+$file:[_data/clothes/armor/miscellaneous], <wcrandom[0-4]:<wc:clothes/armor/head>||<wc:clothes/armor/torso>||<wc:clothes/armor/shoulders>||<wc:clothes/armor/arms>||<wc:clothes/armor/legs>>

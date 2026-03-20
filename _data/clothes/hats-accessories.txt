@@ -1,13 +1,10 @@
-#anchor hat ornament
-#chin strap
-#jack-o'-lantern hat ornament
 butterfly hat ornament
 character hat ornament
 crescent hat ornament
 dolphin hat ornament
 food-themed hat ornament
 gear hat ornament
-Hairpin Comb, decorative hairpin or comb with ornamental inlay and slender teeth
+decorative hairpin or comb with ornamental inlay and slender teeth
 hat bow
 hat feather
 hat flower
@@ -21,4 +18,4 @@ palette hat ornament
 skull hat ornament
 star hat ornament
 tassel hat ornament
-Tiara Crown, miniature tiara with fine filigree and small crystal accents
+miniature tiara with fine filigree and small crystal accents

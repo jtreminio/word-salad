@@ -1,17 +1,17 @@
-Analog watch, classic analog wristwatch with hour markers and sweeping hands
-Brooch, decorative brooch with pin-back and ornamental enamel or filigree
-Ceramic watch, ceramic-cased watch with smooth monolithic surface and subtle sheen
-Chronograph, multi-dial chronograph watch with pushers and precise subdials
-Digital watch, compact digital watch with segmented display and functional readout
-Diver watch, robust diver watch with rotating bezel and prominent luminous markers
-Dress watch, slim dress watch with minimalist face and refined proportions
-Field watch, utility field watch with clear numerals and rugged case
-Futuristic HUD watch, concept HUD-style watch with projected numbers and holographic elements
-Leather strap, watch fitted with stitched leather strap and polished buckle
-Locket, small hinged locket with smooth exterior and hidden inner compartment
-Metal bracelet, watch on articulated metal bracelet with brushed and polished links
-Pocket watch (jewelry), engraved pocket watch with visible case detailing and short chain
-Pocket watch (timepiece), classic pocket watch with ornate case and attached fob chain
-Skeleton watch, skeletonized watch revealing mechanical gears and movement detail
-Smartwatch, sleek smartwatch with rectangular display and subtle UI glow
-Vintage watch, timepiece with aged dial details and period-correct styling
+classic analog wristwatch with hour markers and sweeping hands
+decorative brooch with pin-back and ornamental enamel or filigree
+ceramic-cased watch with smooth monolithic surface and subtle sheen
+multi-dial chronograph watch with pushers and precise subdials
+compact digital watch with segmented display and functional readout
+robust diver watch with rotating bezel and prominent luminous markers
+slim dress watch with minimalist face and refined proportions
+utility field watch with clear numerals and rugged case
+concept HUD-style watch with projected numbers and holographic elements
+watch fitted with stitched leather strap and polished buckle
+small hinged locket with smooth exterior and hidden inner compartment
+watch on articulated metal bracelet with brushed and polished links
+engraved pocket watch with visible case detailing and short chain
+classic pocket watch with ornate case and attached fob chain
+skeletonized watch revealing mechanical gears and movement detail
+sleek smartwatch with rectangular display and subtle UI glow
+timepiece with aged dial details and period-correct styling

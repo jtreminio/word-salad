@@ -1,3 +1,3 @@
-<wcrandom[0-2]:<wc:clothes/gag>||<wc:clothes/nipple>>, <wc:clothes/bra>, <wc:clothes/panties>
-<wcrandom[0-2]:<wc:clothes/gag>||<wc:clothes/nipple>>, <wc:clothes/lingerie>
-<wcrandom[0-2]:<wc:clothes/gag>||<wc:clothes/nipple>>, <wc:clothes/sexy-time>
+$file:[_data/clothes/bra], <wc:clothes/panties>, <wcrandom[0-2]:<wc:clothes/gag>||<wc:clothes/nipple>>
+$file:[_data/clothes/lingerie], <wcrandom[0-2]:<wc:clothes/gag>||<wc:clothes/nipple>>
+$file:[_data/clothes/sexy-time], <wcrandom[0-2]:<wc:clothes/gag>||<wc:clothes/nipple>>

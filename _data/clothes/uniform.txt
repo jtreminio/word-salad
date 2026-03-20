@@ -1,10 +1,10 @@
-Military, an olive-drab military uniform in structured wool-blend fabric with tailored tunic, polished brass buttons and clearly defined rank panels
-Military ceremonial, a formal military ceremonial uniform in deep navy wool with ornate gold braid detailing, full dress tunic and polished structured finish
-Police, a navy-blue police uniform in durable poly-cotton twill with crisp button-up shirt, reinforced trousers and functional pocket layout
-Firefighter, heavy-duty firefighter turnout gear in flame-resistant aramid fabric with layered thermal insulation, high-visibility reflective bands and reinforced cuffs
-Security guard, a black security guard uniform in sturdy poly-wool blend with straight-leg trousers, buttoned shirt and clean professional silhouette
-Pilot, a dark navy pilot uniform in smooth worsted wool with double-breasted jacket, gold-trim epaulettes and sharply creased trousers
-Flight attendant, a fitted red flight attendant uniform in wrinkle-resistant wool blend with tailored skirt or slacks and clean structured lines
-Nurse scrubs, solid teal nurse scrubs in lightweight antimicrobial poly-cotton with loose short-sleeve top and drawstring pants
-Doctor, a crisp white doctor's lab coat in tightly woven cotton with knee-length cut, patch pockets and button-front closure, stethoscope hanging on neck
-Chef, a bright white double-breasted chef jacket in heavy cotton twill with heat-resistant buttons and roll-up sleeves, chef hat
+black security guard uniform in sturdy poly-wool blend with straight-leg trousers, buttoned shirt and clean professional silhouette
+bright white double-breasted chef jacket in heavy cotton twill with heat-resistant buttons and roll-up sleeves, chef hat
+crisp white doctor's lab coat in tightly woven cotton with knee-length cut, patch pockets and button-front closure, stethoscope hanging on neck
+dark navy pilot uniform in smooth worsted wool with double-breasted jacket, gold-trim epaulettes and sharply creased trousers
+fitted red flight attendant uniform in wrinkle-resistant wool blend with tailored skirt or slacks and clean structured lines
+formal military ceremonial uniform in deep navy wool with ornate gold braid detailing, full dress tunic and polished structured finish
+heavy-duty firefighter turnout gear in flame-resistant aramid fabric with layered thermal insulation, high-visibility reflective bands and reinforced cuffs
+navy-blue police uniform in durable poly-cotton twill with crisp button-up shirt, reinforced trousers and functional pocket layout
+olive-drab military uniform in structured wool-blend fabric with tailored tunic, polished brass buttons and clearly defined rank panels
+solid teal nurse scrubs in lightweight antimicrobial poly-cotton with loose short-sleeve top and drawstring pants

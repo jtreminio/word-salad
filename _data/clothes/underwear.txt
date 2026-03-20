@@ -1,17 +1,17 @@
-Lingerie (bralette), a blush-pink soft-cup bralette in stretch modal with delicate lace trims and a relaxed wire-free fit
-Lingerie (balconette), a black balconette bra in satin-backed microfibre with wide-set straps and subtle underwire lift
-Lingerie (push-up), a black push-up bra with molded padding, satin outer fabric and low center gore
-Briefs, a classic white cotton brief with elastic waist and full support silhouette
-Boxer Briefs, a heather-gray boxer brief in cotton-spandex with supportive pouch, mid-rise waist and snug thigh length
-Boxers, loose cotton boxer shorts in plaid woven cotton with elastic waistband
-Brief, a white supportive brief in smooth stretch cotton with full coverage
-Bikini Brief, a cotton-blend bikini brief in heather gray with medium-rise and soft waistband
-Boxer briefs, a charcoal boxer-brief in modal-blend with mid-thigh length and snug stretch fit
-T-shirt Bra, a T-shirt bra in smooth microfiber with lightly molded cups and low-profile edges for invisible wear
-Sports Bra, a heather-gray high-support sports bra in moisture-wicking nylon-spandex with encapsulated cups and wide comfort band
-Boyshorts, a navy boyshort in breathable modal-blend with close-fitting leg coverage and flat-lock seams
-Thong, a minimal microfiber thong in nude with seamless edges and narrow waistband, with white top
-Shaping Bodysuit, a warm beige shaping bodysuit in power-mesh and nylon with light compression panels and smooth outer finish
-Teddy, a lace-trimmed black teddy in stretch mesh with fitted torso and delicate seam shaping
-Bustier, a cream lace bustier with boned seams, strapless cut and embroidered overlay
-Corset, a black satin corset with steel boning, waist-cinching panels and front busk closure
+balconette bra in satin-backed microfibre with wide-set straps and subtle underwire lift
+boxer brief in cotton-spandex with supportive pouch, mid-rise waist and snug thigh length
+boxer-brief in modal-blend with mid-thigh length and snug stretch fit
+boyshort in breathable modal-blend with close-fitting leg coverage and flat-lock seams
+classic cotton brief with elastic waist and full support silhouette
+cotton-blend bikini brief with medium-rise and soft waistband
+high-support sports bra in moisture-wicking nylon-spandex with encapsulated cups and wide comfort band
+lace bustier with boned seams, strapless cut and embroidered overlay
+lace-trimmed teddy in stretch mesh with fitted torso and delicate seam shaping
+loose cotton boxer shorts in plaid woven cotton with elastic waistband
+minimal microfiber thong with seamless edges and narrow waistband, with white top
+push-up bra with molded padding, satin outer fabric and low center gore
+satin corset with steel boning, waist-cinching panels and front busk closure
+shaping bodysuit in power-mesh and nylon with light compression panels and smooth outer finish
+soft-cup bralette in stretch modal with delicate lace trims and a relaxed wire-free fit
+supportive brief in smooth stretch cotton with full coverage
+t-shirt bra in smooth microfiber with lightly molded cups and low-profile edges for invisible wear

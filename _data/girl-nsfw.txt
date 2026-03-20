@@ -1,0 +1,17 @@
+wearing <wc:clothes-nsfw>.\
+<wcrandom:0.5::||0.5::Her hair is <wc:body/hair>. >\
+<wcrandom:0.9::||0.1::Her skin color is <wc:body/skin/color>. >\
+<wcrandom:0.9::||0.1::Her facial expression is <wc:body/face>. >\
+<wcrandom:0.9::||0.1::Her eyes are <wc:body/eyes>. >\
+<wcrandom:0.9::||0.1::body arms: <wc:body/arms>. >\
+<wcrandom:0.9::||0.1::body hands: <wc:body/hands>. >\
+<wcrandom:0.9::||0.1::body lipstick: <wc:body/lipstick>. >\
+<wcrandom:0.9::||0.1::body makeup: <wc:body/makeup>. >\
+<wcrandom:0.9::||0.1::body pose: <wc:body/pose>. >\
+<wcrandom:0.9::||0.1::piercings: <wc:body/piercings/piercings>. >\
+<wcrandom:0.9::||0.1::clothes arm accessories: <wc:clothes/arm-accessories>. >\
+<wcrandom:0.9::||0.1::clothes limbs: <wc:clothes/limbs>. >\
+<wcrandom:0.9::||0.1::clothes misc: <wc:clothes/misc>. >\
+<wcrandom:0.9::||0.1::clothes patterns: <wc:clothes/patterns>. >\
+<wcrandom:0.9::||0.1::clothes shoulders: <wc:clothes/shoulders>. >\
+<wcrandom:0.9::||0.1::clothes sleeves: <wc:clothes/sleeves>. >
