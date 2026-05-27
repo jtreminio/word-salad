@@ -1,10 +1,10 @@
-broad lighting, soft light, high key, glossy highlights, specular highlights, softbox
-broad lighting, soft shadows, subtle contrast, glossy highlights, beauty dish, softbox
-butterfly lighting, diffused light, high key, soft shadows, glossy highlights, beauty dish
-butterfly lighting, soft light, high key portrait, glossy highlights, bounce card, beauty dish
-butterfly lighting, soft shadows, subtle contrast, portra, glossy highlights, beauty dish
-clamshell lighting, diffused light, ektachrome, glossy highlights, specular highlights, reflector
-clamshell lighting, soft light, high key portrait, glossy highlights, beauty dish, reflector
-clamshell lighting, soft shadows, subtle contrast, ektachrome, glossy highlights, reflector
-loop lighting, soft light, high key, specular highlights, umbrella light, reflector
-loop lighting, soft shadows, subtle contrast, portra, glossy highlights, umbrella light
+even wrap-around light, open shadows, high key, glossy highlights, glowing skin
+even wrap-around light, open shadows, low contrast, glossy highlights, luminous skin
+soft overhead light, small nose shadow, high key, soft shadows, catchlights
+soft overhead light, small nose shadow, high key, glossy highlights, bright even exposure
+soft overhead light, small nose shadow, low contrast, warm muted film tones, soft grain, glowing skin
+even front light, minimal shadows, saturated cool-toned film, fine grain, glossy highlights, catchlights
+even front light, minimal shadows, high key, glossy highlights, luminous skin
+even front light, minimal shadows, low contrast, saturated cool-toned film, fine grain, glowing skin
+soft angled light, gentle nose shadow, high key, specular highlights, catchlights
+soft angled light, gentle nose shadow, low contrast, warm muted film tones, soft grain, luminous skin

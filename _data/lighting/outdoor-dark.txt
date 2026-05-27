@@ -1,20 +1,20 @@
-cool light, backlight, low key, hard light, volumetric light, tri-x
-cool light, backlight, practical light, deep shadows, subtle contrast
-cool light, backlight, window light, deep shadows, subtle contrast
-cool light, rim light, ambient light, deep shadows, subtle contrast
+cool light, backlight, low key, hard light, volumetric light, heavy film grain
+cool light, backlight, glowing light source in scene, deep shadows, low contrast
+cool light, backlight, window light, deep shadows, cool-toned shadows
+cool light, rim light, dim ambient glow, deep shadows, cool-toned shadows
 cool light, rim light, low key, backlit haze, deep contrast, cinestill
-cool light, rim light, practical light, deep shadows, subtle contrast
-cool light, rim light, table lamp, deep shadows, subtle contrast
+cool light, rim light, glowing light source in scene, deep shadows, cool-toned shadows
+cool light, rim light, warm lamp glow, deep shadows, low contrast
 cool light, stage haze, rim light, low key, deep contrast, cinestill
 cool light, underlight, low key, volumetric light, deep contrast, cinestill
-low key, ambient light, scattered light, deep shadows, subtle contrast
-low key, scattered light, candlelight, deep shadows, subtle contrast
-low key, scattered light, practical light, deep shadows, subtle contrast
-low key, scattered light, table lamp, deep shadows, subtle contrast
-low key, scattered light, window light, deep shadows, subtle contrast
-natural light, fog lighting, backlight, low key, hard light, tri-x
+deep shadows, dim ambient glow, scattered light, low contrast, cool-toned shadows
+low key, scattered light, candlelight, deep shadows, warm tones
+low key, scattered light, glowing light source in scene, deep shadows, low contrast
+low key, scattered light, warm lamp glow, deep shadows, warm tones
+low key, scattered light, window light, deep shadows, cool-toned shadows
+natural light, fog lighting, backlight, deep shadows, hard light, heavy film grain
 natural light, fog lighting, rim light, low key, deep contrast, cinestill
-natural light, split lighting, low key, backlit haze, hard shadows, tri-x
-natural light, stage haze, backlight, low key, hard light, tri-x
+natural light, face half-lit, hard shadow divide, backlit haze, hard shadows, heavy film grain
+natural light, stage haze, backlight, deep shadows, hard light, heavy film grain
 warm light, side light, low key, mist backlight, deep contrast, cinestill
-warm light, side light, low key, mist backlight, hard shadows, tri-x
+warm light, side light, low key, mist backlight, hard shadows, heavy film grain

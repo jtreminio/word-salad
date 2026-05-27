@@ -1,20 +1,20 @@
-backlight, hard light, gelled light, ektachrome, glossy highlights
-backlight, hard light, light leaks, led light, glossy highlights
-backlight, hard light, neon light, high contrast, fujifilm velvia, glossy highlights
-broad lighting, gelled light, ektachrome, glossy highlights, specular highlights
+backlight, hard light, colored gel light, saturated cool-toned film, fine grain, glossy highlights
+backlight, hard light, light leaks, harsh cool-toned light, glossy highlights, saturated colors
+backlight, hard light, neon light, high contrast, saturated punchy color, fine grain, glossy highlights
+even wrap-around light, open shadows, colored gel light, saturated cool-toned film, glossy highlights, specular highlights
 cool light, atmospheric backscatter, backlit haze, volumetric light, deep contrast, saturated colors
 cool light, backlight, hard light, scattered light, saturated colors, specular highlights
-cool light, volumetric light, strip light, deep contrast, hard shadows, saturated colors
+cool light, volumetric light, narrow band of light, deep contrast, hard shadows, saturated colors
 diffused light, soft light, atmospheric backscatter, halation, neon light, saturated colors
 diffused light, soft light, atmospheric backscatter, halation, rgb neon, saturated colors
 fog lighting, backlight, god rays, halation, deep contrast, saturated colors
-rim light, gelled light, volumetric light, ektachrome, specular highlights
-rim light, gelled light, volumetric light, neon light, deep contrast, saturated colors
+rim light, colored gel light, volumetric light, saturated cool-toned film, saturated colors, specular highlights
+rim light, colored gel light, volumetric light, neon light, deep contrast, saturated colors
 rim light, hard light, scattered light, lens flare, saturated colors, specular highlights
-rim light, volumetric light, neon light, high contrast, specular highlights
-side light, caustics, gelled accent, high contrast, saturated colors, glossy highlights
-side light, gelled accent, high contrast, saturated colors, glossy highlights, specular reflection
-side light, hard light, fluorescent light, fujifilm velvia, glossy highlights
-split lighting, hard light, neon light, fujifilm velvia, specular highlights
-stage haze, side light, fluorescent light, high contrast, glossy highlights
-top light, lens flare, led light, high contrast, glossy highlights
+rim light, volumetric light, neon light, high contrast, specular highlights, bloom
+side light, caustics, colored gel light, high contrast, saturated colors, glossy highlights
+side light, colored gel light, high contrast, saturated colors, glossy highlights, specular reflection
+side light, hard light, fluorescent light, saturated punchy color, fine grain, glossy highlights
+face half-lit, hard shadow divide, hard light, neon light, saturated punchy color, specular highlights
+stage haze, side light, fluorescent light, high contrast, glossy highlights, saturated colors
+top light, lens flare, harsh cool-toned light, high contrast, glossy highlights, bloom

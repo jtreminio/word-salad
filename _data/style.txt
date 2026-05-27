@@ -1,61 +1,15 @@
-surreal, fever dream, abstract, weird, whimsical
-inset, close-up, eyes, zoom layer, cut-in, multiple views, full body, straight-on
-inset, close-up, eyes, zoom layer, cut-in, multiple views, full body, straight-on, character chart, reference sheet, diagram
-photograph, RAW photo, professional color grading, clean sharp focus, commercial high quality, magazine winning photography, hyper realistic, uhd, 8K
-photograph, RAW photo, 8K, photorealistic
-shadow art, dark, high contrast, spot color
-traditional media, retro aesthetic, painterly, shadow art, dark, high contrast, spot color
-flat, colorful, high contrast, cosmic glow, white outline, drop shadow
-detailed stylistic anime, flat colors, high contrast, cosmic glow, colorful gradient outline, drop shadow
-Colorful cartoon style, glitch art, abstract, weird, whimsical, thick line drawing, sketch, painting, watercolor, dripping watercolor, melting colors, airbrush, minimalism, minimalist, minimal. Colors are <wc:colors/_cinematic-contrast>, deep rich hues, vivid accents, bold tonal contrast, high depth colors, dramatic lighting tones, saturated cinematic palette, moody color grading, glowing highlights, shadow‑rich midtones, filmic colors. light particles, bokeh, silhouette, depth of field, foreshortening.
-no humans, scenery, scenic, landscape, abstract, surreal, whimsical, weird.
-glitch art, broken, shattered, torn, abstract, surreal, whimsical, error
-high contrast, retro comic style, flat color, no lineart, no outline
-semi-realistic western cartoon, stylized, vivid colors, illustration, lineart
-stylized anime, anime screenshot, vivid colors, illustration, lineart
-high-quality anime illustration, 2D, clean lineart, cel-shaded, vibrant colors, soft shading
-semi-realistic western cartoon, stylized, vivid colors, illustration, cartoon screenshot, lineart, character design, old-school, vintage fantasy
-hyper-realistic illustration
-Stylized adult cartoon style, round chin, small eyes, painterly texture
-Stylized, semi-realistic adult cartoon style, rounded chin, small eyes, painterly texture, matte skin
-lineart, thick lineart, painterly, semi realistic, cartoon, western comics style
-charcoal drawing on textured paper, flat colors, line art, faded colors, washed colors, monochrome, limited palette
-flat, sketch, lineart, tracing, monochrome, monochromatic, patterned background
-flat color, sketch, lineart, tracing, monochrome, gradient, colorful, black background, hatching texture, patterned background
-glowing, abstract, abstract background, gradient background, dark background
-comicbook style, cartoon, depth, western comics style, outline, colored lineart, flat colors
-left side full color, smoothly fading to right side in monochrome, seamless gradient transition across entire frame
-Colors fade to black and white from left to right
-Colors fade to monochrome from left to right
-Colorful body tattoos, gothic style, emo style, dark motif
-hyper-realistic western illustration, stylized, vivid colors, retro colors, vintage colors.
-digital illustration. oil painting style
-outline, drop shadow
-chibi, aged up, mature, rounded hands, rounded feet, large heads.
-flat cartoon
-3D cartoon
-semi-3D cartoon
-vivid cel-shaded vector illustration, thick black marker outline, bold contour lines
-zombies, zombie apocalypse, disaster
-A miniature-style scene with a tilt-shift effect and shallow depth of field
-Paint volume replaces canvas, pigment forms its own physical border, subject-contained paint mass, no frame-filling. Extreme impasto oil painting style, extreme paint thickness with knife-applied ridges and peaks, dense sculptural buildup, 3D surface relief, carved brushstrokes, palette-knife striations, cracked and layered pigment, visible drag marks, tactile highlights and shadows formed by paint volume, exaggerated surface depth, raw pigment clumping, thick paint masses, painterly distortion.
-Oil painting on canvas, thick brushstrokes, painterly, impressionist-style brushstrokes, splattering, running, cracking, peeling, melting, crystallizing, dripping, splotches, thick impasto texture. Thick paint strokes, dripping paint. Whimsical, abstract, playful. Torn, frayed, split, broken, smashed.
-manga style oil painting, black and white monochrome, oil painting on canvas, thick brushstrokes, painterly, impressionist-style brushstrokes, splotches, thick impasto texture, thick paint strokes
-Marker illustration on textured linen canvas, bold saturated colors, heavy ink bleed, overlapping strokes, visible marker streaks, uneven opacity, edge feathering, layered pigment pooling, glossy sheen, streaky texture, slight paper warp, blended gradients from overlapping passes, dense color blocks, soft frayed edges where ink meets canvas grain. Abstract, whimsical, playful.
-Fresco mural on plaster wall, mineral pigments absorbed into wet lime, matte texture, softly diffused color, seamless integration with surface. Subtle brushstrokes, muted earthy tones, chalky finish, gentle fading at edges. Cracks, weathering, flaking pigment, exposed plaster beneath. Ancient, architectural, serene, sacred, timeless atmosphere.
-In the style of Justin Gaffrey, oil painting on canvas, heavy impasto, sculptural paint, thickly textured paint, palette knife painting, 3D paint, paint relief, exploding paint, paint splashing, liquid drips, dynamic liquid motion, surrealism, fantasy art, dramatic lighting, vibrant colors. Abstract, whimsical, weird, cute.
-Painting in the style of Andy Kehoe, mythical creatures in enchanted forests, layered acrylic and resin creating depth, intricate detail with a glossy finish, luminous light, earthy palette with vibrant accents, whimsical yet melancholic
-Oil painting on canvas, canvas texture, thick brushstrokes, painterly, impressionist style brushstrokes, splattering, running, cracking, peeling, melting, crystallizing, dripping, splotched paint. Raised paint texture, paint spatula marks, thick impasto texture, dynamic paint drips. Paint explosion, paint splatters, smudges. Thick impasto texture, on canvas.
-texture brushstrokes, glossy, high saturation, flat color, lineart, flat vector, no outline, traditional media, minimal, minimalistic, simple background
+modify the character actions and behavior to reflect the image style
 replace the character's eyes with sewn-on buttons, visible thread, red rimmed, small blood leakage.
-Extreme closeup of the character's face, their pupils reflecting the scenery in front of them
-Replace characters with stuffed teddy bear versions of themselves, giving details on their physical appearance.
+extreme closeup of the character's face, their pupils reflecting the scenery in front of them
+replace characters with stuffed teddy bear versions of themselves, giving details on their physical appearance.
+
 uhd, 8k, ultra detailed, a cinematic photograph, beautiful lighting, great composition
 3d layered papercut shadowbox art, dimensional paper sculpture, multi-layer cut paper design, silhouette composition, depth and shadow interplay, handcrafted paper diorama aesthetic, handmade, high contrast
 crayon-drawn paper cutout characters, ripped and cut paper, layered papercraft scenery, wobbly linework, construction paper layers with soft shadows, handmade, blurry background
-stop-motion claymation, Tim Burton aesthetic, hand-sculpted clay figure, visible fingerprints and tool marks in clay surface, slightly uneven smooth matte clay texture, waxy subsurface clay sheen, expressive oversized eyes, elongated spindly limbs, exaggerated proportions, pale ghostly skin tones, muted desaturated color palette, subtle surface imperfections, slightly smudged clay edges, puppet-like jointed construction, eerie whimsical gothic style, soft diffused studio lighting emphasizing clay texture depth
+stop-motion claymation, tim burton aesthetic, hand-sculpted clay figure, visible fingerprints and tool marks in clay surface, slightly uneven smooth matte clay texture, waxy subsurface clay sheen, expressive oversized eyes, elongated spindly limbs, exaggerated proportions, pale ghostly skin tones, muted desaturated color palette, subtle surface imperfections, slightly smudged clay edges, puppet-like jointed construction, eerie whimsical gothic style, soft diffused studio lighting emphasizing clay texture depth
 faberge egg coated in shiny enamel, 3d layered, dimensional sculpture, multi-layer design, depth and shadow interplay, high contrast
 stained glass cloisonné sculpture, vitreous enamel and translucent glass inlays, metallic filigree framework, jewel-toned coloration, smooth reflective enamel finish, luminous art nouveau aesthetic, segmented organic patterns, decorative fine metal detailing, glowing translucent and polished surface, macro photography of surface
+vivid cel-shaded vector illustration, thick black marker outline, bold contour lines
 chaotic, punk-horror, ink-splatter illustration with rough, high-contrast black lines
 relief sculpture, high-relief carving, hyper-detailed scrimshaw, engraved bas-relief, carved ivory, carved bone, carved resin, contrasting dark background, light etched surface, raking side light emphasizing depth and fine texture
 glass-skin characters, skeleton and innards and guts fully visible, transparent skin
@@ -63,77 +17,79 @@ hyper-detailed high-relief carving, scrimshaw-style engraved bas-relief, carved 
 charcoal pencil drawing, watercolor style painting, visible paper texture, colorwash, color bleed, color outside the lines
 oil painting by jackson pollock, abstract expressionism, drip painting, chaotic composition, energetic, spontaneous, unconventional technique, dynamic, bold, distinctive, vibrant, intense, expressive, energetic, layered, non-representational, gestural
 illustration, retrowave aesthetic, retro, futuristic, neon, synth nostalgia
-flat-colored digital illustration, grain-textured, heavy digital noise, crushed shadow detail in the deep blacks, thick inked outlines and flat-color fills create a distinct graphic contrast against the murky, smeared textures of the background environment
-Oil painting by El Greco, El Greco art style. Oil painting by El Greco, elongated forms, spiritual tension, dramatic chiaroscuro, expressive brushwork, high contrast, unnatural elongation of limbs and features, golden halos around light sources
-Riso print aesthetic, retro vintage colors, grainy ink texture, misregistration, limited palette layers, high contrast with tactile noise
-Black and white manga line art, pure ink style, no shading or gradients, high-contrast silhouettes, bold contour lines, variable line weight, clean negative space, graphic composition, minimalist inking, print-optimized illustration
-Black and white manga ink style with hatch shading, dense cross-hatching for shadows, variable line density, directional stroke rendering, high-contrast inking, no gradients, graphic silhouette control, print-optimized illustration
-Film noir still, hard key light, deep shadows, silhouette-first blocking, high contrast rim light, heavy vignettes
-Woodcut and Linocut print, chunky carved shapes, stark black/white contrast, rough edges, minimal midtones, strong negative space
-Etchinga and Engraving, ultra-fine linework, dense cross-hatching, metallic bite to lines, high detail with controlled value ramps
-Scratchboard, white lines scratched out of black, razor highlights, dramatic chiaroscuro, fur/texture via directional cuts
-Caravaggio-style chiaroscuro, near-black backgrounds, spotlight illumination, extreme light falloff, sculptural forms from shadow massing
-Graphic poster silkscreen, limited colors, flat fills, crisp edges, bold shapes, high-contrast separation layers
-<random:Stencil||street-art> cutout, <random:2||3> tone value design, sharp edges, minimal detail, punchy silhouettes
-Hard-edged cel shading, <random:anime||game> look, discrete shadow shapes, clean lineart, hard gradients
-Inking-only comic, spot blacks, thick outlines, large black shadow shapes, minimal hatch, readable at small sizes
-Brush-ink sumi-e, expressive brush strokes, ink wash or dry-brush texture, dramatic negative space, high gesture-to-detail ratio
-Calligraphic line art, variable-width strokes, tapering ends, minimal fills, contrast from line weight not shading
-Op art line contrast, vibrating patterns, tight stripes, moiré effects, high-frequency line density creates faux shading
-Low-key studio portrait, controlled shadows, single softbox feel, high dynamic range emphasis, deep blacks with selective highlights
-Blueprint technical ink, precise uniform lines, sparse shading, cross-sections, high clarity and structure over realism
-Pixel art high-contrast, hard dithering patterns, limited palette, sharp silhouettes, value steps instead of gradients
-Gothic ink illustration, dense black fills, ornate linework, filigree, sharp highlights, heavy shadow emphasis
-Neon outline on black, luminous edge lines, glowing contours, black void backgrounds, contrast driven by emissive strokes
-Charcoal conte, aggressive dark massing, smudged gradients, sharp eraser highlights, gritty texture contrast
-Pointillism high contrast, values built from dot density, crisp edges, optical blending without smooth shading
-White ink on black paper, reverse comic inking, negative space illustration, spot whites, rim-light contours, high-contrast chiaroscuro, carved highlights, sparse directional hatching, minimal interior lines, bold silhouette separation, scratchboard-inspired but clean
-Reverse woodcut, linocut, black field dominant, carved white shapes as highlights, white cut marks define form, minimal midtones, strong negative-space silhouettes
-Reverse etching, engraving, black background, white highlights, black plate look, fine white hatch lines engraved into darkness, cross-hatching builds glow and volume, bright planes cut out with solid white
-Reverse scratchboard, dark background, deep black base, crisp white scratches for edges and textures, bright focal highlights, directional cuts imply form
-Reverse silkscreen poster, dark background, limited spot-color accents, bold white graphic shapes, clean registration-style edges
-Reverse stencil cutout, black paper dominant, white sprayed, painted silhouettes and rim accents, minimal internal detail, high readability through negative space
-White-on-black cel shading, dark background, white light shapes, white hatching, graphic anime
-White-on-black comic inking, dark background, spot whites, white highlights, rim-light contours, thick white lines
-Reverse sumi-e, ink-out, negative brush, black wash ground, white brush strokes for forms, dry-brush white texture, big black emptiness, calligraphic highlight strokes
-Reverse calligraphic line art, dark background, white variable-width strokes on black, tapering ends, high gesture, minimal fills, no outlines
-Negative op art, dark background, dense white line patterns, moiré vibrate, white stripes
-Reverse riso print, black base layer, white, paper-ink, highlight layer with grain and misregistration feel, noisy halftone whites, limited palette accents
-Reverse pixel art, black base layer, white pixels for edges and key planes, white dithering for imply midtones, high-contrast sprites icons
-Reverse gothic ink illustration, dark background, black field with ornate white filigree, carved highlight motifs, sharp white accents for jewelry or metal or eyes, heavy silhouette dominance
-Neon outline on black, black void background, bright edge lines as primary structure, glow halos optional, emissive contour-driven forms
-Reverse pointillism, black ground, dot-density in white, bright clustered dots, edges dot falloff
+oil painting by el greco, el greco art style. oil painting by el greco, elongated forms, spiritual tension, dramatic chiaroscuro, expressive brushwork, high contrast, unnatural elongation of limbs and features, golden halos around light sources
+
+riso print aesthetic, retro vintage colors, grainy ink texture, misregistration, limited palette layers, high contrast with tactile noise
+black and white manga line art, pure ink style, no shading or gradients, high-contrast silhouettes, bold contour lines, variable line weight, clean negative space, graphic composition, minimalist inking, print-optimized illustration
+black and white manga ink style with hatch shading, dense cross-hatching for shadows, variable line density, directional stroke rendering, high-contrast inking, no gradients, graphic silhouette control, print-optimized illustration
+film noir still, hard key light, deep shadows, silhouette-first blocking, high contrast rim light, heavy vignettes
+woodcut and linocut print, chunky carved shapes, stark black/white contrast, rough edges, minimal midtones, strong negative space
+etchinga and engraving, ultra-fine linework, dense cross-hatching, metallic bite to lines, high detail with controlled value ramps
+scratchboard, white lines scratched out of black, razor highlights, dramatic chiaroscuro, fur/texture via directional cuts
+caravaggio-style chiaroscuro, near-black backgrounds, spotlight illumination, extreme light falloff, sculptural forms from shadow massing
+graphic poster silkscreen, limited colors, flat fills, crisp edges, bold shapes, high-contrast separation layers
+<random:stencil||street-art> cutout, <random:2||3> tone value design, sharp edges, minimal detail, punchy silhouettes
+hard-edged cel shading, <random:anime||game> look, discrete shadow shapes, clean lineart, hard gradients
+inking-only comic, spot blacks, thick outlines, large black shadow shapes, minimal hatch, readable at small sizes
+brush-ink sumi-e, expressive brush strokes, ink wash or dry-brush texture, dramatic negative space, high gesture-to-detail ratio
+calligraphic line art, variable-width strokes, tapering ends, minimal fills, contrast from line weight not shading
+op art line contrast, vibrating patterns, tight stripes, moiré effects, high-frequency line density creates faux shading
+low-key studio portrait, controlled shadows, single softbox feel, high dynamic range emphasis, deep blacks with selective highlights
+blueprint technical ink, precise uniform lines, sparse shading, cross-sections, high clarity and structure over realism
+pixel art high-contrast, hard dithering patterns, limited palette, sharp silhouettes, value steps instead of gradients
+gothic ink illustration, dense black fills, ornate linework, filigree, sharp highlights, heavy shadow emphasis
+neon outline on black, luminous edge lines, glowing contours, black void backgrounds, contrast driven by emissive strokes
+charcoal conte, aggressive dark massing, smudged gradients, sharp eraser highlights, gritty texture contrast
+pointillism high contrast, values built from dot density, crisp edges, optical blending without smooth shading
+
+white ink on black paper, reverse comic inking, negative space illustration, spot whites, rim-light contours, high-contrast chiaroscuro, carved highlights, sparse directional hatching, minimal interior lines, bold silhouette separation, scratchboard-inspired but clean
+reverse woodcut, linocut, black field dominant, carved white shapes as highlights, white cut marks define form, minimal midtones, strong negative-space silhouettes
+reverse etching, engraving, black background, white highlights, black plate look, fine white hatch lines engraved into darkness, cross-hatching builds glow and volume, bright planes cut out with solid white
+reverse scratchboard, dark background, deep black base, crisp white scratches for edges and textures, bright focal highlights, directional cuts imply form
+reverse silkscreen poster, dark background, limited spot-color accents, bold white graphic shapes, clean registration-style edges
+reverse stencil cutout, black paper dominant, white sprayed, painted silhouettes and rim accents, minimal internal detail, high readability through negative space
+white-on-black cel shading, dark background, white light shapes, white hatching, graphic anime
+white-on-black comic inking, dark background, spot whites, white highlights, rim-light contours, thick white lines
+reverse sumi-e, ink-out, negative brush, black wash ground, white brush strokes for forms, dry-brush white texture, big black emptiness, calligraphic highlight strokes
+reverse calligraphic line art, dark background, white variable-width strokes on black, tapering ends, high gesture, minimal fills, no outlines
+negative op art, dark background, dense white line patterns, moiré vibrate, white stripes
+reverse riso print, black base layer, white, paper-ink, highlight layer with grain and misregistration feel, noisy halftone whites, limited palette accents
+reverse pixel art, black base layer, white pixels for edges and key planes, white dithering for imply midtones, high-contrast sprites icons
+reverse gothic ink illustration, dark background, black field with ornate white filigree, carved highlight motifs, sharp white accents for jewelry or metal or eyes, heavy silhouette dominance
+neon outline on black, black void background, bright edge lines as primary structure, glow halos optional, emissive contour-driven forms
+reverse pointillism, black ground, dot-density in white, bright clustered dots, edges dot falloff
+
 whimsical, surreal, abstract, weird, cute. watercolor style painting, visible paper texture, colorwash. double exposure style, superimposed images, translucent layers, blended scenes, collage, filled silhouettes
-painting in the style of Vincent van Gogh, dynamic and expressive composition, thick impasto oil paint with visible, rhythmic swirling brushwork, expressive use of light and shadow, vibrant palette with bold and often complementary color choices, emotionally intense and psychologically charged atmosphere
-watercolor art style with prominent, gravity-pulled paint drips and runs. Features fluid, translucent washes, visible flow lines, and spontaneous splatters. The composition is loose and dynamic, with layered, bleeding colors, natural gradients, and an abstract, free-flowing aesthetic
+painting in the style of vincent van gogh, dynamic and expressive composition, thick impasto oil paint with visible, rhythmic swirling brushwork, expressive use of light and shadow, vibrant palette with bold and often complementary color choices, emotionally intense and psychologically charged atmosphere
+watercolor art style with prominent, gravity-pulled paint drips and runs. features fluid, translucent washes, visible flow lines, and spontaneous splatters. the composition is loose and dynamic, with layered, bleeding colors, natural gradients, and an abstract, free-flowing aesthetic
 coffee stain art, coffee rings, charcoal pencil lines
-8-Bit, Retro Gaming, Pixel Art, 1980s, limited color palette, blocky graphics, no outlines, no shading, dropshadow text, large pixels, simple animation, low resolution, arcadecore, lo-fi, cassette futurism
-high-contrast monochrome ASCII art, terminal text characters forming blocky 8-bit imagery, visible pixelation, aliased edges, retro computer screen aesthetic, grid-aligned letters, minimal shading
-ASCII art style, monochrome terminal text characters, blocky pixelated letters, retro 8-bit aesthetic, aliased edges, green-on-black CRT screen, typewriter font grid pattern, digital mosaic
-vibrant ANSI-style text art, 16‑color neon palette, chunky block characters, heavy dithering, black background, sharp pixel outlines, gradient shading, retro BBS vibe, poster-like composition
-ANSI art style, retro BBS graphics, limited 16-color palette, chunky block characters, vibrant saturated colors on black background, DOS-era aesthetic, dithered shading, textmode pixel art, 1990s demoscene
+8-bit, retro gaming, pixel art, 1980s, limited color palette, blocky graphics, no outlines, no shading, dropshadow text, large pixels, simple animation, low resolution, arcadecore, lo-fi, cassette futurism
+high-contrast monochrome ascii art, terminal text characters forming blocky 8-bit imagery, visible pixelation, aliased edges, retro computer screen aesthetic, grid-aligned letters, minimal shading
+ascii art style, monochrome terminal text characters, blocky pixelated letters, retro 8-bit aesthetic, aliased edges, green-on-black crt screen, typewriter font grid pattern, digital mosaic
+vibrant ansi-style text art, 16‑color neon palette, chunky block characters, heavy dithering, black background, sharp pixel outlines, gradient shading, retro bbs vibe, poster-like composition
+ansi art style, retro bbs graphics, limited 16-color palette, chunky block characters, vibrant saturated colors on black background, dos-era aesthetic, dithered shading, textmode pixel art, 1990s demoscene
 haute couture paper quilling sculpture, intricate coiled paper strips, ornate spiral and loop patterns, elegant dimensional paper artistry, sculptural paper fashion design, flowing rhythmic curves, handcrafted precision detailing, contemporary quilled art style, luxurious and decorative composition
-porcelain sculpture, blue-and-white ceramic glazing, cobalt underglaze floral pattern, polished high-gloss finish, contemporary fine-art ceramic design, inspired by traditional Chinese porcelain, intricate detailing, natural diffused lighting, smooth reflective surface, museum-quality ceramic artwork
+porcelain sculpture, blue-and-white ceramic glazing, cobalt underglaze floral pattern, polished high-gloss finish, contemporary fine-art ceramic design, inspired by traditional chinese porcelain, intricate detailing, natural diffused lighting, smooth reflective surface, museum-quality ceramic artwork
 avant-garde art style, abstract shapes, bold lines, unconventional composition, experimental materials, geometric forms, collage, mixed media, asymmetry, vibrant palette, fragmented imagery, kinetic elements, industrial texture, futuristic motifs, avant‑garde typography
 iridescent art nouveau glass sculpture, blown and molded carnival glass, dichroic resin finish, luminous internal glow, metallic rainbow gradients, translucent reflective surface, ornate engraved detailing, flowing organic curves, intricate craftsmanship, hyperreal lighting, cosmic shimmer aesthetic, macro photography of surface
 intricate carved ivory sculpture, ivory bone and resin with detailed engraving, floral and organic motifs, smooth polished finish, high-relief carving, elegant curvature and texture, mythic decorative design, earthy tones, macro photography of surface
 pebble mosaic sculpture, pebble art design, intricate arrangement of polished stones and small pebbles, ornamental texture and flowing contours, elegant dimensional stone craftsmanship, sculptural fashion form built from layered pebbles, rhythmic organic patterning, contemporary pebble mosaic aesthetic, natural composition
 abstract expressionism art, high contrast, minimalistic, colorful, stark, dramatic, expressionism
 child's fantasy illustration, impossible anatomy, dreamlike proportions, scribbled crayon lines, rainbow chaos palette, endearing wonky perspective, wild imaginative energy, innocently surreal, joyful artistic abandon, crinkled paper canvas
-change only the background to sketch without altering the woman. Do not change the style of the woman or her clothes at all. Leave the woman and her clothes unaltered. The woman should remain unchanged. The woman's colors should remain identical.
+change only the background to sketch without altering the woman. do not change the style of the woman or her clothes at all. leave the woman and her clothes unaltered. the woman should remain unchanged. the woman's colors should remain identical.
 naive child's crayon drawing style, bright primary colors, scribbled outlines, uneven coloring outside the lines, imaginative impossible scenes, charming imperfections, flat perspective
-naive wax crayon sketch, rough construction paper texture, erratic heavy-handed strokes, disproportioned, vibrant unblended primary colors, whimsical 2D perspective, playful messy scribbles, clumsy imaginative composition, endearing chaotic aesthetic, crude outline style
+naive wax crayon sketch, rough construction paper texture, erratic heavy-handed strokes, disproportioned, vibrant unblended primary colors, whimsical 2d perspective, playful messy scribbles, clumsy imaginative composition, endearing chaotic aesthetic, crude outline style
 hyperrealistic digital painting, painterly brushwork, visible impasto texture, soft blending, high contrast, saturated backdrop, subtle subsurface glow, delicate translucent iridescence, matte finish on textures, shallow depth of field with foreground blur, rich color palette, cinematic framing, moody dramatic lighting, painterly abstraction of motion, dreamlike quality, anime-inspired fantasy style
 digital painting, painterly brushwork, visible impasto texture, soft blending, high contrast, saturated backdrop, subtle subsurface glow, delicate translucent iridescence, matte finish on textures, shallow depth of field with foreground blur, stylized anime aesthetic, semi-realistic proportions, ethereal atmosphere, rich color palette, cinematic framing, moody dramatic lighting, painterly abstraction of motion, dreamlike quality, anime-inspired fantasy style
 neo-expressionist digital illustration, bold vector-art aesthetic, abstract, painterly acrylic and ink texture, sharp outlines, dynamic graphic composition, stylized contemporary design, expressive modern pop-art style, dramatic chiaroscuro digital artwork
 needle-felted wool sculpture, soft fibrous textures, pastel and earth-tone color palette, matte finish, cozy aesthetic, intricate layered wool fibers, handcrafted felt art, shallow depth of field, macro details of felted texture
-biomechanical assemblage sculpture, intricate fusion of decayed circuit boards and insectoid anatomy, tangled wires and glowing micro-LEDs, cyberpunk aesthetic, weathered metal and rusted plastic textures, gritty and complex, found-object art, high-contrast chiaroscuro lighting, macro photography of soldered joints and silicon chips
+biomechanical assemblage sculpture, intricate fusion of decayed circuit boards and insectoid anatomy, tangled wires and glowing micro-leds, cyberpunk aesthetic, weathered metal and rusted plastic textures, gritty and complex, found-object art, high-contrast chiaroscuro lighting, macro photography of soldered joints and silicon chips
 anatomical sculpture made of translucent gummy candy, cross-section view showing internal structures, vibrant glowing colors, wobbly gelatinous texture, glossy and wet surface, backlit to show internal details, hyperrealistic macro photography, surreal food art, playful and bizarre, shallow depth of field
 abstract sculpture of captured fluid dynamics in a resin cube, petri dish art aesthetic, swirling alcohol inks and pearlescent pigments suspended in clear epoxy, wispy tendrils of color, cellular and cosmic patterns, vibrant translucent layers, macro photography showing micro-bubbles and fine particulate details
 whimsical anatomical model in a cutaway view, made entirely of plasticine and modeling clay, vibrant contrasting colors for different organs, charmingly imperfect handmade textures, visible fingerprints and carving marks, claymation aesthetic, playful biology, diorama style
 double-exposure lenticular print effect, merging a vintage anatomical illustration with a futuristic cybernetic blueprint, imagery shifts and flickers, ghostly overlapping layers, moire patterns, abstract and disorienting, high-tech meets historical, glitchy and kinetic visual art
 intricate and colorful sculpture made from quilled paper, tightly coiled paper strips, vibrant color gradients, whimsical art, macro photography showing the texture of the paper coils, shallow depth of field, handcrafted papercraft
-carved woodblock bas-relief, Ukiyo-e inspired wood sculpture, visible wood grain and chisel marks, stylized and graphic forms, matte earth-tone stains, hand-carved aesthetic
+carved woodblock bas-relief, ukiyo-e inspired wood sculpture, visible wood grain and chisel marks, stylized and graphic forms, matte earth-tone stains, hand-carved aesthetic
 lampwork borosilicate glass sculpture, fumed glass with silver and gold, intricate internal latticino and helix patterns, psychedelic colors, encased air bubbles, perfectly smooth and transparent, macro photography of internal details
 sculpted gummy candy diorama, translucent gelatinous forms, vibrant candy colors, sugary frosted texture, chewy and soft aesthetic, surreal edible landscape, backlit for inner glow
 risograph misregistration print, <random:duotone||tritone> soy-ink halftones, bold overprints, off-kilter registration, fluorescent spot colors, grainy paper tooth, zine-era charm, graphic block shapes, playful print noise, high-contrast poster aesthetic
@@ -163,41 +119,46 @@ schlieren shadowgraph flow study, heat plumes and air currents rendered as silve
 high contrast graphic silhouette, stencil art aesthetic, absolute black subjects against a vibrant gradient background, extreme chiaroscuro, aerosol paint splatters and ink drips, bold graphic shapes, urban street art influence, expressive linework, stark negative space composition
 high-contrast silhouette art, dramatic shadow play with extreme chiaroscuro, backlit figures shrouded in impenetrable blackness, minimal outline details emerging from void, stark environmental contrast with vibrant gradients, noir-inspired minimalism, hidden features dissolved in darkness, bold negative space composition, digital airbrush rendering with sharp edges
 ultra-detailed high-speed photograph, a person's face contorted in shock at the moment of impact with several flying hot dogs in buns, mustard and ketchup exploding everywhere, dramatic studio lighting, action shot, motion blur, shallow depth of field. absurd, surreal, whimsical, weird, funny
-She is sitting atop an enormous, richly-frosted layer cake, a look of blissful indulgence on her face as she licks icing from her fingers, her body sinking into the soft frosting, clothes and skin speckled with frosting and colorful sprinkles, richly textured
-She is sitting in a giant bowl of spaghetti and meatballs, tomato sauce speckled on her face and clothes, twirling pasta on a fork with a playful grin, warm Italian kitchen lighting, richly textured
-She is nestled in an enormous pile of colorful, fluffy stuffed animals, hugging a large teddy bear with a contented smile, soft, warm bedroom lighting
-She is sitting on a giant, soft cumulonimbus cloud at twilight, glowing stardust glittering on her clothes and skin, cupping a handful of the glowing cloud in her hands with a look of wonder, ethereal backlighting
-She is sitting atop an enormous multi-layered frosted cake, her body partially sinking into the soft white icing like quicksand, clothing and skin speckled with colorful frosting smudges, one hand covered in gooey frosting being licked with a mischievous grin, dynamic textures on creamy swirls and sprinkles, photorealistic with vibrant sugary colors, warm golden-hour lighting, humorous and indulgent atmosphere
+she is sitting atop an enormous, richly-frosted layer cake, a look of blissful indulgence on her face as she licks icing from her fingers, her body sinking into the soft frosting, clothes and skin speckled with frosting and colorful sprinkles, richly textured
+she is sitting in a giant bowl of spaghetti and meatballs, tomato sauce speckled on her face and clothes, twirling pasta on a fork with a playful grin, warm italian kitchen lighting, richly textured
+she is nestled in an enormous pile of colorful, fluffy stuffed animals, hugging a large teddy bear with a contented smile, soft, warm bedroom lighting
+she is sitting on a giant, soft cumulonimbus cloud at twilight, glowing stardust glittering on her clothes and skin, cupping a handful of the glowing cloud in her hands with a look of wonder, ethereal backlighting
+she is sitting atop an enormous multi-layered frosted cake, her body partially sinking into the soft white icing like quicksand, clothing and skin speckled with colorful frosting smudges, one hand covered in gooey frosting being licked with a mischievous grin, dynamic textures on creamy swirls and sprinkles, photorealistic with vibrant sugary colors, warm golden-hour lighting, humorous and indulgent atmosphere
 surreal geological cross-section diorama carved from layered kinetic sand, vibrant colored strata revealing crystal caves and fantasy fossils, whimsical miniature world, clean carved lines and soft sandy textures, macro view, tactile aesthetic
 miniature architecture submerged in a glass bell jar, moody diorama, murky water with visible particulates and light rays, overgrown with stringy algae and moss, post-apocalyptic and serene aesthetic, captured specimen of a lost world, sense of solitude
 sculpture of a floating island diorama, miniature landscape levitating, impossible physics, architectural model of a surreal world, structural art, minimalist design, sense of wonder
-Isometric CRPG gameplay screenshot, RPG aesthetic, tileset, 3D sprites, hexagonal grid overlay, gritty dithered textures, retro PC interface, muted color palette, scanlines
-90s isometric RPG interior, rusted metal walls, industrial vault aesthetic, trimetric projection, digitized sprites, harsh baked lighting, retro graphics, chunky pixelation, retro-futuristic props, looting interface, dark atmosphere, detailed background art
-Pre-rendered isometric character sprites on transparent background, power armor, post-apocalyptic survivor, pixelated edges, 256-color palette, Fallout style 3/4 view, claymation-like texture, retro gaming asset sheet, chunky sprite definition
-Vintage PC RPG combat scene, bottom-bar user interface, action points meter, isometric turn-based perspective, gore effects, scanline filter, low-poly pre-rendered models, grainy texture, desolate cityscape, harsh shadows, 16-bit color depth
-Post-apocalyptic dieselpunk aesthetics, isometric map view, tileset-based architecture, junk town scenery, muted earth tones, 1990s computer graphics, jagged aliasing, atmospheric noise, heavy shadows, retro-futuristic visual style, digitized visual artifacts
-Expressive cartoon, run-and-gun artistic style, humorous exaggerated animation frame, slightly squat proportions, detailed military gear, fluid artistic motion, comical facial expression, heavy ink-style shading, intricate 2D sprite styling, bright distinct colors
-Chaotic battlefield scene, massive detailed explosions, billowing artistic smoke puffs, fluid liquid animation effects, grotesque alien creatures, bright saturation, heavy contrast, arcade-style artistic composition, intense action density, exaggerated gore
-Artistic character study, isolated on white, multiple animation frames, heavy machine gun flair, distinct color separation, masterful artistic dithering, cartoon anatomy, military belts and pouches, exaggerated weight, hand-drawn sprite aesthetic
-Grotesque bio-mechanical demon, scanned clay model aesthetic, stop-motion animation style, heavy shadows, exposed wiring mixed with raw muscle, limited color palette, jagged edges, menacing stance, router texture work, retro gaming creature art
+isometric crpg gameplay screenshot, rpg aesthetic, tileset, 3d sprites, hexagonal grid overlay, gritty dithered textures, retro pc interface, muted color palette, scanlines
+90s isometric rpg interior, rusted metal walls, industrial vault aesthetic, trimetric projection, digitized sprites, harsh baked lighting, retro graphics, chunky pixelation, retro-futuristic props, looting interface, dark atmosphere, detailed background art
+pre-rendered isometric character sprites on transparent background, power armor, post-apocalyptic survivor, pixelated edges, 256-color palette, fallout style 3/4 view, claymation-like texture, retro gaming asset sheet, chunky sprite definition
+vintage pc rpg combat scene, bottom-bar user interface, action points meter, isometric turn-based perspective, gore effects, scanline filter, low-poly pre-rendered models, grainy texture, desolate cityscape, harsh shadows, 16-bit color depth
+post-apocalyptic dieselpunk aesthetics, isometric map view, tileset-based architecture, junk town scenery, muted earth tones, 1990s computer graphics, jagged aliasing, atmospheric noise, heavy shadows, retro-futuristic visual style, digitized visual artifacts
+expressive cartoon, run-and-gun artistic style, humorous exaggerated animation frame, slightly squat proportions, detailed military gear, fluid artistic motion, comical facial expression, heavy ink-style shading, intricate 2d sprite styling, bright distinct colors
+chaotic battlefield scene, massive detailed explosions, billowing artistic smoke puffs, fluid liquid animation effects, grotesque alien creatures, bright saturation, heavy contrast, arcade-style artistic composition, intense action density, exaggerated gore
+artistic character study, isolated on white, multiple animation frames, heavy machine gun flair, distinct color separation, masterful artistic dithering, cartoon anatomy, military belts and pouches, exaggerated weight, hand-drawn sprite aesthetic
+grotesque bio-mechanical demon, scanned clay model aesthetic, stop-motion animation style, heavy shadows, exposed wiring mixed with raw muscle, limited color palette, jagged edges, menacing stance, router texture work, retro gaming creature art
 airbrushed biomechanical surrealism, fused organic-mechanical forms, elongated structures, ribbed tubing, skeletal motifs, high-detail texturing, monochrome or muted palettes, cold metallic tones, glossy highlights, smooth gradients, dark atmospheric backgrounds, claustrophobic compositions, labyrinthine machinery, alien architectural elements, seamless anatomical integration, dystopian industrial aesthetic, oppressive depth and shadow
 biomechanical surrealism, airbrushed precision, fusion of flesh and machinery, elongated forms, ribbed tubing, industrial motifs, monochrome or muted palettes, glossy metallic textures, cavernous spaces, organic-mechanical hybrids, high contrast lighting, atmospheric shadows, intricate repeating patterns, cold, synthetic environments, sculptural depth, seamless blending of organic curves with mechanical architecture
-Surreal eyeball art, characters composed of countless eyeballs, fleshy organic texture, iris and pupil clusters, biological horror aesthetic, ocular grotesque, staring eyes everywhere, wet glossy surfaces, eldritch vision
+surreal eyeball art, characters composed of countless eyeballs, fleshy organic texture, iris and pupil clusters, biological horror aesthetic, ocular grotesque, staring eyes everywhere, wet glossy surfaces, eldritch vision
+
 synthetic humanoid with transparent dermis, exposed precision mechanics and glowing internal chambers, brushed metal joint articulation, soft organic facial features merging with visible cranial hardware, warm interior radiance through clear body panels, moody fog-diffused lighting, derelict facility setting, contemplative android portrait aesthetic
 gynoid replicant figure, clear biopolymer skin revealing intricate circuitry, polished titanium endoskeleton, internal amber luminescence, delicate human-like face with subtle mechanical seams, fiber-optic capillaries, atmospheric industrial backdrop, diffused golden backlight, melancholic cyberpunk portraiture
+
 hyperreal chrome-and-resin humanoid, translucent dermal panels, softly glowing circuitry, visible skeletal actuators, floating holographic organs, cinematic volumetric light, misty industrial backdrop, muted teal and amber palette, moody high-contrast photography, melancholic near-future biotech aesthetic, smooth polished surfaces with subtle scratches
 distressed cyborg aesthetic, semi-transparent synthetic flesh, visible internal circuitry and wires, glowing organic womb-tank element, suspended humanoid construct, rusty industrial setting, volumetric fog, melancholic mood, soft dramatic lighting, raw mechanical textures, hyper-realistic octane render
 sleek bio-synthetic construct, polished clear polymer torso, internal gestation mechanism visible, suspended organic lifeform illuminated by warm internal filaments, cybernetic anatomy, exposed servo-joints, soft backlighting, clinical glass aesthetic, hyper-realistic 8k resolution, fusion of machine and biology
 biomechanical humanoid replicant, translucent synthetic skin panels, visible interior mechanisms, chrome skeletal armature, warm amber bioluminescent glow from within, fine servo joints and fiber-optic filaments, soft human features with mechanical integration, hazy industrial atmosphere, cinematic volumetric lighting, neo-noir android aesthetic
 human-android hybrid, see-through silicone skin over chrome chassis, illuminated internal cavities with amber glow, fine mechanical detail, seamless organic-synthetic transitions, emotive humanoid face, hazy atmospheric lighting, dystopian industrial environment, cinematic replicant aesthetic
 translucent thermoplastic android shell, milky resin skin revealing chrome skeletal chassis, abdominal incubation chamber containing a suspended glowing fetal form, internal fiber-optic illumination, amber bioluminescence, subsurface scattering, hazy industrial atmosphere, cinematic depth of field, intricate biomechanical details, moody sci-fi conceptual art
-2.5D paper-theatre diorama, cut-out characters with distinct white edges, naive crayon textures on cardstock, heavy-handed scribbles, vivid primary colors, flat distinct layers, shallow depth of field, pop-up book aesthetic, whimsical disproportioned stick figures, blurry bokeh background, tactile paper grain, dimensional shadows
-naive child’s crayon drawing style, wobbly stick figures, oversized heads, scribbly outlines, uneven primary coloring, combined with Paper Mario layered papercraft look, flat cut-out shapes, stacked paper layers with soft shadows, slight texture, cozy storybook scene, whimsical, endearing, unrealistic
-child's crayon papercraft diorama, flat 2D paper cutout characters, wobbly hand-drawn crayon outlines, layered paper scenery with visible depth, stick figure proportions, oversized heads, waxy crayon texture on paper layers, primary color palette, construction paper background layers, paper fold shadows, theatrical staged depth, charming naive illustration meets papercraft popup book, joyful imperfection, soft dimensional lighting
-papercraft diorama style, flat paper cutout figures with childlike crayon drawings, layered 2D scenery, visible paper edges and folds, chunky wobbly outlines, disproportioned limbs, theatrical shadow depth between layers, primary colors, waxy texture, popup book staging, Nintendo papercraft aesthetic meets kindergarten art
+
+2.5d paper-theatre diorama, cut-out characters with distinct white edges, naive crayon textures on cardstock, heavy-handed scribbles, vivid primary colors, flat distinct layers, shallow depth of field, pop-up book aesthetic, whimsical disproportioned stick figures, blurry bokeh background, tactile paper grain, dimensional shadows
+naive child’s crayon drawing style, wobbly stick figures, oversized heads, scribbly outlines, uneven primary coloring, combined with paper mario layered papercraft look, flat cut-out shapes, stacked paper layers with soft shadows, slight texture, cozy storybook scene, whimsical, endearing, unrealistic
+child's crayon papercraft diorama, flat 2d paper cutout characters, wobbly hand-drawn crayon outlines, layered paper scenery with visible depth, stick figure proportions, oversized heads, waxy crayon texture on paper layers, primary color palette, construction paper background layers, paper fold shadows, theatrical staged depth, charming naive illustration meets papercraft popup book, joyful imperfection, soft dimensional lighting
+papercraft diorama style, flat paper cutout figures with childlike crayon drawings, layered 2d scenery, visible paper edges and folds, chunky wobbly outlines, disproportioned limbs, theatrical shadow depth between layers, primary colors, waxy texture, popup book staging, nintendo papercraft aesthetic meets kindergarten art
 children's popup book illustration, crayon-drawn paper cutout characters, layered papercraft scenery, wobbly naive linework, oversized heads on tiny bodies, construction paper layers with soft shadows, dimensional staged depth, warm primary palette, handmade craft aesthetic, endearing imperfect charm
+
+
 action figure, plastic, resin, toy, collectable action figure
-movie poster, retro action throwback Poster, illustrated pulp style, exaggerated perspective, bold halftone shading and airbrush glow, asymmetrical collage of key scenes radiating from center, stylized type in vintage block letters, paper aging texture, torn-edge border framing, warm saturation and lens flares reminiscent of 1980s VHS art
+movie poster, retro action throwback poster, illustrated pulp style, exaggerated perspective, bold halftone shading and airbrush glow, asymmetrical collage of key scenes radiating from center, stylized type in vintage block letters, paper aging texture, torn-edge border framing, warm saturation and lens flares reminiscent of 1980s vhs art
 movie poster, action ensemble blockbuster poster, dynamic cinematic composition, explosive visual energy, diagonal tension lines, centered hero silhouette with motion blur, secondary characters flanking in layered vignettes, fiery gradients and metallic textures, shattered debris and glowing light streaks forming leading lines toward the title, bold condensed typography with chrome highlights, atmospheric smoke and sparks for depth and movement
 movie poster, high-octane team poster, gridlike hero montage layout, each face lit with colored rim lighting, harsh contrast and lens-flare accents, tilted horizon giving instability, kinetic camera perspective with zoom streaks, shattered-glass overlay, metallic typographic treatment with motion vector blur, tagline positioned beneath angled logo plate
 movie poster, solo hero action poster, strong vertical composition, lone figure back-to-camera at bottom center facing massive scale above, asymmetric lighting with high contrast, explosion glow outlining silhouette, large dramatic title anchoring the lower third, gradient-washed skies filled with motion debris, grainy texture suggesting cinematic film stock
@@ -211,18 +172,19 @@ advertisement poster, art deco style, sleek, geometric shapes, bold colors, luxu
 art deco poster, symmetrical composition, sunburst and chevrons, bold gold on black, lacquer and brushed brass textures, ornate borders, stylized elongated figure, high contrast specular highlights, intricate geometric detail, cinematic rim lighting
 art nouveau poster, flowing whiplash curves, stylized irises and vines, elongated figure entwined with flora, muted sage and rose palette, antique-gold accents, stained-glass texture, elegant outline work, decorative borders, soft diffuse lighting
 art nouveau poster, long sinuous lines, graceful elongated figure entwined with vines and irises, flowing hair-as-line, decorative cartouche border, muted pastels with antique-gold accents, lithograph/stained-glass texture, elegant outline work, soft diffuse lighting
-artwork in the style of Jean-Michel Basquiat, neo-expressionist street-art collage, acrylic paint, oil stick, spray paint, wax crayon, graphite and oil pastel, aggressive brushstrokes, rapid scribbles and calligraphic marks, repeated symbolic glyphs and shorthand text, thick impasto, paint drips and spatters, scraped and abraded surfaces revealing underlayers, palette of saturated primaries offset by deep blacks and raw unprimed off-white ground, dense, vertically oriented composition with asymmetrical negative space, overlapping textures, visible paper fragments, stenciled stamps and hand-drawn outlines, pronounced canvas fiber grain and varnish patches, high micro-texture, matte finish
-artwork in the style of Andy Warhol, pop-art, photographic silkscreen transfer, enamel and acrylic inks, screenprint halftone dots, offset-litho texture and spray-paint accents, repeated photographic motifs in serialized grids and diptychs, high-contrast photographic stencils transformed into flat chromatic planes, minimal tonal modeling, crisp black outlines and hard-edged color blocks, intentional registration shifts and visible screen-dot pattern, selective color separations, bold single-image cropping, tight framing with generous negative margins, commercial graphic elements like logo-like text, barcode, or packaging fragments, glossy lacquer finish with occasional printed texture and visible squeegee marks, palette of saturated primaries and neon pink cyan and yellow, high-repeat composition, mechanical-reproduction aesthetic, clean geometry
-artwork in the style of Piet Mondrian, bauhaus-inspired poster, asymmetric grid, geometric blocks, primary red blue yellow, black and white, bold sans-serif labels, flat matte finish, precise alignment, minimal negative space, editorial graphic design, ultra-clean
-blueprint schematic drawing, blueprint layout, dominant plan view centered and occupying half of the page with a thin ruled margin. Crisp CAD-style white linework on deep cyan background. Clear line-weight hierarchy with thick object outlines, medium for primary geometry, hairlines for dimensions. Dashed hidden-lines, centerlines, and dot-dash axis grids. Lower-right title block with scale bar, sheet number, revision table and metric/imperial scales. Top-left legend with standardized schematic symbols and hatch key. Numbered circular callouts with leader lines and exploded detail bubbles at 2 locations. Subtle vellum grain and pinholes with technical look. Technical uppercase sans-serif labels, tight kerning, and precise dimension chains
+artwork in the style of jean-michel basquiat, neo-expressionist street-art collage, acrylic paint, oil stick, spray paint, wax crayon, graphite and oil pastel, aggressive brushstrokes, rapid scribbles and calligraphic marks, repeated symbolic glyphs and shorthand text, thick impasto, paint drips and spatters, scraped and abraded surfaces revealing underlayers, palette of saturated primaries offset by deep blacks and raw unprimed off-white ground, dense, vertically oriented composition with asymmetrical negative space, overlapping textures, visible paper fragments, stenciled stamps and hand-drawn outlines, pronounced canvas fiber grain and varnish patches, high micro-texture, matte finish
+artwork in the style of andy warhol, pop-art, photographic silkscreen transfer, enamel and acrylic inks, screenprint halftone dots, offset-litho texture and spray-paint accents, repeated photographic motifs in serialized grids and diptychs, high-contrast photographic stencils transformed into flat chromatic planes, minimal tonal modeling, crisp black outlines and hard-edged color blocks, intentional registration shifts and visible screen-dot pattern, selective color separations, bold single-image cropping, tight framing with generous negative margins, commercial graphic elements like logo-like text, barcode, or packaging fragments, glossy lacquer finish with occasional printed texture and visible squeegee marks, palette of saturated primaries and neon pink cyan and yellow, high-repeat composition, mechanical-reproduction aesthetic, clean geometry
+artwork in the style of piet mondrian, bauhaus-inspired poster, asymmetric grid, geometric blocks, primary red blue yellow, black and white, bold sans-serif labels, flat matte finish, precise alignment, minimal negative space, editorial graphic design, ultra-clean
+blueprint schematic drawing, blueprint layout, dominant plan view centered and occupying half of the page with a thin ruled margin. crisp cad-style white linework on deep cyan background. clear line-weight hierarchy with thick object outlines, medium for primary geometry, hairlines for dimensions. dashed hidden-lines, centerlines, and dot-dash axis grids. lower-right title block with scale bar, sheet number, revision table and metric/imperial scales. top-left legend with standardized schematic symbols and hatch key. numbered circular callouts with leader lines and exploded detail bubbles at 2 locations. subtle vellum grain and pinholes with technical look. technical uppercase sans-serif labels, tight kerning, and precise dimension chains
 bromoil print style, sepia monochrome, painterly brushwork and textured paper grain, rich soft contrasts, warm umber highlights, atmospheric vignette, hand-applied ink marks, antique photographic aesthetic
 bubble bobble character style, 8-bit pixel chibi proportions, chunky outlines, saturated pastel palette, simple cel shading, round forms and expressive eyes
-calotype print style, paper-negative texture, soft focus, subtle warm-neutral tonal range, fine paper fiber grain, gentle vignetting and halation, low-contrast atmospheric lighting, hand-processed artifacts, early Victorian photographic charm
+calotype print style, paper-negative texture, soft focus, subtle warm-neutral tonal range, fine paper fiber grain, gentle vignetting and halation, low-contrast atmospheric lighting, hand-processed artifacts, early victorian photographic charm
 comical caricature, hyperbolic silhouettes, elongated nose, compact body, loose energetic linework, watercolor washes, candid portrait framing, punchy highlights, exaggerated body proportions
+gothic hand-drawn storybook illustration, dark whimsical survival-horror cartoon, scratchy uneven ink linework, jagged imperfect outlines, paper-cutout puppet animation aesthetic, exaggerated spindly silhouettes, gaunt angular faces, oversized heads and tiny bodies, crooked trees and twisted props, muted earthy palette of ochre, sepia, charcoal black, dirty yellow, faded green and rusty red, rough papery texture, flat 2D layered shapes, theatrical shadows, eerie campfire glow against oppressive darkness, macabre but charming, Edward Gorey-inspired ink illustration, Tim Burton-esque gothic whimsy, strange handmade indie game art style
 coloring book style, monochrome, black and white, high contrast, line drawing, blank white background
 character reference sheet, character design sheet, pose sheet with action thumbnails, expression sheet, turnarounds front side back 3/4, detail callouts for hands feet accessories, layered clothing options, color flats and shaded pass, material textures, measurement grid, handwritten notes
-RPG reference sheet, character reference sheet, turnarounds front side back, layered armor and clothing plates, weapon close-ups with measurements, equipment loadouts, stat block STR DEX INT HP, damage weight durability values, inventory slots, rarity tags, material swatches, annotated callouts
-cross-stitch style, cross-stitching, canvas, counted-thread grid, visible X-stitches, varied colors, magnified close-up swatches, stitched border, hand-sewn imperfections
+rpg reference sheet, character reference sheet, turnarounds front side back, layered armor and clothing plates, weapon close-ups with measurements, equipment loadouts, stat block str dex int hp, damage weight durability values, inventory slots, rarity tags, material swatches, annotated callouts
+cross-stitch style, cross-stitching, canvas, counted-thread grid, visible x-stitches, varied colors, magnified close-up swatches, stitched border, hand-sewn imperfections
 embroidery, intricate stitching, embroidery thread, fine details, varied thread textures, textile artistry, embellished surfaces, diverse color palette, traditional and contemporary motifs, handmade and crafted, tactile and ornate
 surreal terrarium landscape, glowing mycelium networks growing over iridescent bismuth hopper crystals, bioluminescent fungi, alien botany, geometric and fractal crystal patterns, ethereal glow, dramatic backlighting revealing crystal translucency, macro photography, sense of miniature scale, dark fantasy aesthetic
 ragdoll patchwork quilt art, sewn mismatched fabric scraps, frayed edges, dangling threads, vibrant clashing patterns, soft embroidered and textured layers, folkloric creature motifs, cozy mismatched chaos, handmade textile collage aesthetic, macro view of stitches and textures
@@ -236,7 +198,7 @@ shattered mirror assemblage, cracks filled with lush green moss and tiny mushroo
 vibrational sound wave patterns made visible in black sand on a white surface, intricate cymatic mandala, geometric and organic symmetries, zen garden aesthetic, abstract physics art, top-down macro photography, sharp high-contrast details of sand grains, hypnotic and meditative, frozen motion
 macro photography of a ferrofluid sculpture, spiky black liquid suspended in a clear solution, reacting to a hidden magnetic field, forming a complex alien organism, glossy and reflective surface, high-contrast lighting, hypnotic and otherworldly, abstract scientific art, minimal color palette
 needle-felted wool diorama, soft fiber sculpture, matte wool texture, dreamlike and gentle atmosphere, sculpted wool roving, pastel color palette, fibrous and fuzzy details, soft focus aesthetic
-intricate steampunk automaton, clockwork mechanisms, polished brass and aged copper, glowing vacuum tubes and filaments, exposed gears and cogs, Victorian engineering aesthetic, riveted metal plates, assemblage of vintage clock parts
+intricate steampunk automaton, clockwork mechanisms, polished brass and aged copper, glowing vacuum tubes and filaments, exposed gears and cogs, victorian engineering aesthetic, riveted metal plates, assemblage of vintage clock parts
 macrame landscape sculpture, woven yarn tapestry art, bohemian and rustic aesthetic, intricate knotwork and braids, natural fiber textures, tassels and fringe details, earthy color palette, high-contrast textural art
 chicano art, bold colors, cultural symbolism, muralism, lowrider aesthetics, barrio life, political messages, social activism, mexico
 chromolithograph, vibrant colors, intricate details, rich color saturation, meticulous registration, multi-layered printing, decorative elements, historical charm, artistic reproductions, commercial posters, nostalgic, ornate compositions
@@ -259,8 +221,9 @@ biomechanical cyberpunk, cybernetics, human-machine fusion, dystopian, organic m
 biomechanical style, blend of organic and mechanical elements, futuristic, cybernetic, detailed, intricate
 classicism art, balanced composition, clear lines, muted palette, idealized figures, draped robes, marble texture, architectural columns, symmetry, restrained ornamentation, chiaroscuro, classical motifs, realistic anatomy, linear perspective, calm poses, harmonious proportion
 halftone print, dot matrix pattern, grayscale tones, vintage aesthetic, newspaper print vibe, stylized dots, visual texture, black and white contrasts, retro appearance, artistic pointillism,pop culture, roy lichtenstein style
-Vibrant saturated palette, orange pink turquoise, sugar skull makeup, calavera masks, papel picado banners, marigold garlands, candlelit altars, traditional huipil dresses, embroidered blouses, charro suits, wide‑brim sombreros, folk art motifs, ornate embroidery, floral patterns
-La Calavera Catrina, sugar skulls, Mexican folk art, vibrant color palette, ornate floral patterns, cempasúchil marigolds, papel picado, folkloric dresses, intricate linework, flower crowns, skeletal designs, detailed face paint
+vibrant saturated palette, orange pink turquoise, sugar skull makeup, calavera masks, papel picado banners, marigold garlands, candlelit altars, traditional huipil dresses, embroidered blouses, charro suits, wide‑brim sombreros, folk art motifs, ornate embroidery, floral patterns
+la calavera catrina, sugar skulls, mexican folk art, vibrant color palette, ornate floral patterns, cempasúchil marigolds, papel picado, folkloric dresses, intricate linework, flower crowns, skeletal designs, detailed face paint
+
 comic art, graphic illustration, graphic novel art, vibrant
 concept art, digital artwork, illustrative, painterly, matte painting
 cybernetic robot, android, ai, machine, metal, wires, tech, futuristic
@@ -387,12 +350,12 @@ pop art, vivid colors, flat color, 2d, strong lines, pop art
 powerful artistic vision, breathtaking masterpiece made by great artist
 professional 3d model, octane render, volumetric, dramatic lighting
 psychedelic style, vibrant colors, swirling patterns, abstract forms, surreal, trippy
-punk collage style, mixed media, papercut,textured paper, overlapping, ripped posters, safety pins, chaotic layers, graffiti-style elements, anarchy symbols, vintage photos, cut-and-paste aesthetic, bold typography, distorted images, political messages, urban decay, distressed textures, newspaper clippings, spray paint, rebellious icons, diy spirit, vivid colors, punk band logos, edgy and raw compositions,
+punk collage style, mixed media, papercut,textured paper, overlapping, ripped posters, safety pins, chaotic layers, graffiti-style elements, anarchy symbols, vintage photos, cut-and-paste aesthetic, bold typography, distorted images, political messages, urban decay, distressed textures, newspaper clippings, spray paint, rebellious icons, diy spirit, vivid colors, punk band logos, edgy and raw compositions, 
 real estate photography style, professional, inviting, well-lit, property-focused, commercial
 renaissance style, realistic, perspective, light and shadow, religious or mythological themes
 retail packaging style, vibrant, enticing, commercial, product-focused, eye-catching, professional
 rococo, flamboyant, pastel colors, curved lines, elaborate detail
-role-playing game \rpg\ style fantasy, detailed, vibrant, immersive, reminiscent of high fantasy rpg games
+role-playing game \(rpg\) style fantasy, detailed, vibrant, immersive, reminiscent of high fantasy rpg games
 samoan art-inspired wooden sculpture, traditional motifs, natural elements, bold colors, cultural symbolism, storytelling, craftsmanship
 sci-fi style, futuristic, technological, alien worlds, space themes, advanced civilizations
 shibori, textured fabric, intricate patterns, resist-dyeing technique, indigo or vibrant colors, organic and flowing designs, japanese textile art, cultural tradition, tactile and visual interest,
@@ -424,6 +387,7 @@ tlingit art, formline design, natural elements, animal motifs, bold colors, cult
 tranquil relaxing atmosphere, calming style, soothing colors, peaceful, idealic, tranquil relaxing atmosphere
 tribal style, indigenous, ethnic, traditional patterns, bold, natural colors
 typographic art, stylized, intricate, detailed, artistic, text-based
+uhd, 8k, ultra detailed, a cinematic photograph, beautiful lighting, great composition
 ukiyo-e, woodblock prints, vibrant colors, intricate details, depictions of landscapes, kabuki actors, beautiful women, cultural scenes, traditional japanese art, artistic craftsmanship, historical significance,
 uncanny caliginous vision, created by remarkable underground artist, raw and brutal art, careless but impressive style, inspired by darkness and chaos
 vaporwave style, retro aesthetic, cyberpunk, vibrant, neon colors, vintage 80s and 90s style
@@ -452,7 +416,10 @@ ethereal fantasy concept art, magnificent, celestial, ethereal, painterly, epic,
 analog film photo, faded film, desaturated, 35mm photo, grainy, vignette, vintage, kodachrome, lomography, stained, highly detailed, found footage
 neonpunk style, cyberpunk, vaporwave, neon, vibes, vibrant, stunningly beautiful, crisp, detailed, sleek, ultramodern, magenta highlights, dark purple shadows, high contrast, cinematic
 isometric style, vibrant, beautiful, crisp
+low-poly style, low-poly game art, polygon mesh, jagged, blocky, wireframe edges, centered composition
 origami style, paper art, pleated paper, folded, origami art, pleats, cut and fold, centered composition
+line art drawing, professional, sleek, modern, minimalist, graphic, line art, vector graphics
+play-doh style, sculpture, clay art, centered composition, claymation
 ghibli, studio ghibli style, art by hayao miyazaki, anime style, manga style, hand drawn, cinematic, sharp focus, humorous illustration, big depth of field, concept art, vivid colors, simplified style, vibrant colors, soft shading, simplistic features, sharp angles, playful
 vector illustration, vector art, vivid colors, clean lines, sharp edges, minimalist, precise geometry, simplistic, smooth curves, bold outlines, crisp shapes, flat colors, illustration art piece, high contrast shadows, technical illustration, graphic design, vector graphics, high contrast, precision artwork, linear compositions, digital art
 digital painting, glow effects, godrays, hand drawn, cinematic, sharp focus, big depth of field, hyperrealistic, vivid colors
@@ -467,6 +434,7 @@ professional scenic photograph, long shot scenic professional photograph, wide-a
 style is cross processing print, experimental color shifts, unconventional tonalities, vibrant and surreal hues, heightened contrasts, unpredictable results, artistic unpredictability, retro and vintage feel, dynamic color interplay, abstract and dreamlike
 style is dufaycolor photograph, vintage color palette, distinctive color rendering, soft and dreamy atmosphere, historical charm, unique color process, grainy texture, evocative mood, nostalgic aesthetic, hand-tinted appearance, artistic patina
 style is herbarium drawing, botanical accuracy, old botanical book illustration, detailed illustrations, pressed plants, delicate and precise linework, scientific documentation, meticulous presentation, educational purpose, organic compositions, timeless aesthetic, naturalistic beauty
+punk collage style, mixed media, papercut,textured paper, overlapping, ripped posters, safety pins, chaotic layers, graffiti-style elements, anarchy symbols, vintage photos, cut-and-paste aesthetic, bold typography, distorted images, political messages, urban decay, distressed textures, newspaper clippings, spray paint, rebellious icons, diy spirit, vivid colors, punk band logos, edgy and raw compositions, 
 mosaic style, fragmented, assembled, colorful, highly detailed
 oil painting by van gogh, expressive, impasto, swirling brushwork, vibrant, brush strokes, brushstroke-heavy, textured, impasto, colorful, dynamic, bold, distinctive, vibrant, whirling, expressive, dramatic, swirling, layered, intense, contrastive, atmospheric, luminous, textural, evocative, spiraled van gogh style
 oil painting by john singer sargent, elegant, refined, masterful technique, realistic portrayal, subtle play of light, captivating expression, rich details, harmonious colors, skillful composition, brush strokes, chiaroscuro
@@ -475,6 +443,7 @@ artwork in the style of andy warhol, pop art, vibrant colors, bold compositions,
 style is gond painting, intricate patterns, vibrant colors, detailed motifs, nature-inspired themes, tribal folklore, fine lines, intricate detailing, storytelling compositions, mystical and folkloric, cultural richness
 style is anthotype print, monochrome dye, soft and muted colors, organic textures, ephemeral and delicate appearance, low details, watercolor canvas, low contrast, overexposed, silhouette, textured paper
 style is bromoil print, painterly effects, sepia tones, textured surfaces, rich contrasts, expressive brushwork, tonal variations, vintage aesthetic, atmospheric mood, handmade quality, artistic experimentation, darkroom craftsmanship, vignetting
+
 style is calotype print, soft focus, subtle tonal range, paper negative process, fine details, vintage aesthetic, artistic experimentation, atmospheric mood, early photographic charm, handmade quality, vignetting
 style is color sketchnote, hand-drawn elements, vibrant colors, visual hierarchy, playful illustrations, varied typography, graphic icons, organic and dynamic layout, personalized touches, creative expression, engaging storytelling
 style is one line art, continuous and unbroken black line, minimalistic, simplicity, economical use of space, flowing and dynamic, symbolic representations, contemporary aesthetic, evocative and abstract, white background

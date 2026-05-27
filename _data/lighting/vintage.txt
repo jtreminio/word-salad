@@ -1,20 +1,20 @@
-backlight, scattered light, soft shadows, instant film look, glossy highlights
-backlight, soft light, diffused light, lens flare, subtle contrast, portra
-backlight, soft light, diffused light, sunbeams, subtle contrast, fujifilm velvia
-broad lighting, soft light, diffused light, light leaks, subtle contrast, ektachrome
-fog lighting, warm light, backlight, rim light, soft light, portra
-haze, warm light, backlight, soft light, kodachrome
-loop lighting, soft light, diffused light, light leaks, subtle contrast, ektachrome
-rim light, scattered light, soft shadows, polaroid flash look, glossy highlights
-side light, low key, hard shadows, high contrast, tri-x, barn doors
-side light, scattered light, soft shadows, kodachrome, glossy highlights
-side light, soft light, diffused light, lens flare, subtle contrast, portra
-split lighting, hard light, low key, high contrast, kodachrome, gobo
-split lighting, hard light, low key, high contrast, tri-x, barn doors
-top light, hard light, low key, chiaroscuro, deep contrast, tri-x
-underlight, hard light, low key, deep contrast, hard shadows, kodachrome
-warm light, backlight, rim light, low contrast, soft shadows, ektachrome
-warm light, broad lighting, soft shadows, kodachrome, glossy highlights
-warm light, butterfly lighting, soft light, ektachrome, softbox
-warm light, loop lighting, soft shadows, instant film look, glossy highlights
-warm light, soft light, practical light, kodachrome, diffuser
+backlight, scattered light, soft shadows, faded washed-out tones, light-leak borders, glossy highlights, vignette
+backlight, soft light, lens flare, low contrast, warm muted film tones, soft grain, film halation
+backlight, soft light, sunbeams, low contrast, saturated punchy color, fine grain, vignette
+even wrap-around light, open shadows, soft light, low contrast, saturated cool-toned film, fine grain, faded colors
+warm light, backlight, rim light, soft light, warm muted film tones, soft grain, film halation
+haze, warm light, backlight, soft light, warm saturated vintage tones, fine grain, dust and scratches
+soft angled light, gentle nose shadow, soft light, low contrast, saturated cool-toned film, fine grain, vignette
+rim light, scattered light, soft shadows, washed-out flash exposure, faded color, glossy highlights, vignette
+side light, low key, high contrast, heavy film grain, focused hard light, hard-edged shadows, dust and scratches
+side light, scattered light, soft shadows, warm saturated vintage tones, fine grain, glossy highlights, film halation
+side light, soft light, lens flare, low contrast, warm muted film tones, soft grain, vignette
+face half-lit, hard shadow divide, low key, high contrast, warm saturated vintage tones, fine grain, venetian blind shadow pattern
+face half-lit, hard shadow divide, low key, high contrast, heavy film grain, focused hard light, hard-edged shadows
+top light, hard light, low key, chiaroscuro, deep contrast, heavy film grain, dust and scratches
+underlight, hard light, low key, deep contrast, warm saturated vintage tones, fine grain, faded colors
+warm light, backlight, rim light, low contrast, saturated cool-toned film, fine grain, film halation
+warm light, even wrap-around light, open shadows, warm saturated vintage tones, fine grain, glossy highlights, vignette
+warm light, soft overhead light, small nose shadow, saturated cool-toned film, fine grain, soft diffused light, soft shadows
+warm light, soft angled light, gentle nose shadow, faded washed-out tones, light-leak borders, glossy highlights, vignette
+warm light, glowing light source in scene, warm saturated vintage tones, fine grain, soft diffused light, soft shadows, film halation

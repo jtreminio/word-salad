@@ -1,15 +1,15 @@
-broad lighting, soft shadows, subtle contrast, black and white, monochrome, glossy highlights, bounce card, softbox
-broad lighting, soft shadows, subtle contrast, black and white, monochrome, portra, glossy highlights, reflector
-butterfly lighting, soft light, high key portrait, subtle contrast, black and white, monochrome, glossy highlights
-clamshell lighting, soft light, high key portrait, black and white, monochrome, glossy highlights, beauty dish
-fill light, soft light, soft shadows, subtle contrast, black and white, monochrome, portra, reflector
-loop lighting, diffused light, soft shadows, subtle contrast, black and white, monochrome, umbrella light
-loop lighting, soft light, high key portrait, black and white, monochrome, glossy highlights, reflector
-natural light, soft light, subtle contrast, black and white, monochrome, glossy highlights, umbrella light
-rembrandt lighting, soft light, subtle contrast, black and white, monochrome, portra, glossy highlights, reflector
-side light, diffused light, subtle contrast, soft shadows, black and white, monochrome, ektachrome, reflector
-soft light, diffused light, high key portrait, subtle contrast, black and white, monochrome, reflector, beauty dish
-soft light, diffused light, soft shadows, black and white, monochrome, portra, glossy highlights, umbrella light
-top light, bounce light, soft light, subtle contrast, soft shadows, black and white, monochrome, reflector
-warm light, broad lighting, soft shadows, subtle contrast, black and white, monochrome, softbox, reflector
-warm light, clamshell lighting, diffused light, high key, soft shadows, black and white, monochrome, reflector
+even wrap-around light, soft fill light, low contrast, black and white, monochrome, glossy highlights, film grain
+even wrap-around light, open shadows, low contrast, black and white, monochrome, fine film grain, soft fill light
+soft overhead light, small nose shadow, soft light, high key, bright even exposure, black and white, monochrome
+even front light, minimal shadows, soft light, high key, black and white, monochrome, smooth skin tones
+soft fill light, soft light, soft shadows, low contrast, black and white, monochrome, fine film grain
+soft angled light, gentle nose shadow, soft shadows, low contrast, black and white, monochrome, film grain
+soft angled light, soft light, high key, bright even exposure, black and white, monochrome, glossy highlights
+natural light, soft light, low contrast, black and white, monochrome, glossy highlights, silver tones
+triangular highlight on shadowed cheek, soft light, low contrast, black and white, monochrome, fine film grain, soft fill light
+side light, low contrast, soft shadows, black and white, monochrome, fine film grain, soft fill light
+soft light, diffused light, high key, bright even exposure, black and white, monochrome, smooth skin tones
+soft light, diffused light, soft shadows, black and white, monochrome, fine film grain, glossy highlights
+top light, soft fill light, low contrast, soft shadows, black and white, monochrome, silver tones
+warm light, even wrap-around light, low contrast, soft diffused light, black and white, monochrome, film grain
+warm light, even front light, diffused light, high key, black and white, monochrome, bright even exposure

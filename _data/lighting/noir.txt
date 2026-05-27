@@ -1,30 +1,30 @@
-backlight, hard light, low key, atmospheric backscatter, deep contrast, noir, gobo
-backlight, hard light, low key, mist backlight, volumetric light, high contrast, silhouette
-backlight, low key, hard light, volumetric light, deep contrast, cast shadows, tri-x
-fog lighting, backlight, hard light, low key, deep contrast, silhouette
-fog lighting, backlight, low key, god rays, hard shadows, high contrast, silhouette
-fog lighting, backlight, rim light, low key, deep contrast, contact shadow
-fog lighting, rim light, low key, deep contrast, hard shadows, noir, barn doors
-fog lighting, rim light, low key, deep contrast, hard shadows, noir, gobo
-fog lighting, split lighting, hard light, low key, deep contrast, silhouette
-fog lighting, top light, low key, backlit haze, hard shadows, high contrast, noir
-haze, backlight, rim light, low key, hard shadows, high contrast, silhouette
-rim light, low key, backlit haze, hard shadows, chiaroscuro, barn doors
-rim light, low key, backlit haze, volumetric light, hard shadows, cinematic noir
-short lighting, low key, hard shadows, chiaroscuro, contact shadow, gobo
-side light, hard light, low key, atmospheric backscatter, backlit haze, high contrast, noir
-side light, hard light, low key, atmospheric backscatter, deep contrast, silhouette, gobo
-side light, hard light, low key, cast shadows, high contrast, silhouette
-side light, low key, caustics, hard shadows, high contrast, silhouette
-side light, low key, hard light, chiaroscuro, cast shadows, tri-x, barn doors
-split lighting, hard light, low key, backlit haze, high contrast, noir, gobo
-split lighting, low key, hard light, chiaroscuro, deep contrast, tri-x, gobo
-stage haze, backlight, hard light, low key, caustics, deep contrast, noir
-stage haze, backlight, rim light, hard light, low key, deep contrast, silhouette
-stage haze, side light, hard light, low key, caustics, high contrast, noir
-stage haze, side light, split lighting, low key, deep contrast, tri-x, gobo
-stage haze, split lighting, hard light, low key, caustics, high contrast, noir
-top light, hard light, low key, backlit haze, deep contrast, silhouette
-top light, low key, hard light, volumetric light, chiaroscuro, core shadow
-underlight, hard light, low key, mist backlight, deep contrast, noir, barn doors
-underlight, low key, hard shadows, chiaroscuro, tri-x, strip softbox
+backlight, hard light, low key, deep contrast, noir, venetian blind shadow pattern, light through blinds
+backlight, hard light, low key, volumetric light, high contrast, silhouette, pooled light on floor
+backlight, low key, hard light, volumetric light, deep contrast, high-contrast black-and-white film grain, single light source
+fog lighting, backlight, hard light, low key, deep contrast, silhouette, pooled light on floor
+backlight, low key, god rays, hard shadows, high contrast, silhouette, single light source
+fog lighting, backlight, rim light, low key, deep contrast, contact shadow, light through blinds
+rim light, low key, deep contrast, noir, focused hard light, hard-edged shadows, pooled light on floor
+rim light, low key, deep contrast, hard shadows, noir, venetian blind shadow pattern, light through blinds
+face half-lit, hard shadow divide, hard light, low key, deep contrast, silhouette, single light source
+top light, low key, backlit haze, hard shadows, high contrast, noir, pooled light on floor
+backlight, rim light, low key, hard shadows, high contrast, silhouette, single light source
+rim light, low key, hard shadows, chiaroscuro, focused hard light, hard-edged shadows, light through blinds
+rim light, low key, backlit haze, volumetric light, hard shadows, cinematic noir, pooled light on floor
+shadow-side lit, deep shadow toward camera, low key, hard shadows, chiaroscuro, venetian blind shadow pattern, light through blinds
+side light, hard light, low key, backlit haze, high contrast, noir, single light source
+side light, hard light, low key, deep contrast, silhouette, venetian blind shadow pattern, light through blinds
+side light, hard light, low key, cast shadows, high contrast, silhouette, pooled light on floor
+side light, low key, caustics, hard shadows, high contrast, silhouette, single light source
+side light, low key, chiaroscuro, high-contrast black-and-white film grain, focused hard light, hard-edged shadows, light through blinds
+face half-lit, hard shadow divide, low key, high contrast, noir, venetian blind shadow pattern, light through blinds
+face half-lit, hard shadow divide, low key, deep contrast, high-contrast black-and-white film grain, venetian blind shadow pattern, pooled light on floor
+backlight, hard light, low key, caustics, deep contrast, noir, pooled light on floor
+backlight, rim light, hard light, low key, deep contrast, silhouette, single light source
+side light, hard light, low key, caustics, high contrast, noir, light through blinds
+side light, face half-lit, hard shadow divide, low key, deep contrast, high-contrast black-and-white film grain, venetian blind shadow pattern
+face half-lit, hard shadow divide, low key, caustics, high contrast, noir, single light source
+top light, hard light, low key, backlit haze, deep contrast, silhouette, pooled light on floor
+top light, low key, hard light, volumetric light, chiaroscuro, core shadow, single light source
+underlight, low key, deep contrast, noir, focused hard light, hard-edged shadows, pooled light on floor
+underlight, low key, hard shadows, chiaroscuro, high-contrast black-and-white film grain, narrow band of light, single light source

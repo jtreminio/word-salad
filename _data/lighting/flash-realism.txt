@@ -1,20 +1,20 @@
-backlight, direct flash, dragged shutter, high contrast, cinestill
-backlight, hard light, direct flash, gelled light, high contrast
-backlight, rim light, hard light, direct flash, low contrast, barn doors
-butterfly lighting, hard light, high key, direct flash, beauty dish
-cool light, fill light, soft light, slow sync flash, diffuser
-direct flash, dragged shutter, motion blur, instant film look, cinestill
-direct flash, high contrast, overexposed highlights, underexposed shadows, tri-x
-direct flash, motion blur, rear curtain flash, high contrast, overexposed highlights
-direct flash, practical light, high contrast, overexposed highlights, polaroid flash look
-direct flash, practical light, high contrast, underexposed shadows, polaroid flash look
-direct flash, slow sync flash, high contrast, overexposed highlights, polaroid flash look
-front light, direct flash, underexposed shadows, instant film look, tri-x
-high key portrait, soft light, slow sync flash, practical light, glossy highlights
-key light, hard light, direct flash, high contrast, softbox
-side light, direct flash, high contrast, overexposed highlights, polaroid flash look
-side light, direct flash, motion blur, underexposed shadows, instant film look
-split lighting, hard light, direct flash, deep contrast, gobo
-top light, soft light, rear curtain flash, subtle contrast, umbrella light
-underlight, stroboscopic flash, hard shadows, low contrast, snoot
-warm light, side light, soft light, rear curtain flash, reflector
+backlight, direct flash, motion-blur trails with sharp flash-frozen subject, high contrast, cinestill, harsh flash falloff
+backlight, hard light, direct flash, colored gel light, high contrast, bleached skin tones
+backlight, rim light, hard light, direct flash, low contrast, focused hard light, hard-edged shadows, red-eye effect
+soft overhead light, small nose shadow, high key, direct flash, inky background shadows
+cool light, soft fill light, soft light, motion-blur trails with sharp flash-frozen subject, soft diffused light, soft shadows, bleached skin tones
+direct flash, motion-blur trails with sharp flash-frozen subject, motion blur, faded washed-out tones, light-leak borders, cinestill, harsh flash falloff
+direct flash, high contrast, overexposed highlights, underexposed shadows, heavy film grain, red-eye effect
+direct flash, motion blur, motion-blur trails with sharp flash-frozen subject, high contrast, overexposed highlights, inky background shadows
+direct flash, strong directional light, high contrast, overexposed highlights, washed-out flash exposure, faded color, bleached skin tones
+direct flash, strong directional light, high contrast, underexposed shadows, washed-out flash exposure, faded color, harsh flash falloff
+direct flash, motion-blur trails with sharp flash-frozen subject, high contrast, overexposed highlights, washed-out flash exposure, red-eye effect
+front light, direct flash, underexposed shadows, faded washed-out tones, light-leak borders, heavy film grain, inky background shadows
+high key, soft light, motion-blur trails with sharp flash-frozen subject, glowing light source in scene, glossy highlights, bleached skin tones
+strong directional light, hard light, direct flash, high contrast, soft diffused light, soft shadows, harsh flash falloff
+side light, direct flash, high contrast, overexposed highlights, washed-out flash exposure, faded color, red-eye effect
+side light, direct flash, motion blur, underexposed shadows, faded washed-out tones, light-leak borders, inky background shadows
+face half-lit, hard shadow divide, direct flash, deep contrast, patterned projected shadows, bleached skin tones
+top light, soft light, motion-blur trails with sharp flash-frozen subject, low contrast, soft diffused light, soft shadows, harsh flash falloff
+underlight, motion-blur trails with sharp flash-frozen subject, hard shadows, low contrast, focused hard light, red-eye effect
+warm light, side light, soft light, motion-blur trails with sharp flash-frozen subject, soft fill light, inky background shadows

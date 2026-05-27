@@ -1,10 +1,10 @@
-backlight, low key, hard shadows, cinematic chiaroscuro, kodachrome
-backlight, low key, volumetric light, hard shadows, tri-x, barn doors
-fog lighting, backlight, rim light, low key, deep contrast, tri-x
-fog lighting, rim light, low key, hard light, deep contrast, cinestill
-fog lighting, rim light, low key, hard light, deep contrast, tri-x
-short lighting, low key, hard light, scattered light, deep contrast, kodachrome
-side light, low key, hard light, backlit haze, deep contrast, ektachrome
-side light, low key, hard shadows, cinematic chiaroscuro, ektachrome, gobo
-stage haze, split lighting, low key, hard shadows, tri-x, gobo
-stage haze, underlight, low key, hard light, deep contrast, instant film look
+backlight, low key, hard shadows, cinematic chiaroscuro, warm saturated vintage tones, fine grain, vignette
+backlight, low key, volumetric light, heavy film grain, focused hard light, hard-edged shadows, vignette
+fog lighting, backlight, rim light, low key, deep contrast, heavy film grain, faded colors
+fog lighting, rim light, low key, hard light, deep contrast, cinestill, vignette
+fog lighting, rim light, low key, hard light, deep contrast, heavy film grain, faded colors
+shadow-side lit, low key, hard light, scattered light, warm saturated vintage tones, deep contrast, vignette
+side light, low key, hard light, backlit haze, deep contrast, saturated cool-toned film, fine grain
+side light, low key, hard shadows, cinematic chiaroscuro, saturated cool-toned film, fine grain, patterned projected shadows
+stage haze, face half-lit, hard shadow divide, low key, heavy film grain, patterned projected shadows, faded colors
+stage haze, underlight, low key, hard light, deep contrast, faded washed-out tones, light-leak borders

@@ -1,20 +1,20 @@
 atmospheric haze, cool light, backlight, neon glow, deep shadows
-atmospheric haze, cool light, low key, neon light, deep shadows
-backlight, low key, hard light, volumetric light, rgb neon, tri-x
-cool light, backlight, scattered light, neon light, deep shadows
-cool light, low key, scattered light, neon glow, deep shadows
-cool light, low key, scattered light, neon light, deep shadows
-cool light, low key, scattered light, rgb neon, deep shadows
-cool light, rim light, scattered light, neon light, deep shadows
-cool light, rim light, scattered light, rgb neon, deep shadows
+atmospheric haze, cool light, low key, neon light, deep shadows, neon bloom
+backlight, low key, hard light, volumetric light, rgb neon, heavy film grain
+cool light, backlight, scattered light, neon light, deep shadows, neon reflections
+cool light, low key, scattered light, neon glow, deep shadows, neon bloom
+cool light, dark background, scattered light, neon light, deep shadows, neon reflections
+cool light, dark background, scattered light, rgb neon, deep shadows, neon bloom
+cool light, rim light, scattered light, neon light, deep shadows, neon reflections
+cool light, rim light, scattered light, rgb neon, deep shadows, chromatic aberration
 fog lighting, backlight, low key, hard light, rgb neon, deep contrast
 fog lighting, rim light, low key, neon light, deep contrast, cinestill
-low key, scattered light, neon light, deep shadows, subtle contrast
-rim light, low key, hard light, backlit haze, neon light, tri-x
-rim light, scattered light, rgb neon, deep shadows, subtle contrast
-side light, low key, gelled light, mist backlight, deep contrast, cinestill
-side light, low key, mist backlight, led light, deep contrast, cinestill
-split lighting, low key, backlit haze, neon light, hard shadows, tri-x
+low key, scattered light, neon light, deep shadows, low contrast, neon bloom
+rim light, low key, hard light, backlit haze, neon light, heavy film grain
+rim light, scattered light, rgb neon, deep shadows, low contrast, neon reflections
+side light, low key, colored gel light, deep contrast, cinestill, neon bloom
+side light, low key, harsh cool-toned light, deep contrast, cinestill, neon reflections
+face half-lit, hard shadow divide, low key, neon light, hard shadows, heavy film grain
 stage haze, backlight, low key, rgb neon, deep contrast, cinestill
-stage haze, rim light, low key, fluorescent light, deep contrast, cinestill
-underlight, low key, volumetric light, neon light, hard shadows, tri-x
+stage haze, rim light, low key, deep contrast, cinestill, neon bloom
+underlight, low key, volumetric light, neon light, hard shadows, heavy film grain

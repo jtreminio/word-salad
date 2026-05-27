@@ -1,10 +1,10 @@
-backlight, low key, direct flash, rear curtain flash, deep contrast, tri-x
-broad lighting, low key, direct flash, rear curtain flash, high contrast, cinestill
-low key, direct flash, deep contrast, overexposed highlights, underexposed shadows, tri-x
-low key, direct flash, practical light, overexposed highlights, instant film look
-natural light, low key, direct flash, motion blur, dragged shutter, tri-x
-rim light, low key, direct flash, motion blur, hard shadows, cinestill
-side light, low key, direct flash, dragged shutter, underexposed shadows, cinestill
-split lighting, low key, direct flash, deep contrast, overexposed highlights, tri-x
-top light, low key, hard light, direct flash, underexposed shadows, tri-x
-underlight, low key, direct flash, motion blur, hard shadows, cinestill
+backlight, low key, direct flash, motion-blur trails with sharp flash-frozen subject, deep contrast, heavy film grain, red-eye effect
+even wrap-around light, low key, direct flash, motion-blur trails with sharp flash-frozen subject, high contrast, cinestill, bleached skin tones
+low key, direct flash, deep contrast, overexposed highlights, underexposed shadows, heavy film grain, background darkness
+low key, direct flash, glowing light source in scene, overexposed highlights, faded washed-out tones, light-leak borders, bleached skin tones
+dim ambient light, low key, direct flash, motion-blur trails with sharp flash-frozen subject, heavy film grain, red-eye effect
+rim light, low key, direct flash, motion blur, hard shadows, cinestill, background darkness
+side light, low key, direct flash, motion-blur trails with sharp flash-frozen subject, underexposed shadows, cinestill, bleached skin tones
+face half-lit, hard shadow divide, low key, direct flash, overexposed highlights, heavy film grain, red-eye effect
+top light, low key, hard light, direct flash, underexposed shadows, heavy film grain, background darkness
+underlight, low key, direct flash, motion blur, hard shadows, cinestill, red-eye effect

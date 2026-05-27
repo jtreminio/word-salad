@@ -1,20 +1,20 @@
-backlight, gelled light, lens flare, soft shadows, cinestill, glossy highlights
-backlight, high key, soft light, neon light, glossy highlights
-backlight, soft light, volumetric light, neon light, cinestill, glossy highlights
-backlight, volumetric light, fluorescent light, soft shadows, cinestill, glossy highlights
-fog lighting, backlight, hard light, neon light, high contrast
-fog lighting, side light, hard light, gelled light, high contrast
-haze, rim light, side light, neon light, hard shadows, low contrast
-rim light, diffused light, lens flare, neon light, fujifilm velvia, specular highlights
-rim light, diffused light, lens flare, rgb neon, fujifilm velvia, specular highlights
-rim light, side light, soft light, rgb neon, low contrast
-rim light, soft light, light leaks, neon light, fujifilm velvia, specular highlights
-side light, neon light, deep contrast, hard shadows, gobo
-split lighting, diffused light, volumetric light, led light, fujifilm velvia, specular highlights
-split lighting, hard light, low key, gelled light, high contrast
-split lighting, low key, soft light, neon light, deep contrast
-split lighting, soft light, gelled light, light leaks, fujifilm velvia, specular highlights
-stage haze, side light, neon light, soft shadows, cinestill, glossy highlights
-stage haze, side light, soft light, rgb neon, cinestill, glossy highlights
-top light, neon light, soft shadows, subtle contrast, reflector
-underlight, hard light, low key, volumetric light, rgb neon
+backlight, colored gel light, lens flare, neon reflections on wet pavement, cinestill, glossy highlights
+backlight, high key, soft light, neon light, glossy highlights, neon bloom
+backlight, volumetric light, neon light, cinestill, glossy highlights, chromatic aberration
+backlight, volumetric light, fluorescent light, soft shadows, cinestill, neon bloom
+fog lighting, backlight, hard light, neon light, high contrast, chromatic aberration
+fog lighting, side light, hard light, colored gel light, high contrast, neon reflections on wet pavement
+haze, rim light, side light, neon light, hard shadows, neon bloom
+rim light, lens flare, neon light, saturated punchy color, fine grain, specular highlights, neon reflections
+rim light, lens flare, rgb neon, saturated punchy color, fine grain, specular highlights, chromatic aberration
+rim light, side light, soft light, rgb neon, low contrast, neon bloom
+rim light, soft light, neon light, saturated punchy color, fine grain, specular highlights, neon reflections
+side light, neon light, deep contrast, hard shadows, venetian blind shadow pattern, neon reflections on wet pavement
+face half-lit, hard shadow divide, harsh cool-toned light, saturated punchy color, fine grain, specular highlights, chromatic aberration
+face half-lit, hard shadow divide, hard light, low key, colored gel light, high contrast, neon bloom
+face half-lit, hard shadow divide, low key, soft light, neon light, deep contrast, chromatic aberration
+face half-lit, hard shadow divide, colored gel light, saturated punchy color, fine grain, specular highlights, neon reflections on wet pavement
+stage haze, side light, neon light, soft shadows, cinestill, neon reflections on wet pavement
+stage haze, side light, soft light, rgb neon, cinestill, neon bloom
+top light, neon light, soft shadows, low contrast, soft fill light, neon reflections
+underlight, hard light, low key, volumetric light, rgb neon, chromatic aberration

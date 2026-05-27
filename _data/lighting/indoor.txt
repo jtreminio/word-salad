@@ -1,30 +1,30 @@
-backlight, scattered light, rim glow, tungsten light, cinestill, strip softbox
-backlight, scattered light, rim glow, tungsten light, strip softbox
-bounce light, diffused light, low contrast, soft shadows, chinese lantern
-cool light, natural light, backlight, diffused light, subtle contrast, bounce card
-cool light, natural light, backlight, soft shadows, subtle contrast, bounce card
-cool light, natural light, bounce light, fill light, diffused light, subtle contrast
-cool light, natural light, bounce light, top light, soft light, subtle contrast
-cool light, top light, fluorescent light, low contrast, diffuser
-cool light, top light, fluorescent light, low contrast, ektachrome, diffuser
-loop lighting, diffused light, incandescent light, subtle contrast, ektachrome, chinese lantern
-loop lighting, soft light, incandescent light, subtle contrast, warm tones
-low key, practical light, tungsten light, hard shadows, deep contrast
-natural light, daylight, side light, soft light, subtle contrast, reflector
-natural light, warm light, fill light, soft shadows, reflector
-natural light, warm light, key light, soft light, low contrast, diffuser
-natural light, warm light, key light, soft light, low contrast, reflector
-natural light, warm light, side light, diffused light, low contrast, reflector
-natural light, warm light, side light, soft light, low contrast, diffuser
-natural light, warm light, side light, soft light, reflector
-natural light, warm light, side light, soft shadows, portra, reflector
-natural light, warm light, side light, soft shadows, reflector
-rim light, high key, led light, cinestill, glossy highlights, softbox
-rim light, led light, high contrast, glossy highlights, softbox
-soft light, practical light, tungsten light, subtle contrast, cinestill, reflector
-stage haze, hard light, deep contrast, spotlight, gobo
-warm light, backlight, soft light, subtle contrast, bounce card
-warm light, backlight, soft light, subtle contrast, portra, bounce card
-warm light, bounce light, soft shadows, low contrast, portra, umbrella light
-warm light, fill light, window light, soft shadows, portra, reflector
-warm light, fill light, window light, soft shadows, reflector
+backlight, scattered light, rim glow, tungsten light, cinestill, narrow band of light, lamp glow
+backlight, scattered light, rim glow, tungsten light, narrow band of light, lamp glow
+soft fill light, diffused light, low contrast, soft shadows, soft warm omnidirectional glow, interior ambient light
+cool light, natural light, backlight, diffused light, low contrast, soft fill light, interior ambient light
+cool light, natural light, backlight, soft shadows, low contrast, soft fill light, interior ambient light
+cool light, natural light, soft fill light, diffused light, low contrast, warm and cool light mix
+cool light, natural light, soft fill light, top light, soft light, low contrast, interior ambient light
+cool light, top light, fluorescent light, low contrast, soft diffused light, interior ambient light
+cool light, top light, fluorescent light, low contrast, saturated cool-toned film, interior ambient light
+soft angled light, diffused light, incandescent light, saturated cool-toned film, soft warm omnidirectional glow, lamp glow
+soft angled light, gentle nose shadow, soft light, incandescent light, warm tones, lamp glow
+low key, glowing light source in scene, tungsten light, hard shadows, deep contrast, lamp glow
+natural light, daylight, side light, soft light, low contrast, soft fill light, interior ambient light
+natural light, warm light, soft fill light, soft shadows, interior ambient light, lamp glow
+natural light, warm light, strong directional light, soft light, low contrast, interior ambient light
+natural light, warm light, strong directional light, soft light, low contrast, soft fill light, interior ambient light
+natural light, warm light, side light, diffused light, low contrast, soft fill light, interior ambient light
+natural light, warm light, side light, soft light, low contrast, interior ambient light
+natural light, warm light, side light, soft light, soft fill light, interior ambient light
+natural light, warm light, side light, soft shadows, warm muted film tones, lamp glow
+natural light, warm light, side light, soft shadows, soft fill light, interior ambient light
+rim light, high key, harsh cool-toned light, cinestill, glossy highlights, soft diffused light, interior ambient light
+rim light, harsh cool-toned light, high contrast, glossy highlights, soft diffused light, warm and cool light mix
+soft light, glowing light source in scene, tungsten light, low contrast, cinestill, lamp glow
+stage haze, hard light, deep contrast, spotlight, patterned projected shadows, interior ambient light
+warm light, backlight, soft light, low contrast, soft fill light, lamp glow
+warm light, backlight, soft light, warm muted film tones, soft fill light, lamp glow
+warm light, soft fill light, soft shadows, warm muted film tones, soft diffused light, lamp glow
+warm light, soft fill light, window light, soft shadows, warm muted film tones, lamp glow
+warm light, soft fill light, window light, soft shadows, interior ambient light, lamp glow

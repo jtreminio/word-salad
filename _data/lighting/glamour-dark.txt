@@ -1,10 +1,10 @@
-backlight, low key, hard shadows, deep contrast, glossy highlights, gobo
-broad lighting, low key, hard light, deep contrast, specular highlights, beauty dish
-low key, hard light, deep contrast, cinematic noir, glossy highlights, beauty dish
-rim light, low key, deep contrast, portra, specular highlights, beauty dish
-rim light, low key, hard shadows, ektachrome, specular highlights, reflector
-short lighting, low key, hard light, cinematic chiaroscuro, glossy highlights, strip softbox
-side light, low key, hard light, glossy highlights, beauty dish, barn doors
-side light, low key, hard shadows, ektachrome, glossy highlights, reflector
-split lighting, low key, hard shadows, deep contrast, specular highlights, gobo
-underlight, low key, hard light, cinematic noir, specular highlights, barn doors
+backlight, low key, hard shadows, deep contrast, glossy highlights, patterned projected shadows, deep shadows on face
+even wrap-around light, open shadows, low key, hard light, deep contrast, specular highlights
+low key, hard light, deep contrast, cinematic noir, glossy highlights, shadow edge on cheek
+rim light, low key, deep contrast, warm muted film tones, soft grain, specular highlights, deep shadows on face
+rim light, low key, hard shadows, saturated cool-toned film, fine grain, specular highlights, shadow edge on cheek
+shadow-side lit, deep shadow toward camera, low key, cinematic chiaroscuro, glossy highlights, narrow band of light
+side light, low key, hard light, glossy highlights, focused hard light, hard-edged shadows, shadow edge on cheek
+side light, low key, hard shadows, saturated cool-toned film, fine grain, glossy highlights, deep shadows on face
+face half-lit, hard shadow divide, low key, deep contrast, specular highlights, patterned projected shadows
+underlight, low key, hard light, cinematic noir, specular highlights, focused hard light, deep shadows on face

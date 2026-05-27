@@ -1,30 +1,30 @@
-backlight, low key, deep contrast, cinematic chiaroscuro, tri-x
-broad lighting, low key, hard shadows, chiaroscuro, tri-x, barn doors
+backlight, low key, deep contrast, cinematic chiaroscuro, heavy film grain
+even wrap-around light, open shadows, low key, hard shadows, chiaroscuro, focused hard light, hard-edged shadows
 fog lighting, backlight, low key, volumetric light, deep contrast
 fog lighting, backlight, rim light, low key, deep contrast, contact shadow
-fog lighting, broad lighting, hard light, low key, atmospheric backscatter, high contrast
+fog lighting, hard light, low key, atmospheric backscatter, high contrast
 fog lighting, rim light, low key, hard light, volumetric light, contact shadow
 fog lighting, rim light, low key, volumetric light, deep shadows
-fog lighting, rim light, low key, volumetric light, hard shadows, tri-x
+fog lighting, rim light, low key, volumetric light, hard shadows, heavy film grain
 fog lighting, top light, hard light, low key, caustics, deep contrast
-fog lighting, underlight, hard light, low key, deep contrast, barn doors
+fog lighting, underlight, hard light, low key, deep contrast, focused hard light, hard-edged shadows
 haze, backlight, hard light, low key, volumetric light, high contrast
-haze, short lighting, hard light, low key, rim glow, deep contrast
-loop lighting, low key, backlit haze, deep contrast, hard shadows, gobo
-loop lighting, low key, hard light, deep contrast, cinematic noir, gobo
-low key, directional shadows, hard shadows, subtle contrast, strip softbox
+haze, shadow-side lit, deep shadow toward camera, hard light, low key, rim glow, deep contrast
+low key, backlit haze, deep contrast, hard shadows, patterned projected shadows
+low key, hard light, deep contrast, cinematic noir, patterned projected shadows
+low key, directional shadows, hard shadows, deep contrast, narrow band of light
 rim light, hard light, low key, deep contrast, soft shadows
 rim light, low key, caustics, volumetric light, deep shadows
-rim light, low key, gelled light, hard shadows, cinematic chiaroscuro
-short lighting, low key, hard shadows, cinematic chiaroscuro, tri-x, gobo
-side light, hard light, deep shadows, subtle contrast, barn doors
-side light, hard light, gelled light, deep shadows, subtle contrast
-side light, low key, hard light, deep contrast, core shadow, barn doors
-side light, low key, mist backlight, hard shadows, high contrast, gobo
-split lighting, hard light, low key, chiaroscuro, deep shadows, gobo
-split lighting, low key, hard light, chiaroscuro, deep contrast, gobo
-split lighting, low key, hard shadows, cinematic noir, gobo
-stage haze, split lighting, low key, deep contrast, hard shadows, reflector
-top light, low key, scattered light, volumetric light, hard shadows, tri-x
-underlight, low key, hard light, hard shadows, deep contrast, strip softbox
-warm light, hard light, low key, practical light, high contrast, soft shadows
+rim light, low key, colored gel light, hard shadows, cinematic chiaroscuro
+shadow-side lit, deep shadow toward camera, low key, cinematic chiaroscuro, heavy film grain, patterned projected shadows
+side light, hard light, deep shadows, deep contrast, focused hard light, hard-edged shadows
+side light, hard light, colored gel light, deep shadows, deep contrast
+side light, low key, hard light, deep contrast, core shadow, focused hard light, hard-edged shadows
+side light, low key, mist backlight, hard shadows, high contrast, patterned projected shadows
+face half-lit, hard shadow divide, hard light, low key, chiaroscuro, deep shadows
+low key, hard light, chiaroscuro, deep contrast, patterned projected shadows
+face half-lit, low key, hard shadows, cinematic noir, patterned projected shadows
+stage haze, face half-lit, hard shadow divide, low key, deep contrast, hard shadows
+top light, low key, scattered light, volumetric light, hard shadows, heavy film grain
+underlight, low key, hard light, hard shadows, deep contrast, narrow band of light
+warm light, hard light, low key, glowing light source in scene, high contrast, soft shadows

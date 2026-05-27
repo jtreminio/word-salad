@@ -1,19 +1,19 @@
-backlight, diffused light, volumetric light, lens bloom, portra, glossy highlights
-backlight, soft light, volumetric light, lens bloom, portra, glossy highlights
-backlight, volumetric light, light leaks, soft shadows, portra, glossy highlights
-cool light, backlight, diffused light, high key, volumetric light
-cool light, fog lighting, top light, diffused light, low contrast
-cool light, haze, rim light, diffused light, subtle contrast
-cool light, side light, diffused light, mist backlight, low contrast
-fog lighting, warm light, backlight, soft light, glossy highlights
-fog lighting, warm light, underlight, high key, soft light
-haze, rim light, diffused light, god rays, soft shadows, ektachrome
-haze, rim light, diffused light, lens flare, subtle contrast, glossy highlights
-haze, rim light, diffused light, mist backlight, subtle contrast, glossy highlights
-haze, warm light, split lighting, soft light, subtle contrast
-side light, soft light, god rays, lens flare, ektachrome, glossy highlights
-side light, soft light, mist backlight, lens bloom, subtle contrast, glossy highlights
-side light, soft light, mist backlight, light leaks, ektachrome, glossy highlights
-warm light, rim light, soft light, god rays, glossy highlights
-warm light, side light, high key, soft light, volumetric light
-warm light, underlight, soft light, mist backlight, glossy highlights
+backlight, diffused light, volumetric light, lens bloom, warm muted film tones, soft grain
+backlight, soft light, volumetric light, lens bloom, warm muted film tones, soft grain
+backlight, volumetric light, light leaks, warm muted film tones, soft shadows, ethereal glow
+cool light, backlight, diffused light, high key, volumetric light, ethereal glow
+cool light, fog lighting, top light, diffused light, low contrast, luminous haze
+cool light, haze, rim light, diffused light, low contrast, bloom
+cool light, side light, diffused light, mist backlight, low contrast, bloom
+fog lighting, warm light, backlight, soft light, glossy highlights, bloom
+fog lighting, warm light, underlight, high key, soft light, ethereal glow
+haze, rim light, diffused light, god rays, bloom, saturated cool-toned film
+haze, rim light, diffused light, lens flare, low contrast, bloom
+haze, rim light, diffused light, mist backlight, low contrast, bloom
+haze, warm light, face half-lit, hard shadow divide, soft light, luminous haze
+side light, soft light, god rays, lens flare, saturated cool-toned film, fine grain
+side light, soft light, mist backlight, lens bloom, low contrast, glossy highlights
+side light, soft light, mist backlight, light leaks, saturated cool-toned film, bloom
+warm light, rim light, soft light, god rays, glossy highlights, bloom
+warm light, side light, high key, soft light, volumetric light, ethereal glow
+warm light, underlight, soft light, mist backlight, glossy highlights, bloom

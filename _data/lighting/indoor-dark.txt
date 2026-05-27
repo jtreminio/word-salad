@@ -1,20 +1,20 @@
-backlight, low key, volumetric light, incandescent light, deep contrast, tri-x
-cool light, backlight, practical light, deep shadows, subtle contrast
-cool light, backlight, window light, deep shadows, subtle contrast
-cool light, rim light, ambient light, deep shadows, subtle contrast
-cool light, rim light, practical light, deep shadows, subtle contrast
-cool light, rim light, table lamp, deep shadows, subtle contrast
-fog lighting, rim light, low key, hard light, led light, cinestill
-low key, ambient light, scattered light, deep shadows, subtle contrast
-low key, scattered light, candlelight, deep shadows, subtle contrast
-low key, scattered light, practical light, deep shadows, subtle contrast
-low key, scattered light, table lamp, deep shadows, subtle contrast
-low key, scattered light, window light, deep shadows, subtle contrast
-rim light, low key, hard light, practical light, deep contrast, tri-x
-side light, low key, fluorescent light, deep contrast, tri-x, gobo
-side light, low key, tungsten light, hard shadows, cinestill, barn doors
-split lighting, low key, fluorescent light, deep contrast, tri-x, gobo
-split lighting, low key, incandescent light, deep contrast, tri-x, barn doors
-stage haze, rim light, low key, hard light, tungsten light, cinestill
-top light, low key, backlit haze, led light, hard shadows, cinestill
-underlight, low key, practical light, hard shadows, deep contrast, chinese lantern
+backlight, low key, volumetric light, incandescent light, deep contrast, heavy film grain, pool of light
+cool light, backlight, glowing light source in scene, deep shadows, low contrast, cool-toned shadows
+cool light, backlight, window light, deep shadows, low contrast, cool-toned shadows
+cool light, rim light, dim ambient glow, deep shadows, low contrast, cool-toned shadows
+cool light, rim light, glowing light source in scene, deep shadows, low contrast, pool of light
+cool light, rim light, warm lamp glow, deep shadows, low contrast, cool-toned shadows
+fog lighting, rim light, low key, hard light, harsh cool-toned light, cinestill, deep vignette
+low key, dim ambient glow, scattered light, deep shadows, low contrast, pool of light
+low key, scattered light, candlelight, deep shadows, low contrast, warm shadows
+low key, scattered light, glowing light source in scene, deep shadows, low contrast, pool of light
+low key, scattered light, warm lamp glow, deep shadows, low contrast, warm shadows
+low key, scattered light, window light, deep shadows, low contrast, pool of light
+rim light, low key, hard light, glowing light source in scene, deep contrast, deep vignette
+side light, low key, fluorescent light, deep contrast, patterned projected shadows, cool-toned shadows
+side light, low key, tungsten light, cinestill, focused hard light, warm shadows
+face half-lit, low key, fluorescent light, deep contrast, patterned projected shadows, cool-toned shadows
+face half-lit, low key, incandescent light, deep contrast, focused hard light, warm shadows
+stage haze, rim light, low key, hard light, tungsten light, cinestill, deep vignette
+top light, low key, backlit haze, harsh cool-toned light, hard shadows, cinestill, deep vignette
+underlight, low key, glowing light source in scene, deep contrast, soft warm omnidirectional glow, pool of light

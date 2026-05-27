@@ -1,20 +1,20 @@
-blue hour, atmospheric haze, cool light, rim light, soft shadows
+blue hour, atmospheric haze, cool light, rim light, soft shadows, twilight glow
 blue hour, cool light, atmospheric haze, rim light, scattered light
 blue hour, cool light, atmospheric haze, volumetric light, soft shadows
-blue hour, cool light, diffused light, atmospheric backscatter, subtle contrast
+blue hour, cool light, diffused light, atmospheric backscatter, low contrast
 blue hour, cool light, rim light, diffused light, atmospheric backscatter
-blue hour, cool light, rim light, diffused light, subtle contrast
+blue hour, cool light, rim light, diffused light, low contrast, twilight glow
 blue hour, cool light, rim light, scattered light, soft shadows
 blue hour, cool light, soft light, atmospheric backscatter, soft shadows
-blue hour, cool light, soft light, volumetric light, subtle contrast
+blue hour, cool light, soft light, volumetric light, low contrast
 blue hour, cool light, volumetric light, atmospheric backscatter, soft shadows
-cool light, backlight, diffused light, soft shadows, subtle contrast, ektachrome
+cool light, backlight, diffused light, soft shadows, low contrast, saturated cool-toned film, fine grain
 cool light, backlight, soft light, backlit haze, low contrast, cinestill
 cool light, daylight, side light, diffused light, mist backlight, soft shadows
-cool light, daylight, top light, scattered light, diffused light, subtle contrast
-cool light, diffused light, practical light, soft shadows, low contrast, cinestill
-cool light, fog lighting, backlight, soft light, subtle contrast, ektachrome
-cool light, rim light, diffused light, mist backlight, soft shadows, subtle contrast
-cool light, rim light, diffused light, scattered light, soft shadows, subtle contrast
+cool light, daylight, top light, scattered light, diffused light, low contrast, twilight glow
+cool light, diffused light, glowing light source in scene, soft shadows, low contrast, cinestill
+cool light, fog lighting, backlight, soft light, low contrast, saturated cool-toned film, fine grain
+cool light, rim light, diffused light, mist backlight, soft shadows, low contrast
+cool light, rim light, diffused light, scattered light, soft shadows, low contrast
 cool light, side light, soft light, backlit haze, low contrast, cinestill
-cool light, top light, diffused light, soft shadows, subtle contrast, ektachrome
+cool light, top light, diffused light, soft shadows, low contrast, saturated cool-toned film, fine grain
