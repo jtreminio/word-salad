@@ -1,6 +1,1 @@
-<wc:characters/girl/cyberharem>
-<wc:characters/girl/ethanar>
-<wc:characters/girl/n-arno-1girl>
-<wc:characters/girl/noob-wiki>
-<wc:characters/girl/noobai-xl-danbooru>
-<wc:characters/girl/x779>
+<wc:characters/girl>

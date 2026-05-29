@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
+import argparse
 import re
+import textwrap
 from pathlib import Path
 
 
@@ -271,10 +273,98 @@ class WordSalad:
         return result
 
 
-def main():
-    data_root = Path(__file__).parent / "_data"
-    output = Path(__file__).parent.parent / "Wildcards"
-    word_salad = WordSalad(output, data_root)
+def build_parser() -> argparse.ArgumentParser:
+    script_dir = Path(__file__).parent
+    default_data_root = script_dir / "_data"
+    default_output = script_dir.parent / "Wildcards"
+
+    parser = argparse.ArgumentParser(
+        prog="main.py",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        description=textwrap.dedent(
+            """\
+            Build SwarmUI wildcard files from the _data source tree.
+
+            Every .txt file under the data root is read, expanded, cleaned, and
+            written to a mirrored path under the output directory. Source files
+            stay small and composable; the generated wildcards are flat, deduped,
+            and ready to drop into SwarmUI.
+
+            For each source line the tool will:
+              * join lines ending in a backslash (\\) with the next line, so a
+                single entry can be split across several physical lines;
+              * expand $file:[...] include directives (see below);
+              * trim whitespace, drop blank lines, and remove duplicates while
+                preserving the original order.
+            """
+        ),
+        epilog=textwrap.dedent(
+            """\
+            include directives:
+              $file:[path]                 Inline the contents of another wildcard
+                                           file. ".txt" is optional and the path is
+                                           resolved against the current file's
+                                           directory, the data root (with or without
+                                           a leading "_data/"), and the project root.
+              prefix$file:[path]suffix     Wrap every included line, e.g.
+                                           "a photo of $file:[animals], detailed"
+                                           prepends/appends text to each entry.
+
+            examples:
+              # Build using the default paths (./_data -> ../Wildcards):
+              ./main.py
+
+              # Preview source/output locations without writing anything:
+              ./main.py --dry-run
+
+              # Point at custom directories:
+              ./main.py --data-root ./_data --output ~/SwarmUI/Wildcards
+            """
+        ),
+    )
+    parser.add_argument(
+        "--data-root",
+        type=Path,
+        default=default_data_root,
+        metavar="DIR",
+        help="directory of source .txt files to process (default: %(default)s)",
+    )
+    parser.add_argument(
+        "--output",
+        type=Path,
+        default=default_output,
+        metavar="DIR",
+        help="directory to write generated wildcards into (default: %(default)s)",
+    )
+    parser.add_argument(
+        "--chunk-size",
+        type=int,
+        default=10000,
+        metavar="N",
+        help="max lines per split file for SPLIT-- entries (default: %(default)s)",
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="print the resolved data-root and output paths, then exit without writing",
+    )
+    return parser
+
+
+def main(argv=None):
+    args = build_parser().parse_args(argv)
+
+    if not args.data_root.is_dir():
+        raise SystemExit(f"error: data root not found: {args.data_root}")
+
+    if args.dry_run:
+        print(f"data root: {args.data_root.resolve()}")
+        print(f"output:    {args.output.resolve()}")
+        print("dry run: no files written")
+        return
+
+    word_salad = WordSalad(args.output, args.data_root)
+    word_salad.file_chunk_size = args.chunk_size
     word_salad.process_data_directory()
 
 
