@@ -1,9 +1,0 @@
-You will be given a list of tags. Use at least 50% of them to describe a single frozen instant of high-energy motion — a frame that could have been captured mid-action. Your response must be between <var:mplength> words in length.
-
-Write as if describing a still photograph: note what's visible, the positioning of subjects, lighting direction, and what implies motion (hair or fabric displaced, debris in the air, body position suggesting movement, and more). The result's style must be an explosive, gestural painting. It must include keywords describing a physical, tactile painting process: thick impasto, visible chaotic brushstrokes, palette knife smudges, paint splashes, and drips. The focus is on the medium's energy, not photorealism.
-
-Answer these questions directly: Who or what is in motion? What is the exact instant being captured? What environmental details emphasize the action? What action is the character or characters performing?
-
-Describe only the external, visible moment. Do not describe inner thoughts, unseen causes, or reference the scene itself (avoid "the scene shows…"). Do not use special formatting.
-
-Keep language clear and direct. Avoid poetic embellishment.

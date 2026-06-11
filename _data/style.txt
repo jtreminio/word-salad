@@ -19,6 +19,26 @@ oil painting by jackson pollock, abstract expressionism, drip painting, chaotic 
 illustration, retrowave aesthetic, retro, futuristic, neon, synth nostalgia
 oil painting by el greco, el greco art style. oil painting by el greco, elongated forms, spiritual tension, dramatic chiaroscuro, expressive brushwork, high contrast, unnatural elongation of limbs and features, golden halos around light sources
 
+vibrant anime, thick cel shading, thick outlines, saturated palette, brilliant and vivid accents, multi-directional rim lighting, sharp specular highlights, semi-gloss dark textures, subtle chromatic aberration
+film-noir still, black-and-white or selective minimal color, deep shadows and hard light, smoke, rain, and reflective surfaces, silhouette and rim lighting, moody high-contrast cinematic frame
+intimate sensual close-up, tactile emphasis on touch, texture, and skin, soft expressive lighting shaping form
+tight close-up portrait from shoulders up, macro-lens facial detail on eyes, lips, skin, and hair, tactile light catching eyelashes and reflections, softly blurred minimal background, lighting-driven depth and texture
+chiaroscuro high-contrast photograph, frame dominated by darkness with narrow planes of natural light, physically plausible single light source, selective illumination revealing texture and form, dramatic falloff into obscurity
+collectible figurine on a display pedestal, high-end resin-cast or 3D-printed style, fixed sculpted pose, precise paintwork, glossy and matte surface textures, studio lighting reflections, diorama base
+absurd comedic scene, weird surreal humor, single photographic moment, character actively interacting with environment, expressive environmental lighting
+high-energy action freeze-frame, cinematic mid-motion capture, dynamic composition, strong directional lighting, implied motion with flying debris and motion blur, peak-of-impact tension
+explosive gestural action painting, frozen mid-motion instant, thick impasto, visible chaotic brushstrokes, palette knife smudges, paint splashes and drips, energy of the medium over photorealism
+surreal slapstick cartoon freeze-frame, absurd comedic action, elastic exaggerated poses, over-the-top expressions, mid-motion chaos, impossible physics, creature interacting with cluttered environment
+environment-only cinematic backdrop, concept art background plate, layered depth with soft focus transitions, atmospheric light and weather, ambient distant life, no central subject
+ancient open book or illuminated manuscript dominating the frame, content illustrated on aged parchment pages or emerging as sculptural pop-up paper forms, figures crossing from flat ink illustration into dimensional space, material detail of binding, page texture, ink bleed, and wax seals
+subjects rendered as illustrations or pop-up paper constructions on the open pages of a book, figures partially emerging from the page into real space, paper folds, depth shadows, ink bleed and parchment grain, the book serving only as physical canvas
+character design reference sheet, concept sheet layout with main portrait, smaller angle and lighting studies, color palette row, material and environment thumbnail boxes, illustrated concept art style
+Western comic book page, bold linework, halftone shading, limited color palette, dynamic panel composition, speed lines and impact bursts, speech bubbles, high-contrast printed comic style
+mechanical cybernetic character close-up, futuristic anime still or detailed photograph, light playing across metal, glass, and composite surfaces, cooling ven…mechanical cybernetic character close-up, futuristic anime still or detailed photograph, light playing across metal, glass, and composite surfaces, cooling vents with vapor, exposed servos and wiring, reflective engineering precision
+dark horror still, monstrous creature physically attacking or restraining a human victim, gruesome visceral detail, nightmare-painting atmosphere, flickering light, shadow, and decayed environment intensifying dread
+intimate sensual close-up rendered as explosive gestural painting, tactile touch and texture, thick impasto, visible chaotic brushstrokes, palette knife smudges, paint splashes and drips, medium's energy over photorealism
+fantasy trading card game asset, framed illustration window with ornate decorative border, card title, mana cost symbols, stat corners and ability text box, high-fantasy key art with dramatic directional lighting, volumetric atmosphere, and material realism
+
 riso print aesthetic, retro vintage colors, grainy ink texture, misregistration, limited palette layers, high contrast with tactile noise
 black and white manga line art, pure ink style, no shading or gradients, high-contrast silhouettes, bold contour lines, variable line weight, clean negative space, graphic composition, minimalist inking, print-optimized illustration
 black and white manga ink style with hatch shading, dense cross-hatching for shadows, variable line density, directional stroke rendering, high-contrast inking, no gradients, graphic silhouette control, print-optimized illustration
@@ -401,7 +421,7 @@ watercolor style painting, visible paper texture, colorwash, vibrant, beautiful,
 whimsical and playful, imaginative, fantastical, bight colors, stylized, happy, whimsical and playful
 winner of inter-galactic art contest, symbol of the interstellar singularity, artstyle previously unseen in the whole galaxy
 zentangle, intricate, abstract, monochrome, patterns, meditative
-die-cut sticker, kawaii sticker,contrasting background, illustration minimalism, vector, pastel colors
+die-cut sticker, kawaii sticker, contrasting background, illustration minimalism, vector, pastel colors
 character design concept showing the front, the back, the side and partial turn views of the character, full shot, intricate detail, blank background
 anime, brian k. vaughan style, comic book page layout, overlapping multi-frame, dialog bubbles, modern, digital art, cinematic lighting, vivid colors
 single page with margins, x-ray blueprint, schematic, internal structure, cad design, concept drawing, diagram, lines and notes
@@ -431,43 +451,54 @@ space hologram,  hologram floating in space, a vibrant digital illustration, bla
 cute creatures,  3d fluffy, closeup cute and adorable, cute big circular reflective eyes, long fuzzy fur, pixar
 realistic photo portrait, raw candid cinema, 16mm, color graded portra 400 film, remarkable color, ultra realistic, textured skin, detailed pupils, realistic dull skin noise, visible skin detail, skin fuzz, dry skin, shot with cinematic camera
 professional scenic photograph, long shot scenic professional photograph, wide-angle lens, hyperrealistic, with dramatic sky, polarizing filter, natural lighting, vivid colors
-style is cross processing print, experimental color shifts, unconventional tonalities, vibrant and surreal hues, heightened contrasts, unpredictable results, artistic unpredictability, retro and vintage feel, dynamic color interplay, abstract and dreamlike
-style is dufaycolor photograph, vintage color palette, distinctive color rendering, soft and dreamy atmosphere, historical charm, unique color process, grainy texture, evocative mood, nostalgic aesthetic, hand-tinted appearance, artistic patina
-style is herbarium drawing, botanical accuracy, old botanical book illustration, detailed illustrations, pressed plants, delicate and precise linework, scientific documentation, meticulous presentation, educational purpose, organic compositions, timeless aesthetic, naturalistic beauty
+cross processing print, experimental color shifts, unconventional tonalities, vibrant and surreal hues, heightened contrasts, unpredictable results, artistic unpredictability, retro and vintage feel, dynamic color interplay, abstract and dreamlike
+dufaycolor photograph, vintage color palette, distinctive color rendering, soft and dreamy atmosphere, historical charm, unique color process, grainy texture, evocative mood, nostalgic aesthetic, hand-tinted appearance, artistic patina
+herbarium drawing, botanical accuracy, old botanical book illustration, detailed illustrations, pressed plants, delicate and precise linework, scientific documentation, meticulous presentation, educational purpose, organic compositions, timeless aesthetic, naturalistic beauty
 punk collage style, mixed media, papercut,textured paper, overlapping, ripped posters, safety pins, chaotic layers, graffiti-style elements, anarchy symbols, vintage photos, cut-and-paste aesthetic, bold typography, distorted images, political messages, urban decay, distressed textures, newspaper clippings, spray paint, rebellious icons, diy spirit, vivid colors, punk band logos, edgy and raw compositions, 
 mosaic style, fragmented, assembled, colorful, highly detailed
 oil painting by van gogh, expressive, impasto, swirling brushwork, vibrant, brush strokes, brushstroke-heavy, textured, impasto, colorful, dynamic, bold, distinctive, vibrant, whirling, expressive, dramatic, swirling, layered, intense, contrastive, atmospheric, luminous, textural, evocative, spiraled van gogh style
 oil painting by john singer sargent, elegant, refined, masterful technique, realistic portrayal, subtle play of light, captivating expression, rich details, harmonious colors, skillful composition, brush strokes, chiaroscuro
 artwork by jean-michel basquiat, neo-expressionism, street art influence, graffiti-inspired, raw, energetic, bold colors, dynamic composition, chaotic, layered, textural, expressive, spontaneous, distinctive, symbolic,energetic brushstrokes
 artwork in the style of andy warhol, pop art, vibrant colors, bold compositions, repetition of iconic imagery, celebrity culture, commercial aesthetics, mass production influence, stylized simplicity, cultural commentary, graphical elements, distinctive portraits
-style is gond painting, intricate patterns, vibrant colors, detailed motifs, nature-inspired themes, tribal folklore, fine lines, intricate detailing, storytelling compositions, mystical and folkloric, cultural richness
-style is anthotype print, monochrome dye, soft and muted colors, organic textures, ephemeral and delicate appearance, low details, watercolor canvas, low contrast, overexposed, silhouette, textured paper
-style is bromoil print, painterly effects, sepia tones, textured surfaces, rich contrasts, expressive brushwork, tonal variations, vintage aesthetic, atmospheric mood, handmade quality, artistic experimentation, darkroom craftsmanship, vignetting
+gond painting, intricate patterns, vibrant colors, detailed motifs, nature-inspired themes, tribal folklore, fine lines, intricate detailing, storytelling compositions, mystical and folkloric, cultural richness
+anthotype print, monochrome dye, soft and muted colors, organic textures, ephemeral and delicate appearance, low details, watercolor canvas, low contrast, overexposed, silhouette, textured paper
+bromoil print, painterly effects, sepia tones, textured surfaces, rich contrasts, expressive brushwork, tonal variations, vintage aesthetic, atmospheric mood, handmade quality, artistic experimentation, darkroom craftsmanship, vignetting
 
-style is calotype print, soft focus, subtle tonal range, paper negative process, fine details, vintage aesthetic, artistic experimentation, atmospheric mood, early photographic charm, handmade quality, vignetting
-style is color sketchnote, hand-drawn elements, vibrant colors, visual hierarchy, playful illustrations, varied typography, graphic icons, organic and dynamic layout, personalized touches, creative expression, engaging storytelling
-style is one line art, continuous and unbroken black line, minimalistic, simplicity, economical use of space, flowing and dynamic, symbolic representations, contemporary aesthetic, evocative and abstract, white background
-style is blacklight paint, fluorescent pigments, vibrant and surreal colors, ethereal glow, otherworldly effects, dynamic and psychedelic compositions, neon aesthetics, transformative in ultraviolet light, contemporary and experimental
-style is cyanotype print, prussian blue tones, distinctive coloration, high contrast, blueprint aesthetics, atmospheric mood, sun-exposed paper, silhouette effects, delicate details, historical charm, handmade and experimental quality
-style is encaustic paint, textured surfaces, translucent layers, luminous quality, wax medium, rich color saturation, fluid and organic shapes, contemporary and historical influences, mixed media elements, atmospheric depth
-style is luminogram, photogram technique, ethereal and abstract effects, light and shadow interplay, luminous quality, experimental process, direct light exposure, unique and unpredictable results, artistic experimentation
-style is mokume-gane, wood-grain patterns, mixed metal layers, intricate and organic designs, traditional japanese metalwork, harmonious color combinations, artisanal craftsmanship, unique and layered textures, cultural and historical significance
+calotype print, soft focus, subtle tonal range, paper negative process, fine details, vintage aesthetic, artistic experimentation, atmospheric mood, early photographic charm, handmade quality, vignetting
+color sketchnote, hand-drawn elements, vibrant colors, visual hierarchy, playful illustrations, varied typography, graphic icons, organic and dynamic layout, personalized touches, creative expression, engaging storytelling
+one line art, continuous and unbroken black line, minimalistic, simplicity, economical use of space, flowing and dynamic, symbolic representations, contemporary aesthetic, evocative and abstract, <random:dark||colorful||simple||gradient||pastel||patterened> background
+blacklight paint, fluorescent pigments, vibrant and surreal colors, ethereal glow, otherworldly effects, dynamic and psychedelic compositions, neon aesthetics, transformative in ultraviolet light, contemporary and experimental
+cyanotype print, prussian blue tones, distinctive coloration, high contrast, blueprint aesthetics, atmospheric mood, sun-exposed paper, silhouette effects, delicate details, historical charm, handmade and experimental quality
+encaustic paint, textured surfaces, translucent layers, luminous quality, wax medium, rich color saturation, fluid and organic shapes, contemporary and historical influences, mixed media elements, atmospheric depth
+luminogram, photogram technique, ethereal and abstract effects, light and shadow interplay, luminous quality, experimental process, direct light exposure, unique and unpredictable results, artistic experimentation
+mokume-gane, wood-grain patterns, mixed metal layers, intricate and organic designs, traditional japanese metalwork, harmonious color combinations, artisanal craftsmanship, unique and layered textures, cultural and historical significance
 palekh art, miniature paintings, intricate details, vivid colors, folkloric themes, lacquer finish, storytelling compositions, symbolic elements, russian folklore influence, cultural and historical significance
-style is suminagashi, floating ink patterns, marbled effects, delicate and ethereal designs, water-based ink, fluid and unpredictable compositions, meditative process, monochromatic or subtle color palette, japanese artistic tradition
-style is shibori, textured fabric, intricate patterns, resist-dyeing technique, indigo or vibrant colors, organic and flowing designs, japanese textile art, cultural tradition, tactile and visual interest
-style is ukiyo-e, woodblock prints, vibrant colors, intricate details, depictions of landscapes, kabuki actors, beautiful women, cultural scenes, traditional japanese art, artistic craftsmanship, historical significance
-style is vintage airline poster, classic aviation fonts, pastel colors, elegant aircraft illustrations, scenic destinations, distressed textures, retro travel allure
-style is vintage travel poster, retro fonts, muted colors, scenic illustrations, iconic landmarks, distressed textures, nostalgic vibes
-style is de stijl art, neoplasticism, primary colors, geometric abstraction, horizontal and vertical lines, simplicity, harmony, utopian ideals
-style is fayum portrait, encaustic painting, realistic facial features, warm earth tones, serene expressions, ancient egyptian influences
-style is illuminated manuscript, intricate calligraphy, rich colors, detailed illustrations, gold leaf accents, ornate borders, religious, historical, medieval
-style is kalighat painting, bold lines, vibrant colors, narrative storytelling, cultural motifs, flat compositions, expressive characters
-style is madhubani painting, intricate patterns, vibrant colors, nature-inspired motifs, cultural storytelling, symmetry, folk art aesthetics
-style is pictorialism illustration, soft focus, atmospheric effects, artistic interpretation, tonality, muted colors, evocative storytelling
-style is pichwai painting, intricate detailing, vibrant colors, religious themes, nature motifs, devotional storytelling, gold leaf accents
-style is patachitra painting, bold outlines, vibrant colors, intricate detailing, mythological themes, storytelling, traditional craftsmanship
-style is samoan art-inspired wooden sculpture, traditional motifs, natural elements, bold colors, cultural symbolism, storytelling, craftsmanship
-style is tlingit art, formline design, natural elements, animal motifs, bold colors, cultural storytelling, traditional craftsmanship, alaska traditional art, totem
-style is painting by adnate, realistic portraits, street art, large-scale murals, subdued color palette, social narratives
-style is painting by ron english, pop-surrealism, cultural subversion, iconic mash-ups, vibrant and bold colors, satirical commentary
-style is painting by shepard fairey, street art, political activism, iconic stencils, bold typography, high contrast, red, black, and white color palette
+suminagashi, floating ink patterns, marbled effects, delicate and ethereal designs, water-based ink, fluid and unpredictable compositions, meditative process, monochromatic or subtle color palette, japanese artistic tradition
+shibori, textured fabric, intricate patterns, resist-dyeing technique, indigo or vibrant colors, organic and flowing designs, japanese textile art, cultural tradition, tactile and visual interest
+ukiyo-e, woodblock prints, vibrant colors, intricate details, depictions of landscapes, kabuki actors, beautiful women, cultural scenes, traditional japanese art, artistic craftsmanship, historical significance
+vintage airline poster, classic aviation fonts, pastel colors, elegant aircraft illustrations, scenic destinations, distressed textures, retro travel allure
+vintage travel poster, retro fonts, muted colors, scenic illustrations, iconic landmarks, distressed textures, nostalgic vibes
+de stijl art, neoplasticism, primary colors, geometric abstraction, horizontal and vertical lines, simplicity, harmony, utopian ideals
+fayum portrait, encaustic painting, realistic facial features, warm earth tones, serene expressions, ancient egyptian influences
+illuminated manuscript, intricate calligraphy, rich colors, detailed illustrations, gold leaf accents, ornate borders, religious, historical, medieval
+kalighat painting, bold lines, vibrant colors, narrative storytelling, cultural motifs, flat compositions, expressive characters
+madhubani painting, intricate patterns, vibrant colors, nature-inspired motifs, cultural storytelling, symmetry, folk art aesthetics
+pictorialism illustration, soft focus, atmospheric effects, artistic interpretation, tonality, muted colors, evocative storytelling
+pichwai painting, intricate detailing, vibrant colors, religious themes, nature motifs, devotional storytelling, gold leaf accents
+patachitra painting, bold outlines, vibrant colors, intricate detailing, mythological themes, storytelling, traditional craftsmanship
+samoan art-inspired wooden sculpture, traditional motifs, natural elements, bold colors, cultural symbolism, storytelling, craftsmanship
+tlingit art, formline design, natural elements, animal motifs, bold colors, cultural storytelling, traditional craftsmanship, alaska traditional art, totem
+painting by adnate, realistic portraits, street art, large-scale murals, subdued color palette, social narratives
+painting by ron english, pop-surrealism, cultural subversion, iconic mash-ups, vibrant and bold colors, satirical commentary
+painting by shepard fairey, street art, political activism, iconic stencils, bold typography, high contrast, red, black, and white color palette
+
+pop art, ben-day dots, halftone pattern, flat color, bold black outlines, primary colors, high contrast, speech bubble, comic panel, Roy Lichtenstein style, no gradients, graphic novel, ink print aesthetic, saturated fills
+cyberpunk, neon glow, electric colors, dark background, bloom effect, glowing outlines, high contrast, neon signs, sci-fi, Akira style, Ghost in the Shell aesthetic, volumetric light, chromatic aberration
+retro anime, 80s aesthetic, cel shading, flat color, hard shadow edges, oversized eyes, gradient sky, synthwave palette, VHS aesthetic, Macross style, Dirty Pair style, bold outlines, flat fills, sparkle accents, anime girl, high contrast
+Studio Trigger style, Gainax style, hypersaturated, rainbow starburst, speed lines, dynamic composition, extreme angles, vibrant neon, spiky hair, Kill la Kill aesthetic, Gurren Lagann style, explosive energy, bold colors, high contrast, intense eye highlights, kaleidoscopic
+Adventure Time style, Cartoon Network, flat design, thick black outlines, blob shapes, candy colors, no gradients, bright fills, simple shapes, bold lineart, flat background, primary colors, Steven Universe aesthetic, clean vector look, high contrast, graphic illustration
+ukiyo-e, Japanese woodblock print, flat color planes, vermillion cobalt gold, bold outlines, no gradients, decorative pattern, wave motif, Hokusai style, modern illustration, high contrast, flat perspective, Victo Ngai style, ink print, limited color palette, graphic
+risograph print, riso aesthetic, limited ink colors, ink overlap, color misregistration, grain texture, noise, lo-fi, flat color, indie zine, halftone, paper texture, high contrast, 2-color print, offset print aesthetic, graphic design
+graffiti illustration, street art, bubble letters, wildstyle, spray paint texture, chrome gradient, drip effect, layered paint, bold outlines, brick wall, urban art, high contrast, fluorescent colors, tag art, heavy linework, Banksy aesthetic, vibrant fills
+1980s cartoon, Saturday morning cartoon, Hanna-Barbera style, He-Man aesthetic, Filmation style, flat color, thick bold outlines, primary palette, red blue yellow, simple shapes, action poses, no gradients, limited palette, chunky lineart, high contrast, retro animation
+magical girl, shojo anime, Sailor Moon style, Cardcaptor Sakura aesthetic, jewel tones, sparkle accents, oversized gradient eyes, multiple eye highlights, flowing hair, tiara, wand, pastel accents, high contrast, glitter, luminous, sparkle glyphs, transformation sequence

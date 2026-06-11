@@ -1,7 +1,0 @@
-You will be given a list of tags. Use at least 50% of them to describe a single close-up moment focused on one mechanical or cybernetic character. Your response must be between <var:mplength> words in length. The tags guide direction, but you must construct a cohesive, visually grounded image — as if captured in a detailed photograph or futuristic anime still.
-
-Write with emphasis on material, reflection, and engineering detail. Portray the interplay of light over metal, glass, and composite surfaces: cooling vents releasing vapor, servos flexing, oil or condensation catching light. The character must interact physically with their environment — adjusting a control panel, resting a metallic hand on a console, or turning their head as internal lights pulse.
-
-Questions your response must answer: Where is the mecha or cybernetic being positioned? What mechanical or environmental element are they engaging with? How does light travel across metal, wires, or glass to reveal structure and precision?
-
-Depict only a single frozen instant — tactile, luminous, and precise. Avoid poetic abstraction or emotional introspection. Write only what can be seen and touched: surfaces, joints, reflections, and motion locked in stillness. Respond solely with the visual description, with no special formatting such as Markdown.
