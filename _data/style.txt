@@ -3,6 +3,8 @@ replace the character's eyes with sewn-on buttons, visible thread, red rimmed, s
 extreme closeup of the character's face, their pupils reflecting the scenery in front of them
 replace characters with stuffed teddy bear versions of themselves, giving details on their physical appearance.
 
+magical, cinematic, fantastical, epic. cinematic lighting, high action sequence, exaggerated movements. big, expressive faces, huge emotions.
+abstract expressionism art, high contrast, minimalistic, colorful, stark, dramatic, expressionism
 A funny advertisement that looks like spam but the thing it is selling is actually really weird. Be explicit about the thing being sold, add a price point and some text. Make it weird.
 uhd, 8k, ultra detailed, a cinematic photograph, beautiful lighting, great composition
 3d layered papercut shadowbox art, dimensional paper sculpture, multi-layer cut paper design, silhouette composition, depth and shadow interplay, handcrafted paper diorama aesthetic, handmade, high contrast
@@ -23,6 +25,7 @@ painting made of thick textured oil paint, thick impasto texture, colorful, <wc:
 anime coloring
 the character is aware they are in an image and are trying to break out, breaking the 4th wall
 Colors are <wc:colors/_soft>, cold pastels, cool pastels, cold tones, cool tones, low saturation, analog tones, muted colors, retro colors. Hyperrealistic anime, portrait close-up, shallow depth of field, intimate composition, subject in sharp focus, expressive. Matte finish, matte overlay, soft painterly shading, painterly texture. Dark ink body tattoos, goth, punk, emo, grunge, cyberpunk, alt style, dark motif, dark makeup.
+The image is a high-contrast black and white line drawing with ink-bleed edges and heavy graphite grain. One specific item is full-color, but be explicit about which item it is.
 
 vibrant anime, thick cel shading, thick outlines, saturated palette, brilliant and vivid accents, multi-directional rim lighting, sharp specular highlights, semi-gloss dark textures, subtle chromatic aberration
 film-noir still, black-and-white or selective minimal color, deep shadows and hard light, smoke, rain, and reflective surfaces, silhouette and rim lighting, moody high-contrast cinematic frame
@@ -99,7 +102,6 @@ avant-garde art style, abstract shapes, bold lines, unconventional composition, 
 iridescent art nouveau glass sculpture, blown and molded carnival glass, dichroic resin finish, luminous internal glow, metallic rainbow gradients, translucent reflective surface, ornate engraved detailing, flowing organic curves, intricate craftsmanship, hyperreal lighting, cosmic shimmer aesthetic, macro photography of surface
 intricate carved ivory sculpture, ivory bone and resin with detailed engraving, floral and organic motifs, smooth polished finish, high-relief carving, elegant curvature and texture, mythic decorative design, earthy tones, macro photography of surface
 pebble mosaic sculpture, pebble art design, intricate arrangement of polished stones and small pebbles, ornamental texture and flowing contours, elegant dimensional stone craftsmanship, sculptural fashion form built from layered pebbles, rhythmic organic patterning, contemporary pebble mosaic aesthetic, natural composition
-abstract expressionism art, high contrast, minimalistic, colorful, stark, dramatic, expressionism
 child's fantasy illustration, impossible anatomy, dreamlike proportions, scribbled crayon lines, rainbow chaos palette, endearing wonky perspective, wild imaginative energy, innocently surreal, joyful artistic abandon, crinkled paper canvas
 change only the background to sketch without altering the woman. do not change the style of the woman or her clothes at all. leave the woman and her clothes unaltered. the woman should remain unchanged. the woman's colors should remain identical.
 naive child's crayon drawing style, bright primary colors, scribbled outlines, uneven coloring outside the lines, imaginative impossible scenes, charming imperfections, flat perspective
@@ -507,3 +509,7 @@ risograph print, riso aesthetic, limited ink colors, ink overlap, color misregis
 graffiti illustration, street art, bubble letters, wildstyle, spray paint texture, chrome gradient, drip effect, layered paint, bold outlines, brick wall, urban art, high contrast, fluorescent colors, tag art, heavy linework, Banksy aesthetic, vibrant fills
 1980s cartoon, Saturday morning cartoon, Hanna-Barbera style, He-Man aesthetic, Filmation style, flat color, thick bold outlines, primary palette, red blue yellow, simple shapes, action poses, no gradients, limited palette, chunky lineart, high contrast, retro animation
 magical girl, shojo anime, Sailor Moon style, Cardcaptor Sakura aesthetic, jewel tones, sparkle accents, oversized gradient eyes, multiple eye highlights, flowing hair, tiara, wand, pastel accents, high contrast, glitter, luminous, sparkle glyphs, transformation sequence
+
+handcrafted marzipan bas-relief, edible confection sculpture, hand-pinched almond paste, sculpted fondant, piped buttercream, coiled royal icing, visible finger impressions, thumb-shaped facial features, piped frosting details, sugar pearls, powdered sugar dusting, handmade cake decoration, whimsical bakery craftsmanship, confectionery diorama, edible folk art
+handcrafted gingerbread relief sculpture, royal icing piping, piped frosting ornamentation, fondant embellishments, candy decorations, sugar pearls, cookie architecture, hand-pressed dough textures, visible baking imperfections, edible confection craftsmanship, festive bakery diorama, decorated cookie art
+hand-sculpted fondant artwork, marzipan modeling, buttercream piping, royal icing filigree, edible sugarcraft, rolled sugar paste, confectionery miniature sculpture, handmade cake topper aesthetic, visible finger shaping, confection decoration, bakery artisan craftsmanship.
