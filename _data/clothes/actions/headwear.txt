@@ -16,3 +16,13 @@ putting on headwear
 removing helmet
 sideways hat
 tilted headwear
+balancing hat on finger
+catching hat
+fastening chinstrap
+lifting visor
+placing hat on another
+pulling down hat brim
+spinning hat
+throwing hat
+unfastening chinstrap
+waving hat

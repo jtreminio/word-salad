@@ -95,3 +95,13 @@ wasp onesie
 whale onesie
 wolf pup onesie
 zebra onesie
+capybara onesie
+quokka onesie
+wombat onesie
+pangolin onesie
+armadillo onesie
+tapir onesie
+hyena onesie
+snow leopard onesie
+crane onesie
+lobster onesie

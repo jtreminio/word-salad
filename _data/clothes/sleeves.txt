@@ -32,3 +32,11 @@ sleeves rolled up
 torn sleeves
 uneven sleeves
 wide sleeves
+batwing sleeves
+bishop sleeves
+cap sleeves
+dolman sleeves
+gigot sleeves
+kimono sleeves
+lantern sleeves
+petal sleeves

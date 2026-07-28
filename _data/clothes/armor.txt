@@ -8,3 +8,6 @@ $file:[_data/clothes/armor/modern], <wcrandom[0-4]:<wc:clothes/armor/head>||<wc:
 $file:[_data/clothes/armor/futuristic], <wcrandom[0-4]:<wc:clothes/armor/head>||<wc:clothes/armor/torso>||<wc:clothes/armor/arms>||<wc:clothes/armor/legs>||<wc:clothes/armor/shield>||<wc:clothes/armor/mecha>>
 $file:[_data/clothes/armor/mecha], <wcrandom[0-3]:<wc:clothes/armor/futuristic>||<wc:clothes/armor/head>||<wc:clothes/armor/torso>||<wc:clothes/armor/arms>||<wc:clothes/armor/legs>>
 $file:[_data/clothes/armor/miscellaneous], <wcrandom[0-4]:<wc:clothes/armor/head>||<wc:clothes/armor/torso>||<wc:clothes/armor/shoulders>||<wc:clothes/armor/arms>||<wc:clothes/armor/legs>>
+$file:[_data/clothes/armor/sets], <wcrandom[1-3]:<wc:clothes/armor/head>||<wc:clothes/armor/neck>||<wc:clothes/armor/shield>>
+$file:[_data/clothes/armor/personalities], <wcrandom[1-4]:<wc:clothes/armor/head>||<wc:clothes/armor/torso>||<wc:clothes/armor/arms>||<wc:clothes/armor/legs>||<wc:clothes/armor/shield>>
+$file:[_data/clothes/armor/named-armor], <wcrandom[0-3]:<wc:clothes/armor/head>||<wc:clothes/armor/arms>||<wc:clothes/armor/legs>||<wc:clothes/armor/mecha>>

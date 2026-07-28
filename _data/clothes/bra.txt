@@ -97,3 +97,13 @@ velvet bra
 wire-free lace bra
 wrap-front bra
 zip-front bra
+bullet bra
+front-closure bra
+full-cup bra
+mastectomy bra
+minimizer bra
+molded-cup bra
+nursing bra
+side-support bra
+sports bra
+t-shirt bra

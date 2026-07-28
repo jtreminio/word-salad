@@ -4,3 +4,11 @@ $file:[_data/clothes/sports/trail-racing]
 $file:[_data/clothes/sports/volcano-boarding]
 $file:[_data/clothes/sports/wingsuit-flying]
 $file:[_data/clothes/sports/winter]
+archery chest guard, fitted shooting jacket and bracer
+cricket whites, cable-knit sleeveless jumper and leg pads
+equestrian show coat, fitted breeches and tall riding boots
+fencing jacket, plastron, breeches and protective mask
+rowing unisuit, splash jacket and grip gloves
+sailing smock, buoyancy vest and reinforced deck trousers
+speed-skating skinsuit, cut-resistant base layer and blade guards
+weightlifting singlet, knee sleeves and lifting shoes

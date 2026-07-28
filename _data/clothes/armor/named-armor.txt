@@ -5,3 +5,13 @@ high-cut armor
 n7 armor
 seva suit
 terminator armor
+doom slayer armor
+hellbat armor
+iron man armor
+mandalorian armor
+mjolnir armor
+nanosuit
+praetor suit
+space marine power armor
+varia suit
+witchblade armor

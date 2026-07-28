@@ -3,3 +3,11 @@ pant suit
 skirt suit
 suit
 tuxedo
+double-breasted suit
+lounge suit
+morning suit
+Nehru suit
+safari suit
+seersucker suit
+three-piece suit
+zoot suit

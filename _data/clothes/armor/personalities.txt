@@ -10,3 +10,13 @@ soldier
 stormtrooper
 swiss guard
 viking
+cataphract
+centurion
+crusader
+cuirassier
+gladiator
+hoplite
+jouster
+palace guard
+riot officer
+space marine

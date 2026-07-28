@@ -2,3 +2,13 @@ ballistic shield
 beam shield
 buckler
 riot shield
+aspis
+energy shield
+heater shield
+kite shield
+mirror shield
+pavise
+round shield
+scutum
+targe
+tower shield

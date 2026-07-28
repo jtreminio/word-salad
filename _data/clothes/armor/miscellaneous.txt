@@ -3,3 +3,13 @@ broken armor
 leather armor
 naked armor
 ornate armor
+ceremonial armor
+cursed armor
+improvised armor
+living armor
+mismatched armor
+possessed armor
+salvaged armor
+training armor
+transparent armor
+unfinished armor

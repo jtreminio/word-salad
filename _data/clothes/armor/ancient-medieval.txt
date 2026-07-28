@@ -12,3 +12,13 @@ scale armor
 vambraces
 visor \(armor\)
 winged helmet
+barbute
+bascinet
+bevor
+brigandine
+gambeson
+hauberk
+lamellar armor
+lorica segmentata
+sallet
+spauldron

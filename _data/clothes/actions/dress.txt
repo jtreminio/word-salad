@@ -3,3 +3,12 @@ dress grab
 dress lift
 dress pull
 dress tug
+buttoning dress
+dress caught on object
+dress twirl
+holding dress hem
+putting on dress
+smoothing dress
+stepping into dress
+taking off dress
+unzipping dress

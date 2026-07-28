@@ -15,3 +15,13 @@ short jumpsuit
 strapless leotard
 tunic
 unitard
+catsuit
+coveralls
+flight suit
+hazmat suit
+morphsuit
+ski suit
+spacesuit
+union suit
+wetsuit
+zentai

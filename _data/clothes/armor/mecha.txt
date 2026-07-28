@@ -11,3 +11,13 @@ projector
 sand mecha
 striker unit
 utility belt
+booster pack
+cockpit
+energy wings
+flight unit
+mecha musume
+powered prosthetic
+rocket fist
+shoulder cannon
+thruster unit
+weapon arm

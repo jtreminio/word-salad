@@ -3,3 +3,13 @@ bulletproof vest
 plate carrier
 riot shield
 shin guards
+ballistic mask
+ceramic body armor
+combat helmet
+concealed body armor
+flak jacket
+riot armor
+soft body armor
+stab vest
+tactical vest
+trauma plate

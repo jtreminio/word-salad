@@ -25,3 +25,13 @@ sunglasses
 teardrop-framed glasses
 triangular eyewear
 under-rim eyewear
+browline glasses
+cat-eye glasses
+hexagonal glasses
+novelty spiral glasses
+oval glasses
+reading glasses
+shutter shades
+visor sunglasses
+wayfarer sunglasses
+wraparound sunglasses

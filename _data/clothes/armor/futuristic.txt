@@ -4,3 +4,13 @@ gravity suit
 power armor
 power suit
 seva suit
+ablative armor
+adaptive camouflage armor
+combat hardsuit
+force-field armor
+holographic armor
+magnetic armor
+nanofiber armor
+reactive armor suit
+smart armor
+vacuum armor

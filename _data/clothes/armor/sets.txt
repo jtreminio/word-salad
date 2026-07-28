@@ -8,3 +8,13 @@ plate armor
 power armor
 power suit
 reverse bikini armor
+brigandine armor
+ceremonial armor
+chainmail armor
+combat armor
+lamellar armor
+riot armor
+siege armor
+space armor
+stealth armor
+tournament armor

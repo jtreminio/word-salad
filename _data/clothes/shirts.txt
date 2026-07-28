@@ -123,3 +123,11 @@ v-wire bustier
 velvet square-neck top
 vinyl strap top
 wrap front sequin top
+camp-collar shirt
+grandad-collar shirt
+guayabera
+peasant blouse
+polo shirt
+prairie blouse
+surplice top
+western snap shirt

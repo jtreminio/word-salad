@@ -12,3 +12,13 @@ pith helmet
 spiked helmet
 visor \(armor\)
 winged helmet
+armet
+barbute
+bascinet
+burgonet
+close helmet
+frog-mouth helm
+great helm
+lobster-tailed pot helmet
+sallet
+skullcap helmet

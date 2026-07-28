@@ -6,3 +6,13 @@ hair ornament
 hairclip
 hairpin
 kanzashi
+hair comb
+hair fork
+hair vine
+hair chain
+hair cuff
+hair net
+hair wrap
+hair tassel
+hair thread
+hair rings

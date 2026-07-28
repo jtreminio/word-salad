@@ -27,3 +27,13 @@ trench coat
 vest
 waistcoat
 winter coat
+biker jacket
+bomber jacket
+cape
+car coat
+cardigan
+chore jacket
+field jacket
+harrington jacket
+parka
+puffer jacket

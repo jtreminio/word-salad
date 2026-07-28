@@ -10,3 +10,13 @@ hand on eyewear
 holding eyewear
 looking over eyewear
 removing eyewear
+catching eyewear
+dropping eyewear
+folding eyewear
+handing over eyewear
+placing eyewear in case
+polishing eyewear
+putting on eyewear
+stepping on eyewear
+unfolding eyewear
+wearing eyewear backwards

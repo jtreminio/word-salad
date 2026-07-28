@@ -27,3 +27,13 @@ space helmet
 stahlhelm
 tank helmet
 winged helmet
+corinthian helmet
+great helm
+bascinet
+morion helmet
+close helmet
+welding helmet
+riot helmet
+tactical helmet
+mining helmet
+ice hockey helmet
