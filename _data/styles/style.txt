@@ -22,6 +22,7 @@ hyper-realistic illustration
 Stylized adult cartoon style, round chin, small eyes, painterly texture
 Stylized, semi-realistic adult cartoon style, rounded chin, small eyes, painterly texture, matte skin
 lineart, thick lineart, painterly, semi realistic, cartoon, western comics style
+Miniature, LEGO style, character made out of lego
 charcoal drawing on textured paper, flat colors, line art, faded colors, washed colors, monochrome, limited palette
 flat, sketch, lineart, tracing, monochrome, monochromatic, patterned background
 flat color, sketch, lineart, tracing, monochrome, gradient, colorful, black background, hatching texture, patterned background
@@ -67,6 +68,7 @@ hyper-detailed high-relief carving, scrimshaw-style engraved bas-relief, carved 
 charcoal pencil drawing, watercolor style painting, visible paper texture, colorwash, color bleed, color outside the lines
 oil painting by jackson pollock, abstract expressionism, drip painting, chaotic composition, energetic, spontaneous, unconventional technique, dynamic, bold, distinctive, vibrant, intense, expressive, energetic, layered, non-representational, gestural
 illustration, retrowave aesthetic, retro, futuristic, neon, synth nostalgia
+stylistic anime illustration, cel-shaded, hard shadow banding, bold clean linework, flat color fills, limited color palette, high color saturation, no texture, no gradients.
 flat-colored digital illustration, grain-textured, heavy digital noise, crushed shadow detail in the deep blacks, thick inked outlines and flat-color fills create a distinct graphic contrast against the murky, smeared textures of the background environment
 Oil painting by El Greco, El Greco art style. Oil painting by El Greco, elongated forms, spiritual tension, dramatic chiaroscuro, expressive brushwork, high contrast, unnatural elongation of limbs and features, golden halos around light sources
 Riso print aesthetic, retro vintage colors, grainy ink texture, misregistration, limited palette layers, high contrast with tactile noise
@@ -506,3 +508,6 @@ tlingit art, formline design, natural elements, animal motifs, bold colors, cult
 painting by adnate, realistic portraits, street art, large-scale murals, subdued color palette, social narratives
 painting by ron english, pop-surrealism, cultural subversion, iconic mash-ups, vibrant and bold colors, satirical commentary
 painting by shepard fairey, street art, political activism, iconic stencils, bold typography, high contrast, red, black, and white color palette
+
+crayon-constructed character, entire body built from real wax crayons, visible crayon sticks assembled into anatomy, stacked and interlocked crayons, sharpened crayon tips, colored paper wrappers intact, sculptural crayon art, toy-like construction, physically plausible crayon engineering, handcrafted crayon figure, detailed crayon assembly
+real crayon character, body assembled from hundreds of crayons, sophisticated crayon engineering, expressive face built from crayon pieces, colorful wax sculpture, high-detail product design, physically constructed from crayons, cinematic lighting

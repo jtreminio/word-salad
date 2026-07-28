@@ -1,0 +1,27 @@
+FORMAT: "Interview on the Street" — a guerrilla, unprofessional street interview. An off-screen interviewer ambushes the on-screen subject with rude, prying questions. This is NOT a polished production: handheld, reactive, a little chaotic.
+
+DIALOGUE — write the lines yourself, then assign them explicitly by speaker:
+- Write an exchange of two inappropriate-but-non-sexual questions from the interviewer, two answers from the subject.
+- Interviewer register: smug, mocking, fake-cheerful, mean-spirited. Cuts the subject off mid-answer. Treats them like a punchline.
+- Subject's ARC across the exchange (this is the point — make it escalate): ambushed and caught off-guard → reluctantly playing along, nervous → realizing the interview is a joke at their expense → turning frustrated/sarcastic/jokey and firing back.
+- Each answer's WORDING must match where they are in the arc: first answer hesitant and over-polite; final answer clipped, sarcastic, or mocking the interviewer right back.
+
+BEAT STRUCTURE — output the motion welded to each line, in this order. Every spoken beat MUST carry a gross-motor body action, not just a face:
+1. Interviewer (offscreen): "Interview on the Street!" + opening rude question.
+   → Subject reacts BEFORE answering: head snaps toward the offscreen voice, eyebrows shoot up, a half-step back, weight rocking onto the back foot, shoulders flinching up.
+   → Subject answers, hesitant: a nervous half-laugh, one hand rising in a small placating gesture, eyes darting off-camera.
+2. Interviewer cuts in with the second, ruder question.
+   → Subject's reaction grows: head jerks back, brow furrows hard, a hand comes up palm-out or drags down the face, a clear step or lean.
+   → Subject answers, the polite mask cracking: a tight forced smile, then a scoff, a shrug, arms opening in disbelief, a finger jabbed toward the mic.
+
+MOTION RULES:
+- Magnitude ESCALATES beat to beat: contained → animated → big and physical by the end. Open up the body; do not keep arms at the sides.
+- Each line pairs with at least one whole-body or arm/hand movement AND one facial tic. Lip movement alone does not count as motion.
+- Micro-motion (breathing, blinking) is secondary texture only, never the main action.
+
+CAMERA: handheld and reactive, not smooth. Slight constant shake, a quick re-frame or snap-zoom when the subject reacts hard, breaking the 180 a touch as if a real operator is scrambling to keep up. The interviewer's handheld microphone juts in from a bottom corner of the frame, bobbing slightly, occasionally pushed toward the subject on a question.
+
+AUDIO: synchronized dialogue as assigned above, plus an unpolished street ambience — passing traffic, distant chatter, wind buffeting a cheap mic, the interviewer's voice slightly off-axis and too close to the mic.
+
+Character and scene description:
+<mpresponse:0>.

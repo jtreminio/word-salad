@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Photographers &amp; Their Styles</title>
+<style>
+  :root{
+    --bg:#0f1115;
+    --bg-soft:#161a21;
+    --card:#1b202a;
+    --card-hover:#222936;
+    --line:#2a3340;
+    --text:#e9edf4;
+    --muted:#9aa6b8;
+    --accent:#d8a657;
+    --accent-soft:#e7c489;
+    --chip:#243042;
+    --chip-text:#bcd0ea;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:
+      radial-gradient(1100px 600px at 12% -8%, #1d2430 0%, transparent 60%),
+      radial-gradient(900px 500px at 98% 0%, #211c26 0%, transparent 55%),
+      var(--bg);
+    color:var(--text);
+    font-family:"Helvetica Neue",Helvetica,Arial,"Segoe UI",sans-serif;
+    -webkit-font-smoothing:antialiased;
+    line-height:1.5;
+  }
+  header{
+    max-width:1180px;
+    margin:0 auto;
+    padding:56px 28px 22px;
+  }
+  .eyebrow{
+    letter-spacing:.32em;
+    text-transform:uppercase;
+    font-size:11px;
+    color:var(--accent);
+    margin:0 0 14px;
+    font-weight:600;
+  }
+  h1{
+    font-family:Georgia,"Times New Roman",serif;
+    font-weight:600;
+    font-size:clamp(30px,4.6vw,52px);
+    line-height:1.04;
+    margin:0 0 14px;
+    letter-spacing:-.01em;
+  }
+  h1 .thin{color:var(--muted);font-style:italic;font-weight:400;}
+  .lede{
+    color:var(--muted);
+    max-width:680px;
+    font-size:16px;
+    margin:0;
+  }
+  .toolbar{
+    position:sticky;
+    top:0;
+    z-index:20;
+    background:rgba(15,17,21,.82);
+    backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--line);
+    margin-top:30px;
+  }
+  .toolbar-inner{
+    max-width:1180px;
+    margin:0 auto;
+    padding:14px 28px;
+    display:flex;
+    gap:14px;
+    align-items:center;
+    flex-wrap:wrap;
+  }
+  .search{
+    flex:1 1 280px;
+    position:relative;
+    min-width:220px;
+  }
+  .search input{
+    width:100%;
+    padding:11px 14px 11px 40px;
+    border-radius:10px;
+    border:1px solid var(--line);
+    background:var(--bg-soft);
+    color:var(--text);
+    font-size:15px;
+    outline:none;
+    transition:border-color .15s,box-shadow .15s;
+  }
+  .search input:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(216,166,87,.15);}
+  .search svg{position:absolute;left:13px;top:50%;transform:translateY(-50%);color:var(--muted);}
+  .count{
+    color:var(--muted);
+    font-size:14px;
+    white-space:nowrap;
+    font-variant-numeric:tabular-nums;
+  }
+  .count b{color:var(--accent-soft);font-weight:600;}
+  main{
+    max-width:1180px;
+    margin:0 auto;
+    padding:30px 28px 80px;
+  }
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(330px,1fr));
+    gap:18px;
+  }
+  .card{
+    background:linear-gradient(180deg,var(--card) 0%, #181d26 100%);
+    border:1px solid var(--line);
+    border-radius:14px;
+    padding:22px 22px 20px;
+    display:flex;
+    flex-direction:column;
+    position:relative;
+    overflow:hidden;
+    transition:border-color .18s,transform .18s,box-shadow .18s;
+  }
+  .card::before{
+    content:"";
+    position:absolute;left:0;top:0;bottom:0;width:3px;
+    background:linear-gradient(var(--accent),transparent);
+    opacity:.55;
+  }
+  .card:hover{
+    border-color:#3a475a;
+    transform:translateY(-3px);
+    box-shadow:0 14px 30px -16px rgba(0,0,0,.8);
+  }
+  .name{
+    font-family:Georgia,"Times New Roman",serif;
+    font-size:23px;
+    font-weight:600;
+    letter-spacing:-.01em;
+    margin:0 0 10px;
+    line-height:1.15;
+  }
+  .chip{
+    align-self:flex-start;
+    background:var(--chip);
+    color:var(--chip-text);
+    font-size:11.5px;
+    letter-spacing:.04em;
+    text-transform:uppercase;
+    font-weight:600;
+    padding:4px 10px;
+    border-radius:999px;
+    margin-bottom:13px;
+  }
+  .desc{
+    color:#cdd6e3;
+    font-size:14.5px;
+    margin:0 0 18px;
+    flex:1;
+  }
+  .foot{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:10px;
+    margin-top:auto;
+  }
+  a.link{
+    display:inline-flex;
+    align-items:center;
+    gap:7px;
+    color:var(--accent-soft);
+    text-decoration:none;
+    font-size:13.5px;
+    font-weight:600;
+    border:1px solid var(--line);
+    padding:7px 12px;
+    border-radius:9px;
+    transition:background .15s,border-color .15s,color .15s;
+  }
+  a.link:hover{background:var(--chip);border-color:var(--accent);color:#fff;}
+  a.link svg{opacity:.85;}
+  .nolink{font-size:12.5px;color:var(--muted);font-style:italic;}
+  .src{
+    font-size:11px;
+    color:var(--muted);
+    text-transform:uppercase;
+    letter-spacing:.08em;
+  }
+  .empty{
+    text-align:center;
+    color:var(--muted);
+    padding:60px 0;
+    font-size:16px;
+    display:none;
+  }
+  footer{
+    max-width:1180px;
+    margin:0 auto;
+    padding:0 28px 60px;
+    color:var(--muted);
+    font-size:13px;
+    border-top:1px solid var(--line);
+    padding-top:24px;
+  }
+  mark{background:rgba(216,166,87,.28);color:inherit;border-radius:2px;padding:0 1px;}
+</style>
+</head>
+<body>
+<header>
+  <p class="eyebrow">Prompt Library &middot; Style Reference</p>
+  <h1>Photographers <span class="thin">&amp; the styles they're known for</span></h1>
+  <p class="lede">A guide to the 158 artists whose visual signatures anchor this prompt collection &mdash; from Magnum photojournalists to surreal fine-art portraitists. Each card names the artist, their defining style, and a link to explore their work.</p>
+</header>
+
+<div class="toolbar">
+  <div class="toolbar-inner">
+    <div class="search">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input id="q" type="search" placeholder="Search by name, style, or keyword…" autocomplete="off">
+    </div>
+    <div class="count"><b id="shown">158</b> of 158 artists</div>
+  </div>
+</div>
+
+<main>
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty">No artists match your search.</div>
+</main>
+
+<footer>
+  Generated as a reference for the <em>photographers</em> prompt set. Style descriptions reflect each artist's best-known body of work; a few filenames map to handles or generic styles inferred from their prompt contents. Links point to Wikipedia, Magnum Photos, or the artist's own portfolio where available.
+</footer>
+
+<script>
+const DATA = [
+{"name":"19th Century Photography","style":"Antique / Victorian-era photography","desc":"Evokes early black-and-white and sepia-toned photography of the 1800s, with formal portraits, period dress, horse-drawn carriages, and classical architecture, conveying a solemn, weathered sense of historical weight.","url":"https://en.wikipedia.org/wiki/History_of_photography","src":"Wikipedia"},
+{"name":"Abbas Attar","style":"Documentary / photojournalism","desc":"Iranian Magnum photojournalist known for intense black-and-white reportage documenting revolutions, conflict, and especially the role of religion in society across the globe.","url":"https://www.magnumphotos.com/photographer/abbas/","src":"Magnum"},
+{"name":"Abe Less","style":"Rustic / romantic portraiture","desc":"Warm, nostalgic portraiture set in rural and forest landscapes, featuring weathered elders, brides, and figures in traditional dress amid soft natural light and swirling smoke for a tranquil, contemplative mood.","url":"","src":""},
+{"name":"Adrian Murray","style":"Childhood / family lifestyle","desc":"Warm, golden-hour lifestyle photography centered on young children at play in fields, forests, and cozy homes with pets and toys, evoking innocence, wonder, and nostalgic domestic tranquility.","url":"","src":""},
+{"name":"Agnieszka Lorek","style":"Fine-art fantasy portraiture","desc":"Dreamy, painterly fine-art portraits of women in ornate lace gowns, headdresses, and flower crowns set in mystical forests and gardens, with soft lighting and rich jewel tones for a romantic, fairytale atmosphere.","url":"","src":""},
+{"name":"Albert Watson","style":"Fashion / portrait","desc":"Scottish fashion and celebrity photographer known for graphic, high-contrast black-and-white portraits and polished commercial imagery shot for Vogue and major campaigns.","url":"https://en.wikipedia.org/wiki/Albert_Watson_(photographer)","src":"Wikipedia"},
+{"name":"Alexander Drobkov","style":"Moody portrait photography","desc":"Intimate portraiture using soft directional light against deep, dark backgrounds, often featuring women with flowing hair, lace, and natural elements for a mysterious, elegant, and serene mood.","url":"","src":""},
+{"name":"Alex Currie","style":"Conceptual / cinematic portraiture","desc":"Moody, cinematic and often surreal storytelling imagery blending solitary figures, melancholic atmospheres, and gritty black-and-white street and protest scenes, conveying loneliness, tension, and emotional narrative.","url":"","src":""},
+{"name":"Alex Stoddard","style":"Surreal / fine-art self-portraiture","desc":"Ethereal, dreamlike fine-art photography placing figures in white dresses within dramatic natural settings (forests, water, ice, fields), using soft backlight and rich color to evoke surreal solitude and otherworldly beauty.","url":"https://www.alexstoddard.com/","src":"Portfolio"},
+{"name":"Alex Webb","style":"Street / documentary color","desc":"Magnum photographer celebrated for densely layered, vividly saturated color street photographs shot in intense light and shadow, often in Latin America and the Caribbean, packing complex multi-plane compositions into a single frame.","url":"https://www.magnumphotos.com/photographer/alex-webb/","src":"Magnum"},
+{"name":"Alfred Eisenstaedt","style":"Photojournalism","desc":"Pioneering LIFE magazine photojournalist known for candid, decisive-moment black-and-white images, most famously the V-J Day sailor-nurse kiss in Times Square.","url":"https://en.wikipedia.org/wiki/Alfred_Eisenstaedt","src":"Wikipedia"},
+{"name":"Alfred Stieglitz","style":"Pictorialism / fine-art","desc":"Influential early-modernist who championed photography as fine art, known for atmospheric black-and-white cityscapes, cloud studies (Equivalents), and intimate portraits rendered with painterly tonality.","url":"https://en.wikipedia.org/wiki/Alfred_Stieglitz","src":"Wikipedia"},
+{"name":"Amy Haslehurst","style":"Fine-art / ethereal portraiture","desc":"Soft, dreamy fine-art portraiture of women in white dresses and flower crowns within natural landscapes, using warm backlight and cool tones to evoke tranquility, solitude, and a poetic harmony with nature.","url":"","src":""},
+{"name":"Andreas Gursky","style":"Large-format conceptual","desc":"German photographer known for monumental, hyper-detailed large-format color images of globalized landscapes, architecture, and crowds shot from a detached high vantage, often digitally composited into vast, symmetrical tableaux.","url":"https://en.wikipedia.org/wiki/Andreas_Gursky","src":"Wikipedia"},
+{"name":"Andres Serrano","style":"Provocative fine-art","desc":"American artist known for large, glossy, often controversial photographs exploring religion, bodily fluids, death, and taboo, rendered with rich, saturated, painterly color.","url":"https://en.wikipedia.org/wiki/Andres_Serrano","src":"Wikipedia"},
+{"name":"Andrew Mohrer","style":"Urban street photography","desc":"Moody urban and street photography of New York City life, capturing rainy nights, neon and yellow-cab glow, subway platforms, and hurried pedestrians in cool tones and dramatic light to evoke the energy and loneliness of the metropolis.","url":"","src":""},
+{"name":"Andrey Yakovlev & Lili Aleeva","style":"High-fashion editorial portraiture","desc":"Russian photographer-and-artist duo known for glamorous, painterly fashion editorials with dramatic lighting, opulent retro/gothic styling, and richly textured, surreal staging.","url":"https://www.instagram.com/yakovlevlili/","src":"Instagram"},
+{"name":"Anna Ivanova","style":"Rustic food still life","desc":"Food and still-life photography in a warm, rustic style: ingredients arranged on weathered wood against dark backgrounds with soft natural light, evoking cozy, nostalgic harvest and kitchen scenes.","url":"","src":""},
+{"name":"Anna Oblivion","style":"Dark melancholic portraiture","desc":"Moody, low-saturation and black-and-white portraits of women paired with dried flowers and withered botanicals, evoking melancholy, fragility, mystery and quiet contemplation.","url":"","src":""},
+{"name":"Anne Hoffmann","style":"Romantic dreamy portraiture","desc":"Soft, warm-toned portraits of women (often red-haired) in lace and vintage dress set in autumnal forests and natural light, with blurred backgrounds creating a romantic, dreamlike and mysterious mood.","url":"","src":""},
+{"name":"Ansel Adams","style":"Black-and-white landscape","desc":"Iconic American photographer famed for sharp, tonally rich black-and-white landscapes of the American West, especially Yosemite, achieved through his Zone System exposure technique.","url":"https://en.wikipedia.org/wiki/Ansel_Adams","src":"Wikipedia"},
+{"name":"Antonio E. Ojeda","style":"Minimalist street photography","desc":"High-contrast black-and-white and minimalist street photography built on silhouettes, geometric architecture, and the bold interplay of light and shadow, often with a distinctly Spanish flavor.","url":"","src":""},
+{"name":"Anya Anti","style":"Conceptual surreal portraiture","desc":"Ukrainian-born, New York-based fine-art photographer creating dreamlike, surreal female portraits using elaborate costumes, fantasy sets, gothic styling, and Photoshop manipulation to embody symbolic, whimsical narratives.","url":"https://anya-anti.com/","src":"Portfolio"},
+{"name":"Aoyama Shinno","style":"Nostalgic black-and-white documentary","desc":"Black-and-white documentary-style photography capturing children and everyday street life with a tender, nostalgic, mid-century mood built from natural light and candid moments.","url":"","src":""},
+{"name":"Aoyama Yuki","style":"Schoolgirl-complex youth portraiture","desc":"Japanese photographer best known for his 'Schoolgirl Complex' series: nostalgic, soft-lit portraits of Japanese schoolgirls and youth in minimalist domestic and campus settings evoking wistful adolescent emotion.","url":"https://yukiao.jp/","src":"Portfolio"},
+{"name":"Nobuyoshi Araki","style":"Provocative Japanese black-and-white","desc":"Prolific Japanese photographer known for raw, diaristic black-and-white work mixing Tokyo street life, intimate nudes, kinbaku (rope bondage), flowers, and still life with a confrontational, sensual edge.","url":"https://en.wikipedia.org/wiki/Nobuyoshi_Araki","src":"Wikipedia"},
+{"name":"August Sander","style":"Typological documentary portraiture","desc":"German portraitist famed for 'People of the 20th Century,' a systematic typological survey cataloging Weimar-era Germans by occupation and class in plain, frontal, documentary portraits.","url":"https://en.wikipedia.org/wiki/August_Sander","src":"Wikipedia"},
+{"name":"Bart Ramakers","style":"Painterly staged tableaux","desc":"Belgian fine-art photographer who stages baroque, painterly tableaux reinterpreting mythological, biblical, and classical-painting themes, with sumptuous detail, nudes, and an alienating, surreal sensibility.","url":"https://www.bartramakers.com/","src":"Portfolio"},
+{"name":"Bella Kotak","style":"Fairytale fantasy portraiture","desc":"British fine-art photographer creating ethereal, fairytale-like portraits of women as forest goddesses and fairies amid lush flowers, flowing gowns, and dreamy, magical color and light.","url":"https://www.instagram.com/bellakotak/","src":"Instagram"},
+{"name":"Bernard Faucon","style":"Staged tableaux with mannequins","desc":"French pioneer of staged/constructed photography known for elaborately arranged tableaux using child mannequins in dreamlike outdoor scenes, an early influence on directorial fine-art photography.","url":"https://en.wikipedia.org/wiki/Bernard_Faucon","src":"Wikipedia"},
+{"name":"Brett Weston","style":"Abstract black-and-white modernism","desc":"American modernist (son of Edward Weston) known for high-contrast black-and-white photographs that abstract natural forms, textures, and details into bold graphic compositions.","url":"https://en.wikipedia.org/wiki/Brett_Weston","src":"Wikipedia"},
+{"name":"Bruce Gilden","style":"Confrontational street photography","desc":"Magnum photographer known for aggressive, close-up flash street portraits that capture raw, unflinching, often grotesque faces of urban life in stark black and white.","url":"https://www.magnumphotos.com/photographer/bruce-gilden/","src":"Magnum"},
+{"name":"Bruno Barbey","style":"Documentary / photojournalism","desc":"Magnum photographer renowned for vivid color reportage across the world, especially Morocco, Italy, and global conflicts, with a painterly eye for color and light.","url":"https://www.magnumphotos.com/photographer/bruno-barbey/","src":"Magnum"},
+{"name":"Burk Uzzle","style":"Documentary / street","desc":"American documentary photographer and former Magnum member known for candid Americana, civil-rights-era images, and the iconic Woodstock album cover photo.","url":"https://en.wikipedia.org/wiki/Burk_Uzzle","src":"Wikipedia"},
+{"name":"René Burri","style":"Documentary / photojournalism","desc":"Swiss Magnum photographer famous for his black-and-white reportage and portraits of 20th-century figures, including his iconic image of Che Guevara.","url":"https://www.magnumphotos.com/photographer/rene-burri/","src":"Magnum"},
+{"name":"Carl Mydans","style":"Photojournalism","desc":"American Life magazine photojournalist known for Great Depression FSA work and WWII combat coverage in Europe and the Pacific.","url":"https://en.wikipedia.org/wiki/Carl_Mydans","src":"Wikipedia"},
+{"name":"Carolyn Drake","style":"Documentary / conceptual","desc":"American Magnum photographer whose layered, collaborative documentary projects explore communities and identity across Central Asia and the United States.","url":"https://www.magnumphotos.com/photographer/carolyn-drake/","src":"Magnum"},
+{"name":"Henri Cartier-Bresson","style":"Street / documentary","desc":"French Magnum co-founder and father of modern photojournalism, famed for the 'decisive moment'—precisely timed, geometrically composed candid black-and-white street images.","url":"https://www.magnumphotos.com/photographer/henri-cartier-bresson/","src":"Magnum"},
+{"name":"Character Portrait Art","style":"Studio character portraiture","desc":"Generic studio character-portrait style: single subjects against simple dark or gray backgrounds with dramatic low-key lighting, props, and a moody, cinematic, narrative atmosphere.","url":"","src":""},
+{"name":"Christopher Anderson","style":"Documentary / portrait","desc":"Magnum photographer known for intimate, emotionally charged color reportage and portraiture, including political and personal projects.","url":"https://www.magnumphotos.com/photographer/christopher-anderson/","src":"Magnum"},
+{"name":"Constantine Manos","style":"Street / documentary","desc":"Greek-American Magnum photographer known for his lyrical black-and-white work in Greece and his vivid 'American Color' street photography.","url":"https://www.magnumphotos.com/photographer/constantine-manos/","src":"Magnum"},
+{"name":"Daido Moriyama","style":"Grainy provocative street","desc":"Influential Japanese street photographer known for raw, grainy, high-contrast black-and-white images of urban Japan — neon streets, alleys, and fleeting city life.","url":"https://en.wikipedia.org/wiki/Daid%C5%8D_Moriyama","src":"Wikipedia"},
+{"name":"David Alan Harvey","style":"Documentary / color reportage","desc":"American Magnum photographer celebrated for saturated, intimate color storytelling of Latino and global cultures, often shot in close, immersive style.","url":"https://en.wikipedia.org/wiki/David_Alan_Harvey","src":"Wikipedia"},
+{"name":"David Hamilton","style":"Soft-focus fine-art portraiture","desc":"British photographer known for dreamy, soft-focus, grainy, pastel-toned figure and portrait work with a romantic, hazy aesthetic.","url":"https://en.wikipedia.org/wiki/David_Hamilton_(photographer)","src":"Wikipedia"},
+{"name":"David Hurn","style":"Documentary / street","desc":"Welsh Magnum photographer known for his unstaged black-and-white documentary photography of everyday British life.","url":"https://www.magnumphotos.com/photographer/david-hurn/","src":"Magnum"},
+{"name":"Dennis Drozhzhin","style":"Beauty / portrait","desc":"Moscow-based self-taught portrait photographer and retoucher known for soft-lit, elegant beauty and fashion portraits of women with refined retouching and moody, atmospheric tones.","url":"https://www.instagram.com/dennis_drozhzhin/","src":"Instagram"},
+{"name":"Dheera Venkatraman","style":"Landscape / documentary travel","desc":"Engineer and hobbyist photographer known for travel, astro, and documentary landscape work, including his rephotography 'Time Traveling in China' series and nightscapes.","url":"https://dheera.net/","src":"Portfolio"},
+{"name":"Diane Arbus","style":"Portrait / documentary","desc":"American photographer famous for stark, square-format black-and-white portraits of marginalized and unconventional subjects.","url":"https://en.wikipedia.org/wiki/Diane_Arbus","src":"Wikipedia"},
+{"name":"Dmitri Kessel","style":"Photojournalism","desc":"Russian-American Life magazine photojournalist known for industrial, war, and richly detailed color and black-and-white documentary photography.","url":"https://en.wikipedia.org/wiki/Dmitri_Kessel","src":"Wikipedia"},
+{"name":"Dorothea Lange","style":"Documentary / social","desc":"American documentary photographer best known for her Depression-era FSA work, including 'Migrant Mother,' capturing human dignity amid hardship.","url":"https://en.wikipedia.org/wiki/Dorothea_Lange","src":"Wikipedia"},
+{"name":"Douglas Kirkland","style":"Celebrity / glamour portraiture","desc":"Hollywood portrait photographer famed for intimate, luminous celebrity sittings (notably Marilyn Monroe) and on-set film stills across a six-decade career.","url":"https://en.wikipedia.org/wiki/Douglas_Kirkland","src":"Wikipedia"},
+{"name":"Eduardo Pedro Oliveira","style":"Painterly landscape / cityscape","desc":"Prompts evoke soft, oil-painting-like landscapes and rainy cityscapes with warm sunset tones, autumn color, and atmospheric reflections in a romantic, impressionistic style.","url":"","src":""},
+{"name":"Edward S. Curtis","style":"Ethnographic portraiture","desc":"Early 20th-century photographer who documented Native American peoples in sepia-toned, romanticized portraits and scenes for his monumental work 'The North American Indian.'","url":"https://en.wikipedia.org/wiki/Edward_S._Curtis","src":"Wikipedia"},
+{"name":"Edward Weston","style":"Modernist / still life","desc":"American modernist master known for sharply detailed, large-format black-and-white studies of nudes, shells, peppers, and Western landscapes.","url":"https://en.wikipedia.org/wiki/Edward_Weston","src":"Wikipedia"},
+{"name":"Eduard Gordeev","style":"Impressionist cityscape","desc":"Self-taught St. Petersburg photographer whose rainy, wet-glass street and architecture images resemble Impressionist oil paintings through blurred light and color.","url":"https://mymodernmet.com/eduard-gordeev-rainy-cityscapes/","src":"Feature"},
+{"name":"Elizabeth Gadd","style":"Ethereal self-portrait / landscape","desc":"Canadian fine-art photographer known for dreamy, atmospheric self-portraits of a solitary figure within vast natural landscapes, mountains, and soft light.","url":"https://www.elizabethgadd.com/","src":"Portfolio"},
+{"name":"Elizabeth Sallee Bauer","style":"Lifestyle / childhood","desc":"Contemporary photographer specializing in warm, natural-light lifestyle imagery of children and families amid seasonal outdoor settings.","url":"","src":""},
+{"name":"Elizaveta Porodina","style":"Surreal fashion editorial","desc":"Russian-born, Munich-based fashion photographer known for painterly, surreal, high-drama editorial portraiture with bold color, motion, and theatrical light and shadow.","url":"https://www.instagram.com/elizaveta_porodina/","src":"Instagram"},
+{"name":"Elliott Erwitt","style":"Documentary / street","desc":"Magnum photographer celebrated for witty, ironic black-and-white candid street photography, often featuring dogs and humorous human moments.","url":"https://www.magnumphotos.com/photographer/elliott-erwitt/","src":"Magnum"},
+{"name":"Emin","style":"Documentary / street","desc":"Prompts depict gritty black-and-white documentary and street photography of crowds, protests, refugees, and everyday life with stark realism and high contrast.","url":"","src":""},
+{"name":"Enri Canaj","style":"Documentary / street","desc":"Albanian-born Magnum photographer known for intimate black-and-white documentary work on migration, displacement, and marginalized communities around the Mediterranean.","url":"https://www.magnumphotos.com/photographer/enri-canaj/","src":"Magnum"},
+{"name":"Ernst Haas","style":"Color / experimental","desc":"Austrian-American pioneer of color photography known for vibrant, motion-blurred, abstract street and travel images that elevated color photojournalism as an art form.","url":"https://en.wikipedia.org/wiki/Ernst_Haas","src":"Wikipedia"},
+{"name":"W. Eugene Smith","style":"Photojournalism / photo essay","desc":"American photojournalist who defined the dramatic, deeply humanistic photo essay for Life magazine, including landmark works on Minamata and country doctors.","url":"https://en.wikipedia.org/wiki/W._Eugene_Smith","src":"Wikipedia"},
+{"name":"Felice Beato","style":"Historical / war photography","desc":"Italian-British 19th-century pioneer of war and East Asian photography, known for hand-colored albumen prints of Japanese and Chinese landscapes, architecture, and military campaigns.","url":"https://en.wikipedia.org/wiki/Felice_Beato","src":"Wikipedia"},
+{"name":"F. C. Gundlach","style":"Fashion photography","desc":"German fashion photographer and collector who shaped postwar German fashion imagery with graphic, elegant black-and-white and color studio editorials.","url":"https://en.wikipedia.org/wiki/F._C._Gundlach","src":"Wikipedia"},
+{"name":"Masahisa Fukase","style":"Conceptual / black-and-white","desc":"Japanese photographer known for intensely personal, melancholic black-and-white work, most famously the bleak raven series 'The Solitude of Ravens' (Karasu).","url":"https://en.wikipedia.org/wiki/Masahisa_Fukase","src":"Wikipedia"},
+{"name":"Garry Winogrand","style":"Street photography","desc":"Pioneering American street photographer known for restless, tilted, candid black-and-white images of mid-20th-century American public life and social spectacle.","url":"https://en.wikipedia.org/wiki/Garry_Winogrand","src":"Wikipedia"},
+{"name":"George Rodger","style":"Photojournalism / documentary","desc":"British Magnum co-founder known for WWII photojournalism and humanistic documentary work in Africa, including iconic images of the Nuba people of Sudan.","url":"https://www.magnumphotos.com/photographer/george-rodger/","src":"Magnum"},
+{"name":"Gilles Peress","style":"Documentary / photojournalism","desc":"French Magnum photographer known for intense, fragmented black-and-white documentation of conflict and human rights crises in Northern Ireland, Iran, Bosnia and Rwanda.","url":"https://www.magnumphotos.com/photographer/gilles-peress/","src":"Magnum"},
+{"name":"Gordon Parks","style":"Documentary / photojournalism","desc":"Pioneering African-American photographer and filmmaker whose work for Life magazine documented race, poverty and civil rights in America with both gritty realism and stylish elegance.","url":"https://en.wikipedia.org/wiki/Gordon_Parks","src":"Wikipedia"},
+{"name":"Gregory Colbert","style":"Fine art / wildlife","desc":"Canadian artist behind 'Ashes and Snow,' creating sepia-toned, painterly images of humans interacting poetically with wild animals like elephants, whales and cheetahs.","url":"https://en.wikipedia.org/wiki/Gregory_Colbert","src":"Wikipedia"},
+{"name":"Gueorgui Pinkhassov","style":"Street / color photography","desc":"Russian-French Magnum photographer known for fragmented, abstract color compositions built on reflections, shadows, light patches and dappled glimpses of urban life.","url":"https://www.magnumphotos.com/photographer/gueorgui-pinkhassov/","src":"Magnum"},
+{"name":"Guy Bourdin","style":"Fashion / surreal","desc":"Influential French fashion photographer known for provocative, surreal, saturated and cinematic compositions for Vogue and Charles Jourdan that subverted conventional advertising.","url":"https://en.wikipedia.org/wiki/Guy_Bourdin","src":"Wikipedia"},
+{"name":"Hideaki Hamada","style":"Film / family portrait","desc":"Osaka-based Japanese photographer known for soft, warm, nostalgic film images of childhood, especially the 'Haru and Mina' series documenting his two sons' everyday wonder.","url":"https://www.instagram.com/hamadahideaki/","src":"Instagram"},
+{"name":"Hannes Caspar","style":"Portrait / nude","desc":"Berlin-based fine-art photographer known for dreamy, intimate black-and-white portraits and nudes that use soft, dappled light to reveal the aura of his subjects.","url":"https://www.hannescaspar.com/","src":"Portfolio"},
+{"name":"Harley Weir","style":"Fashion / fine art","desc":"British contemporary fashion and art photographer known for raw, intimate, textural and sensual imagery exploring the body, gender and politics for editorial and brand work.","url":"https://www.instagram.com/harleyweir/","src":"Instagram"},
+{"name":"Harry Gruyaert","style":"Color photography","desc":"Belgian Magnum photographer and color pioneer known for richly saturated, cinematic and atmospheric compositions that treat light and color as the primary subject.","url":"https://www.magnumphotos.com/photographer/harry-gruyaert/","src":"Magnum"},
+{"name":"Harry Callahan","style":"Fine art / experimental","desc":"American modernist photographer known for formally rigorous, high-contrast experiments with light, line and multiple exposure, often featuring urban scenes, nature and his wife Eleanor.","url":"https://en.wikipedia.org/wiki/Harry_Callahan_(photographer)","src":"Wikipedia"},
+{"name":"Hedda Morrison","style":"Documentary","desc":"German photographer known for her extensive black-and-white documentation of 1930s-40s Peking (Beijing), capturing its architecture, street life, crafts and traditional culture.","url":"https://en.wikipedia.org/wiki/Hedda_Morrison","src":"Wikipedia"},
+{"name":"Helen Levitt","style":"Street photography","desc":"American street photographer celebrated for lyrical, tender images of New York City life, especially children playing and chalk drawings in working-class neighborhoods.","url":"https://en.wikipedia.org/wiki/Helen_Levitt","src":"Wikipedia"},
+{"name":"Helmut Newton","style":"Fashion / nude","desc":"German-Australian photographer known for provocative, glamorous, erotically charged black-and-white fashion and nude imagery of powerful women for Vogue and others.","url":"https://en.wikipedia.org/wiki/Helmut_Newton","src":"Wikipedia"},
+{"name":"Herb Ritts","style":"Fashion / celebrity portrait","desc":"American photographer known for sculptural black-and-white fashion, nude, and celebrity portraiture, often shot outdoors with strong natural light emphasizing the human form.","url":"https://en.wikipedia.org/wiki/Herb_Ritts","src":"Wikipedia"},
+{"name":"He Fan","style":"Black-and-white street","desc":"Chinese photographer working in nostalgic black-and-white street and documentary photography, capturing everyday old-town life, markets, fishermen, and laborers with strong light-and-shadow play.","url":"","src":""},
+{"name":"Hiroji Kubota","style":"Documentary / photojournalism","desc":"Japanese Magnum photographer renowned for expansive color documentary work across Asia, especially China, North Korea, and the United States.","url":"https://www.magnumphotos.com/photographer/hiroji-kubota/","src":"Magnum"},
+{"name":"Hiroshi Sugimoto","style":"Conceptual fine-art","desc":"Japanese conceptual photographer celebrated for long-exposure black-and-white series such as Seascapes, Theaters, and Dioramas, exploring time, perception, and minimalism.","url":"https://en.wikipedia.org/wiki/Hiroshi_Sugimoto","src":"Wikipedia"},
+{"name":"Hoshie Eigong","style":"Black-and-white fine-art / nude","desc":"Artist working in moody black-and-white fine-art photography emphasizing the human body, dancers, traditional Japanese subjects, and surreal figures with deep contrast and mysterious atmosphere.","url":"","src":""},
+{"name":"Ichimasato","style":"Black-and-white documentary","desc":"Photographer working in nostalgic black-and-white documentary style depicting Showa-era Japanese life, traditional costume, festivals, fishing ports, and quiet portraiture.","url":"","src":""},
+{"name":"Ilker Karaman","style":"Street / silhouette","desc":"Turkish street photographer known for high-contrast, geometry-driven compositions using shadows, silhouettes, and reflections, including a self-portrait series 'In Pursuit of Myself'.","url":"https://www.lensculture.com/ilker-karaman","src":"LensCulture"},
+{"name":"Irving Penn","style":"Fashion / portrait","desc":"Influential American photographer known for elegant, minimalist studio fashion, portraiture, and still life, often against plain backdrops for Vogue.","url":"https://en.wikipedia.org/wiki/Irving_Penn","src":"Wikipedia"},
+{"name":"Yoshi Ishikawa","style":"Soft-color portrait / lifestyle","desc":"Photographer working in warm, soft-toned natural-light portraiture and lifestyle imagery, often featuring women and children in cozy vintage interiors and verdant outdoor settings.","url":"","src":""},
+{"name":"Miyako Ishiuchi","style":"Documentary / fine-art","desc":"Japanese photographer known for intimate black-and-white work on memory, time, scars, and aging, including series like Yokosuka Story and Hiroshima.","url":"https://en.wikipedia.org/wiki/Miyako_Ishiuchi","src":"Wikipedia"},
+{"name":"Ivan Troyanovsky","style":"Cinematic street / night","desc":"Photographer working in cinematic, retro film-toned street and documentary imagery, capturing intimate couples, urban nights, and warm nostalgic moments with soft color and grain.","url":"","src":""},
+{"name":"Jacob Aue Sobol","style":"Intimate documentary","desc":"Danish Magnum photographer known for raw, high-contrast black-and-white documentary work exploring intimacy and human connection in places like Greenland, Tokyo, and Bangkok.","url":"https://www.magnumphotos.com/photographer/jacob-aue-sobol/","src":"Magnum"},
+{"name":"Jake Olson Studios","style":"Portrait / wedding","desc":"American studio photographer known for warm, golden-hour family, child, and wedding portraiture with soft natural light and dreamy, idyllic outdoor settings.","url":"https://www.instagram.com/jakeolsonstudios/","src":"Instagram"},
+{"name":"Jan Vranovský","style":"Minimalist architecture / urban","desc":"Czech-born, Tokyo-based architect and photographer behind 'Parallel World', capturing minimalist, cool-toned fragments of pragmatic Japanese urban architecture, construction sites, and overlooked city details.","url":"https://www.janvranovsky.com/projects/parallel-world","src":"Portfolio"},
+{"name":"Jeanloup Sieff","style":"Fashion / nude","desc":"French photographer known for elegant black-and-white fashion, nude, and portrait work, often using wide-angle lenses and graphic landscapes with refined tonal contrast.","url":"https://en.wikipedia.org/wiki/Jeanloup_Sieff","src":"Wikipedia"},
+{"name":"Jérôme Sessini","style":"Conflict / documentary","desc":"French Magnum photographer covering war and crisis zones including Iraq, Syria, Ukraine and Mexico's drug war, with gritty, immersive frontline reportage.","url":"https://www.magnumphotos.com/photographer/jerome-sessini/","src":"Magnum"},
+{"name":"Jimmy Nelson","style":"Portrait / ethnographic","desc":"British photographer known for richly staged, painterly portraits of indigenous peoples worldwide, as in his series 'Before They Pass Away'.","url":"https://en.wikipedia.org/wiki/Jimmy_Nelson_(photographer)","src":"Wikipedia"},
+{"name":"Jonas Bendiksen","style":"Documentary / photojournalism","desc":"Magnum photographer known for long-form documentary work on marginalized communities and post-Soviet enclaves, blending reportage with rich color and humane storytelling.","url":"https://www.magnumphotos.com/photographer/jonas-bendiksen/","src":"Magnum"},
+{"name":"Josef Koudelka","style":"Documentary / photojournalism","desc":"Magnum photographer famed for stark high-contrast black-and-white images of the 1968 Prague invasion, Roma communities and panoramic landscapes, marked by drama and exile-tinged poetry.","url":"https://www.magnumphotos.com/photographer/josef-koudelka/","src":"Magnum"},
+{"name":"Juergen Teller","style":"Fashion / snapshot aesthetic","desc":"German fashion and art photographer known for raw, deadpan, on-camera-flash snapshot imagery that strips away glamour for an intentionally unpolished, candid look.","url":"https://en.wikipedia.org/wiki/Juergen_Teller","src":"Wikipedia"},
+{"name":"KING","style":"Retro fashion collage / lifestyle","desc":"Handle-style account producing warm, retro-toned fashion and lifestyle imagery with frequent torn-paper and collage effects, often featuring women in editorial poses against cozy interiors.","url":"","src":""},
+{"name":"Kate Scott","style":"Minimalist conceptual portraiture","desc":"Soft, cool-toned minimalist conceptual portraits emphasizing quiet, melancholic and faintly surreal moods, frequently featuring Japanese-schoolgirl motifs and floating figures against simple backgrounds.","url":"","src":""},
+{"name":"Kavan Cardoza (Kavan the Kid)","style":"Dark surreal conceptual","desc":"LA-based fine-art photographer creating dark, surreal photo-manipulations exploring mental health and existential dread through haunting, dramatically lit dreamlike scenes.","url":"http://www.kavanthekid.com/","src":"Portfolio"},
+{"name":"Kawajima Bird","style":"Bright nostalgic lifestyle / film","desc":"Handle-style account producing sunny, nostalgic everyday-life imagery in a warm film aesthetic, full of children, parks, animals and slice-of-life Japanese scenes radiating joy and vitality.","url":"","src":""},
+{"name":"Kazuyuki Kawahara","style":"Moody urban cityscape","desc":"Cool-toned, high-contrast urban photography emphasizing nighttime skylines, subway tunnels and rain-soaked streets that evoke the solitude and modernity of the metropolis.","url":"","src":""},
+{"name":"Keiichiro Nakajima","style":"Warm everyday / family lifestyle","desc":"Soft, warm natural-light imagery of children, families and quiet domestic moments in a gentle film aesthetic, conveying tranquility and tenderness in everyday Japanese life.","url":"","src":""},
+{"name":"Ken Domon","style":"Realist documentary","desc":"Pioneering Japanese realist photographer known for uncompromising social documentary, postwar Hiroshima and devout black-and-white studies of ancient Buddhist temples and statuary.","url":"https://en.wikipedia.org/wiki/Ken_Domon","src":"Wikipedia"},
+{"name":"Khalik Allah","style":"Street portraiture / documentary","desc":"Magnum photographer and filmmaker known for intimate, richly colored nighttime street portraits of marginalized New Yorkers, a practice he calls 'camera ministry.'","url":"https://www.magnumphotos.com/photographer/khalik-allah/","src":"Magnum"},
+{"name":"Kishin Shinoyama","style":"Fashion / nude portraiture","desc":"Influential Japanese photographer renowned for provocative nudes, celebrity and fashion portraiture, including iconic shoots of John Lennon and Yoko Ono.","url":"https://en.wikipedia.org/wiki/Kishin_Shinoyama","src":"Wikipedia"},
+{"name":"Klaudia Rataj","style":"Dark surreal conceptual","desc":"Polish conceptual photographer working in dark surrealism, using deep tones, masks and dramatic lighting to stage eerie, dreamlike and emotionally charged narratives.","url":"https://www.instagram.com/klaudiaratajfotografia/","src":"Instagram"},
+{"name":"Kostennn","style":"Macro floral fine-art","desc":"Handle-style account specializing in delicate macro flower studies, often blooming or withered petals isolated against pure black backgrounds in both color and elegant black-and-white.","url":"","src":""},
+{"name":"Kyle Thompson","style":"Surreal conceptual self-portraiture","desc":"American fine-art photographer known for atmospheric surreal self-portraits set in abandoned houses and forests, blending solitude, fire, water and dreamlike narrative.","url":"https://www.kylethompsonphotography.com/","src":"Portfolio"},
+{"name":"Lang Jingshan (Long Chin-San)","style":"Pictorialist composite / ink-painting","desc":"Pioneering Chinese pictorialist who invented 'composite photography,' combining multiple negatives to evoke the misty, atmospheric aesthetics of traditional Chinese ink-wash landscape painting.","url":"https://en.wikipedia.org/wiki/Long_Chin-San","src":"Wikipedia"},
+{"name":"Lee Friedlander","style":"American street / social landscape","desc":"American photographer known for complex black-and-white street photography of the 'social landscape,' using reflections, fences, and his own shadow to layer urban scenes.","url":"https://en.wikipedia.org/wiki/Lee_Friedlander","src":"Wikipedia"},
+{"name":"Lee Jeffries","style":"Dramatic B&W portraiture","desc":"British self-taught photographer famous for intense, high-contrast black-and-white close-up portraits of homeless people, emphasizing weathered faces and emotional depth.","url":"https://www.instagram.com/lee_jeffries/","src":"Instagram"},
+{"name":"Leon Levinstein","style":"New York street photography","desc":"American street photographer of the New York School, known for bold, candid, close-cropped black-and-white studies of people on the streets of New York.","url":"https://en.wikipedia.org/wiki/Leon_Levinstein","src":"Wikipedia"},
+{"name":"Lewis Hine","style":"Documentary / social reform","desc":"American sociologist and documentary photographer whose images of child laborers and immigrants helped drive social reform in the early 20th century.","url":"https://en.wikipedia.org/wiki/Lewis_Hine","src":"Wikipedia"},
+{"name":"Lisette Model","style":"Candid street portraiture","desc":"Austrian-born American photographer known for raw, unflinching close-up street portraits, and as the influential teacher of Diane Arbus.","url":"https://en.wikipedia.org/wiki/Lisette_Model","src":"Wikipedia"},
+{"name":"Mark Power","style":"Documentary landscape / topographic","desc":"British Magnum photographer known for large-format documentary projects on landscape, architecture, and industry, often with a cool, detached topographic eye.","url":"https://www.magnumphotos.com/photographer/mark-power/","src":"Magnum"},
+{"name":"Mikiko Hara","style":"Japanese intimate snapshot","desc":"Japanese photographer who shoots intimate, quietly observed snapshots of everyday Japanese life from the hip with a Holga, using soft color and casual framing.","url":"https://en.wikipedia.org/wiki/Mikiko_Hara","src":"Wikipedia"},
+{"name":"Man Ray","style":"Surrealist / experimental","desc":"American Dada and Surrealist artist who pioneered experimental photography including rayographs (camera-less photograms) and solarization.","url":"https://en.wikipedia.org/wiki/Man_Ray","src":"Wikipedia"},
+{"name":"Marc Riboud","style":"Photojournalism / Magnum","desc":"French Magnum photojournalist known for evocative reportage from China and Vietnam, including the iconic 'Flower and the Bayonet' image.","url":"https://www.magnumphotos.com/photographer/marc-riboud/","src":"Magnum"},
+{"name":"Margaret Bourke-White","style":"Documentary photojournalism","desc":"Pioneering American documentary photographer and the first female LIFE magazine photojournalist, known for industrial, war, and social imagery with dramatic scale.","url":"https://en.wikipedia.org/wiki/Margaret_Bourke-White","src":"Wikipedia"},
+{"name":"Margarita Kareva","style":"Fairytale fine-art fantasy","desc":"Russian fine-art photographer known for richly staged, dreamlike fairytale and fantasy portraits of women in elaborate costumes, vivid color, and surreal magical settings.","url":"https://www.instagram.com/margarita_kareva/","src":"Instagram"},
+{"name":"Mario Sorrenti","style":"Fashion / sensual editorial","desc":"Italian-American fashion photographer known for intimate, sensual, and raw editorial and campaign imagery for high-fashion brands and magazines.","url":"https://en.wikipedia.org/wiki/Mario_Sorrenti","src":"Wikipedia"},
+{"name":"Mario Testino","style":"Glamorous fashion photography","desc":"Peruvian fashion and portrait photographer known for glossy, glamorous, energetic editorials and celebrity portraits for Vogue and major luxury brands.","url":"https://en.wikipedia.org/wiki/Mario_Testino","src":"Wikipedia"},
+{"name":"Martin Munkácsi","style":"Dynamic fashion / action","desc":"Hungarian photographer who revolutionized fashion photography by taking models outdoors in motion, pioneering a spontaneous, action-driven style.","url":"https://en.wikipedia.org/wiki/Martin_Munk%C3%A1csi","src":"Wikipedia"},
+{"name":"Martin Parr","style":"Satirical documentary color","desc":"British Magnum photographer known for saturated, flash-lit, wryly satirical color documentary studies of leisure, consumerism, and class.","url":"https://www.magnumphotos.com/photographer/martin-parr/","src":"Magnum"},
+{"name":"Mary Ellen Mark","style":"Documentary / social portraiture","desc":"American documentary photographer known for compassionate black-and-white portraits of marginalized people, including runaways, circus performers, and psychiatric patients.","url":"https://en.wikipedia.org/wiki/Mary_Ellen_Mark","src":"Wikipedia"},
+{"name":"Masaji Ueda","style":"Nostalgic black-and-white","desc":"Japanese-style black-and-white photography of tranquil, nostalgic everyday scenes — beaches, children, kimonos, and rural streets evoking solitude and timelessness.","url":"","src":""},
+{"name":"Masashi Wakui","style":"Tokyo neon cityscapes","desc":"Tokyo-based photographer known for vivid, cinematic night cityscapes saturated with neon glow, rain-slicked streets, and a moody urban atmosphere.","url":"https://www.instagram.com/wakui8888/","src":"Instagram"},
+{"name":"Matt Black","style":"Documentary social","desc":"Magnum photographer documenting poverty, migration, and rural hardship across America with stark, high-contrast black-and-white imagery.","url":"https://www.magnumphotos.com/photographer/matt-black/","src":"Magnum"},
+{"name":"Maxim Maximov","style":"Moody intimate portraiture","desc":"Moscow-based portrait photographer specializing in moody, low-key female portraits with soft lighting, dark backgrounds, and a mysterious, elegant atmosphere.","url":"https://35photo.pro/mmaksimov/","src":"Portfolio"},
+{"name":"Michael Christopher Brown","style":"Conflict photojournalism","desc":"Documentary photographer known for conflict and reportage work (notably Libya and Congo), often shot with raw, immediate, sometimes phone-camera aesthetics.","url":"https://www.michaelchristopherbrown.com/","src":"Portfolio"},
+{"name":"Michael Kenna","style":"Minimalist long-exposure B&W","desc":"English landscape photographer famous for serene, minimalist black-and-white long exposures of misty seascapes, lone trees, and snow-covered scenes.","url":"https://www.michaelkenna.com/","src":"Portfolio"},
+{"name":"Michelle De Rose","style":"Dreamy ethereal portraiture","desc":"Fine-art portraiture in soft, dreamy color palettes with women among flowers, forests, and sheer fabrics, creating romantic, mysterious, painterly atmospheres.","url":"","src":""},
+{"name":"Mikael Jansson","style":"Editorial fashion","desc":"Swedish fashion photographer known for elegant, cinematic editorial and portrait work for titles like Vogue and clients including major luxury fashion houses.","url":"https://www.instagram.com/mikaeljansson/","src":"Instagram"},
+{"name":"Mika Ninagawa","style":"Hypersaturated pop","desc":"Japanese photographer and director known for hyper-saturated, kaleidoscopic color, flowers, goldfish, and dreamlike pop aesthetics.","url":"https://ninagawamika.com/","src":"Portfolio"},
+{"name":"Mitch Epstein","style":"American color documentary","desc":"American photographer noted for large-format color work exploring American landscapes, energy, and culture, as in his 'American Power' series.","url":"https://en.wikipedia.org/wiki/Mitch_Epstein","src":"Wikipedia"},
+{"name":"Mostapha Merab Samii","style":"Classical still life","desc":"Iranian-Dutch photographer dubbed a 'Master of Light,' creating chiaroscuro still lifes of books, lamps, fruit, and vessels inspired by the Dutch Old Masters.","url":"https://500px.com/p/mosmerabsamii","src":"Portfolio"},
+{"name":"Myriam Boulos","style":"Intimate flash documentary","desc":"Lebanese Magnum photographer documenting Beirut's youth, protest, and intimacy with raw, vivid flash-lit imagery.","url":"https://www.magnumphotos.com/photographer/myriam-boulos/","src":"Magnum"},
+{"name":"Nan Goldin","style":"Intimate documentary","desc":"American photographer renowned for snapshot-style, deeply personal chronicles of love, sexuality, addiction, and her chosen family, as in 'The Ballad of Sexual Dependency.'","url":"https://en.wikipedia.org/wiki/Nan_Goldin","src":"Wikipedia"},
+{"name":"Newsha Tavakolian","style":"Documentary portraiture","desc":"Iranian Magnum photographer documenting the lives of women and everyday Iranians through powerful portrait and reportage work.","url":"https://www.magnumphotos.com/photographer/newsha-tavakolian/","src":"Magnum"},
+{"name":"Olivia Arthur","style":"Documentary photography","desc":"British Magnum photographer exploring identity, gender, and cultural divides between East and West through nuanced, often intimate documentary imagery.","url":"https://www.magnumphotos.com/photographer/olivia-arthur/","src":"Magnum"},
+{"name":"Hiroji Ozuko","style":"B&W Japanese street / town","desc":"Nostalgic black-and-white photography of Japanese rural towns, streets, harbors and everyday life, evoking quiet, melancholic atmosphere and the passage of time.","url":"","src":""},
+{"name":"Paolo Roversi","style":"Fashion / portrait","desc":"Italian fashion photographer known for ethereal, painterly portraits shot with large-format Polaroid, soft diffused light, and a dreamy, romantic atmosphere.","url":"https://en.wikipedia.org/wiki/Paolo_Roversi","src":"Wikipedia"},
+{"name":"Paul Apal'kin","style":"Fine-art portrait","desc":"Ukrainian fine-art portrait photographer whose soft light, muted tones and painterly mood create calm, mysterious, almost classical-painting images of women.","url":"https://121clicks.com/inspirations/paul-apalkin-soulful-fine-art-portraits/","src":"Feature"},
+{"name":"Paul Outerbridge","style":"Color / still life","desc":"American pioneer of color photography known for precise tri-color carbro still lifes, commercial work and provocative nude studies with meticulous geometric composition.","url":"https://en.wikipedia.org/wiki/Paul_Outerbridge","src":"Wikipedia"},
+{"name":"Paul Strand","style":"Modernist / documentary","desc":"American modernist who helped establish straight photography, making sharply detailed portraits, abstractions and documentary studies of people, machines and landscapes.","url":"https://en.wikipedia.org/wiki/Paul_Strand","src":"Wikipedia"},
+{"name":"Peter Keetman","style":"Abstract / industrial","desc":"German photographer of the subjektive fotografie movement known for abstract, geometric studies of light, water drops, and industrial forms such as Volkswagen factory imagery.","url":"https://en.wikipedia.org/wiki/Peter_Keetman","src":"Wikipedia"},
+{"name":"Peter Lindbergh","style":"Fashion / portrait","desc":"German fashion photographer famed for cinematic, grainy black-and-white portraits of supermodels with a natural, unretouched, storytelling aesthetic.","url":"https://en.wikipedia.org/wiki/Peter_Lindbergh","src":"Wikipedia"},
+{"name":"Peter Marlow","style":"Documentary / Magnum","desc":"British Magnum photographer known for understated color and black-and-white documentary work, including a quiet series on England's cathedrals.","url":"https://www.magnumphotos.com/photographer/peter-marlow/","src":"Magnum"},
+{"name":"Peter van Agtmael","style":"Conflict / documentary","desc":"American Magnum photographer documenting the wars in Iraq and Afghanistan and their aftermath in America, with raw, intimate, narrative reportage.","url":"https://www.magnumphotos.com/photographer/peter-van-agtmael/","src":"Magnum"},
+{"name":"Philippe Halsman","style":"Portrait / surreal","desc":"Latvian-American portraitist known for inventive celebrity portraits, Life magazine covers, surreal collaborations with Salvador Dali, and his 'jumpology' portraits.","url":"https://en.wikipedia.org/wiki/Philippe_Halsman","src":"Wikipedia"},
+{"name":"Philip Jones Griffiths","style":"Conflict / documentary","desc":"Welsh Magnum photojournalist best known for 'Vietnam Inc.', a searing photographic indictment of the Vietnam War and its human cost.","url":"https://www.magnumphotos.com/photographer/philip-jones-griffiths/","src":"Magnum"},
+{"name":"Arno Rafael Minkkinen","style":"B&W self-portrait / nude","desc":"Finnish-American photographer known for black-and-white self-portraits integrating his own nude body into landscapes, made without manipulation or digital trickery.","url":"https://en.wikipedia.org/wiki/Arno_Rafael_Minkkinen","src":"Wikipedia"},
+{"name":"Rafal Milach","style":"Documentary / conceptual","desc":"Polish Magnum photographer using conceptual documentary and archival approaches to explore post-Soviet states, propaganda, power and protest.","url":"https://www.magnumphotos.com/photographer/rafal-milach/","src":"Magnum"}
+];
+
+const grid = document.getElementById('grid');
+const q = document.getElementById('q');
+const shown = document.getElementById('shown');
+const empty = document.getElementById('empty');
+
+function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+function hl(s,term){
+  if(!term) return esc(s);
+  const re = new RegExp('('+term.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','ig');
+  return esc(s).replace(re,'<mark>$1</mark>');
+}
+const linkIcon = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14L21 3"/></svg>';
+
+function render(term){
+  const t = term.trim().toLowerCase();
+  let n = 0;
+  grid.innerHTML = DATA.map(d=>{
+    const hay = (d.name+' '+d.style+' '+d.desc).toLowerCase();
+    if(t && !hay.includes(t)) return '';
+    n++;
+    const foot = d.url
+      ? `<a class="link" href="${d.url}" target="_blank" rel="noopener">${linkIcon} View work</a><span class="src">${esc(d.src)}</span>`
+      : `<span class="nolink">No link &mdash; style inferred from prompts</span>`;
+    return `<article class="card">
+      <h2 class="name">${hl(d.name,t)}</h2>
+      <span class="chip">${hl(d.style,t)}</span>
+      <p class="desc">${hl(d.desc,t)}</p>
+      <div class="foot">${foot}</div>
+    </article>`;
+  }).join('');
+  shown.textContent = n;
+  empty.style.display = n ? 'none' : 'block';
+}
+q.addEventListener('input', e=>render(e.target.value));
+render('');
+</script>
+</body>
+</html>
