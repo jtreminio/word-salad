@@ -7,3 +7,15 @@ borderless panels
 comic
 manga
 silent comic
+6koma
+instructional comic
+double-page comic spread
+full-page comic panel
+graphic novel page
+motion comic still
+newspaper comic strip
+single-panel cartoon
+splash page
+storyboard page
+vertical-scroll webcomic
+webtoon

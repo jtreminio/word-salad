@@ -5,3 +5,15 @@ limited palette
 multiple monochrome
 partially colored
 spot color
+analogous color palette
+color inversion
+complementary color scheme
+cool color palette
+duotone
+false color
+grayscale
+monochrome
+pastel color palette
+split-complementary palette
+triadic color scheme
+warm color palette

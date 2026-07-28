@@ -1,3 +1,15 @@
 rotated
 sideways
 upside-down
+diamond orientation
+horizontal mirror
+horizontal strip orientation
+landscape orientation
+oblique plane orientation
+panoramic horizontal orientation
+portrait orientation
+radial orientation
+skewed orientation
+square orientation
+vertical mirror
+vertical-scroll orientation

@@ -10,3 +10,15 @@ Unreal Render, a real-time Unreal Engine render aesthetic with dynamic lighting,
 Low-poly, a low-poly 3D render of tree, with faceted geometry, simplified shading and crisp silhouette readability
 High-poly Sculpt, a high-poly sculpt render with dense surface detail, micro-normal detail and sculptural material definition
 Voxel Art, a voxel-art render with cubic building blocks, grid-locked geometry and retro digital texture
+Clay Render, a clay-style 3D render with matte monochrome materials, soft studio shadows and clearly readable sculpted forms
+Hard-Surface Kitbash, a kitbashed hard-surface render with modular mechanical parts, layered paneling and industrial material detail
+Isometric Diorama, an isometric 3D diorama with miniature staging, orthographic depth and carefully arranged environmental storytelling
+Miniature Model Render, a scale-model 3D scene with handcrafted surfaces, shallow focus and convincing tabletop construction
+Non-Photoreal Toon Render, a stylized 3D render with graphic contour lines, stepped shading and illustration-like color separation
+Paper-Craft 3D, a paper-crafted 3D render with folded geometry, visible cut edges and softly layered cardstock shadows
+Photoreal CGI, a physically based 3D render with calibrated materials, natural global illumination and camera-real depth of field
+Point-Cloud Render, a point-cloud visualization with millions of luminous samples, translucent spatial density and scanned geometric form
+Procedural Fractal Render, a procedurally generated 3D render with recursive geometry, mathematical repetition and intricate surface complexity
+Subsurface Wax Render, a translucent wax-like 3D render with soft subsurface scattering, rounded highlights and warm internal glow
+Wireframe Render, a wireframe 3D visualization with exposed polygon topology, clean edge networks and transparent structural readability
+Signed-Distance-Field Render, a smooth SDF-based 3D render with blended primitive forms, seamless transitions and precise procedural contours

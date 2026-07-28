@@ -4,3 +4,15 @@ cropped shoulders
 cropped torso
 cut-in
 head out of frame
+action cut-in
+circular inset cut-in
+detail cut-in
+diagonal cut-in
+eye cut-in
+face cut-in
+hand cut-in
+mouth cut-in
+reaction cut-in
+silhouette cut-in
+split-screen cut-in
+weapon cut-in

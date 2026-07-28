@@ -12,3 +12,15 @@ rotational symmetry
 symmetry
 trim marks
 zoom layer
+asymmetrical balance
+central composition
+diagonal composition
+frame-within-a-frame composition
+golden ratio composition
+layered depth composition
+leading lines
+radial composition
+rule of thirds
+s-curve composition
+spiral composition
+triangular composition

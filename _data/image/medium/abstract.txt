@@ -3,3 +3,15 @@ Gestural, a gestural abstract art with energetic brush sweeps, layered mark-maki
 Surreal, a surreal abstract art with dreamlike forms, unexpected juxtapositions and ambiguous depth cues
 Acrylic pour, an acrylic-pour abstract art with organic texture with lacing, cells and high-gloss finishes
 Fluid / Pour Painting, a fluid-pour painting abstract art with organic flows, marbled cells and glossy surface sheen
+Action Painting, an action-painting abstraction with thrown pigment, forceful splashes and physical evidence of rapid movement
+Biomorphic Abstraction, a biomorphic abstract artwork with rounded organic forms, cellular shapes and flowing natural contours
+Collage Abstraction, an abstract collage with torn paper planes, layered found textures and abrupt material juxtapositions
+Color Field, a color-field abstraction with expansive flat hues, softly shifting boundaries and contemplative visual scale
+Constructivist Abstraction, a constructivist abstract composition with engineered geometry, diagonal tension and bold utilitarian graphics
+Fractal Abstraction, a fractal abstract artwork with recursive motifs, self-similar structures and mathematically intricate detail
+Generative Abstraction, a generative abstract artwork with rule-based forms, controlled randomness and algorithmic visual rhythm
+Hard-Edge Abstraction, a hard-edge abstract painting with sharply separated color zones, flat surfaces and precise contours
+Lyrical Abstraction, a lyrical abstract painting with spontaneous marks, atmospheric color veils and fluid emotional movement
+Monochrome Abstraction, a monochrome abstract artwork exploring one hue through subtle tonal shifts, surface variation and restrained form
+Optical Abstraction, an optical abstract composition with vibrating patterns, high-contrast repetition and perceptual movement
+Suprematist Abstraction, a suprematist composition with floating geometric shapes, sparse spatial relationships and a reduced color vocabulary

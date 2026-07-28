@@ -21,3 +21,15 @@ Tempera, a tempera-style artwork of a woman, with fine layering, matte pigment c
 Encaustic Wax, an encaustic wax painting of a woman, with waxy surface texture, layered translucency and tactile heat-sculpted marks
 Woodcut, a woodcut artwork of a woman, with bold carved lines, high contrast and tactile ink edges
 Linocut, a linocut artwork of a woman, with simplified shapes, crisp relief edges and flat ink fields
+Silverpoint, a silverpoint drawing of a woman, with delicate metallic lines, subtle tonal buildup and prepared-paper texture
+Drypoint, a drypoint print of a woman, with velvety burr lines, scratched plate marks and softly feathered ink edges
+Mezzotint, a mezzotint print of a woman, with deep tonal blacks, burnished highlights and continuous velvety gradation
+Aquatint, an aquatint print of a woman, with granular tonal fields, bitten plate textures and layered atmospheric values
+Monotype, a monotype print of a woman, with singular painterly impressions, transferred brush marks and softly unpredictable edges
+Screenprint, a screenprinted artwork of a woman, with flat opaque ink layers, crisp stencil boundaries and bold spot-color registration
+Collagraph, a collagraph print of a woman, with embossed plate textures, irregular material impressions and richly inked relief
+Scratchboard, a scratchboard illustration of a woman, with bright carved lines emerging from dense black and precise crosshatched detail
+Gongbi Painting, a gongbi-style painting of a woman, with meticulously controlled outlines, layered mineral color and refined decorative detail
+Batik, a batik textile artwork of a woman, with wax-resist contours, crackled dye textures and layered fabric color
+Stained Glass, a stained-glass artwork of a woman, with leaded contours, jewel-toned translucent panes and luminous transmitted color
+Marquetry, a marquetry artwork of a woman, with fitted wood veneers, natural grain variation and precisely cut tonal shapes

@@ -1,3 +1,15 @@
 cropped
 head out of frame
 out-of-frame censoring
+ankles out of frame
+cropped above the eyebrows
+cropped at the chest
+cropped at the elbows
+cropped at the knees
+cropped at the waist
+cropped below the chin
+feet out of frame
+hands out of frame
+off-center crop
+partial face crop
+torso cut off by frame

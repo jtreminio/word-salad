@@ -3,3 +3,15 @@ color halftone
 magazine scan
 poster \(medium\)
 scanlines
+archival document scan
+blueprint scan
+book page scan
+comic page scan
+contact sheet scan
+film negative scan
+flatbed scan
+folded page scan
+microfilm scan
+newspaper scan
+photocopy
+risograph scan

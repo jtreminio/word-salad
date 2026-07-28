@@ -3,3 +3,15 @@ fading border
 outside border
 rounded corners
 viewfinder
+comic panel frame
+decorative corner frame
+deckled paper edge
+filmstrip border
+ornamental frame
+Polaroid-style frame
+postage stamp border
+scalloped border
+solid mat border
+torn paper border
+vignette border
+wide cinematic letterbox bars

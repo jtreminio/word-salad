@@ -21,3 +21,15 @@ thigh focus
 vehicle focus
 weapon focus
 #wind chime focus
+architecture focus
+clothing focus
+face focus
+hair focus
+jewelry focus
+landscape focus
+machine focus
+monster focus
+object focus
+plant focus
+shoe focus
+sky focus

@@ -22,3 +22,15 @@ poster \(medium\)
 #shitajiki
 #tegaki
 triptych \(art\)
+accordion book
+banner
+contact sheet
+diptych \(art\)
+foldout illustration
+icon
+infographic
+panorama
+playing card
+sticker sheet
+storyboard
+tarot card

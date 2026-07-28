@@ -17,3 +17,15 @@ surreal
 traditional media
 ukiyo-e
 unfinished
+art brut
+baroque
+bauhaus
+constructivism
+cubism
+expressionism
+fauvism
+futurism
+gothic art
+pop art
+precisionism
+romanticism

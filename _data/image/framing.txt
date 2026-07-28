@@ -6,3 +6,15 @@ full body
 lower body
 portrait
 upper body
+extreme close-up
+extreme wide shot
+head-and-shoulders shot
+knee-up shot
+medium close-up
+medium full shot
+medium shot
+over-the-shoulder shot
+three-quarter body
+two-shot
+waist-up shot
+wide shot

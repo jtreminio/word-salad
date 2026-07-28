@@ -5,3 +5,15 @@ fake cover
 magazine cover
 manga cover
 video game cover
+hardcover dust jacket
+brochure cover
+comic book cover
+DVD cover
+light novel cover
+newspaper front page
+podcast cover
+single cover
+soundtrack cover
+streaming series cover
+trade paperback cover
+zine cover

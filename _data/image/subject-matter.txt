@@ -8,3 +8,15 @@ no humans
 profile
 scenery
 #still life
+architecture
+botanical study
+crowd scene
+domestic interior
+industrial scene
+marine life
+night scene
+object study
+rural scene
+space scene
+sports scene
+wildlife

@@ -17,3 +17,15 @@ text in eyes
 #text-only page
 #textless version
 wall of text
+caption box
+dialogue balloon
+handwritten annotation
+holographic text
+illuminated lettering
+inscription
+label text
+neon sign text
+subtitle text
+title card
+typographic poster
+watermark

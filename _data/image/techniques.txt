@@ -26,3 +26,15 @@ silhouette
 speed lines
 stereogram
 vignetting
+ambient occlusion
+anamorphic distortion
+atmospheric perspective
+crosshatching
+focus stacking
+forced perspective
+glitch art
+impasto
+light painting
+parallax
+solarization
+tone mapping

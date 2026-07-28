@@ -5,3 +5,15 @@ from behind
 from below
 from the side
 vanishing point
+aerial oblique view
+bird's-eye view
+eye-level angle
+ground-level angle
+high-angle shot
+low-angle shot
+over-the-shoulder angle
+rear three-quarter view
+top-down view
+first-person viewpoint
+worm's-eye view
+zero-point perspective
