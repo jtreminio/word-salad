@@ -16,3 +16,15 @@ solid circle pupils
 star-shaped pupils
 symbol-shaped pupils
 x-shaped pupils
+crescent-shaped pupils
+keyhole pupils
+square pupils
+triangular pupils
+hexagonal pupils
+ring-shaped pupils
+teardrop-shaped pupils
+lightning-bolt pupils
+cathedral-window pupils
+hourglass pupils
+clover-shaped pupils
+vertical bar pupils

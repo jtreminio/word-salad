@@ -1,1 +1,13 @@
 crazy, <wcrandom[1-3,]:<wc:body/face/crazy/data>||<wc:body/face/crazy/eyes>||<wc:body/face/crazy/mouth>>
+laughing in the middle of chaos, <wc:body/face/crazy/data>, <wc:body/face/crazy/mouth>
+following movement nobody else sees, <wc:body/face/crazy/eyes>, <wc:body/face/crazy/symbols>
+speaking in breathless fragments, <wc:body/face/crazy/mouth>, <wc:body/face/crazy/emote>
+dancing through imminent danger, <wc:body/face/crazy/data>, <wc:body/face/crazy/symbols>
+grinning at an impossible idea, <wc:body/face/crazy/eyes>, <wc:body/face/crazy/mouth>
+scribbling a frantic revelation, <wc:body/face/crazy/data>, <wc:body/face/crazy/emote>
+switching moods without warning, <wc:body/face/crazy/eyes>, <wc:body/face/crazy/symbols>
+taunting an approaching threat, <wc:body/face/crazy/mouth>, <wc:body/face/crazy/emote>
+staring into empty space, <wc:body/face/crazy/data>, <wc:body/face/crazy/eyes>
+celebrating a disastrous outcome, <wc:body/face/crazy/mouth>, <wc:body/face/crazy/symbols>
+shaking with manic energy, <wc:body/face/crazy/data>, <wc:body/face/crazy/eyes>
+reality visibly coming apart, <wc:body/face/crazy/data>, <wc:body/face/crazy/eyes>, <wc:body/face/crazy/mouth>, <wc:body/face/crazy/symbols>

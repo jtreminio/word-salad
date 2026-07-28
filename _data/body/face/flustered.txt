@@ -1,1 +1,13 @@
 flustered, <wcrandom[1-3,]:<wc:body/face/flustered/data>||<wc:body/face/flustered/eyes>||<wc:body/face/flustered/mouth>>
+speechless when a crush leans close, <wc:body/face/flustered/data>, <wc:body/face/flustered/eyes>
+called on without any warning, <wc:body/face/flustered/eyes>, <wc:body/face/flustered/mouth>
+losing their rehearsed introduction, <wc:body/face/flustered/data>, <wc:body/face/flustered/mouth>
+startled by an unexpectedly bold compliment, <wc:body/face/flustered/eyes>, <wc:body/face/flustered/symbols>
+caught in a harmless little lie, <wc:body/face/flustered/data>, <wc:body/face/flustered/mouth>
+trying to answer several questions at once, <wc:body/face/flustered/data>, <wc:body/face/flustered/symbols>
+reacting when their hands brush unexpectedly, <wc:body/face/flustered/eyes>, <wc:body/face/flustered/mouth>
+realizing everyone is waiting for an answer, <wc:body/face/flustered/data>, <wc:body/face/flustered/eyes>, <wc:body/face/flustered/symbols>
+scrambling to respond to open flirtation, <wc:body/face/flustered/data>, <wc:body/face/flustered/mouth>
+searching desperately for the right word, <wc:body/face/flustered/eyes>, <wc:body/face/flustered/mouth>
+noticing their expression has betrayed them, <wc:body/face/flustered/data>, <wc:body/face/flustered/eyes>
+rushing through an increasingly tangled explanation, <wc:body/face/flustered/data>, <wc:body/face/flustered/eyes>, <wc:body/face/flustered/mouth>, <wc:body/face/flustered/symbols>

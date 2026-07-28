@@ -5,3 +5,15 @@ nervous
 surprised
 unsure
 worried
+checking directions twice
+hearing contradictory answers
+losing train of thought
+misreading a situation
+pausing mid-calculation
+searching for missing context
+trying to remember a name
+turning an object around
+uncertain which way to go
+encountering unfamiliar controls
+comparing mismatched clues
+waiting for clarification

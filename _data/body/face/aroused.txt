@@ -1,1 +1,13 @@
 aroused, <wcrandom[1-3,]:<wc:body/face/aroused/data>||<wc:body/face/aroused/eyes>||<wc:body/face/aroused/mouth>>
+drawn into lingering eye contact, <wc:body/face/aroused/eyes>, <wc:body/face/aroused/mouth>
+flushed by an intimate whisper, <wc:body/face/aroused/data>, <wc:body/face/aroused/symbols>
+leaning closer in anticipation, <wc:body/face/aroused/data>, <wc:body/face/aroused/mouth>
+reacting to a teasing touch, <wc:body/face/aroused/eyes>, <wc:body/face/aroused/emote>
+breath catching at sudden closeness, <wc:body/face/aroused/data>, <wc:body/face/aroused/mouth>
+sharing a charged silence, <wc:body/face/aroused/eyes>, <wc:body/face/aroused/symbols>
+trying to hide a racing pulse, <wc:body/face/aroused/data>, <wc:body/face/aroused/emote>
+inviting a kiss without speaking, <wc:body/face/aroused/eyes>, <wc:body/face/aroused/mouth>
+savoring a flirtatious compliment, <wc:body/face/aroused/emote>, <wc:body/face/aroused/symbols>
+startled by mutual attraction, <wc:body/face/aroused/data>, <wc:body/face/aroused/eyes>
+overwhelmed by romantic tension, <wc:body/face/aroused/mouth>, <wc:body/face/aroused/symbols>
+giving in to desire, <wc:body/face/aroused/data>, <wc:body/face/aroused/eyes>, <wc:body/face/aroused/mouth>, <wc:body/face/aroused/symbols>

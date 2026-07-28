@@ -1,1 +1,13 @@
 nervous, <wcrandom[1-3,]:<wc:body/face/nervous/data>||<wc:body/face/nervous/eyes>||<wc:body/face/nervous/mouth>>
+waiting to be called into an interview, <wc:body/face/nervous/data>, <wc:body/face/nervous/eyes>
+hovering outside a door before knocking, <wc:body/face/nervous/eyes>, <wc:body/face/nervous/symbols>
+gathering courage to confess something important, <wc:body/face/nervous/data>, <wc:body/face/nervous/mouth>
+stepping onto a stage before a silent audience, <wc:body/face/nervous/eyes>, <wc:body/face/nervous/symbols>
+hearing footsteps follow in the dark, <wc:body/face/nervous/data>, <wc:body/face/nervous/eyes>
+choosing an answer on a decisive test, <wc:body/face/nervous/mouth>, <wc:body/face/nervous/symbols>
+concealing a fragile surprise from discovery, <wc:body/face/nervous/data>, <wc:body/face/nervous/eyes>
+waiting for consequential medical results, <wc:body/face/nervous/data>, <wc:body/face/nervous/mouth>
+entering a room full of unfamiliar people, <wc:body/face/nervous/eyes>, <wc:body/face/nervous/symbols>
+maintaining a lie under careful questioning, <wc:body/face/nervous/data>, <wc:body/face/nervous/mouth>
+watching the final seconds of a countdown, <wc:body/face/nervous/eyes>, <wc:body/face/nervous/symbols>
+trying to appear calm before a risky decision, <wc:body/face/nervous/data>, <wc:body/face/nervous/eyes>, <wc:body/face/nervous/mouth>, <wc:body/face/nervous/symbols>

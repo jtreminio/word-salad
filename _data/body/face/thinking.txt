@@ -1,1 +1,13 @@
 thinking, <wcrandom[1-3,]:<wc:body/face/thinking/data>||<wc:body/face/thinking/eyes>||<wc:body/face/thinking/mouth>>
+deep in thought, <wcrandom[2-4,]:<wc:body/face/thinking/data>||<wc:body/face/thinking/eyes>||<wc:body/face/thinking/mouth>||<wc:body/face/thinking/symbols>>
+pondering, <wcrandom[1-3,]:<wc:body/face/thinking/data>||<wc:body/face/thinking/eyes>||<wc:body/face/thinking/mouth>>
+working through a puzzle, <wcrandom[1-3,]:<wc:body/face/thinking/eyes>||<wc:body/face/thinking/mouth>||<wc:body/face/thinking/symbols>>
+remembering something, <wcrandom[2-4,]:<wc:body/face/thinking/data>||<wc:body/face/thinking/eyes>||<wc:body/face/thinking/mouth>||<wc:body/face/thinking/symbols>>
+weighing options, <wcrandom[1-3,]:<wc:body/face/thinking/data>||<wc:body/face/thinking/eyes>||<wc:body/face/thinking/mouth>>
+lost in contemplation, <wcrandom[1-3,]:<wc:body/face/thinking/eyes>||<wc:body/face/thinking/mouth>||<wc:body/face/thinking/symbols>>
+analyzing carefully, <wcrandom[2-4,]:<wc:body/face/thinking/data>||<wc:body/face/thinking/eyes>||<wc:body/face/thinking/mouth>||<wc:body/face/thinking/symbols>>
+forming an idea, <wcrandom[1-3,]:<wc:body/face/thinking/data>||<wc:body/face/thinking/eyes>||<wc:body/face/thinking/mouth>>
+mentally calculating, <wcrandom[1-3,]:<wc:body/face/thinking/eyes>||<wc:body/face/thinking/mouth>||<wc:body/face/thinking/symbols>>
+questioning a conclusion, <wcrandom[2-4,]:<wc:body/face/thinking/data>||<wc:body/face/thinking/eyes>||<wc:body/face/thinking/mouth>||<wc:body/face/thinking/symbols>>
+searching for an answer, <wcrandom[1-3,]:<wc:body/face/thinking/data>||<wc:body/face/thinking/eyes>||<wc:body/face/thinking/mouth>>
+considering a plan, <wcrandom[1-3,]:<wc:body/face/thinking/eyes>||<wc:body/face/thinking/mouth>||<wc:body/face/thinking/symbols>>

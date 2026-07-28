@@ -1,1 +1,13 @@
 sexy, <wcrandom[1-3,]:<wc:body/face/sexy/data>||<wc:body/face/sexy/eyes>||<wc:body/face/sexy/mouth>>
+catching an admirer's eye across the room, <wc:body/face/sexy/data>, <wc:body/face/sexy/eyes>
+moving close during a slow dance, <wc:body/face/sexy/eyes>, <wc:body/face/sexy/mouth>
+sharing a playful secret at intimate distance, <wc:body/face/sexy/data>, <wc:body/face/sexy/mouth>
+entering with effortless flirtatious confidence, <wc:body/face/sexy/data>, <wc:body/face/sexy/symbols>
+holding a smoldering gaze without looking away, <wc:body/face/sexy/eyes>, <wc:body/face/sexy/symbols>
+leaning in to whisper an invitation, <wc:body/face/sexy/data>, <wc:body/face/sexy/mouth>
+answering a teasing challenge with a knowing look, <wc:body/face/sexy/eyes>, <wc:body/face/sexy/mouth>
+posing with deliberate self-assurance, <wc:body/face/sexy/data>, <wc:body/face/sexy/symbols>
+biting their lip before making the first move, <wc:body/face/sexy/mouth>, <wc:body/face/sexy/symbols>
+letting charged silence linger between them, <wc:body/face/sexy/data>, <wc:body/face/sexy/eyes>
+offering a slow wink after a bold compliment, <wc:body/face/sexy/eyes>, <wc:body/face/sexy/mouth>
+closing the distance with unmistakable intent, <wc:body/face/sexy/data>, <wc:body/face/sexy/eyes>, <wc:body/face/sexy/mouth>, <wc:body/face/sexy/symbols>

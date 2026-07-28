@@ -1,1 +1,13 @@
 exhausted, <wcrandom[1-3,]:<wc:body/face/exhausted/data>||<wc:body/face/exhausted/eyes>||<wc:body/face/exhausted/mouth>>
+dragging through the end of a double shift, <wc:body/face/exhausted/data>, <wc:body/face/exhausted/eyes>
+nodding off in the middle of a conversation, <wc:body/face/exhausted/eyes>, <wc:body/face/exhausted/mouth>
+waking before dawn after a sleepless night, <wc:body/face/exhausted/data>, <wc:body/face/exhausted/eyes>
+leaning heavily against the nearest doorway, <wc:body/face/exhausted/data>, <wc:body/face/exhausted/symbols>
+stifling an enormous yawn, <wc:body/face/exhausted/mouth>, <wc:body/face/exhausted/symbols>
+struggling to focus on a simple task, <wc:body/face/exhausted/data>, <wc:body/face/exhausted/eyes>
+spent after a prolonged fight, <wc:body/face/exhausted/data>, <wc:body/face/exhausted/mouth>
+crossing the finish line with nothing left, <wc:body/face/exhausted/eyes>, <wc:body/face/exhausted/symbols>
+too tired to remain standing, <wc:body/face/exhausted/data>, <wc:body/face/exhausted/eyes>, <wc:body/face/exhausted/symbols>
+answering with a barely audible mumble, <wc:body/face/exhausted/data>, <wc:body/face/exhausted/mouth>
+rubbing aching temples after hours of concentration, <wc:body/face/exhausted/eyes>, <wc:body/face/exhausted/mouth>
+collapsing gratefully into a chair, <wc:body/face/exhausted/data>, <wc:body/face/exhausted/eyes>, <wc:body/face/exhausted/mouth>, <wc:body/face/exhausted/symbols>

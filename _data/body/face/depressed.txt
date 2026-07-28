@@ -1,1 +1,13 @@
 depressed, <wcrandom[1-3,]:<wc:body/face/depressed/data>||<wc:body/face/depressed/eyes>||<wc:body/face/depressed/mouth>>
+sitting alone after everyone leaves, <wc:body/face/depressed/data>, <wc:body/face/depressed/eyes>
+unable to answer waiting messages, <wc:body/face/depressed/mouth>, <wc:body/face/depressed/symbols>
+watching rain through a dark window, <wc:body/face/depressed/eyes>, <wc:body/face/depressed/emote>
+moving through a joyless routine, <wc:body/face/depressed/data>, <wc:body/face/depressed/mouth>
+holding back tears in public, <wc:body/face/depressed/eyes>, <wc:body/face/depressed/symbols>
+waking after another sleepless night, <wc:body/face/depressed/data>, <wc:body/face/depressed/emote>
+withdrawing from a lively gathering, <wc:body/face/depressed/eyes>, <wc:body/face/depressed/mouth>
+staring at an untouched meal, <wc:body/face/depressed/data>, <wc:body/face/depressed/symbols>
+trying and failing to smile, <wc:body/face/depressed/mouth>, <wc:body/face/depressed/emote>
+feeling invisible in a crowd, <wc:body/face/depressed/eyes>, <wc:body/face/depressed/symbols>
+too emotionally drained to speak, <wc:body/face/depressed/data>, <wc:body/face/depressed/mouth>
+overcome by a long, heavy sadness, <wc:body/face/depressed/data>, <wc:body/face/depressed/eyes>, <wc:body/face/depressed/mouth>, <wc:body/face/depressed/symbols>

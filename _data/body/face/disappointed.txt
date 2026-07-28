@@ -1,1 +1,13 @@
 disappointed, <wcrandom[1-3,]:<wc:body/face/disappointed/data>||<wc:body/face/disappointed/eyes>||<wc:body/face/disappointed/mouth>>
+hearing an unwanted result, <wc:body/face/disappointed/data>, <wc:body/face/disappointed/eyes>
+arriving after an opportunity closes, <wc:body/face/disappointed/mouth>, <wc:body/face/disappointed/symbols>
+discovering a promise was broken, <wc:body/face/disappointed/eyes>, <wc:body/face/disappointed/emote>
+watching a careful plan fall through, <wc:body/face/disappointed/data>, <wc:body/face/disappointed/mouth>
+receiving a polite rejection, <wc:body/face/disappointed/eyes>, <wc:body/face/disappointed/symbols>
+opening an unexpectedly empty package, <wc:body/face/disappointed/data>, <wc:body/face/disappointed/emote>
+waiting for someone who never arrives, <wc:body/face/disappointed/eyes>, <wc:body/face/disappointed/mouth>
+seeing a team lose at the finish, <wc:body/face/disappointed/data>, <wc:body/face/disappointed/symbols>
+trying to congratulate the winner, <wc:body/face/disappointed/mouth>, <wc:body/face/disappointed/emote>
+finding the finished work careless, <wc:body/face/disappointed/eyes>, <wc:body/face/disappointed/symbols>
+accepting that expectations were unmet, <wc:body/face/disappointed/data>, <wc:body/face/disappointed/mouth>
+hope fading after a final setback, <wc:body/face/disappointed/data>, <wc:body/face/disappointed/eyes>, <wc:body/face/disappointed/mouth>, <wc:body/face/disappointed/symbols>

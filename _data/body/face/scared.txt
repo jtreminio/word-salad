@@ -1,1 +1,13 @@
 scared, <wcrandom[1-3,]:<wc:body/face/scared/data>||<wc:body/face/scared/eyes>||<wc:body/face/scared/mouth>>
+hearing a floorboard creak in an empty house, <wc:body/face/scared/data>, <wc:body/face/scared/eyes>
+spotting movement at the edge of the woods, <wc:body/face/scared/eyes>, <wc:body/face/scared/symbols>
+hiding while footsteps draw closer, <wc:body/face/scared/data>, <wc:body/face/scared/mouth>
+reaching into a place too dark to see, <wc:body/face/scared/eyes>, <wc:body/face/scared/symbols>
+freezing before an aggressive animal, <wc:body/face/scared/data>, <wc:body/face/scared/eyes>
+crossing a narrow ledge high above the ground, <wc:body/face/scared/mouth>, <wc:body/face/scared/symbols>
+waking from a nightmare that felt real, <wc:body/face/scared/data>, <wc:body/face/scared/eyes>
+checking behind them on a deserted street, <wc:body/face/scared/eyes>, <wc:body/face/scared/symbols>
+trying to stay silent while danger passes, <wc:body/face/scared/data>, <wc:body/face/scared/mouth>
+bracing as a violent storm closes in, <wc:body/face/scared/eyes>, <wc:body/face/scared/mouth>
+peeking from cover at an unknown threat, <wc:body/face/scared/data>, <wc:body/face/scared/symbols>
+fighting the instinct to run from a looming figure, <wc:body/face/scared/data>, <wc:body/face/scared/eyes>, <wc:body/face/scared/mouth>, <wc:body/face/scared/symbols>

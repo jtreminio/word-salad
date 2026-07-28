@@ -2,3 +2,15 @@ sweatdrop
 #spoken sweatdrop
 shout lines
 notice lines
+jagged tremor lines
+dark shadow behind
+warning mark
+escape arrow
+heartbeat spike
+goosebump ticks
+flashlight cone
+creaking-door icon
+claw-mark silhouette
+startle burst
+cold breath cloud
+looming shape

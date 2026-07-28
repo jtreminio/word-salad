@@ -3,3 +3,15 @@
 <wcrandom:3::<wc:body/eyes/modifier>|7::> rainbow
 <wcrandom:3::<wc:body/eyes/modifier>|7::> red
 <wcrandom:3::<wc:body/eyes/modifier>|7::> yellow
+<wcrandom:3::<wc:body/eyes/modifier>|7::> cyan
+<wcrandom:3::<wc:body/eyes/modifier>|7::> gold
+<wcrandom:3::<wc:body/eyes/modifier>|7::> lime
+<wcrandom:3::<wc:body/eyes/modifier>|7::> magenta
+<wcrandom:3::<wc:body/eyes/modifier>|7::> peach
+<wcrandom:3::<wc:body/eyes/modifier>|7::> scarlet
+<wcrandom:3::<wc:body/eyes/modifier>|7::> ultraviolet
+<wcrandom:3::<wc:body/eyes/modifier>|7::> vermilion
+<wcrandom:3::<wc:body/eyes/modifier>|7::> neon green
+<wcrandom:3::<wc:body/eyes/modifier>|7::> iridescent
+<wcrandom:3::<wc:body/eyes/modifier>|7::> prismatic
+<wcrandom:3::<wc:body/eyes/modifier>|7::> colorless

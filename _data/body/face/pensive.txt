@@ -1,1 +1,13 @@
 pensive, <wcrandom[1-3,]:<wc:body/face/pensive/data>||<wc:body/face/pensive/eyes>||<wc:body/face/pensive/mouth>>
+weighing two equally difficult choices, <wc:body/face/pensive/data>, <wc:body/face/pensive/eyes>
+watching rain while revisiting an old memory, <wc:body/face/pensive/eyes>, <wc:body/face/pensive/symbols>
+pausing before answering a personal question, <wc:body/face/pensive/data>, <wc:body/face/pensive/mouth>
+studying an unsolved clue in silence, <wc:body/face/pensive/eyes>, <wc:body/face/pensive/symbols>
+reconsidering words spoken in anger, <wc:body/face/pensive/data>, <wc:body/face/pensive/mouth>
+imagining where an untaken path might lead, <wc:body/face/pensive/eyes>, <wc:body/face/pensive/symbols>
+turning a new idea over from every angle, <wc:body/face/pensive/data>, <wc:body/face/pensive/eyes>
+composing an important letter in their head, <wc:body/face/pensive/mouth>, <wc:body/face/pensive/symbols>
+questioning a belief once taken for granted, <wc:body/face/pensive/data>, <wc:body/face/pensive/eyes>
+looking back on how much has changed, <wc:body/face/pensive/eyes>, <wc:body/face/pensive/mouth>
+searching for meaning in a small detail, <wc:body/face/pensive/data>, <wc:body/face/pensive/symbols>
+arriving slowly at a difficult conclusion, <wc:body/face/pensive/data>, <wc:body/face/pensive/eyes>, <wc:body/face/pensive/mouth>, <wc:body/face/pensive/symbols>

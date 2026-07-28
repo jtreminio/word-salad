@@ -9,3 +9,15 @@ purple
 red
 white
 yellow
+black
+gold
+silver
+cyan
+magenta
+amber
+violet
+teal
+bronze
+crimson
+lime
+transparent

@@ -1,3 +1,15 @@
 captive bead ring
 linked piercing
 plug \(piercing\)
+barbell \(piercing\)
+curved barbell \(piercing\)
+circular barbell \(piercing\)
+labret stud
+dermal anchor
+surface bar
+seamless ring
+segment ring
+spiral taper
+flesh tunnel
+retainer \(piercing\)
+clicker ring

@@ -100,3 +100,15 @@
 <wcrandom:3::<wc:body/mouth/lipstick-modifier>|7::> wild orchid lipstick
 <wcrandom:3::<wc:body/mouth/lipstick-modifier>|7::> wine lipstick
 <wcrandom:3::<wc:body/mouth/lipstick-modifier>|7::> wineberry lipstick
+<wcrandom:3::<wc:body/mouth/lipstick-modifier>|7::> oxblood lipstick
+<wcrandom:3::<wc:body/mouth/lipstick-modifier>|7::> persimmon lipstick
+<wcrandom:3::<wc:body/mouth/lipstick-modifier>|7::> guava lipstick
+<wcrandom:3::<wc:body/mouth/lipstick-modifier>|7::> cacao lipstick
+<wcrandom:3::<wc:body/mouth/lipstick-modifier>|7::> amethyst lipstick
+<wcrandom:3::<wc:body/mouth/lipstick-modifier>|7::> blue lotus lipstick
+<wcrandom:3::<wc:body/mouth/lipstick-modifier>|7::> olive lipstick
+<wcrandom:3::<wc:body/mouth/lipstick-modifier>|7::> greige lipstick
+<wcrandom:3::<wc:body/mouth/lipstick-modifier>|7::> vermilion lipstick
+<wcrandom:3::<wc:body/mouth/lipstick-modifier>|7::> black cherry lipstick
+<wcrandom:3::<wc:body/mouth/lipstick-modifier>|7::> lilac ash lipstick
+<wcrandom:3::<wc:body/mouth/lipstick-modifier>|7::> bronze orchid lipstick

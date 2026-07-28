@@ -1,1 +1,13 @@
 panicking, <wcrandom[1-3,]:<wc:body/face/panicking/data>||<wc:body/face/panicking/eyes>||<wc:body/face/panicking/mouth>>
+smelling smoke after the alarm erupts, <wc:body/face/panicking/data>, <wc:body/face/panicking/eyes>
+searching a dense crowd for a missing companion, <wc:body/face/panicking/eyes>, <wc:body/face/panicking/symbols>
+finding the only exit suddenly locked, <wc:body/face/panicking/data>, <wc:body/face/panicking/mouth>
+watching a deadline count down to seconds, <wc:body/face/panicking/eyes>, <wc:body/face/panicking/symbols>
+losing control of a speeding vehicle, <wc:body/face/panicking/data>, <wc:body/face/panicking/eyes>, <wc:body/face/panicking/mouth>
+feeling floodwater rise around their legs, <wc:body/face/panicking/data>, <wc:body/face/panicking/symbols>
+frantically hunting for a crucial lost item, <wc:body/face/panicking/eyes>, <wc:body/face/panicking/mouth>
+hearing imminent danger approach unseen, <wc:body/face/panicking/data>, <wc:body/face/panicking/eyes>
+losing communication during an emergency, <wc:body/face/panicking/mouth>, <wc:body/face/panicking/symbols>
+caught in the crush of a surging crowd, <wc:body/face/panicking/data>, <wc:body/face/panicking/symbols>
+failing to wake an unresponsive friend, <wc:body/face/panicking/eyes>, <wc:body/face/panicking/mouth>, <wc:body/face/panicking/symbols>
+overcome by the urge to flee with no escape route, <wc:body/face/panicking/data>, <wc:body/face/panicking/eyes>, <wc:body/face/panicking/mouth>, <wc:body/face/panicking/symbols>

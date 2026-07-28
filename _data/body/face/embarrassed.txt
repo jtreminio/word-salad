@@ -1,1 +1,13 @@
 embarrassed, <wcrandom[1-3,]:<wc:body/face/embarrassed/data>||<wc:body/face/embarrassed/eyes>||<wc:body/face/embarrassed/mouth>>
+caught staring a moment too long, <wc:body/face/embarrassed/data>, <wc:body/face/embarrassed/eyes>
+receiving an unexpectedly sincere compliment, <wc:body/face/embarrassed/data>, <wc:body/face/embarrassed/mouth>
+realizing everyone heard the private remark, <wc:body/face/embarrassed/eyes>, <wc:body/face/embarrassed/symbols>
+stumbling through a public introduction, <wc:body/face/embarrassed/data>, <wc:body/face/embarrassed/mouth>
+trying to hide a deepening blush, <wc:body/face/embarrassed/eyes>, <wc:body/face/embarrassed/symbols>
+meeting their crush without warning, <wc:body/face/embarrassed/data>, <wc:body/face/embarrassed/eyes>, <wc:body/face/embarrassed/mouth>
+apologizing after an awkward mistake, <wc:body/face/embarrassed/data>, <wc:body/face/embarrassed/mouth>
+noticing a wardrobe mishap in public, <wc:body/face/embarrassed/eyes>, <wc:body/face/embarrassed/symbols>
+being affectionately teased by friends, <wc:body/face/embarrassed/data>, <wc:body/face/embarrassed/mouth>, <wc:body/face/embarrassed/symbols>
+remembering something painfully awkward, <wc:body/face/embarrassed/eyes>, <wc:body/face/embarrassed/mouth>
+finding every face suddenly turned toward them, <wc:body/face/embarrassed/data>, <wc:body/face/embarrassed/eyes>, <wc:body/face/embarrassed/symbols>
+attempting to recover their dignity, <wc:body/face/embarrassed/data>, <wc:body/face/embarrassed/eyes>, <wc:body/face/embarrassed/mouth>

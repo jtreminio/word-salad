@@ -26,3 +26,15 @@ symmetrical
 tapered
 wide-set
 youthful
+heart-shaped
+long-faced
+oval
+round
+square-jawed
+diamond-shaped
+high-cheekboned
+broad-featured
+willowy
+regal
+androgynous
+mature

@@ -35,3 +35,15 @@ warm
 washed
 weathered
 wild
+brilliant
+crystalline
+enigmatic
+iridescent
+metallic
+milky
+opaline
+piercing
+reflective
+translucent
+velvety
+vivid

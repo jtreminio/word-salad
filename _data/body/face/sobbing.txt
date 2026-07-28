@@ -1,1 +1,13 @@
 sobbing, <wcrandom[1-3,]:<wc:body/face/sobbing/data>||<wc:body/face/sobbing/eyes>||<wc:body/face/sobbing/mouth>>
+weeping uncontrollably, <wcrandom[2-4,]:<wc:body/face/sobbing/data>||<wc:body/face/sobbing/eyes>||<wc:body/face/sobbing/mouth>||<wc:body/face/sobbing/symbols>>
+choking back sobs, <wcrandom[1-3,]:<wc:body/face/sobbing/data>||<wc:body/face/sobbing/eyes>||<wc:body/face/sobbing/mouth>>
+crying bitterly, <wcrandom[1-3,]:<wc:body/face/sobbing/eyes>||<wc:body/face/sobbing/mouth>||<wc:body/face/sobbing/symbols>>
+overcome with grief, <wcrandom[2-4,]:<wc:body/face/sobbing/data>||<wc:body/face/sobbing/eyes>||<wc:body/face/sobbing/mouth>||<wc:body/face/sobbing/symbols>>
+wailing, <wcrandom[1-3,]:<wc:body/face/sobbing/data>||<wc:body/face/sobbing/eyes>||<wc:body/face/sobbing/mouth>>
+tearfully gasping, <wcrandom[1-3,]:<wc:body/face/sobbing/eyes>||<wc:body/face/sobbing/mouth>||<wc:body/face/sobbing/symbols>>
+heartbroken, <wcrandom[2-4,]:<wc:body/face/sobbing/data>||<wc:body/face/sobbing/eyes>||<wc:body/face/sobbing/mouth>||<wc:body/face/sobbing/symbols>>
+sniffling through tears, <wcrandom[1-3,]:<wc:body/face/sobbing/data>||<wc:body/face/sobbing/eyes>||<wc:body/face/sobbing/mouth>>
+quietly breaking down, <wcrandom[1-3,]:<wc:body/face/sobbing/eyes>||<wc:body/face/sobbing/mouth>||<wc:body/face/sobbing/symbols>>
+crying in despair, <wcrandom[2-4,]:<wc:body/face/sobbing/data>||<wc:body/face/sobbing/eyes>||<wc:body/face/sobbing/mouth>||<wc:body/face/sobbing/symbols>>
+hiccuping sobs, <wcrandom[1-3,]:<wc:body/face/sobbing/data>||<wc:body/face/sobbing/eyes>||<wc:body/face/sobbing/mouth>>
+inconsolable, <wcrandom[1-3,]:<wc:body/face/sobbing/eyes>||<wc:body/face/sobbing/mouth>||<wc:body/face/sobbing/symbols>>

@@ -1,1 +1,13 @@
 despair, <wcrandom[1-3,]:<wc:body/face/despair/data>||<wc:body/face/despair/eyes>||<wc:body/face/despair/mouth>>
+receiving devastating news, <wc:body/face/despair/data>, <wc:body/face/despair/eyes>
+reaching the scene too late, <wc:body/face/despair/mouth>, <wc:body/face/despair/symbols>
+watching the last hope disappear, <wc:body/face/despair/eyes>, <wc:body/face/despair/emote>
+calling out without an answer, <wc:body/face/despair/data>, <wc:body/face/despair/mouth>
+clutching a shattered keepsake, <wc:body/face/despair/eyes>, <wc:body/face/despair/symbols>
+realizing there is no escape, <wc:body/face/despair/data>, <wc:body/face/despair/emote>
+searching ruins for someone missing, <wc:body/face/despair/eyes>, <wc:body/face/despair/mouth>
+facing an irreversible loss, <wc:body/face/despair/data>, <wc:body/face/despair/symbols>
+collapsing under unbearable news, <wc:body/face/despair/mouth>, <wc:body/face/despair/emote>
+pleading for one final chance, <wc:body/face/despair/eyes>, <wc:body/face/despair/symbols>
+unable to deny the outcome, <wc:body/face/despair/data>, <wc:body/face/despair/mouth>
+all remaining hope extinguished, <wc:body/face/despair/data>, <wc:body/face/despair/eyes>, <wc:body/face/despair/mouth>, <wc:body/face/despair/symbols>

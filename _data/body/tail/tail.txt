@@ -32,3 +32,15 @@ stiff tail
 tadpole tail
 tiger tail
 wolf tail
+alligator tail
+beaver tail
+chameleon tail
+peacock tail
+rat tail
+raccoon tail
+shark tail
+stingray tail
+robotic tail
+skeletal tail
+crystal tail
+smoke tail

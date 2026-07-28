@@ -1,1 +1,13 @@
 angry, <wcrandom[1-3,]:<wc:body/face/angry/data>||<wc:body/face/angry/eyes>||<wc:body/face/angry/mouth>>
+coldly furious, <wc:body/face/angry/eyes>, <wc:body/face/angry/mouth>
+restraining an angry outburst, <wc:body/face/angry/data>, <wc:body/face/angry/symbols>
+shouting in outrage, <wc:body/face/angry/mouth>, <wc:body/face/angry/symbols>
+betrayed and enraged, <wc:body/face/angry/data>, <wc:body/face/angry/eyes>
+bristling at an insult, <wc:body/face/angry/eyes>, <wc:body/face/angry/symbols>
+seething in silence, <wc:body/face/angry/mouth>, <wc:body/face/angry/eyes>
+issuing a furious warning, <wc:body/face/angry/data>, <wc:body/face/angry/mouth>
+snapping after prolonged pressure, <wc:body/face/angry/data>, <wc:body/face/angry/emote>
+defending someone with fierce anger, <wc:body/face/angry/eyes>, <wc:body/face/angry/mouth>
+confronting deliberate cruelty, <wc:body/face/angry/data>, <wc:body/face/angry/symbols>
+struggling to stay composed, <wc:body/face/angry/mouth>, <wc:body/face/angry/emote>
+exploding with pent-up rage, <wc:body/face/angry/data>, <wc:body/face/angry/eyes>, <wc:body/face/angry/mouth>, <wc:body/face/angry/symbols>

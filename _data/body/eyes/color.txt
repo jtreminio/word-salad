@@ -78,3 +78,15 @@
 <wcrandom:3::<wc:body/eyes/modifier>|7::> umber
 <wcrandom:3::<wc:body/eyes/modifier>|7::> violet
 <wcrandom:3::<wc:body/eyes/modifier>|7::> wisteria
+<wcrandom:3::<wc:body/eyes/modifier>|7::> amethyst
+<wcrandom:3::<wc:body/eyes/modifier>|7::> celadon
+<wcrandom:3::<wc:body/eyes/modifier>|7::> cobalt
+<wcrandom:3::<wc:body/eyes/modifier>|7::> garnet
+<wcrandom:3::<wc:body/eyes/modifier>|7::> mahogany
+<wcrandom:3::<wc:body/eyes/modifier>|7::> marigold
+<wcrandom:3::<wc:body/eyes/modifier>|7::> sea-glass green
+<wcrandom:3::<wc:body/eyes/modifier>|7::> sepia
+<wcrandom:3::<wc:body/eyes/modifier>|7::> ultramarine
+<wcrandom:3::<wc:body/eyes/modifier>|7::> verdigris
+<wcrandom:3::<wc:body/eyes/modifier>|7::> wine red
+<wcrandom:3::<wc:body/eyes/modifier>|7::> zircon blue

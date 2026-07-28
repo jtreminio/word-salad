@@ -1,1 +1,13 @@
 screaming, <wcrandom[1-3,]:<wc:body/face/screaming/data>||<wc:body/face/screaming/eyes>||<wc:body/face/screaming/mouth>>
+shouting a warning before disaster strikes, <wc:body/face/screaming/data>, <wc:body/face/screaming/eyes>
+crying out from a sudden injury, <wc:body/face/screaming/eyes>, <wc:body/face/screaming/mouth>
+roaring in fury across a confrontation, <wc:body/face/screaming/data>, <wc:body/face/screaming/symbols>
+wailing after an unbearable loss, <wc:body/face/screaming/eyes>, <wc:body/face/screaming/mouth>
+shriek of surprise at an abrupt reveal, <wc:body/face/screaming/data>, <wc:body/face/screaming/symbols>
+yelling in triumph at the decisive moment, <wc:body/face/screaming/mouth>, <wc:body/face/screaming/symbols>
+bellowing orders over deafening noise, <wc:body/face/screaming/data>, <wc:body/face/screaming/mouth>
+calling a distant person's name repeatedly, <wc:body/face/screaming/eyes>, <wc:body/face/screaming/symbols>
+waking with a scream from a nightmare, <wc:body/face/screaming/data>, <wc:body/face/screaming/eyes>
+begging for help from behind a barrier, <wc:body/face/screaming/mouth>, <wc:body/face/screaming/symbols>
+unleashing a defiant battle cry, <wc:body/face/screaming/data>, <wc:body/face/screaming/eyes>, <wc:body/face/screaming/mouth>
+voice breaking during a desperate plea, <wc:body/face/screaming/data>, <wc:body/face/screaming/eyes>, <wc:body/face/screaming/mouth>, <wc:body/face/screaming/symbols>

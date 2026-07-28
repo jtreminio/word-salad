@@ -41,3 +41,15 @@
 <wcrandom:3::<wc:body/face/modifier>|7::> understated jawline that blends into the neck gracefully, <wcrandom:3::<wc:body/face/details>|7::>
 <wcrandom:3::<wc:body/face/modifier>|7::> wide-set cheekbones with a tapered, delicate chin, <wcrandom:3::<wc:body/face/details>|7::>
 <wcrandom:3::<wc:body/face/modifier>|7::> youthful round with a small pointed chin, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> trapezoidal face with a broad jaw and narrower forehead, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> oblong face with parallel sides and a rounded chin, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> pear-shaped face with a delicate forehead and full lower cheeks, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> broad midface with low, gently projecting cheekbones, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> narrow temples widening toward a sculpted lower jaw, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> compact facial proportions with a short forehead and rounded jaw, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> elongated diamond structure with high lateral cheek peaks, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> broad forehead balanced by a wide, softly curved chin, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> tapered lower face with gently concave cheek contours, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> sturdy facial structure with a deep chin and broad cheek plane, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> subtly asymmetric face with one cheekbone sitting higher, <wcrandom:3::<wc:body/face/details>|7::>
+<wcrandom:3::<wc:body/face/modifier>|7::> softly hexagonal face with balanced forehead, cheeks, and jaw, <wcrandom:3::<wc:body/face/details>|7::>

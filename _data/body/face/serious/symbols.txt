@@ -1,2 +1,14 @@
 notice lines
 anger vein
+focus lines
+target reticle
+level horizon line
+decision marker
+checklist icon
+measured ellipsis
+attention frame
+straight directional arrow
+balanced scales icon
+clock face
+command underline
+sharp light glint

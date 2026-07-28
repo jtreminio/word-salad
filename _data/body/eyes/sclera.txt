@@ -8,3 +8,15 @@ no sclera
 orange sclera
 red sclera
 yellow sclera
+white sclera
+violet sclera
+pink sclera
+gray sclera
+gold sclera
+metallic sclera
+translucent sclera
+star-speckled sclera
+veined sclera
+glowing sclera
+marbled sclera
+split-color sclera

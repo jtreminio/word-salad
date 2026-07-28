@@ -33,3 +33,15 @@ sunkissed
 tinted
 translucent
 velvet
+powder
+vinyl
+jelly
+foil
+glitter
+crackle
+smudged
+blurred
+transfer-proof
+plumping
+watercolor
+two-tone

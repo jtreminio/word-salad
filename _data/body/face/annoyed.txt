@@ -1,1 +1,13 @@
 annoyed, <wcrandom[1-3,]:<wc:body/face/annoyed/data>||<wc:body/face/annoyed/eyes>||<wc:body/face/annoyed/mouth>>
+interrupted once too often, <wc:body/face/annoyed/data>, <wc:body/face/annoyed/eyes>
+waiting on a needless delay, <wc:body/face/annoyed/mouth>, <wc:body/face/annoyed/symbols>
+enduring a repetitive complaint, <wc:body/face/annoyed/data>, <wc:body/face/annoyed/emote>
+unimpressed by a weak excuse, <wc:body/face/annoyed/eyes>, <wc:body/face/annoyed/mouth>
+trying not to roll the eyes, <wc:body/face/annoyed/eyes>, <wc:body/face/annoyed/symbols>
+losing patience in a queue, <wc:body/face/annoyed/data>, <wc:body/face/annoyed/mouth>
+reacting to an unwanted notification, <wc:body/face/annoyed/emote>, <wc:body/face/annoyed/symbols>
+tolerating needless noise, <wc:body/face/annoyed/data>, <wc:body/face/annoyed/eyes>
+stifling a sarcastic reply, <wc:body/face/annoyed/mouth>, <wc:body/face/annoyed/emote>
+watching someone repeat a mistake, <wc:body/face/annoyed/eyes>, <wc:body/face/annoyed/symbols>
+being talked over, <wc:body/face/annoyed/data>, <wc:body/face/annoyed/mouth>
+patience nearly exhausted, <wc:body/face/annoyed/data>, <wc:body/face/annoyed/eyes>, <wc:body/face/annoyed/mouth>, <wc:body/face/annoyed/symbols>

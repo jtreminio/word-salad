@@ -41,3 +41,15 @@ trendy
 violent
 vip quality
 wholesome
+elegant
+intimidating
+approachable
+mysterious
+awkward
+charismatic
+powerful
+vulnerable
+rebellious
+sophisticated
+playful
+ethereal

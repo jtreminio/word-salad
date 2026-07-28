@@ -1,1 +1,13 @@
 smug, <wcrandom[1-3,]:<wc:body/face/smug/data>||<wc:body/face/smug/eyes>||<wc:body/face/smug/mouth>>
+self-satisfied, <wcrandom[2-4,]:<wc:body/face/smug/data>||<wc:body/face/smug/eyes>||<wc:body/face/smug/mouth>||<wc:body/face/smug/symbols>>
+triumphant, <wcrandom[1-3,]:<wc:body/face/smug/data>||<wc:body/face/smug/eyes>||<wc:body/face/smug/mouth>>
+knowingly amused, <wcrandom[1-3,]:<wc:body/face/smug/eyes>||<wc:body/face/smug/mouth>||<wc:body/face/smug/symbols>>
+quietly superior, <wcrandom[2-4,]:<wc:body/face/smug/data>||<wc:body/face/smug/eyes>||<wc:body/face/smug/mouth>||<wc:body/face/smug/symbols>>
+cocky, <wcrandom[1-3,]:<wc:body/face/smug/data>||<wc:body/face/smug/eyes>||<wc:body/face/smug/mouth>>
+pleased with oneself, <wcrandom[1-3,]:<wc:body/face/smug/eyes>||<wc:body/face/smug/mouth>||<wc:body/face/smug/symbols>>
+secretly victorious, <wcrandom[2-4,]:<wc:body/face/smug/data>||<wc:body/face/smug/eyes>||<wc:body/face/smug/mouth>||<wc:body/face/smug/symbols>>
+condescending, <wcrandom[1-3,]:<wc:body/face/smug/data>||<wc:body/face/smug/eyes>||<wc:body/face/smug/mouth>>
+smirking knowingly, <wcrandom[1-3,]:<wc:body/face/smug/eyes>||<wc:body/face/smug/mouth>||<wc:body/face/smug/symbols>>
+barely concealing pride, <wcrandom[2-4,]:<wc:body/face/smug/data>||<wc:body/face/smug/eyes>||<wc:body/face/smug/mouth>||<wc:body/face/smug/symbols>>
+tauntingly confident, <wcrandom[1-3,]:<wc:body/face/smug/data>||<wc:body/face/smug/eyes>||<wc:body/face/smug/mouth>>
+insufferably pleased, <wcrandom[1-3,]:<wc:body/face/smug/eyes>||<wc:body/face/smug/mouth>||<wc:body/face/smug/symbols>>

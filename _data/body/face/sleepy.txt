@@ -1,1 +1,13 @@
 sleepy, <wcrandom[1-3,]:<wc:body/face/sleepy/data>||<wc:body/face/sleepy/eyes>||<wc:body/face/sleepy/mouth>>
+drowsy, <wcrandom[2-4,]:<wc:body/face/sleepy/data>||<wc:body/face/sleepy/eyes>||<wc:body/face/sleepy/mouth>||<wc:body/face/sleepy/symbols>>
+dozing off, <wcrandom[1-3,]:<wc:body/face/sleepy/eyes>||<wc:body/face/sleepy/mouth>||<wc:body/face/sleepy/symbols>>
+just awakened, <wcrandom[1-3,]:<wc:body/face/sleepy/data>||<wc:body/face/sleepy/eyes>||<wc:body/face/sleepy/mouth>>
+fighting sleep, <wcrandom[2-4,]:<wc:body/face/sleepy/data>||<wc:body/face/sleepy/eyes>||<wc:body/face/sleepy/mouth>||<wc:body/face/sleepy/symbols>>
+sleep-deprived, <wcrandom[1-3,]:<wc:body/face/sleepy/data>||<wc:body/face/sleepy/eyes>||<wc:body/face/sleepy/symbols>>
+yawning, <wcrandom[1-3,]:<wc:body/face/sleepy/eyes>||<wc:body/face/sleepy/mouth>||<wc:body/face/sleepy/symbols>>
+groggy, <wcrandom[2-4,]:<wc:body/face/sleepy/data>||<wc:body/face/sleepy/eyes>||<wc:body/face/sleepy/mouth>||<wc:body/face/sleepy/symbols>>
+nodding off, <wcrandom[1-3,]:<wc:body/face/sleepy/data>||<wc:body/face/sleepy/eyes>||<wc:body/face/sleepy/mouth>>
+heavy-lidded, <wcrandom[1-3,]:<wc:body/face/sleepy/eyes>||<wc:body/face/sleepy/mouth>||<wc:body/face/sleepy/symbols>>
+barely awake, <wcrandom[2-4,]:<wc:body/face/sleepy/data>||<wc:body/face/sleepy/eyes>||<wc:body/face/sleepy/mouth>||<wc:body/face/sleepy/symbols>>
+ready for bed, <wcrandom[1-3,]:<wc:body/face/sleepy/data>||<wc:body/face/sleepy/eyes>||<wc:body/face/sleepy/mouth>>
+sleepwalking, <wcrandom[1-3,]:<wc:body/face/sleepy/eyes>||<wc:body/face/sleepy/mouth>||<wc:body/face/sleepy/symbols>>

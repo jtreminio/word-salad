@@ -10,3 +10,15 @@ organs
 pill
 surgery
 syringe
+paramedic
+ambulance
+emergency room
+triage
+stretcher
+defibrillator
+oxygen mask
+medical brace
+physical therapy
+radiology
+cast \(medical\)
+trauma shears

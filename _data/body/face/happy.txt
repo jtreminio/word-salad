@@ -1,1 +1,13 @@
 happy, <wcrandom[1-3,]:<wc:body/face/happy/data>||<wc:body/face/happy/eyes>||<wc:body/face/happy/mouth>>
+reuniting with someone dearly missed, <wc:body/face/happy/data>, <wc:body/face/happy/eyes>
+opening a long-awaited piece of good news, <wc:body/face/happy/eyes>, <wc:body/face/happy/mouth>
+laughing freely at a friend's joke, <wc:body/face/happy/data>, <wc:body/face/happy/mouth>
+celebrating a hard-earned victory, <wc:body/face/happy/data>, <wc:body/face/happy/symbols>
+receiving an affectionate surprise, <wc:body/face/happy/eyes>, <wc:body/face/happy/mouth>
+relaxing into quiet contentment, <wc:body/face/happy/data>, <wc:body/face/happy/eyes>
+bouncing with excitement before an adventure, <wc:body/face/happy/data>, <wc:body/face/happy/symbols>
+beaming with pride at another person's success, <wc:body/face/happy/eyes>, <wc:body/face/happy/mouth>
+sharing a playful private joke, <wc:body/face/happy/data>, <wc:body/face/happy/eyes>, <wc:body/face/happy/mouth>
+crying tears of relief after danger passes, <wc:body/face/happy/eyes>, <wc:body/face/happy/symbols>
+singing along without self-consciousness, <wc:body/face/happy/data>, <wc:body/face/happy/mouth>, <wc:body/face/happy/symbols>
+radiating joy that brightens the whole room, <wc:body/face/happy/data>, <wc:body/face/happy/eyes>, <wc:body/face/happy/mouth>, <wc:body/face/happy/symbols>

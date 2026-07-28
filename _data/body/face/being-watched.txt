@@ -1,1 +1,13 @@
 being watched, <wcrandom[1-3,]:<wc:body/face/being-watched/data>||<wc:body/face/being-watched/eyes>||<wc:body/face/being-watched/mouth>>
+noticing a hidden observer, <wc:body/face/being-watched/eyes>, <wc:body/face/being-watched/symbols>
+freezing beneath a security camera, <wc:body/face/being-watched/data>, <wc:body/face/being-watched/emote>
+checking over one shoulder, <wc:body/face/being-watched/eyes>, <wc:body/face/being-watched/mouth>
+trying to behave naturally, <wc:body/face/being-watched/data>, <wc:body/face/being-watched/mouth>
+spotting movement in the shadows, <wc:body/face/being-watched/eyes>, <wc:body/face/being-watched/symbols>
+hiding from unwanted attention, <wc:body/face/being-watched/data>, <wc:body/face/being-watched/emote>
+searching a crowd for the watcher, <wc:body/face/being-watched/eyes>, <wc:body/face/being-watched/symbols>
+realizing the room has gone silent, <wc:body/face/being-watched/data>, <wc:body/face/being-watched/mouth>
+feeling exposed under a spotlight, <wc:body/face/being-watched/emote>, <wc:body/face/being-watched/symbols>
+hearing footsteps follow behind, <wc:body/face/being-watched/eyes>, <wc:body/face/being-watched/mouth>
+covering the face from view, <wc:body/face/being-watched/data>, <wc:body/face/being-watched/symbols>
+surrounded by unseen eyes, <wc:body/face/being-watched/data>, <wc:body/face/being-watched/eyes>, <wc:body/face/being-watched/mouth>, <wc:body/face/being-watched/symbols>

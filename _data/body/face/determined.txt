@@ -1,1 +1,13 @@
 determined, <wcrandom[1-3,]:<wc:body/face/determined/data>||<wc:body/face/determined/eyes>||<wc:body/face/determined/mouth>>
+setting sights on a distant goal, <wc:body/face/determined/data>, <wc:body/face/determined/eyes>
+rising after a painful setback, <wc:body/face/determined/mouth>, <wc:body/face/determined/symbols>
+bracing for one final attempt, <wc:body/face/determined/eyes>, <wc:body/face/determined/emote>
+holding ground against pressure, <wc:body/face/determined/data>, <wc:body/face/determined/mouth>
+finishing despite exhaustion, <wc:body/face/determined/eyes>, <wc:body/face/determined/symbols>
+committing to a difficult choice, <wc:body/face/determined/data>, <wc:body/face/determined/emote>
+steadying breath before action, <wc:body/face/determined/eyes>, <wc:body/face/determined/mouth>
+refusing an order to retreat, <wc:body/face/determined/data>, <wc:body/face/determined/symbols>
+tightening grip before the climb, <wc:body/face/determined/mouth>, <wc:body/face/determined/emote>
+walking willingly into danger, <wc:body/face/determined/eyes>, <wc:body/face/determined/symbols>
+ignoring every distraction, <wc:body/face/determined/data>, <wc:body/face/determined/mouth>
+resolve hardening at the decisive moment, <wc:body/face/determined/data>, <wc:body/face/determined/eyes>, <wc:body/face/determined/mouth>, <wc:body/face/determined/symbols>

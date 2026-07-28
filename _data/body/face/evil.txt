@@ -1,1 +1,13 @@
 evil, <wcrandom[1-3,]:<wc:body/face/evil/data>||<wc:body/face/evil/eyes>||<wc:body/face/evil/mouth>>
+quietly plotting a betrayal, <wc:body/face/evil/data>, <wc:body/face/evil/eyes>
+savoring an unexpected upper hand, <wc:body/face/evil/eyes>, <wc:body/face/evil/mouth>
+taunting a defeated opponent, <wc:body/face/evil/data>, <wc:body/face/evil/mouth>
+hiding malicious intent behind courtesy, <wc:body/face/evil/eyes>, <wc:body/face/evil/mouth>
+waiting for a hidden trap to spring, <wc:body/face/evil/data>, <wc:body/face/evil/symbols>
+watching carefully arranged chaos unfold, <wc:body/face/evil/eyes>, <wc:body/face/evil/symbols>
+delivering a softly spoken threat, <wc:body/face/evil/data>, <wc:body/face/evil/mouth>
+offering kindness meant to deceive, <wc:body/face/evil/eyes>, <wc:body/face/evil/mouth>
+gloating over a secret nobody else knows, <wc:body/face/evil/data>, <wc:body/face/evil/mouth>, <wc:body/face/evil/symbols>
+stalking an unsuspecting target, <wc:body/face/evil/data>, <wc:body/face/evil/eyes>
+deciding to show no mercy, <wc:body/face/evil/eyes>, <wc:body/face/evil/symbols>
+laughing as resistance collapses, <wc:body/face/evil/data>, <wc:body/face/evil/eyes>, <wc:body/face/evil/mouth>, <wc:body/face/evil/symbols>

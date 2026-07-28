@@ -8,3 +8,15 @@ purple
 red
 white
 yellow
+cyan
+teal
+turquoise
+magenta
+violet
+lavender
+gold
+silver
+metallic bronze
+translucent
+iridescent
+multicolored

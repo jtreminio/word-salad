@@ -1,1 +1,13 @@
 lonely, <wcrandom[1-3,]:<wc:body/face/lonely/data>||<wc:body/face/lonely/eyes>||<wc:body/face/lonely/mouth>>
+watching the room empty after everyone leaves, <wc:body/face/lonely/data>, <wc:body/face/lonely/eyes>
+eating alone amid crowded tables, <wc:body/face/lonely/eyes>, <wc:body/face/lonely/symbols>
+holding a message that never received a reply, <wc:body/face/lonely/data>, <wc:body/face/lonely/mouth>
+observing a close group from far away, <wc:body/face/lonely/eyes>, <wc:body/face/lonely/symbols>
+waking and reaching for someone absent, <wc:body/face/lonely/data>, <wc:body/face/lonely/eyes>
+returning to a silent home, <wc:body/face/lonely/data>, <wc:body/face/lonely/symbols>
+sitting beside an unused chair, <wc:body/face/lonely/eyes>, <wc:body/face/lonely/symbols>
+hearing a song once shared with someone, <wc:body/face/lonely/data>, <wc:body/face/lonely/mouth>
+hesitating over whether to call, <wc:body/face/lonely/eyes>, <wc:body/face/lonely/mouth>
+walking unnoticed through a busy city, <wc:body/face/lonely/data>, <wc:body/face/lonely/symbols>
+missing family during a celebration, <wc:body/face/lonely/data>, <wc:body/face/lonely/eyes>, <wc:body/face/lonely/mouth>
+accepting that nobody is coming, <wc:body/face/lonely/data>, <wc:body/face/lonely/eyes>, <wc:body/face/lonely/mouth>, <wc:body/face/lonely/symbols>

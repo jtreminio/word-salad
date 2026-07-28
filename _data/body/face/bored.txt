@@ -1,1 +1,13 @@
 bored, <wcrandom[1-3,]:<wc:body/face/bored/data>||<wc:body/face/bored/eyes>||<wc:body/face/bored/mouth>>
+waiting through a long delay, <wc:body/face/bored/data>, <wc:body/face/bored/eyes>
+trapped in a repetitive lecture, <wc:body/face/bored/mouth>, <wc:body/face/bored/emote>
+watching the clock crawl, <wc:body/face/bored/eyes>, <wc:body/face/bored/symbols>
+doodling instead of listening, <wc:body/face/bored/data>, <wc:body/face/bored/mouth>
+staring through a rainy window, <wc:body/face/bored/eyes>, <wc:body/face/bored/symbols>
+running out of ways to fidget, <wc:body/face/bored/data>, <wc:body/face/bored/emote>
+scrolling without interest, <wc:body/face/bored/eyes>, <wc:body/face/bored/mouth>
+yawning during a ceremony, <wc:body/face/bored/mouth>, <wc:body/face/bored/symbols>
+listening to a familiar story again, <wc:body/face/bored/data>, <wc:body/face/bored/eyes>
+counting objects in the room, <wc:body/face/bored/emote>, <wc:body/face/bored/symbols>
+waiting for inspiration, <wc:body/face/bored/eyes>, <wc:body/face/bored/mouth>
+mind completely elsewhere, <wc:body/face/bored/data>, <wc:body/face/bored/eyes>, <wc:body/face/bored/mouth>, <wc:body/face/bored/symbols>

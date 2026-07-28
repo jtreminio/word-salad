@@ -1,1 +1,13 @@
 <wcrandom[1-2,]:<wc:body/eyes/color> colored eyes||<wc:body/eyes/shape>>, <wcrandom:1::<wc:body/eyes/direction>|1::<wc:body/eyes/around>|8::>
+<wc:body/eyes/color> colored eyes, <wc:body/eyes/direction>
+<wc:body/eyes/shape>, <wc:body/eyes/around>
+<wc:body/eyes/count>, <wc:body/eyes/color-other> eyes
+<wc:body/eyes/structure>, <wc:body/eyes/pupil-shape>
+<wc:body/eyes/sclera>, <wc:body/eyes/pupil-color> pupils
+<wc:body/eyes/effects>, <wc:body/eyes/direction>
+<wc:body/eyes/modifier> <wc:body/eyes/color> eyes, <wc:body/eyes/shape>
+<wc:body/eyes/color> irises with <wc:body/eyes/pupil-shape>
+<wc:body/eyes/count>, <wc:body/eyes/structure>, <wc:body/eyes/around>
+<wc:body/eyes/color-other> irises, <wc:body/eyes/sclera>
+<wc:body/eyes/shape>, <wc:body/eyes/effects>, <wc:body/eyes/direction>
+<wc:body/eyes/modifier> <wc:body/eyes/color> eyes with <wc:body/eyes/pupil-color> <wc:body/eyes/pupil-shape>

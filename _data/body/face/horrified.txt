@@ -1,1 +1,13 @@
 horrified, <wcrandom[1-3,]:<wc:body/face/horrified/data>||<wc:body/face/horrified/eyes>||<wc:body/face/horrified/mouth>>
+recognizing something impossible in the darkness, <wc:body/face/horrified/data>, <wc:body/face/horrified/eyes>
+discovering the aftermath of a disaster, <wc:body/face/horrified/eyes>, <wc:body/face/horrified/mouth>
+watching a trusted person transform, <wc:body/face/horrified/data>, <wc:body/face/horrified/symbols>
+finding blood where nobody should be, <wc:body/face/horrified/eyes>, <wc:body/face/horrified/mouth>
+hearing a terrible truth confirmed, <wc:body/face/horrified/data>, <wc:body/face/horrified/mouth>
+recoiling from a grotesque discovery, <wc:body/face/horrified/data>, <wc:body/face/horrified/symbols>
+frozen while danger approaches someone helpless, <wc:body/face/horrified/eyes>, <wc:body/face/horrified/symbols>
+covering their mouth at an unforgivable act, <wc:body/face/horrified/mouth>, <wc:body/face/horrified/symbols>
+unable to look away from the unfolding nightmare, <wc:body/face/horrified/data>, <wc:body/face/horrified/eyes>
+staggering backward from a familiar corpse, <wc:body/face/horrified/data>, <wc:body/face/horrified/mouth>
+realizing they caused irreversible harm, <wc:body/face/horrified/eyes>, <wc:body/face/horrified/mouth>, <wc:body/face/horrified/symbols>
+struck speechless by an eldritch apparition, <wc:body/face/horrified/data>, <wc:body/face/horrified/eyes>, <wc:body/face/horrified/mouth>, <wc:body/face/horrified/symbols>

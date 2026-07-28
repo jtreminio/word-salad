@@ -29,3 +29,15 @@ sprain
 stab
 stitches
 track marks
+abrasion
+burn wound
+dislocated shoulder
+fractured arm
+split lip
+black eye
+puncture wound
+surgical scar
+healing scab
+swollen ankle
+concussion
+road rash

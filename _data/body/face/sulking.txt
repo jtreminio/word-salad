@@ -1,1 +1,13 @@
 sulking, <wcrandom[1-3,]:<wc:body/face/sulking/data>||<wc:body/face/sulking/eyes>||<wc:body/face/sulking/mouth>>
+brooding, <wcrandom[2-4,]:<wc:body/face/sulking/data>||<wc:body/face/sulking/eyes>||<wc:body/face/sulking/mouth>||<wc:body/face/sulking/symbols>>
+pouting in silence, <wcrandom[1-3,]:<wc:body/face/sulking/data>||<wc:body/face/sulking/eyes>||<wc:body/face/sulking/mouth>>
+resentful, <wcrandom[1-3,]:<wc:body/face/sulking/eyes>||<wc:body/face/sulking/mouth>||<wc:body/face/sulking/symbols>>
+withdrawn, <wcrandom[2-4,]:<wc:body/face/sulking/data>||<wc:body/face/sulking/eyes>||<wc:body/face/sulking/mouth>||<wc:body/face/sulking/symbols>>
+quietly offended, <wcrandom[1-3,]:<wc:body/face/sulking/data>||<wc:body/face/sulking/eyes>||<wc:body/face/sulking/mouth>>
+refusing to engage, <wcrandom[1-3,]:<wc:body/face/sulking/eyes>||<wc:body/face/sulking/mouth>||<wc:body/face/sulking/symbols>>
+nursing a grudge, <wcrandom[2-4,]:<wc:body/face/sulking/data>||<wc:body/face/sulking/eyes>||<wc:body/face/sulking/mouth>||<wc:body/face/sulking/symbols>>
+feeling slighted, <wcrandom[1-3,]:<wc:body/face/sulking/data>||<wc:body/face/sulking/eyes>||<wc:body/face/sulking/mouth>>
+stubbornly silent, <wcrandom[1-3,]:<wc:body/face/sulking/eyes>||<wc:body/face/sulking/mouth>||<wc:body/face/sulking/symbols>>
+petulant, <wcrandom[2-4,]:<wc:body/face/sulking/data>||<wc:body/face/sulking/eyes>||<wc:body/face/sulking/mouth>||<wc:body/face/sulking/symbols>>
+turning away in displeasure, <wcrandom[1-3,]:<wc:body/face/sulking/data>||<wc:body/face/sulking/eyes>||<wc:body/face/sulking/mouth>>
+morosely withdrawn, <wcrandom[1-3,]:<wc:body/face/sulking/eyes>||<wc:body/face/sulking/mouth>||<wc:body/face/sulking/symbols>>

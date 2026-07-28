@@ -1,1 +1,13 @@
 upset, <wcrandom[1-3,]:<wc:body/face/upset/data>||<wc:body/face/upset/eyes>||<wc:body/face/upset/mouth>>
+agitated, <wcrandom[2-4,]:<wc:body/face/upset/data>||<wc:body/face/upset/eyes>||<wc:body/face/upset/mouth>||<wc:body/face/upset/symbols>>
+emotionally rattled, <wcrandom[1-3,]:<wc:body/face/upset/data>||<wc:body/face/upset/eyes>||<wc:body/face/upset/mouth>>
+on the verge of tears, <wcrandom[1-3,]:<wc:body/face/upset/eyes>||<wc:body/face/upset/mouth>||<wc:body/face/upset/symbols>>
+hurt and angry, <wcrandom[2-4,]:<wc:body/face/upset/data>||<wc:body/face/upset/eyes>||<wc:body/face/upset/mouth>||<wc:body/face/upset/symbols>>
+deeply bothered, <wcrandom[1-3,]:<wc:body/face/upset/data>||<wc:body/face/upset/eyes>||<wc:body/face/upset/mouth>>
+visibly distressed, <wcrandom[1-3,]:<wc:body/face/upset/eyes>||<wc:body/face/upset/mouth>||<wc:body/face/upset/symbols>>
+losing composure, <wcrandom[2-4,]:<wc:body/face/upset/data>||<wc:body/face/upset/eyes>||<wc:body/face/upset/mouth>||<wc:body/face/upset/symbols>>
+trying not to snap, <wcrandom[1-3,]:<wc:body/face/upset/data>||<wc:body/face/upset/eyes>||<wc:body/face/upset/mouth>>
+stung by criticism, <wcrandom[1-3,]:<wc:body/face/upset/eyes>||<wc:body/face/upset/mouth>||<wc:body/face/upset/symbols>>
+seething quietly, <wcrandom[2-4,]:<wc:body/face/upset/data>||<wc:body/face/upset/eyes>||<wc:body/face/upset/mouth>||<wc:body/face/upset/symbols>>
+flustered with frustration, <wcrandom[1-3,]:<wc:body/face/upset/data>||<wc:body/face/upset/eyes>||<wc:body/face/upset/mouth>>
+emotionally wounded, <wcrandom[1-3,]:<wc:body/face/upset/eyes>||<wc:body/face/upset/mouth>||<wc:body/face/upset/symbols>>

@@ -1,1 +1,13 @@
 envy, <wcrandom[1-3,]:<wc:body/face/envy/data>||<wc:body/face/envy/eyes>||<wc:body/face/envy/mouth>>
+watching a rival receive the celebration, <wc:body/face/envy/data>, <wc:body/face/envy/eyes>
+forcing out congratulations after losing, <wc:body/face/envy/mouth>, <wc:body/face/envy/symbols>
+fixating on something they cannot possess, <wc:body/face/envy/data>, <wc:body/face/envy/eyes>
+comparing their flaws to another person's strengths, <wc:body/face/envy/data>, <wc:body/face/envy/mouth>
+being excluded while everyone else bonds, <wc:body/face/envy/eyes>, <wc:body/face/envy/symbols>
+watching their admirer notice somebody else, <wc:body/face/envy/data>, <wc:body/face/envy/eyes>, <wc:body/face/envy/mouth>
+pretending not to care about an extravagant gift, <wc:body/face/envy/mouth>, <wc:body/face/envy/symbols>
+keeping score of every advantage, <wc:body/face/envy/data>, <wc:body/face/envy/eyes>
+guarding their own prize possessively, <wc:body/face/envy/data>, <wc:body/face/envy/mouth>
+offering begrudging admiration to a competitor, <wc:body/face/envy/eyes>, <wc:body/face/envy/mouth>
+feeling overlooked beside a celebrated peer, <wc:body/face/envy/data>, <wc:body/face/envy/symbols>
+letting admiration curdle into jealousy, <wc:body/face/envy/data>, <wc:body/face/envy/eyes>, <wc:body/face/envy/mouth>, <wc:body/face/envy/symbols>

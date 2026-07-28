@@ -8,3 +8,15 @@ long tongue
 mustache
 nape
 tongue
+temples
+cheekbones
+jawline
+chin
+scalp
+brow ridge
+occiput
+philtrum
+cheeks
+ears
+facial profile
+hairline

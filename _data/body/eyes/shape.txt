@@ -10,3 +10,15 @@ monolid eyes with a smooth eyelid surface and minimal crease
 protruding eyes with forward-projecting eyeballs and visible eyelid curvature
 round eyes with soft, rounded outer corners
 wide-set eyes spaced further apart across the face
+close-set eyes with a narrow bridge between inner corners
+downturned eyes with outer corners sloping gently downward
+upturned eyes with lifted outer corners
+heavy-lidded eyes with low upper lids
+prominent eyes with broad visible sclera
+small eyes with compact openings and subtle lids
+large eyes with expansive irises and open lids
+asymmetrical eyes with visibly different aperture shapes
+triangular eyes with sharply tapered corners
+droplet-shaped eyes with fuller lower curves
+rectangular eyes with straight upper and lower contours
+sunken eyes framed by deep orbital shadows

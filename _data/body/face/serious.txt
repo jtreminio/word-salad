@@ -1,1 +1,13 @@
 serious, <wcrandom[1-3,]:<wc:body/face/serious/data>||<wc:body/face/serious/eyes>||<wc:body/face/serious/mouth>>
+delivering instructions before a dangerous mission, <wc:body/face/serious/data>, <wc:body/face/serious/eyes>
+studying evidence that changes the entire case, <wc:body/face/serious/eyes>, <wc:body/face/serious/symbols>
+negotiating terms where every word matters, <wc:body/face/serious/data>, <wc:body/face/serious/mouth>
+standing guard through a tense silence, <wc:body/face/serious/eyes>, <wc:body/face/serious/symbols>
+announcing a decision that cannot be reversed, <wc:body/face/serious/data>, <wc:body/face/serious/mouth>
+listening closely to a difficult confession, <wc:body/face/serious/eyes>, <wc:body/face/serious/mouth>
+mapping a strategy before the confrontation, <wc:body/face/serious/data>, <wc:body/face/serious/symbols>
+holding firm under an attempt at intimidation, <wc:body/face/serious/data>, <wc:body/face/serious/eyes>
+preparing to deliver an unwelcome verdict, <wc:body/face/serious/mouth>, <wc:body/face/serious/symbols>
+assessing a stranger for hidden danger, <wc:body/face/serious/eyes>, <wc:body/face/serious/symbols>
+making a solemn promise face to face, <wc:body/face/serious/data>, <wc:body/face/serious/mouth>
+taking command as the situation deteriorates, <wc:body/face/serious/data>, <wc:body/face/serious/eyes>, <wc:body/face/serious/mouth>, <wc:body/face/serious/symbols>

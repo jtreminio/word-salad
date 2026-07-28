@@ -1,1 +1,13 @@
 disgust, <wcrandom[1-3,]:<wc:body/face/disgust/data>||<wc:body/face/disgust/eyes>||<wc:body/face/disgust/mouth>>
+smelling rancid grease, <wc:body/face/disgust/data>, <wc:body/face/disgust/eyes>
+finding mold on a meal, <wc:body/face/disgust/mouth>, <wc:body/face/disgust/symbols>
+touching an unexpected slimy surface, <wc:body/face/disgust/eyes>, <wc:body/face/disgust/emote>
+discovering an insect in a drink, <wc:body/face/disgust/data>, <wc:body/face/disgust/mouth>
+opening a filthy container, <wc:body/face/disgust/eyes>, <wc:body/face/disgust/symbols>
+tasting bitter medicine, <wc:body/face/disgust/data>, <wc:body/face/disgust/emote>
+watching unsanitary behavior, <wc:body/face/disgust/eyes>, <wc:body/face/disgust/mouth>
+stepping in something sticky, <wc:body/face/disgust/data>, <wc:body/face/disgust/symbols>
+recoiling from spoiled fruit, <wc:body/face/disgust/mouth>, <wc:body/face/disgust/emote>
+wiping grime from the fingers, <wc:body/face/disgust/eyes>, <wc:body/face/disgust/symbols>
+entering a foul-smelling room, <wc:body/face/disgust/data>, <wc:body/face/disgust/mouth>
+overwhelmed by a revolting sight and smell, <wc:body/face/disgust/data>, <wc:body/face/disgust/eyes>, <wc:body/face/disgust/mouth>, <wc:body/face/disgust/symbols>

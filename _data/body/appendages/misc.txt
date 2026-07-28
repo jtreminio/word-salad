@@ -1,3 +1,15 @@
 doll joints
 robot joints
 tail
+articulated prosthetic limb
+branching antlers
+clockwork arm
+crystalline forearms
+finned elbows
+folded wings
+insectoid limbs
+metallic claws
+prehensile tentacles
+segmented tail
+spectral hands
+vine-covered arms

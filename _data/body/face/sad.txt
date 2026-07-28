@@ -1,1 +1,13 @@
 sad, <wcrandom[1-3,]:<wc:body/face/sad/data>||<wc:body/face/sad/eyes>||<wc:body/face/sad/mouth>>
+reading a final farewell, <wc:body/face/sad/data>, <wc:body/face/sad/eyes>
+packing away a loved one's belongings, <wc:body/face/sad/eyes>, <wc:body/face/sad/symbols>
+hearing that a cherished hope has failed, <wc:body/face/sad/data>, <wc:body/face/sad/mouth>
+trying to comfort someone while also grieving, <wc:body/face/sad/eyes>, <wc:body/face/sad/mouth>
+watching a friend walk away for good, <wc:body/face/sad/data>, <wc:body/face/sad/symbols>
+holding back tears during a public goodbye, <wc:body/face/sad/eyes>, <wc:body/face/sad/mouth>
+returning to a place filled with memories, <wc:body/face/sad/data>, <wc:body/face/sad/eyes>
+accepting the loss of a long-held dream, <wc:body/face/sad/mouth>, <wc:body/face/sad/symbols>
+crying quietly when nobody can see, <wc:body/face/sad/data>, <wc:body/face/sad/eyes>
+discovering they have deeply disappointed someone, <wc:body/face/sad/eyes>, <wc:body/face/sad/mouth>
+smiling faintly through tears at a memory, <wc:body/face/sad/data>, <wc:body/face/sad/symbols>
+finally letting suppressed grief surface, <wc:body/face/sad/data>, <wc:body/face/sad/eyes>, <wc:body/face/sad/mouth>, <wc:body/face/sad/symbols>
