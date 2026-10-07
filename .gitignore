@@ -1,1 +1,11 @@
-__pycache__
+__pycache__/
+*.py[cod]
+.venv/
+.word-salad/
+.DS_Store
+/_data/videos/face_decoration.txt
+/_data/videos/initial_face.txt
+/_data/styles/anime.txt
+/_data/style.txt
+/_overrides/prompts/photographers/*
+/_data/prompts/photographers/*

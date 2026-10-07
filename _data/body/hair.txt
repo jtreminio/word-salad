@@ -1,16 +1,16 @@
-$file:[_data/body/hair/very-short] hair style, <wcrandom:4::<wc:body/hair/color> hair color|6::>, <wcrandom:1::<wc:body/hair/misc>|9::>
-$file:[_data/body/hair/short] hair style, <wcrandom:4::<wc:body/hair/color> hair color|6::>, <wcrandom:1::<wc:body/hair/top-of-head>|9::>, <wcrandom:1::<wc:body/hair/front-of-head>|9::>, <wcrandom:1::<wc:body/hair/accessories>|9::>, <wcrandom:1::<wc:body/hair/misc>|9::>
-$file:[_data/body/hair/long] hair style, <wcrandom:4::<wc:body/hair/color> hair color|6::>, <wcrandom:1::<wc:body/hair/top-of-head>|9::>, <wcrandom:1::<wc:body/hair/front-of-head>|9::>, <wcrandom:1::<wc:body/hair/accessories>|9::>, <wcrandom:1::<wc:body/hair/misc>|9::>
-$file:[_data/body/hair/tall] hair style, <wcrandom:4::<wc:body/hair/color> hair color|6::>, <wcrandom:1::<wc:body/hair/top-of-head>|9::>, <wcrandom:1::<wc:body/hair/front-of-head>|9::>, <wcrandom:1::<wc:body/hair/accessories>|9::>, <wcrandom:1::<wc:body/hair/misc>|9::>
-$file:[_data/body/hair/long] formal gala hair style, <wc:body/hair/color> hair color, <wc:body/hair/top-of-head>, <wc:body/hair/accessories>
-$file:[_data/body/hair/short] rain-soaked hair style, <wc:body/hair/color> hair color, wet hair, hair clinging to face
-$file:[_data/body/hair/tall] avant-garde runway hair style, <wc:body/hair/color> hair color, <wc:body/hair/accessories>
-$file:[_data/body/hair/very-short] battle-worn hair style, <wc:body/hair/color> hair color, windswept hair, loose strands
-$file:[_data/body/hair/long] bridal hair style, <wc:body/hair/color> hair color, <wc:body/hair/top-of-head>, jeweled <wc:body/hair/accessories>
-$file:[_data/body/hair/short] retro salon hair style, <wc:body/hair/color> hair color, sculpted front wave, <wc:body/hair/accessories>
-$file:[_data/body/hair/long] underwater-floating hair style, <wc:body/hair/color> hair color, hair fanned weightlessly around head
-$file:[_data/body/hair/tall] ceremonial hair style, <wc:body/hair/color> hair color, <wc:body/hair/top-of-head>, ornate <wc:body/hair/accessories>
-$file:[_data/body/hair/very-short] athletic post-workout hair style, <wc:body/hair/color> hair color, sweat-dampened hair
-$file:[_data/body/hair/short] sleep-tousled hair style, <wc:body/hair/color> hair color, bedhead, uneven flyaways
-$file:[_data/body/hair/long] festival hair style, <wc:body/hair/color> hair color, <wc:body/hair/misc>, decorative <wc:body/hair/accessories>
-$file:[_data/body/hair/tall] windblown performance hair style, <wc:body/hair/color> hair color, dramatic flying strands
+<file:body/hair/very-short> hair style, <wcrandom:4::<wc:body/hair/color> hair color|6::>, <wcrandom:1::<wc:body/hair/misc>|9::>
+<file:body/hair/short> hair style, <wcrandom:4::<wc:body/hair/color> hair color|6::>, <wcrandom:1::<wc:body/hair/top-of-head>|9::>, <wcrandom:1::<wc:body/hair/front-of-head>|9::>, <wcrandom:1::<wc:body/hair/accessories>|9::>, <wcrandom:1::<wc:body/hair/misc>|9::>
+<file:body/hair/long> hair style, <wcrandom:4::<wc:body/hair/color> hair color|6::>, <wcrandom:1::<wc:body/hair/top-of-head>|9::>, <wcrandom:1::<wc:body/hair/front-of-head>|9::>, <wcrandom:1::<wc:body/hair/accessories>|9::>, <wcrandom:1::<wc:body/hair/misc>|9::>
+<file:body/hair/tall> hair style, <wcrandom:4::<wc:body/hair/color> hair color|6::>, <wcrandom:1::<wc:body/hair/top-of-head>|9::>, <wcrandom:1::<wc:body/hair/front-of-head>|9::>, <wcrandom:1::<wc:body/hair/accessories>|9::>, <wcrandom:1::<wc:body/hair/misc>|9::>
+<file:body/hair/long> formal gala hair style, <wc:body/hair/color> hair color, <wc:body/hair/top-of-head>, <wc:body/hair/accessories>
+<file:body/hair/short> rain-soaked hair style, <wc:body/hair/color> hair color, wet hair, hair clinging to face
+<file:body/hair/tall> avant-garde runway hair style, <wc:body/hair/color> hair color, <wc:body/hair/accessories>
+<file:body/hair/very-short> battle-worn hair style, <wc:body/hair/color> hair color, windswept hair, loose strands
+<file:body/hair/long> bridal hair style, <wc:body/hair/color> hair color, <wc:body/hair/top-of-head>, jeweled <wc:body/hair/accessories>
+<file:body/hair/short> retro salon hair style, <wc:body/hair/color> hair color, sculpted front wave, <wc:body/hair/accessories>
+<file:body/hair/long> underwater-floating hair style, <wc:body/hair/color> hair color, hair fanned weightlessly around head
+<file:body/hair/tall> ceremonial hair style, <wc:body/hair/color> hair color, <wc:body/hair/top-of-head>, ornate <wc:body/hair/accessories>
+<file:body/hair/very-short> athletic post-workout hair style, <wc:body/hair/color> hair color, sweat-dampened hair
+<file:body/hair/short> sleep-tousled hair style, <wc:body/hair/color> hair color, bedhead, uneven flyaways
+<file:body/hair/long> festival hair style, <wc:body/hair/color> hair color, <wc:body/hair/misc>, decorative <wc:body/hair/accessories>
+<file:body/hair/tall> windblown performance hair style, <wc:body/hair/color> hair color, dramatic flying strands

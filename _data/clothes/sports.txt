@@ -1,9 +1,9 @@
-$file:[_data/clothes/sports/aerial]
-$file:[_data/clothes/sports/climbing-jumping]
-$file:[_data/clothes/sports/trail-racing]
-$file:[_data/clothes/sports/volcano-boarding]
-$file:[_data/clothes/sports/wingsuit-flying]
-$file:[_data/clothes/sports/winter]
+<file:clothes/sports/aerial>
+<file:clothes/sports/climbing-jumping>
+<file:clothes/sports/trail-racing>
+<file:clothes/sports/volcano-boarding>
+<file:clothes/sports/wingsuit-flying>
+<file:clothes/sports/winter>
 archery chest guard, fitted shooting jacket and bracer
 cricket whites, cable-knit sleeveless jumper and leg pads
 equestrian show coat, fitted breeches and tall riding boots

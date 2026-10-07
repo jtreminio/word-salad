@@ -1,5 +1,5 @@
-$file:[_data/clothes/boots]
-$file:[_data/clothes/high-heels]
-$file:[_data/clothes/sandals]
-$file:[_data/clothes/shoes]
-$file:[_data/clothes/slippers]
+<file:clothes/boots>
+<file:clothes/high-heels>
+<file:clothes/sandals>
+<file:clothes/shoes>
+<file:clothes/slippers>

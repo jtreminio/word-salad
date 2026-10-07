@@ -1,5 +1,5 @@
-$file:[_data/clothes/crowns], <wcrandom[0-1]:<wc:clothes/hats-accessories>>
-$file:[_data/clothes/hair], <wcrandom[0-1]:<wc:clothes/hats-accessories>>
-$file:[_data/clothes/hats], <wcrandom[0-1]:<wc:clothes/hats-accessories>>
-$file:[_data/clothes/headwear], <wcrandom[0-1]:<wc:clothes/hats-accessories>>
-$file:[_data/clothes/helmets]
+<file:clothes/crowns>, <wcrandom[0-1]:<wc:clothes/hats-accessories>>
+<file:clothes/hair>, <wcrandom[0-1]:<wc:clothes/hats-accessories>>
+<file:clothes/hats>, <wcrandom[0-1]:<wc:clothes/hats-accessories>>
+<file:clothes/headwear>, <wcrandom[0-1]:<wc:clothes/hats-accessories>>
+<file:clothes/helmets>

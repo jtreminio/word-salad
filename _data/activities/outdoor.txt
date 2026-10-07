@@ -1,0 +1,4 @@
+<file:activities/outdoor/high-exertion>
+<file:activities/outdoor/medium-exertion>
+<file:activities/outdoor/low-exertion>
+<file:activities/outdoor/relaxing>

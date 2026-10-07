@@ -1,0 +1,17 @@
+<wc:characters/monster>
+<wc:characters/species>
+<wc:creatures/angel>
+<wc:creatures/celtic>
+<wc:creatures/chimera>
+<wc:creatures/cryptid>
+<wc:creatures/demon>
+<wc:creatures/dragon>
+<wc:creatures/egyptian>
+<wc:creatures/elemental>
+<wc:creatures/greek>
+<wc:creatures/legendary>
+<wc:creatures/misc>
+<wc:creatures/spirit>
+<wc:creatures/undead>
+<wc:creatures/urban-legend>
+<wc:creatures/youkai>

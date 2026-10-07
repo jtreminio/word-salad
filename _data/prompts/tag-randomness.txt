@@ -1,0 +1,3 @@
+<wcrandom[0-2,]:<wc:body/pose>||<wc:body/pose/misc>||<wc:activities/actions>>. \
+<wcrandom[0-2,]:blurred horizon||soft focus background||blurred foreground||foreshortening||extreme perspective>. \
+<wcrandom[0-2,]:<wc:image/angle>||<wc:image/composition>||<wc:image/framing>||<wc:image/techniques>||<wc:patterns/background>||<wc:patterns/patterns>||<wc:patterns/prints>||<wc:patterns/stripes>>.

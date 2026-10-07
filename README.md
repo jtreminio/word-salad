@@ -1,9 +1,38 @@
-# Hello, and welcome
+# Word-salad
 
-This is a repo for my SwarmUI wildcards. You can now gen like I do, without effort or thought.
+Word-salad is a collection of wildcards for AI image prompts: activities, characters, clothing, colors, lighting, styles, and more. Wildcards let your image tool pick from a list, giving you different results from the same prompt.
 
-Just download the latest wildcards file from the [releases](./releases/) directory. That is your wildcard data. Congrats, you are now a gooner.
+## Use it
 
-Several files have only "# WhatTheDuck datadump placeholder - do not edit". These are placeholders for very large files. Download the [Datadump.zip](./releases/Datadump.zip) file and extract it into a `Datadump` directory alongside your Wildcards directory. Then install the `WhatTheDuckExtension` within from SwarmUI, enable Datadump support.
+Requires Python 3.10 or newer.
 
-This is done because these are enormous files. SwarmUI scans each wildcard file line by line on bootup, or every time you refresh your wildcards directory. The WhatTheDuckExtension optimizes this process for, again, enormous files.
+1. Download or clone this repository and open a terminal in its folder.
+2. Generate the wildcard files:
+
+   ```bash
+   python3 main.py sync
+   ```
+
+3. Copy the contents of the generated `../Wildcards/` folder into your image tool's wildcard folder, keeping the subfolders.
+
+In SwarmUI, use a wildcard in your prompt like this:
+
+```text
+a person <wc:activities/outdoor>, <wc:lighting>
+```
+
+Each wildcard picks an entry from the matching file. For example, `<wc:activities/outdoor>` can become `hiking along a wooded trail` or `painting a watercolor landscape beside a pond`.
+
+If the first run asks you to adopt an existing Wildcards folder, run `python3 main.py adopt` once.
+
+## Make it yours
+
+Edit or add `.txt` files in `_data/`, with one choice per line. Run `python3 main.py sync` again to update the generated files.
+
+To update them automatically while you edit:
+
+```bash
+python3 main.py watch
+```
+
+Press Ctrl+C to stop. If you copied the wildcards into another app's folder, copy the updated files there too.

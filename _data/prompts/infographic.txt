@@ -1,0 +1,190 @@
+Anatomy of a Man Who Says “I’m Just Bad at Texting” — 78% phone in hand, 12% selective amnesia, 10% audacity.
+The Lifecycle of a Group Chat — Excitement → memes → scheduling attempt → silence → “we should totally do this again.”
+Where Your Salary Actually Goes — Rent, taxes, food, subscriptions you forgot existed, one stupid purchase that seemed reasonable at 1:14 a.m.
+The Male Aging Process — 22: “I’ll never own cargo shorts.” → 37: emotionally attached to one particular pair.
+Stages of Becoming Your Parents — Thermostat vigilance, container hoarding, unsolicited traffic reports, hatred of overhead lights.
+How Much of Your Personality Is Just Coping Mechanisms? — Pie chart with an alarmingly small “actual personality” slice.
+Reasons Your Coworker Scheduled a Meeting — Could’ve been Slack, wanted an audience, lonely, enjoys suffering.
+Corporate Translation Guide — “Interesting idea” = no. “Let’s revisit” = never. “Quick sync” = cancel your afternoon.
+The Modern Software Engineer’s Tech Stack — 15% code, 20% meetings, 30% Googling, 35% asking AI why yesterday’s code is broken.
+Bug Severity vs. Distance From Friday at 5 PM — Every issue becomes exponentially more “can wait until Monday.”
+The 7 Layers of Technical Debt — Each archaeological layer labeled with the engineer who said “temporary workaround.”
+Average Jira Ticket Evolution — Simple request → twelve comments → architectural debate → abandoned → recreated six months later.
+Where Developers Spend Their Debugging Time — 5% fixing bug, 95% proving it’s not their service.
+How Senior Engineers Solve Problems — Junior: writes code. Senior: deletes code. Staff: schedules meeting about whether code should exist.
+Git Commit Message Honesty Scale — “Refactor authentication subsystem” → “please work” → “fuck” → “actually fuck.”
+The Microservice Food Chain — Tiny services eating other tiny services until nobody knows where customer names come from.
+Reasons Production Is Down — DNS, certificates, permissions, DNS again, someone definitely touched something.
+Expected vs. Actual “Quick Fix” — 4-line patch versus 37 files, three migrations, and discovering a system nobody owns.
+AI Coding Agent Emotional Support Chart — “Great point!” directly correlated with how catastrophically wrong the previous answer was.
+Documentation Freshness Scale — Current → suspicious → historical fiction → active misinformation.
+The Meeting Participant Alignment Matrix — Knows problem / can solve problem / invited to meeting. Naturally, three separate groups.
+How People Choose Restaurants — 45 minutes comparing options → everybody orders from the same place as last time.
+Dating App Archaeology — Gym photo era, travel photo era, holding-a-fish stratum, “fluent in sarcasm” extinction layer.
+The “I’m Five Minutes Away” Distance Scale — Shoes not on → leaving house → actually five minutes away.
+Household Object Ownership After Marriage — “Mine,” “yours,” and the enormous category called “apparently I was using it wrong.”
+Arguments Ranked by Pointlessness — Thermostat, dishwasher loading, directions, whether someone sounded annoyed when saying “okay.”
+How Guests Judge Your House — You imagine: furniture, decor, cleanliness. Reality: Wi-Fi password and whether the bathroom has hand soap.
+Stages of Hosting a Party — Ambition → expensive groceries → frantic cleaning → nobody notices → eating leftover dip for four days.
+The IKEA Confidence Curve — “We don’t need the instructions” plotted immediately before catastrophic decline.
+How Your Dog Sees the Household Hierarchy — Dog → person who feeds dog → mysterious outsiders → you.
+Cat Employee Performance Review — Attendance: poor. Teamwork: hostile. Productivity: zero. Confidence: exceptional.
+Evolution of a Hobby — Curious → beginner kit → $700 equipment → subreddit arguments → somehow now giving unsolicited advice.
+Coffee Dependency Classification System — Enjoys coffee → needs coffee → personality structured around coffee → owns scale accurate to 0.1g.
+Fitness Influencer Nutrition Pyramid — Protein powder sitting on top of smaller protein powders.
+The Average Person’s “Research” Process — Reads headline → confirms existing opinion → stops immediately.
+Confidence vs. Competence — The classic two-line graph, except the confidence line launches vertically after watching one YouTube video.
+How People Describe Their Intelligence — Smart people: “I’m not sure.” Idiots: 14-part podcast.
+Internet Argument Victory Conditions — Nobody changes opinion; one person gets tired; both privately believe they won.
+Generational Complaints Through History — Every generation independently discovers that the next generation is lazy and civilization is ending.
+The Four Horsemen of Getting Older — Lower-back pain, weird sleep injuries, excitement about appliances, saying “that’s too loud.”
+Hangover Recovery Time by Age — 21: breakfast. 30: afternoon. 40: constitutional crisis.
+How Adults Make Friends — Work → one shared complaint → repeated accidental proximity → “I guess this is my friend now.”
+Probability Someone Understands Wine vs. Vocabulary Used to Describe It — Inverse relationship.
+The Charcuterie Board Scam — Cheese and crackers arranged geometrically until they cost $38.
+Fancy Restaurant Plate Composition — 4% food, 16% sauce dots, 80% available porcelain.
+Price of a Product After Adding the Word “Artisanal” — Straight vertical line.
+Airport Personality Types — Arrives three hours early, arrives during boarding, blocks moving walkway, immediately removes shoes for no reason.
+The Boarding Group Social Hierarchy — Seven groups of people all standing up before their group is called.
+Vacation Planning Labor Distribution — One person researches everything; everyone else says “I’m good with whatever.”
+Tourist Confidence vs. Distance From Hotel — Declines rapidly after the third identical-looking European alley.
+Car Owner Personality by Dashboard Warning Light Response — Immediate mechanic → Google it → “probably sensor” → black electrical tape.
+Stages of Buying a New Gadget — Need → research → obsession → purchase → defending purchase online.
+Smart Home Complexity Curve — Every device made “smarter” requires three additional devices to make it function like a light switch.
+Streaming Subscription Ecosystem — Diagram showing you recreated cable, except now there are eleven passwords.
+Where Your Phone Storage Went — 8% apps, 11% photos, 81% screenshots you were definitely going to look at later.
+The Notification Importance Pyramid — Emergency alerts at bottom; “someone liked a comment you forgot you made” at top.
+Online Shopping Decision Tree — Need item? → Read 400 reviews → distrust all reviews → buy one with nicest photos.
+Amazon Review Reliability Scale — “Works.” → believable. Five paragraphs describing seller’s spiritual kindness → suspicious.
+The Influencer Apology Template — 10% apology, 35% explaining, 40% victimhood, 15% notes-app typography.
+Celebrity “Relatable” Scale — Starts breaking down around “I also hate when the private jet Wi-Fi is slow.”
+The Natural History of a Trend — Weird kids → cool kids → brands → your boss → death.
+How Long Until Slang Becomes Unusable — Teenagers → adults → brands → government agency Twitter account.
+Stages of Discovering a New Band — “This is incredible” → entire discography → gatekeeping → upset they became popular.
+Movie Runtime Inflation — Apparently every story now requires 2h 47m and six endings.
+Prestige TV Character Development — Sad childhood + alcohol + staring through windows = Emmy.
+True-Crime Documentary Equation — 40 minutes of story stretched across six episodes using drone footage of trees.
+Fantasy Novel Map Accuracy — Extremely detailed coastline; absolutely no idea how economics works.
+Sci-Fi Technology Naming Guide — Add “quantum,” “neural,” or “phase” until nobody asks follow-up questions.
+Monster Threat Assessment — Teeth: horrifying. Claws: lethal. Ability to defeat stairs: unknown.
+Dragon Economic Impact Report — Local agriculture devastated; adventurer employment at record highs.
+Field Guide to Office Creatures — Reply-All Goblin, Meeting Hydra, Scope-Creep Mimic, Senior Architect Who Has Seen Things.
+Taxonomy of Gym Creatures — Tripod Influencer, Bench Occupier, Curl-Rack Squatter, Elderly Man Somehow Lifting Twice Your Max.
+Suburban Wildlife Identification Guide — HOA President, Leaf Blower Male, Garage Fridge Dad, Amazon Package Scavenger.
+Common Urban Parasites — Ticketmaster fees, convenience fees, resort fees, “service” fees, landlord application fees.
+Anatomy of a $19 Cocktail — 1.5 oz liquor, giant ice cube, rosemary branch, confidence.
+Anatomy of a $7 Cupcake — Cupcake: $1. Frosting architecture: $1. Instagrammability: $5.
+Museum Visitor Migration Patterns — Entrance → famous painting → gift shop → exhausted bench.
+Historical Figure LinkedIn Profiles — Napoleon: “Founder | Strategist | Disruptor | Exiled Twice.”
+Medieval Peasant vs. Modern Office Worker — Peasant knows why he is tired.
+Ancient Roman vs. Modern Influencer — Both obsessed with public baths, gossip, sponsorships, and being seen.
+Human Civilization Progress Chart — Fire → agriculture → writing → electricity → putting advertisements on refrigerator screens.
+Taxonomy of the Reply-All Goblin — morphology, habitat, feeding behavior, and known predators.
+Anatomy of the Office Meeting Parasite — oversized calendar gland, vestigial productivity organs, highly developed “circle back” sac.
+Lifecycle of the Jira Ticket — Egg → Backlog → In Progress → Blocked → Forgotten → Reopened 14 months later.
+Courtship Display of the Gym Influencer — tripod placement, mirror positioning, territorial behavior, ritualized flexing.
+Suburban Dad Migration Patterns — seasonal movement between garage, grill, hardware store, and thermostat.
+The HOA President: Territorial Range & Aggression — patrol routes, preferred nesting sites, documented reactions to unauthorized mulch.
+Anatomy of a Tech Bro — vestigial sleeves, enlarged podcast lobe, Patagonia exoskeleton, equity-storage organ.
+Natural History of the Startup Founder — larval engineer → hoodie stage → seed-funded plumage → LinkedIn thought leader.
+Evolutionary Tree of Corporate Job Titles — Manager → Senior Manager → Director → Senior Director → VP → organism composed entirely of meetings.
+Field Identification Guide to Software Engineers — Frontend, Backend, DevOps, Staff Engineer, Ancient Maintainer.
+The Senior Engineer Defensive Display — crossed arms, prolonged silence, followed by “Why do we need this?”
+Bug Severity by Time of Discovery — harmless Monday insect becomes apex predator at 4:57 p.m. Friday.
+Ecology of the Production Incident — dependency collapse illustrated as a food web.
+Anatomy of Technical Debt — successive sedimentary layers labeled “temporary,” “Q3 cleanup,” and “DO NOT TOUCH.”
+Predator–Prey Relationship: Developer vs. Product Manager — natural population oscillations driven by scope.
+The Wild Microservice — complex organ system requiring seventeen other organisms to remain alive.
+Distributed System Mating Ritual — two services repeatedly exchanging messages until one stops responding.
+Known Causes of Software Extinction — acquisition, rewrite, abandoned maintainer, JavaScript framework update.
+Git Branch Phylogenetic Tree — one healthy trunk degenerating into hundreds of malformed evolutionary dead ends.
+The Documentation Decay Curve — accuracy over time, reaching “actively dangerous” surprisingly quickly.
+Taxonomy of Stack Overflow Answers — Correct, Obsolete, Unrelated, Condescending, Accepted-but-Wrong.
+Natural Habitat of the Staff Engineer — usually observed near whiteboards; rarely seen committing code.
+The AI Coding Agent Confidence Organ — enormous, brightly colored, and only loosely connected to factual accuracy.
+Anatomy of an LLM Hallucination — confidence cortex disproportionately larger than evidence gland.
+Prompt Engineer Breeding Plumage — elaborate vocabulary used to attract increasingly indifferent models.
+Evolution of an AI Startup Pitch — chatbot → copilot → agent → agentic platform → “operating system.”
+Field Guide to LinkedIn Fauna — Thought Leader, Humblebragger, Layoff Philosopher, AI Prophet, Comment-Sectarian.
+LinkedIn Mating Call Spectrogram — “I’m humbled to announce…” analyzed as an elaborate dominance signal.
+Anatomy of the Influencer Apology — tear ducts, ring-light reflection, accountability-resistant epidermis.
+Influencer Migration Routes — Bali → Dubai → Tulum → podcast studio.
+Evolution of the Podcast Male — normal human → microphone owner → civilization explainer.
+Taxonomy of Internet Experts — Read Headline, Watched Video, Owns Microphone, Has Newsletter.
+Dunning–Kruger Wildlife Survey — confidence peaks immediately after first exposure to habitat.
+The Internet Argument Threat Display — source demanding, goalpost migration, screenshot deployment, eventual blocking.
+Lifecycle of an Online Controversy — Discovery → Outrage → Expert Infestation → Brand Participation → Complete Amnesia.
+Anatomy of a Reddit Moderator — hypertrophied rulebook organ and unusually sensitive jurisdiction receptors.
+Behavioral Study of the “Well, Actually” Male — interrupts primarily when correction changes nothing.
+Social-Media Outrage Food Chain — obscure post → aggregator → influencer → journalist → your aunt.
+Meme Evolution Under Selective Pressure — clever joke steadily mutates until used by a corporate account.
+Stages of Slang Extinction — teenagers → millennials → advertisers → police department social-media account.
+The Human Smartphone Symbiosis — host supplies electricity; parasite supplies anxiety.
+Anatomy of a Push Notification — 3% useful information, 97% evolved attention-hook structures.
+Phone Storage Ecosystem — screenshots form an enormous unmanaged landfill biome.
+Streaming-Service Speciation — one ancestral Netflix population diverges into 37 incompatible subscription species.
+The Smart Home Dependency Web — light bulb cannot reproduce without Wi-Fi, cloud account, app, firmware, hub, and prayer.
+Evolution of the Modern Automobile Dashboard — useful gauges gradually displaced by touchscreen climate menus.
+Anatomy of a Luxury Product — ordinary object surrounded by enlarged branding tissue.
+Price Inflation Following the Introduction of “Artisanal” — experimentally verified vertical line.
+Charcuterie Board Anatomy — crackers and cheese exhibiting remarkable price amplification when spatially separated.
+Anatomy of a $19 Cocktail — tiny ethanol core surrounded by ice, garnish, and enormous margin tissue.
+Restaurant Plate Biomass Distribution — edible matter occupies less territory as Michelin stars increase.
+Coffee Snob Metamorphosis — consumer → grinder owner → scale user → water-mineralization researcher.
+Natural History of the Hobbyist — innocent curiosity becomes specialized equipment, subreddit membership, and financial ruin.
+Male Hobby Escalation Curve — “I might try coffee” terminates six months later in laboratory-grade water chemistry.
+Homeowner Tool Evolution — screwdriver → drill → impact driver → table saw → detached workshop.
+Grill Dad Territorial Display — tongs clicked twice before approaching prey.
+Anatomy of the Thermostat Dad — hyper-sensitive temperature receptors capable of detecting a one-degree deviation from another room.
+Behavioral Ecology of the Dishwasher Argument — competing loading strategies maintained despite zero measurable survival advantage.
+Marriage Resource Allocation Diagram — “Mine,” “Yours,” and enormous disputed territory marked “Why Would You Put It There?”
+Domestic Pillow Speciation — sleeping pillow, decorative pillow, forbidden pillow, pillow whose function remains unknown.
+The Laundry Chair Ecosystem — garments transition through clean, probably clean, questionable, and geological strata.
+Natural History of the Junk Drawer — closed ecosystem containing batteries, keys to extinct locks, and cables from vanished civilizations.
+Fridge Leftover Carbon Dating Guide — increasingly sophisticated dating techniques required beyond Day 5.
+Stages of Human Aging — nightclubs → brunch → hardware stores → unsolicited opinions about lawn equipment.
+Age vs. Injury Mechanism — sports injury steadily replaced by “slept slightly wrong.”
+Hangover Recovery Half-Life by Age — plotted like radioactive decay, except worse.
+The Elder Millennial Skeletal System — normal anatomy with highlighted lower back, knee, and mysterious shoulder region.
+Courtship Signals of the Dating-App Male — fish photograph, sunglasses, group photo ambiguity, unexplained tiger.
+Dating-App Female Defense Mechanisms — group-photo camouflage and strategic height-filtering.
+Anatomy of “I’m Bad at Texting” — perfectly functional thumbs connected to highly selective response circuitry.
+The Situationship Lifecycle — attraction → ambiguity → increasingly specialized vocabulary → extinction without formal declaration.
+Friendship Formation in Adult Humans — repeated accidental proximity eventually produces one coffee invitation.
+Group Chat Population Collapse — 14 active organisms reduced to three people sending reaction images.
+Group Vacation Decision Dynamics — one dominant planner surrounded by seven “whatever works for me” organisms.
+Airport Herding Behavior — passengers cluster around gate before their boarding group exists.
+Airport Security Molting Behavior — shoes, belt, laptop, dignity removed sequentially.
+Tourist Navigation Confidence — inverse correlation with number of identical cobblestone alleys encountered.
+The American Tourist Defensive Adaptation — increases vocal volume when local language fails.
+Natural History of the Rental Car — receives more abuse during seven days than privately owned specimen receives in seven years.
+Car Dashboard Warning-Light Response Types — Mechanic Caller, Googler, Denialist, Electrical-Tape Apex Predator.
+Museum Visitor Migration Pattern — entrance → famous artifact → bench → café → gift shop.
+Natural Selection Among Historical Empires — elaborate chart ending with “eventually somebody invents better artillery.”
+Medieval Peasant vs. Office Worker Comparative Anatomy — one suffers from agricultural labor; the other from Microsoft Teams.
+Historical Human Productivity Study — technological progress plotted against increasing ability to attend meetings about productivity.
+Evolution of Human Communication — cave painting → writing → printing press → telecommunications → “k”.
+Civilization’s Technological Progress — fire → wheel → electricity → internet → refrigerator requiring firmware updates.
+Scientific Classification of Fantasy Adventurers — Fighter, Wizard, Rogue, Bard, Person Who Definitely Causes the Quest to Go Wrong.
+Dragon Territorial Ecology — inexplicably chooses habitat containing enormous quantities of portable currency.
+Dragon Energy-Budget Analysis — caloric requirements raise serious questions about surrounding medieval livestock population.
+Dungeon Ecosystem — skeletons apparently survive indefinitely despite complete absence of primary producers.
+Monster Threat Assessment Chart — claws, teeth, venom, camouflage, and critically: ability to open doors.
+Vampire Ecological Niche — apex predator rendered surprisingly ineffective by curtains and basic scheduling.
+Werewolf Monthly Activity Cycle — one extremely problematic day surrounded by 29 days of suspicious normality.
+Zombie Energy Metabolism — scientifically impossible; nevertheless annoyingly persistent.
+Alien Invasion Vulnerability Analysis — interstellar civilization defeated by water, bacteria, or one unusually determined American.
+Kaiju Caloric Requirements — local ecosystem mathematically incapable of supporting specimen; researcher increasingly irritated in margin notes.
+Giant Monster Structural Analysis — square-cube law annotated simply: “No.”
+Winged Humanoid Aerodynamics — enormous technical diagram concluding wings would need to be approximately the size of a small house.
+Centaur Anatomy: Unresolved Questions — two rib cages? four lungs? where does breakfast go?
+Mermaid Respiratory Anatomy — field researcher increasingly hostile about inconsistent gill placement.
+Fantasy Armor Protection Map — maximum steel coverage concentrated everywhere except vital organs.
+Female Fantasy Armor Evolution — armor steadily decreases as enemy damage increases.
+Wizard Hat Functional Anatomy — 97% structurally unnecessary.
+Adventurer Backpack Carrying Capacity — contains 14 swords, 62 potions, three suits of armor, and 800 wheels of cheese.
+NPC Behavioral Range Study — repeats same sentence indefinitely despite nearby dragon attack.
+Video-Game Wildlife Ecology — predators remain within exactly 20 meters of designated spawn point.
+Boss Monster Anatomical Weak Point — enormous luminous pustule apparently retained despite millions of years of evolution.
+Explosive Barrel Mimicry Across Ecosystems — red coloration consistently correlated with catastrophic combustibility.
+Field Researcher Fatality Index — graph showing direct relationship between handwritten notes becoming frantic and proximity to specimen.
