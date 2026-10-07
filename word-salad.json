@@ -41,7 +41,11 @@
     "prompts/midjourney-prompts.txt",
     "prompts/moescape.txt",
     "prompts/photography.txt",
-    "styles/art.txt"
+    "styles/art.txt",
+    "styles/2000s-preppy.txt",
+    "styles/gothic-pastel.txt",
+    "styles/gothic.txt",
+    "styles/misc.txt"
   ],
   "external_references": []
 }

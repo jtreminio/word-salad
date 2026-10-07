@@ -9,3 +9,4 @@ __pycache__/
 /_data/style.txt
 /_overrides/prompts/photographers/*
 /_data/prompts/photographers/*
+/_data/prompts/video-graphic.txt
